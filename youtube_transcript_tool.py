@@ -18,8 +18,11 @@ from openai import OpenAI
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-# 設定管理
+# Setting management
 from config_manager import ConfigManager, PromptBuilder
+
+# YouTube Transcript API
+from youtube_transcript_api import YouTubeTranscriptApi
 
 def load_api_keys():
     """
@@ -173,7 +176,7 @@ class YouTubeTranscriptToolOpenRouter:
 
     def get_transcript(self, video_id: str) -> List[Dict]:
         """
-        YouTube動画の文字起こしを取得（単一クリーン実装）
+        YouTube動画の文字起こしを取得
 
         Args:
             video_id: YouTube動画ID
@@ -182,67 +185,46 @@ class YouTubeTranscriptToolOpenRouter:
             文字起こしデータのリスト
         """
         try:
-            from youtube_transcript_api import YouTubeTranscriptApi
-
-            print("字幕を取得中...")
-
-            # YouTubeTranscriptApiのインスタンスを作成
-            ytt_api = YouTubeTranscriptApi()
+            print(f"字幕を取得中 (ID: {video_id})...")
 
             # 優先順位付き言語リスト
             languages = ['ja', 'en', 'en-US', 'en-GB']
 
-            # 字幕を検索
+            # 字幕を取得（優先言語で見つからない場合は自動生成などをフォールバック）
+            ytt_api = YouTubeTranscriptApi()
             transcript_list = ytt_api.list(video_id)
-
-            # 手動字幕を優先
-            transcript_obj = None
+            
             try:
+                # 手動字幕を優先
                 transcript_obj = transcript_list.find_manually_created_transcript(languages)
                 print(f"  手動字幕が見つかりました: {transcript_obj.language}")
-            except Exception:
-                # 手動字幕がなければ自動字幕を使用
+            except:
                 try:
+                    # なければ自動生成字幕
                     transcript_obj = transcript_list.find_generated_transcript(languages)
                     print(f"  自動字幕が見つかりました: {transcript_obj.language}")
-                except Exception:
-                    # それでもなければ最初の字幕を使用
-                    try:
-                        transcript_obj = next(iter(transcript_list))
-                        print(f"  最初の字幕を使用します: {transcript_obj.language}")
-                    except StopIteration:
-                        raise ValueError("この動画には利用可能な字幕がありません")
+                except:
+                    # それでもなければ利用可能な最初の字幕
+                    transcript_obj = next(iter(transcript_list))
+                    print(f"  利用可能な最初の字幕を使用します: {transcript_obj.language}")
 
-            # 字幕を取得
             transcript = transcript_obj.fetch()
 
             # 結果を整形
             formatted_transcript = []
+            for entry in transcript:
+                # FetchedTranscriptSnippet オブジェクトを処理
+                formatted_transcript.append({
+                    'start': entry.start,
+                    'duration': entry.duration,
+                    'text': entry.text.strip()
+                })
 
-            # 新しいAPIではtranscriptがFetchedTranscriptオブジェクト
-            if hasattr(transcript, 'snippets'):
-                # 新しいAPI (v1.2.3+)
-                for snippet in transcript.snippets:
-                    formatted_transcript.append({
-                        'start': snippet.start,
-                        'duration': snippet.duration,
-                        'text': snippet.text.strip()
-                    })
-            else:
-                # 旧APIのフォールバック
-                for entry in transcript:
-                    formatted_transcript.append({
-                        'start': entry['start'],
-                        'duration': entry.get('duration', 0),
-                        'text': entry['text'].strip()
-                    })
-
-            print(f"文字起こし完了: {len(formatted_transcript)}行")
+            print(f"  文字起こし完了: {len(formatted_transcript)}行")
             return formatted_transcript
 
         except Exception as e:
             print(f"文字起こしの取得に失敗しました: {e}")
-            # 失敗したら諦める - IP BAN回避のため
             return []
 
     def format_timestamp(self, seconds: float) -> str:
