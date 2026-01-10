@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Custom theme */
+@theme {
+  --font-sans: 'Inter', 'Noto Sans JP', system-ui, sans-serif;
+}

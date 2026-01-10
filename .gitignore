@@ -1,0 +1,28 @@
+# API Keys (DO NOT COMMIT)
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Data files (optional - may want to commit summaries)
+data/transcripts/
+
+# Next.js
+.next/
+out/
+node_modules/
+.vercel
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
