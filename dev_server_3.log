@@ -33,3 +33,13 @@
  GET /article/sxXhgqBgsTY/ 200 in 106ms
  GET /article/KLfVE8rU8ns/ 200 in 104ms
  GET /article/KLfVE8rU8ns/ 200 in 168ms
+ ✓ Compiled in 3.2s (239 modules)
+ ✓ Compiled in 312ms (239 modules)
+ ✓ Compiled in 630ms (239 modules)
+ ✓ Compiled in 448ms (239 modules)
+ ✓ Compiled in 440ms (239 modules)
+ ✓ Compiled in 250ms (239 modules)
+ ✓ Compiled in 202ms (239 modules)
+ ✓ Compiled in 159ms (239 modules)
+ ✓ Compiled in 372ms (239 modules)
+ ✓ Compiled in 820ms (239 modules)

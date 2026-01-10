@@ -1,149 +1,157 @@
-# YouTube Summarizer
+# YouTube Summarizer (Personal)
 
-YouTubeの長い動画を要約し、ブログ形式で読みやすいサイトにまとめる個人用ツールです。
+長いYouTube動画を読みやすいブログ形式に要約するツールです。
 
-## 📁 プロジェクト構成
+## 🌟 特徴
 
-```
-summarizer_personal/
-├── config/channels.csv           # 監視チャンネルリスト
-├── data/
-│   ├── transcripts/              # 文字起こしJSON
-│   ├── summaries/                # 要約Markdown
-│   └── state.json                # 処理済み動画管理
-├── scripts/
-│   ├── fetch_new_videos.py       # 新着動画取得
-│   ├── process_video.py          # 単一動画処理
-│   └── batch_process.py          # バッチ処理
-├── src/                          # Next.js フロントエンド
-└── out/                          # 静的ビルド出力
-```
+- **RSS自動検出**: YouTube RSSフィードで新着動画を自動検出（API quota節約）
+- **Gemini API**: Google AI Studio の無料枠で要約生成（コスト削減）
+- **自動デプロイ**: Cron → Git Push → Cloudflare Pages で完全自動化
+- **埋め込み動画**: 記事ページで直接YouTube視聴可能
+- **文字起こしコピー**: タイムスタンプ付き全文を1クリックでコピー
 
-## 🛠️ セットアップ
+## � セットアップ
 
 ### 1. 依存関係のインストール
 
 ```bash
 # Python依存関係
-pip install google-api-python-client youtube-transcript-api openai python-dotenv
+pip install -r requirements.txt
 
-# Node.js依存関係
+# Node.js依存関係（フロントエンド）
 npm install
 ```
 
-### 2. APIキーの設定
+### 2. API キーの設定
 
-`.env` ファイルをプロジェクトルートに作成:
+`.env` ファイルを作成:
 
 ```bash
-YOUTUBE_API_KEY=your_youtube_api_key_here
-OPENROUTER_API_KEY=your_openrouter_api_key_here
+cp .env.example .env
 ```
 
-### 3. チャンネルの登録
+以下のAPIキーを設定:
+
+```
+YOUTUBE_API_KEY=your_youtube_api_key
+GOOGLE_AI_API_KEY=your_google_ai_studio_api_key
+```
+
+- **YouTube API**: [Google Cloud Console](https://console.cloud.google.com/) で取得
+- **Google AI API**: [Google AI Studio](https://aistudio.google.com/apikey) で取得（無料）
+
+### 3. チャンネル登録
 
 `config/channels.csv` にチャンネルを追加:
 
 ```csv
 channel_id,channel_name,notes
-UCxxxxxxxxxxxxxxxxxxxxxx,チャンネル名,メモ
+UCxxxxxx,チャンネル名,メモ（任意）
 ```
 
 ## 🚀 使い方
 
-### 単一動画を処理
+### 手動で1本の動画を処理
 
 ```bash
-# Video IDで処理
-python scripts/process_video.py VIDEO_ID
-
-# URLでも可
-python scripts/process_video.py "https://www.youtube.com/watch?v=VIDEO_ID"
-
-# ドライラン（保存せずテスト）
-python scripts/process_video.py VIDEO_ID --dry-run
+python scripts/process_video_gemini.py VIDEO_ID_OR_URL
 ```
 
-**出力:**
-- `data/transcripts/{video_id}.json` - 文字起こし
-- `data/summaries/{video_id}.md` - 要約
-
-### 新着動画の確認
+### RSS経由で新着動画を一括処理
 
 ```bash
-# 登録チャンネルの新着動画を確認
-python scripts/fetch_new_videos.py
-
-# 過去30日間、15分以上の動画を取得
-python scripts/fetch_new_videos.py --days 30 --min-duration 15
+python scripts/batch_process_rss.py --days 7 --min-duration 10
 ```
 
-### バッチ処理
+オプション:
+- `--days`: 何日前までの動画を取得するか（デフォルト: 7）
+- `--min-duration`: 最小動画長（分、デフォルト: 10）
+- `--max-videos`: 一度に処理する最大動画数（デフォルト: 5）
+- `--auto-commit`: 処理後に自動的にGit commit & push
+- `--dry-run`: テスト実行（保存しない）
+
+### Cron自動実行（3時間ごと）
 
 ```bash
-# 過去7日間の新着動画を最大5件処理
-python scripts/batch_process.py --days 7 --limit 5
+# crontabを編集
+crontab -e
 
-# ドライラン
-python scripts/batch_process.py --dry-run
+# 以下を追加（3時間ごとに実行）
+0 */3 * * * /path/to/summarizer_personal/scripts/cron_update.sh >> /var/log/summarizer.log 2>&1
 ```
 
-## 💻 フロントエンド
+## 🎨 フロントエンド
 
 ### 開発サーバー
 
 ```bash
 npm run dev
-# → http://localhost:3000
 ```
 
-### 静的ビルド
+http://localhost:3000 でアクセス
+
+### ビルド（Cloudflare Pages用）
 
 ```bash
 npm run build
-# → out/ ディレクトリに静的ファイル生成
 ```
 
-## ☁️ Cloudflare Pagesへのデプロイ
+`out/` ディレクトリに静的ファイルが生成されます。
 
-1. GitHubにリポジトリをプッシュ
-2. Cloudflare Pages で新規プロジェクト作成
-3. ビルド設定:
-   - **Build command**: `npm run build`
-   - **Build output directory**: `out`
+## 📁 ディレクトリ構造
 
-## 📝 出力形式
+```
+.
+├── config/
+│   └── channels.csv          # 登録チャンネル
+├── data/
+│   ├── summaries/            # 要約記事（Markdown）
+│   ├── transcripts/          # 文字起こし（JSON）
+│   └── state.json            # 処理済み動画の状態
+├── scripts/
+│   ├── rss_fetch.py          # RSS経由で新着動画を取得
+│   ├── process_video_gemini.py  # 単一動画を処理（Gemini版）
+│   ├── batch_process_rss.py  # 一括処理（RSS + Gemini）
+│   └── cron_update.sh        # Cron用自動更新スクリプト
+├── src/                      # Next.js フロントエンド
+├── gemini_summarizer.py      # Gemini API要約モジュール
+└── model_configs.json        # プロンプト設定
+```
 
-### 文字起こし (JSON)
+## � プロンプトのカスタマイズ
+
+`model_configs.json` でプロンプトテンプレートを編集:
 
 ```json
 {
-  "video_id": "xxx",
-  "title": "動画タイトル",
-  "channel": "チャンネル名",
-  "transcript": [
-    {"start": 0.0, "duration": 2.5, "text": "こんにちは"}
-  ]
+  "prompt_templates": {
+    "blog_article": {
+      "system_message": "...",
+      "tone_instructions": [...],
+      "output_instructions": [...]
+    }
+  }
 }
 ```
 
-### 要約 (Markdown)
+## 📊 Gemini API 無料枠
 
-```markdown
----
-title: "動画タイトル"
-video_id: "xxx"
-channel: "チャンネル名"
-published_at: "2026-01-10"
-youtube_url: "https://www.youtube.com/watch?v=xxx"
-thumbnail: "https://..."
----
+| 項目 | 制限 |
+|------|------|
+| リクエスト/分 | 10 RPM |
+| リクエスト/日 | 250 RPD |
+| トークン/分 | 250,000 TPM |
 
-## 要約
+`batch_process_rss.py` は自動的に6秒間隔でリクエストを送信します（10 RPM対応）。
 
-...
-```
+## 🌐 デプロイ（Cloudflare Pages）
 
-## 📄 License
+1. GitHubリポジトリをCloudflare Pagesに接続
+2. ビルド設定:
+   - **Build command**: `npm run build`
+   - **Build output directory**: `out`
+3. Cron → Git Push で自動デプロイ
+
+## � ライセンス
 
 Personal Use Only
