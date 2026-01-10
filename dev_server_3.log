@@ -1,0 +1,35 @@
+
+> summarizer-personal@0.1.0 dev
+> next dev
+
+ ⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of /home/so1/package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * /home/so1/apps/summarizer_personal/package-lock.json
+
+   ▲ Next.js 15.5.9
+   - Local:        http://localhost:3000
+   - Network:      http://10.255.255.254:3000
+
+ ✓ Starting...
+ ✓ Ready in 3.9s
+ ○ Compiling /article/[slug] ...
+ ✓ Compiled / in 15.3s (923 modules)
+ GET / 200 in 10300ms
+ GET / 200 in 711ms
+ GET /article/Ak7Picmv7YQ/ 200 in 534ms
+ GET /article/Ak7Picmv7YQ/ 200 in 1340ms
+ GET /article/KLfVE8rU8ns/ 200 in 1182ms
+ GET /article/lDmvAoBUa5Y/ 200 in 1827ms
+ ✓ Compiled in 1949ms (235 modules)
+ ✓ Compiled in 573ms (235 modules)
+ ✓ Compiled in 4.1s (930 modules)
+ GET /article/lDmvAoBUa5Y/ 200 in 1254ms
+ GET / 200 in 138ms
+ GET /article/Ak7Picmv7YQ/ 200 in 158ms
+ GET /article/Gid9gqoW-64/ 200 in 123ms
+ GET /article/sxXhgqBgsTY/ 200 in 106ms
+ GET /article/KLfVE8rU8ns/ 200 in 104ms
+ GET /article/KLfVE8rU8ns/ 200 in 168ms

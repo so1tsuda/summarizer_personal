@@ -118,7 +118,10 @@ export function getArticleBySlug(slug: string): Article | null {
             transcript,
         };
     } catch (error) {
-        console.error(`Error reading article ${slug}:`, error);
+        // ENOENT errors are expected if article is deleted or doesn't exist
+        if ((error as any).code !== 'ENOENT') {
+            console.error(`Error reading article ${slug}:`, error);
+        }
         return null;
     }
 }

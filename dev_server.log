@@ -1,0 +1,142 @@
+
+> summarizer-personal@0.1.0 dev
+> next dev
+
+ ⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of /home/so1/package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * /home/so1/apps/summarizer_personal/package-lock.json
+
+   ▲ Next.js 15.5.9
+   - Local:        http://localhost:3000
+   - Network:      http://10.255.255.254:3000
+
+ ✓ Starting...
+ ✓ Ready in 7s
+ ○ Compiling /article/[slug] ...
+ ✓ Compiled /article/[slug] in 4.2s (860 modules)
+ ⨯ [Error: Page "/article/[slug]/page" is missing param "/article/[slug]" in "generateStaticParams()", which is required with "output: export" config.] {
+  page: '/article/dQw4w9WgXcQ'
+}
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 3.7s (1200 modules)
+ GET /article/dQw4w9WgXcQ/ 500 in 10485ms
+ ⨯ [Error: Page "/article/[slug]/page" is missing param "/article/[slug]" in "generateStaticParams()", which is required with "output: export" config.] {
+  page: '/article/dQw4w9WgXcQ'
+}
+ GET /article/dQw4w9WgXcQ/ 500 in 1155ms
+ ○ Compiling / ...
+ ✓ Compiled / in 904ms (1249 modules)
+ GET / 200 in 1619ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⨯ [Error: Page "/article/[slug]/page" is missing param "/article/[slug]" in "generateStaticParams()", which is required with "output: export" config.] {
+  page: '/article/dQw4w9WgXcQ'
+}
+ GET /article/dQw4w9WgXcQ/ 500 in 1464ms
+ GET / 200 in 88ms
+ ⚠ Found a change in next.config.js. Restarting the server to apply the changes...
+   ▲ Next.js 15.5.9
+   - Local:        http://localhost:3000
+   - Network:      http://10.255.255.254:3000
+
+ ✓ Starting...
+ ✓ Ready in 3.2s
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ○ Compiling /article/[slug] ...
+ ✓ Compiled /article/[slug] in 7.3s (860 modules)
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET /article/dQw4w9WgXcQ/ 200 in 8077ms
+Error reading article dQw4w9WgXcQ: Error: ENOENT: no such file or directory, open '/home/so1/apps/summarizer_personal/data/summaries/dQw4w9WgXcQ.md'
+    at getArticleBySlug (src/lib/articles.ts:95:30)
+    at ArticlePage (src/app/article/[slug]/page.tsx:33:37)
+  93 |     try {
+  94 |         const fullPath = path.join(summariesDirectory, `${slug}.md`);
+> 95 |         const fileContents = fs.readFileSync(fullPath, 'utf8');
+     |                              ^
+  96 |         const { data, content } = matter(fileContents);
+  97 |
+  98 |         // Load transcript if available {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/so1/apps/summarizer_personal/data/summaries/dQw4w9WgXcQ.md'
+}
+Error reading article dQw4w9WgXcQ: Error: ENOENT: no such file or directory, open '/home/so1/apps/summarizer_personal/data/summaries/dQw4w9WgXcQ.md'
+    at getArticleBySlug (src/lib/articles.ts:95:30)
+    at Module.generateMetadata (src/app/article/[slug]/page.tsx:19:37)
+  93 |     try {
+  94 |         const fullPath = path.join(summariesDirectory, `${slug}.md`);
+> 95 |         const fileContents = fs.readFileSync(fullPath, 'utf8');
+     |                              ^
+  96 |         const { data, content } = matter(fileContents);
+  97 |
+  98 |         // Load transcript if available {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/so1/apps/summarizer_personal/data/summaries/dQw4w9WgXcQ.md'
+}
+Error reading article dQw4w9WgXcQ: Error: ENOENT: no such file or directory, open '/home/so1/apps/summarizer_personal/data/summaries/dQw4w9WgXcQ.md'
+    at getArticleBySlug (src/lib/articles.ts:95:30)
+    at ArticlePage (src/app/article/[slug]/page.tsx:33:37)
+  93 |     try {
+  94 |         const fullPath = path.join(summariesDirectory, `${slug}.md`);
+> 95 |         const fileContents = fs.readFileSync(fullPath, 'utf8');
+     |                              ^
+  96 |         const { data, content } = matter(fileContents);
+  97 |
+  98 |         // Load transcript if available {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/so1/apps/summarizer_personal/data/summaries/dQw4w9WgXcQ.md'
+}
+Error reading article dQw4w9WgXcQ: Error: ENOENT: no such file or directory, open '/home/so1/apps/summarizer_personal/data/summaries/dQw4w9WgXcQ.md'
+    at getArticleBySlug (src/lib/articles.ts:95:30)
+    at Module.generateMetadata (src/app/article/[slug]/page.tsx:19:37)
+  93 |     try {
+  94 |         const fullPath = path.join(summariesDirectory, `${slug}.md`);
+> 95 |         const fileContents = fs.readFileSync(fullPath, 'utf8');
+     |                              ^
+  96 |         const { data, content } = matter(fileContents);
+  97 |
+  98 |         // Load transcript if available {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/so1/apps/summarizer_personal/data/summaries/dQw4w9WgXcQ.md'
+}
+Error reading article dQw4w9WgXcQ: Error: ENOENT: no such file or directory, open '/home/so1/apps/summarizer_personal/data/summaries/dQw4w9WgXcQ.md'
+    at getArticleBySlug (src/lib/articles.ts:95:30)
+    at ArticlePage (src/app/article/[slug]/page.tsx:33:37)
+  93 |     try {
+  94 |         const fullPath = path.join(summariesDirectory, `${slug}.md`);
+> 95 |         const fileContents = fs.readFileSync(fullPath, 'utf8');
+     |                              ^
+  96 |         const { data, content } = matter(fileContents);
+  97 |
+  98 |         // Load transcript if available {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/so1/apps/summarizer_personal/data/summaries/dQw4w9WgXcQ.md'
+}
+Error reading article dQw4w9WgXcQ: Error: ENOENT: no such file or directory, open '/home/so1/apps/summarizer_personal/data/summaries/dQw4w9WgXcQ.md'
+    at getArticleBySlug (src/lib/articles.ts:95:30)
+    at Module.generateMetadata (src/app/article/[slug]/page.tsx:19:37)
+  93 |     try {
+  94 |         const fullPath = path.join(summariesDirectory, `${slug}.md`);
+> 95 |         const fileContents = fs.readFileSync(fullPath, 'utf8');
+     |                              ^
+  96 |         const { data, content } = matter(fileContents);
+  97 |
+  98 |         // Load transcript if available {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/so1/apps/summarizer_personal/data/summaries/dQw4w9WgXcQ.md'
+}
+ GET /article/dQw4w9WgXcQ/ 404 in 2912ms
+[?25h

@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { getAllArticleSlugs, getArticleBySlug } from '@/lib/articles';
+import CopyTranscriptButton from '@/components/CopyTranscriptButton';
 
 interface PageProps {
     params: Promise<{
@@ -38,13 +39,15 @@ export default async function ArticlePage({ params }: PageProps) {
 
     return (
         <article className="max-w-3xl mx-auto px-4 py-8">
-            {/* Thumbnail */}
-            <div className="mb-8 rounded-xl overflow-hidden shadow-lg">
-                <img
-                    src={article.thumbnail}
-                    alt={article.title}
-                    className="w-full aspect-video object-cover"
-                />
+            {/* YouTube Embed */}
+            <div className="mb-8 rounded-xl overflow-hidden shadow-xl bg-black aspect-video">
+                <iframe
+                    src={`https://www.youtube.com/embed/${article.videoId}`}
+                    title={article.title}
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowFullScreen
+                    className="w-full h-full border-0"
+                ></iframe>
             </div>
 
             {/* Header */}
@@ -70,7 +73,7 @@ export default async function ArticlePage({ params }: PageProps) {
                     href={article.youtubeUrl}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center gap-2 px-5 py-2.5 bg-red-500 text-white rounded-lg font-semibold mt-6 hover:bg-red-600 transition-colors shadow-md"
+                    className="inline-flex items-center gap-2 px-5 py-2.5 bg-red-500 text-white rounded-lg font-semibold mt-6 hover:bg-red-600 transition-colors shadow-md text-sm md:text-base"
                 >
                     ▶ YouTubeで視聴
                 </a>
@@ -97,7 +100,7 @@ export default async function ArticlePage({ params }: PageProps) {
                             </h3>
                         ),
                         p: ({ children }) => (
-                            <p className="text-gray-700 leading-relaxed mb-4">
+                            <p className="text-gray-700 leading-relaxed mb-4 text-lg">
                                 {children}
                             </p>
                         ),
@@ -137,18 +140,21 @@ export default async function ArticlePage({ params }: PageProps) {
             {/* Transcript Section */}
             {article.transcript && article.transcript.length > 0 && (
                 <section className="mt-16 pt-8 border-t border-gray-200">
-                    <h2 className="text-xl font-bold text-gray-900 mb-6 flex items-center gap-2">
-                        📝 文字起こし
-                    </h2>
-                    <div className="bg-gray-50 rounded-xl p-6 max-h-[600px] overflow-y-auto">
+                    <div className="flex justify-between items-center mb-6">
+                        <h2 className="text-xl font-bold text-gray-900 flex items-center gap-2">
+                            📝 文字起こし
+                        </h2>
+                        <CopyTranscriptButton transcript={article.transcript} />
+                    </div>
+                    <div className="bg-gray-50 rounded-xl p-6 max-h-[600px] overflow-y-auto shadow-inner border border-gray-100">
                         <div className="space-y-3 text-sm text-gray-700 leading-relaxed">
                             {article.transcript.map((entry, index) => {
                                 const minutes = Math.floor(entry.start / 60);
                                 const seconds = Math.floor(entry.start % 60);
                                 const timestamp = `${minutes}:${seconds.toString().padStart(2, '0')}`;
                                 return (
-                                    <p key={index} className="flex gap-3">
-                                        <span className="text-gray-400 font-mono text-xs min-w-[45px] pt-0.5">
+                                    <p key={index} className="flex gap-3 hover:bg-gray-100/50 p-1 -m-1 rounded transition-colors group">
+                                        <span className="text-gray-400 font-mono text-xs min-w-[45px] pt-0.5 group-hover:text-gray-600">
                                             {timestamp}
                                         </span>
                                         <span>{entry.text}</span>
