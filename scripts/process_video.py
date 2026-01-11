@@ -252,7 +252,7 @@ def process_video(
 def main():
     parser = argparse.ArgumentParser(description="単一の動画を処理 (Gemini API版)")
     parser.add_argument("video_id", help="YouTube動画IDまたはURL")
-    parser.add_argument("--model", default="gemini-2.5-flash-lite", help="使用するモデル")
+    parser.add_argument("--model", default="gemini-2.5-flash", help="使用するモデル")
     parser.add_argument("--provider", default="gemini", choices=["gemini", "openrouter"], help="使用するAIプロバイダー")
     parser.add_argument("--dry-run", action="store_true", help="実際に保存せずテスト実行")
     parser.add_argument("--prompt-template", default="blog_article", 
@@ -299,8 +299,8 @@ def main():
             return 1
             
         model_name = args.model
-        if model_name == "gemini-2.5-flash-lite":
-            model_name = "google/gemini-2.0-flash-lite:free"
+        if model_name == "gemini-2.5-flash":
+            model_name = "google/gemini-2.5-flash:free"
             
         summarizer = OpenRouterSummarizer(
             api_key=openrouter_api_key,
