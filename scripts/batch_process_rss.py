@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-RSS経由で新着動画を取得し、一括処理するスクリプト
-- RSSフィードから新着動画を検出
-- 各動画を処理（文字起こし + Gemini要約）
+RSS経由で新着動画を取得し、バックログキューから処理するスクリプト
+- RSSフィードから新着動画を検出 → backlog.jsonに追加
+- キューから1本取り出して処理（Gemini要約）
 - オプションでGitに自動コミット&プッシュ
 """
 
@@ -25,66 +25,110 @@ from scripts.process_video_gemini import (
 from googleapiclient.discovery import build
 
 
+def load_backlog(backlog_path: Path) -> Dict:
+    """backlog.json を読み込む"""
+    if backlog_path.exists():
+        import json
+        with open(backlog_path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return {
+        "queue": [],
+        "failed": [],
+        "last_processed_at": None
+    }
+
+
+def save_backlog(backlog_path: Path, backlog: Dict):
+    """backlog.json に保存"""
+    import json
+    with open(backlog_path, 'w', encoding='utf-8') as f:
+        json.dump(backlog, f, ensure_ascii=False, indent=2)
+
+
+def add_to_backlog(backlog: Dict, videos: List[Dict], state: Dict) -> int:
+    """
+    新着動画をバックログに追加
+    
+    Returns:
+        追加された動画数
+    """
+    added_count = 0
+    processed_ids = set(state.get('processed_videos', {}).keys())
+    
+    for video in videos:
+        video_id = video['video_id']
+        
+        # 処理済みチェック
+        if video_id in processed_ids:
+            continue
+        
+        # キューに既に存在するかチェック
+        if any(v['video_id'] == video_id for v in backlog['queue']):
+            continue
+        
+        # failedに存在するかチェック
+        if any(v['video_id'] == video_id for v in backlog['failed']):
+            continue
+        
+        from datetime import datetime
+        backlog['queue'].append({
+            'video_id': video_id,
+            'title': video.get('title', ''),
+            'channel': video.get('channel_title', ''),
+            'published_at': video.get('published_at', ''),
+            'added_at': datetime.now().isoformat()
+        })
+        added_count += 1
+    
+    return added_count
+
+
 def filter_by_duration(
     youtube,
-    videos: List[Dict],
+    video: Dict,
     min_duration_seconds: int = 600
-) -> List[Dict]:
+) -> bool:
     """
     動画の長さでフィルタリング
     
-    Args:
-        youtube: YouTube API client
-        videos: 動画リスト
-        min_duration_seconds: 最小動画長（秒）
-    
     Returns:
-        フィルタリング後の動画リスト
+        条件を満たす場合True
     """
-    filtered = []
-    
-    for video in videos:
-        try:
-            video_info = get_video_info(youtube, video['video_id'])
+    try:
+        video_info = get_video_info(youtube, video['video_id'])
+        
+        # duration をパース (PT15M30S -> 930秒)
+        import re
+        duration = video_info.get('duration', '')
+        match = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', duration)
+        if match:
+            hours = int(match.group(1) or 0)
+            minutes = int(match.group(2) or 0)
+            seconds = int(match.group(3) or 0)
+            total_seconds = hours * 3600 + minutes * 60 + seconds
             
-            # duration をパース (PT15M30S -> 930秒)
-            import re
-            duration = video_info.get('duration', '')
-            match = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', duration)
-            if match:
-                hours = int(match.group(1) or 0)
-                minutes = int(match.group(2) or 0)
-                seconds = int(match.group(3) or 0)
-                total_seconds = hours * 3600 + minutes * 60 + seconds
-                
-                if total_seconds >= min_duration_seconds:
-                    video['duration_seconds'] = total_seconds
-                    video['duration'] = duration
-                    video['thumbnail'] = video_info.get('thumbnail', '')
-                    video['description'] = video_info.get('description', '')
-                    filtered.append(video)
-                    print(f"  ✓ {video['title']} ({total_seconds // 60}分)")
-                else:
-                    print(f"  ✗ スキップ (短い): {video['title']} ({total_seconds // 60}分)")
-        except Exception as e:
-            print(f"  ✗ エラー: {video['title']}: {e}")
+            if total_seconds >= min_duration_seconds:
+                video['duration_seconds'] = total_seconds
+                video['duration'] = duration
+                video['thumbnail'] = video_info.get('thumbnail', '')
+                video['description'] = video_info.get('description', '')
+                return True
+    except Exception as e:
+        print(f"  ✗ エラー: {video.get('title', video['video_id'])}: {e}")
     
-    return filtered
+    return False
 
 
 def git_commit_and_push(message: str) -> bool:
     """
     Gitにコミット&プッシュ
     
-    Args:
-        message: コミットメッセージ
-    
     Returns:
         成功したかどうか
     """
     try:
         # git add
-        subprocess.run(['git', 'add', 'data/summaries/', 'data/transcripts/', 'data/state.json'], 
+        subprocess.run(['git', 'add', 'data/summaries/', 'data/transcripts/', 'data/state.json', 'data/backlog.json'], 
                       cwd=project_root, check=True)
         
         # git commit
@@ -114,20 +158,21 @@ def git_commit_and_push(message: str) -> bool:
 def main():
     import argparse
     
-    parser = argparse.ArgumentParser(description="RSS経由で新着動画を一括処理")
+    parser = argparse.ArgumentParser(description="RSS経由で新着動画を取得し、バックログから処理")
     parser.add_argument("--days", type=int, default=7, help="何日前までの動画を取得するか")
     parser.add_argument("--min-duration", type=int, default=10, help="最小動画長（分）")
     parser.add_argument("--model", default="gemini-2.0-flash-exp", help="使用するGeminiモデル")
     parser.add_argument("--prompt-template", default="blog_article", help="プロンプトテンプレート")
     parser.add_argument("--auto-commit", action="store_true", help="処理後に自動的にGit commit & push")
     parser.add_argument("--dry-run", action="store_true", help="実際に保存せずテスト実行")
-    parser.add_argument("--max-videos", type=int, default=5, help="一度に処理する最大動画数")
+    parser.add_argument("--process-count", type=int, default=1, help="一度に処理する動画数")
     
     args = parser.parse_args()
     
     # パス設定
     config_path = project_root / "config" / "channels.csv"
     state_path = project_root / "data" / "state.json"
+    backlog_path = project_root / "data" / "backlog.json"
     transcripts_dir = project_root / "data" / "transcripts"
     summaries_dir = project_root / "data" / "summaries"
     
@@ -152,50 +197,58 @@ def main():
         prompt_template=args.prompt_template,
     )
     
-    # チャンネル & 状態読み込み
+    # データ読み込み
     channels = load_channels_from_csv(config_path)
     state = load_state(state_path)
+    backlog = load_backlog(backlog_path)
     
     if not channels:
         print("警告: 登録されているチャンネルがありません")
         return 0
     
-    print(f"=== RSS経由 一括処理 ===")
+    print(f"=== RSS経由 バックログ処理 ===")
     print(f"チャンネル数: {len(channels)}")
     print(f"モデル: {args.model}")
     print(f"テンプレート: {args.prompt_template}\n")
     
-    # 1. RSSから新着動画を取得
+    # 1. RSSから新着動画を取得してバックログに追加
     print("📡 RSSフィードから新着動画を取得中...")
     new_videos = fetch_all_rss_videos(channels, state, days_back=args.days)
-    print(f"\n未処理の動画: {len(new_videos)}件\n")
+    print(f"  未処理の動画: {len(new_videos)}件")
     
-    if not new_videos:
-        print("新着動画はありません")
-        return 0
+    if new_videos:
+        added_count = add_to_backlog(backlog, new_videos, state)
+        print(f"  ✓ バックログに追加: {added_count}件")
+        if not args.dry_run:
+            save_backlog(backlog_path, backlog)
     
-    # 2. 動画の長さでフィルタリング
-    print(f"⏱️  動画の長さでフィルタリング中 ({args.min_duration}分以上)...")
-    filtered_videos = filter_by_duration(youtube, new_videos, min_duration_seconds=args.min_duration * 60)
-    print(f"\n処理対象: {len(filtered_videos)}件\n")
+    # 2. バックログから処理
+    queue = backlog.get('queue', [])
+    print(f"\n📋 現在のバックログ: {len(queue)}件")
     
-    if not filtered_videos:
+    if not queue:
         print("処理対象の動画はありません")
         return 0
     
-    # 最大数で制限
-    if len(filtered_videos) > args.max_videos:
-        print(f"⚠️  {args.max_videos}件に制限します")
-        filtered_videos = filtered_videos[:args.max_videos]
+    # 処理する動画数を制限
+    process_count = min(args.process_count, len(queue))
+    print(f"  今回処理: {process_count}件\n")
     
-    # 3. 各動画を処理
     processed_count = 0
     failed_count = 0
     
-    for i, video in enumerate(filtered_videos, 1):
+    for i in range(process_count):
+        video = queue[0]  # 常に先頭から取得
+        
         print(f"\n{'='*60}")
-        print(f"[{i}/{len(filtered_videos)}] {video['title']}")
+        print(f"[{i+1}/{process_count}] {video['title']}")
         print(f"{'='*60}")
+        
+        # 動画の長さチェック
+        if not filter_by_duration(youtube, video, min_duration_seconds=args.min_duration * 60):
+            print(f"  ✗ スキップ (短い動画)")
+            queue.pop(0)
+            continue
         
         try:
             process_video(
@@ -207,28 +260,45 @@ def main():
                 state_path,
                 dry_run=args.dry_run
             )
+            
+            # 成功したらキューから削除
+            queue.pop(0)
             processed_count += 1
             
+            # 状態を再読み込み（process_videoで更新されるため）
+            state = load_state(state_path)
+            
             # レート制限対策（10 RPM = 6秒間隔）
-            if i < len(filtered_videos):
+            if i < process_count - 1:
                 print("\n⏳ レート制限対策のため6秒待機...")
                 time.sleep(6)
         
         except Exception as e:
             print(f"❌ 処理失敗: {e}")
+            
+            # 失敗したらfailedリストに移動
+            failed_video = queue.pop(0)
+            backlog['failed'].append(failed_video)
             failed_count += 1
             continue
     
-    # 4. 結果サマリー
+    # バックログ保存
+    if not args.dry_run:
+        from datetime import datetime
+        backlog['last_processed_at'] = datetime.now().isoformat()
+        save_backlog(backlog_path, backlog)
+    
+    # 3. 結果サマリー
     print(f"\n{'='*60}")
     print(f"✅ 処理完了: {processed_count}件")
     print(f"❌ 失敗: {failed_count}件")
+    print(f"📋 残りのバックログ: {len(queue)}件")
     print(f"{'='*60}\n")
     
-    # 5. Git自動コミット
+    # 4. Git自動コミット
     if args.auto_commit and processed_count > 0 and not args.dry_run:
         print("📤 Gitにコミット&プッシュ中...")
-        commit_message = f"auto: add {processed_count} new article(s) via RSS"
+        commit_message = f"auto: process {processed_count} video(s) from backlog"
         git_commit_and_push(commit_message)
     
     return 0

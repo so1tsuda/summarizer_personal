@@ -57,18 +57,39 @@ UCxxxxxx,チャンネル名,メモ（任意）
 python scripts/process_video_gemini.py VIDEO_ID_OR_URL
 ```
 
-### RSS経由で新着動画を一括処理
+### RSS経由で新着動画を一括処理（バックログ方式）
 
 ```bash
-python scripts/batch_process_rss.py --days 7 --min-duration 10
+python scripts/batch_process_rss.py --days 7 --min-duration 10 --process-count 1
 ```
+
+**動作:**
+1. RSSから新着動画を取得 → `data/backlog.json` のキューに追加
+2. キューから古い順に1本取り出して処理
+3. 処理済みは `data/state.json` に記録
 
 オプション:
 - `--days`: 何日前までの動画を取得するか（デフォルト: 7）
 - `--min-duration`: 最小動画長（分、デフォルト: 10）
-- `--max-videos`: 一度に処理する最大動画数（デフォルト: 5）
+- `--process-count`: 一度に処理する動画数（デフォルト: 1）
 - `--auto-commit`: 処理後に自動的にGit commit & push
 - `--dry-run`: テスト実行（保存しない）
+
+### バックログ管理
+
+```bash
+# キュー一覧を表示
+python scripts/manage_backlog.py --list
+
+# 過去動画をインポート（例: PIVOT の過去30日分）
+python scripts/manage_backlog.py --import-channel UC8yHePe_RgUBE-waRWy6olw --days 30
+
+# 手動で動画を追加
+python scripts/manage_backlog.py --add VIDEO_ID
+
+# 失敗した動画をリトライ
+python scripts/manage_backlog.py --retry-failed
+```
 
 ### Cron自動実行（3時間ごと）
 
@@ -107,11 +128,13 @@ npm run build
 ├── data/
 │   ├── summaries/            # 要約記事（Markdown）
 │   ├── transcripts/          # 文字起こし（JSON）
-│   └── state.json            # 処理済み動画の状態
+│   ├── state.json            # 処理済み動画の状態
+│   └── backlog.json          # 処理待ちキュー
 ├── scripts/
 │   ├── rss_fetch.py          # RSS経由で新着動画を取得
 │   ├── process_video_gemini.py  # 単一動画を処理（Gemini版）
-│   ├── batch_process_rss.py  # 一括処理（RSS + Gemini）
+│   ├── batch_process_rss.py  # バックログ処理（RSS + Gemini）
+│   ├── manage_backlog.py     # バックログ管理CLI
 │   └── cron_update.sh        # Cron用自動更新スクリプト
 ├── src/                      # Next.js フロントエンド
 ├── gemini_summarizer.py      # Gemini API要約モジュール
