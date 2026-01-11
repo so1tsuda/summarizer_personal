@@ -57,28 +57,38 @@ UCxxxxxx,チャンネル名,メモ（任意）
 ### 手動で1本の動画を処理 (標準: Gemini)
 
 ```bash
-python scripts/process_video_gemini.py VIDEO_ID_OR_URL
+# 標準設定 (Gemini)
+python scripts/process_video.py VIDEO_ID_OR_URL
+
+# AIプロバイダーを指定 (Gemini or OpenRouter)
+python scripts/process_video.py VIDEO_ID --provider openrouter --model anthropic/claude-3.5-sonnet
 ```
 
 > [!NOTE]
-> 現在、動画の**概要欄**も自動的に取得し、正確な人名（漢字）・企業名の把握に活用しています。
+> 文字起こしだけでなく、動画の**概要欄**も自動的に取得し、正確な人名（漢字）・企業名・番組情報の把握に活用しています。
 
 ### RSS経由で新着動画を一括処理（バックログ方式）
 
-標準のワークフローです。Gemini APIを使用して、効率的に記事を生成します。
+標準のワークフローです。複数のAIプロバイダーをサポートしています。
 
 ```bash
-python scripts/batch_process_rss.py --days 7 --min-duration 10 --process-count 1
+# 標準設定 (Gemini)
+python scripts/batch_process_rss.py --days 7 --min-duration 10 --process-count 3
+
+# OpenRouter経由の無料Geminiモデルを使用する場合
+python scripts/batch_process_rss.py --provider openrouter --model google/gemini-2.0-flash-lite:free --process-count 3
 ```
 
 **動作:**
 1. RSSから新着動画を取得 → `data/backlog.json` のキューに追加
-2. キューから古い順に1本取り出して処理
+2. キューから古い順に指定個数取り出して処理
 3. 処理済みは `data/state.json` に記録
 
 オプション:
 - `--days`: 何日前までの動画を取得するか（デフォルト: 7）
 - `--min-duration`: 最小動画長（分、デフォルト: 10）
+- `--provider`: AIプロバイダーを指定 (`gemini` or `openrouter`)
+- `--model`: 使用するモデル名を指定
 - `--process-count`: 一度に処理する動画数（デフォルト: 1）
 - `--auto-commit`: 処理後に自動的にGit commit & push
 - `--dry-run`: テスト実行（保存しない）

@@ -20,7 +20,7 @@ echo "=== Cron Update Started: $(date) ===" | tee -a "$LOG_FILE"
 python3 scripts/batch_process_rss.py \
     --days 3 \
     --min-duration 10 \
-    --max-videos 3 \
+    --process-count 3 \
     --auto-commit \
     2>&1 | tee -a "$LOG_FILE"
 
