@@ -128,7 +128,7 @@ def git_commit_and_push(message: str) -> bool:
     """
     try:
         # git add
-        subprocess.run(['git', 'add', 'data/summaries/', 'data/transcripts/', 'data/state.json', 'data/backlog.json'], 
+        subprocess.run(['git', 'add', 'data/summaries/', 'data/state.json', 'data/backlog.json'],
                       cwd=project_root, check=True)
         
         # git commit
