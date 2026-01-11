@@ -1,0 +1,8 @@
+=== Cron Update Started: 2026年  1月 11日 日曜日 18:00:01 JST ===
+Traceback (most recent call last):
+  File "/home/so1/apps/summarizer_personal/scripts/batch_process_rss.py", line 20, in <module>
+    from scripts.rss_fetch import load_channels_from_csv, load_state, fetch_all_rss_videos
+  File "/home/so1/apps/summarizer_personal/scripts/rss_fetch.py", line 12, in <module>
+    import feedparser
+ModuleNotFoundError: No module named 'feedparser'
+=== Cron Update Finished: 2026年  1月 11日 日曜日 18:00:02 JST (Exit: 0) ===
