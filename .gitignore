@@ -1,6 +1,7 @@
 # API Keys (DO NOT COMMIT)
 .env
 .env.local
+*.env*
 
 # Python
 __pycache__/

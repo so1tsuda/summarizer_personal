@@ -24,6 +24,9 @@ from config_manager import ConfigManager, PromptBuilder
 # YouTube Transcript API
 from youtube_transcript_api import YouTubeTranscriptApi
 
+# Cleanup utility
+from scripts.text_cleanup import clean_transcript_text, save_clean_text
+
 def load_api_keys():
     """
     .envファイルまたは環境変数からAPIキーを読み込む
@@ -355,31 +358,7 @@ class YouTubeTranscriptToolOpenRouter:
 
         return filepath
 
-    def _remove_fillers(self, text: str) -> str:
-        """
-        意味を持たないフィラー（つなぎ言葉）を除去する
-        ※誤爆を防ぐため、明らかにフィラーとわかるものに限定
-        """
-        # 英語のフィラー (単語境界 \b を使用)
-        # um, uh, ah, er, hmm
-        text = re.sub(r'\b(um|uh|ah|er|hmm)\b', '', text, flags=re.IGNORECASE)
-        
-        # 日本語のフィラー（文脈依存が強いため慎重に）
-        # 「えー」「あのー」などは長音が含まれることが多い
-        text = re.sub(r'(?<=[\u3000-\u303F])(えー|あのー|んー)(?=[\u3000-\u303F])', '', text)
-        
-        return text
-
-    def _remove_stutter(self, text: str) -> str:
-        """
-        吃音（繰り返しの単語）を除去する
-        例: "I I I think" -> "I think"
-        """
-        # 英単語の繰り返し (2回以上)
-        # \b(\w+)\s+\1\b -> "word word"
-        text = re.sub(r'\b(\w+)( \1\b)+', r'\1', text, flags=re.IGNORECASE)
-        
-        return text
+    # _remove_fillers and _remove_stutter have been moved to scripts.text_cleanup
 
     def _format_description(self, description: str) -> str:
         """
@@ -430,64 +409,21 @@ class YouTubeTranscriptToolOpenRouter:
             print(f"概要欄の整形に失敗: {e}")
             return description
 
-    def _clean_transcript_for_summary(self, transcript_content: str, keep_timestamps: bool = False) -> str:
+    def _clean_transcript_for_summary(self, transcript_content: str, keep_timestamps: bool = False, save_path: Optional[str] = None) -> str:
         """
         AI要約用に文字起こしコンテンツを最適化する（トークン節約版）
-        1. タイムスタンプ除去 (keep_timestamps=Trueの場合は保持)
-        2. 無駄な改行を削除して文章を連結
-        3. 話者（>>）の変わり目のみ改行を入れる
         """
-        try:
-            # 1. 文字起こしセクションの抽出（既存ロジック）
-            lines = transcript_content.split('\n')
-            transcript_start = -1
-            for i, line in enumerate(lines):
-                if "## 文字起こし" in line or "# 文字起こし" in line:
-                    transcript_start = i + 1
-                    break
-            
-            if transcript_start != -1:
-                raw_text = '\n'.join(lines[transcript_start:])
-            else:
-                raw_text = transcript_content
-
-            clean_text = raw_text
-
-            # 2. タイムスタンプと装飾の除去
-            if not keep_timestamps:
-                # **[HH:MM:SS]** 形式
-                clean_text = re.sub(r'\*\*\[\d{2}:\d{2}:\d{2}(?:\.\d+)?\]\*\*\s*', '', clean_text)
-                # [HH:MM:SS] 形式
-                clean_text = re.sub(r'\[\d{2}:\d{2}:\d{2}\]\s*', '', clean_text)
-            
-            # 画像・リンク除去
-            clean_text = re.sub(r'!\[.*?\]\(.*?\)', '', clean_text)
-            clean_text = re.sub(r'\[.*?\]\(.*?\)', '', clean_text)
-
-            # 3. フィラーと吃音の除去（トークン削減）
-            # 空白圧縮の「前」に行うことで、除去後に残った微妙な空白も次のステップで消せる
-            clean_text = self._remove_fillers(clean_text)
-            clean_text = self._remove_stutter(clean_text)
-
-            # 4. 【重要】トークン圧縮ロジック
-            # すべての改行と連続する空白を、一旦シングルスペースに置換する
-            # これで "I \n was like" が "I was like" になり、文が繋がる
-            clean_text = re.sub(r'\s+', ' ', clean_text)
-
-            # 5. 話者区切り（>>）の前には改行を入れて構造を復元する
-            # " text. >> Next speaker" -> " text.\n\n>> Next speaker"
-            clean_text = clean_text.replace(' >>', '\n\n>>')
-            
-            # 先頭に >> がある場合の微調整
-            clean_text = clean_text.strip()
-            print(clean_text) # Output for debugging
-            print(f"文字起こしを圧縮完了: {len(clean_text)}文字")
-
-            return clean_text
-
-        except Exception as e:
-            print(f"文字起こしのクリーンアップに失敗: {e}")
-            return transcript_content
+        clean_text = clean_transcript_text(transcript_content, keep_timestamps)
+        
+        print(f"\n--- Cleaned Text (for debugging) ---\n{clean_text}\n----------------------------------")
+        
+        if save_path:
+            from scripts.text_cleanup import save_text_to_file
+            if save_text_to_file(clean_text, save_path):
+                print(f"  ✓ クリーンアップ済みテキストを保存: {save_path}")
+                
+        print(f"文字起こしを圧縮完了: {len(clean_text)}文字")
+        return clean_text
 
     def _contains_unwanted_characters(self, text: str, target_lang: str = "ja") -> Tuple[bool, str]:
         """
@@ -623,9 +559,15 @@ class YouTubeTranscriptToolOpenRouter:
             with open(filepath, 'r', encoding='utf-8') as f:
                 transcript_content = f.read()
 
+            # 保存用パスの生成 (video_id.json -> video_id_cleaned.txt)
+            save_path = None
+            if filepath:
+                base, _ = os.path.splitext(filepath)
+                save_path = f"{base}_cleaned.txt"
+
             # 文字起こしをクリーンアップ（トークン節約のため）
             # 1. Insight用: タイムスタンプなし（トークン節約）
-            cleaned_content_insight = self._clean_transcript_for_summary(transcript_content, keep_timestamps=False)
+            cleaned_content_insight = self._clean_transcript_for_summary(transcript_content, keep_timestamps=False, save_path=save_path)
             
             # プロンプトテンプレートが "supereditor" の場合のみ分割生成を行う
             if self.prompt_template == "supereditor":
@@ -643,6 +585,7 @@ class YouTubeTranscriptToolOpenRouter:
 
                 # 2. Chronological Summary Generation
                 # 時系列サマリー用: タイムスタンプあり
+                # ※こちらはデバッグ出力のみ（ファイル保存はなし）
                 cleaned_content_chronological = self._clean_transcript_for_summary(transcript_content, keep_timestamps=True)
                 
                 chronological_part = self._generate_single_part(

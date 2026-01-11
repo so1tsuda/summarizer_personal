@@ -6,7 +6,10 @@
 
 - **RSS自動検出**: YouTube RSSフィードで新着動画を自動検出（API quota節約）
 - **Gemini API**: Google AI Studio の無料枠で要約生成（コスト削減）
-- **自動デプロイ**: Cron → Git Push → Cloudflare Pages で完全自動化
+- **トピック特化の要約**: `blog_article` プロンプトにより、本質に絞った1500-2000字の凝縮された記事を生成
+- **文字起こしクリーンアップ**: フィラー（「えー」「あの」）や言い淀みを自動除去し、トークン消費を抑制
+- **日付別グループ化**: トップページに日付ごとの見出しを表示し、更新情報を整理
+- **ページネーション**: 記事一覧に20件ごとのページ送り機能を追加
 - **埋め込み動画**: 記事ページで直接YouTube視聴可能
 - **文字起こしコピー**: タイムスタンプ付き全文を1クリックでコピー
 
@@ -135,6 +138,7 @@ npm run build
 │   ├── process_video_gemini.py  # 単一動画を処理（Gemini版）
 │   ├── batch_process_rss.py  # バックログ処理（RSS + Gemini）
 │   ├── manage_backlog.py     # バックログ管理CLI
+│   ├── text_cleanup.py       # 文字起こしクリーニング・整形ユーティリティ
 │   └── cron_update.sh        # Cron用自動更新スクリプト
 ├── src/                      # Next.js フロントエンド
 ├── gemini_summarizer.py      # Gemini API要約モジュール

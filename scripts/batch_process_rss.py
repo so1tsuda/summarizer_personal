@@ -161,7 +161,7 @@ def main():
     parser = argparse.ArgumentParser(description="RSS経由で新着動画を取得し、バックログから処理")
     parser.add_argument("--days", type=int, default=7, help="何日前までの動画を取得するか")
     parser.add_argument("--min-duration", type=int, default=10, help="最小動画長（分）")
-    parser.add_argument("--model", default="gemini-2.0-flash", help="使用するGeminiモデル")
+    parser.add_argument("--model", default="gemini-2.5-flash-lite", help="使用するGeminiモデル")
     parser.add_argument("--prompt-template", default="blog_article", help="プロンプトテンプレート")
     parser.add_argument("--auto-commit", action="store_true", help="処理後に自動的にGit commit & push")
     parser.add_argument("--dry-run", action="store_true", help="実際に保存せずテスト実行")

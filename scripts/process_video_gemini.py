@@ -23,6 +23,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from gemini_summarizer import GeminiSummarizer, load_api_key as load_gemini_key
+from scripts.text_cleanup import clean_transcript_text, get_cleaned_path, save_text_to_file
 
 
 def load_api_keys():
@@ -209,8 +210,17 @@ def process_video(
     print(f"  要約を生成中 (Gemini {summarizer.model_name})...")
     
     if not dry_run:
-        transcript_text = "\n".join([f"[{item['start']:.1f}] {item['text']}" for item in transcript])
-        summary, metadata = summarizer.generate_summary(transcript_text, video_info.get('description', ''))
+        # トークン節約のためにクリーンアップ
+        raw_transcript_text = "\n".join([f"[{item['start']:.1f}] {item['text']}" for item in transcript])
+        cleaned_transcript_text = clean_transcript_text(raw_transcript_text, keep_timestamps=False)
+        
+        # クリーンアップ済みテキストを保存
+        cleaned_path = get_cleaned_path(str(transcript_path))
+        save_text_to_file(cleaned_transcript_text, cleaned_path)
+        print(f"  ✓ クリーンアップ済みテキスト保存: {cleaned_path}")
+        
+        # クリーンアップ済みテキストをLLMに送る
+        summary, metadata = summarizer.generate_summary(cleaned_transcript_text, video_info.get('description', ''))
         print(f"  要約完了: {len(summary)}文字")
     else:
         summary = "[dry-run] 要約はスキップされました"
@@ -240,7 +250,7 @@ def process_video(
 def main():
     parser = argparse.ArgumentParser(description="単一の動画を処理 (Gemini API版)")
     parser.add_argument("video_id", help="YouTube動画IDまたはURL")
-    parser.add_argument("--model", default="gemini-2.0-flash", help="使用するGeminiモデル")
+    parser.add_argument("--model", default="gemini-2.5-flash-lite", help="使用するGeminiモデル")
     parser.add_argument("--dry-run", action="store_true", help="実際に保存せずテスト実行")
     parser.add_argument("--prompt-template", default="blog_article", 
                         choices=["strategist", "supereditor", "blog_article"],

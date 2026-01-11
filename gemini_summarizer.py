@@ -18,7 +18,7 @@ class GeminiSummarizer:
     def __init__(
         self,
         api_key: str,
-        model_name: str = "gemini-2.0-flash",
+        model_name: str = "gemini-2.5-flash-lite",
         prompt_template: str = "blog_article",
         config_dir: Optional[str] = None
     ):
