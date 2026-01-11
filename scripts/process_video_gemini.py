@@ -240,7 +240,7 @@ def process_video(
 def main():
     parser = argparse.ArgumentParser(description="単一の動画を処理 (Gemini API版)")
     parser.add_argument("video_id", help="YouTube動画IDまたはURL")
-    parser.add_argument("--model", default="gemini-2.0-flash-exp", help="使用するGeminiモデル")
+    parser.add_argument("--model", default="gemini-2.0-flash", help="使用するGeminiモデル")
     parser.add_argument("--dry-run", action="store_true", help="実際に保存せずテスト実行")
     parser.add_argument("--prompt-template", default="blog_article", 
                         choices=["strategist", "supereditor", "blog_article"],
