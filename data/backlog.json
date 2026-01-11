@@ -1,594 +1,6 @@
 {
   "queue": [
     {
-      "video_id": "NPkGR3gr2IM",
-      "title": "スウェーデンの小さな村が「ゲーム王国」に？| #ゲーム #ゲーム開発 #steam #goatsimulator #crossdig",
-      "channel": "TBS CROSS DIG with Bloomberg",
-      "published_at": "2026-01-09T08:45:04+00:00",
-      "added_at": "2026-01-11T23:14:27.929610"
-    },
-    {
-      "video_id": "dbOldEt8XZs",
-      "title": "YouTubeが世界最大の「テレビ局」になる？｜#youtube #テレビ #テレビ番組 #アカデミー賞 #crossdig",
-      "channel": "TBS CROSS DIG with Bloomberg",
-      "published_at": "2026-01-08T08:45:06+00:00",
-      "added_at": "2026-01-11T23:14:27.929717"
-    },
-    {
-      "video_id": "-MephIYPWt8",
-      "title": "ノーベル賞の原点は「貧しい子ども時代」にあった？| #ノーベル賞 #北川進 #オマーヤギー #パレスチナ #crossdig",
-      "channel": "TBS CROSS DIG with Bloomberg",
-      "published_at": "2026-01-07T08:40:00+00:00",
-      "added_at": "2026-01-11T23:14:27.929743"
-    },
-    {
-      "video_id": "kbL13YVm7jA",
-      "title": "日本は「飲み過ぎ」で年間4兆円を失っている？｜#アルコール #お酒 #飲み会 #経済損失 #crossdig",
-      "channel": "TBS CROSS DIG with Bloomberg",
-      "published_at": "2026-01-06T08:40:02+00:00",
-      "added_at": "2026-01-11T23:14:27.929762"
-    },
-    {
-      "video_id": "rXSJ8E09bEk",
-      "title": "データで判明 Z世代は「やる気がないわけじゃない」｜#篠原梨菜 #z世代 #働き方 #ワークスタイル #crossdig",
-      "channel": "TBS CROSS DIG with Bloomberg",
-      "published_at": "2026-01-05T08:40:00+00:00",
-      "added_at": "2026-01-11T23:14:27.929807"
-    },
-    {
-      "video_id": "VtIkWUfWsKI",
-      "title": "【不動産で大成功→死刑宣告 ベトナム“女帝”の転落】史上最大1.9兆円を横領／大手銀行を“支配”　不正融資はGDP11%分？／預金者はパニック　取り付け騒ぎも／億万長者が倍増したベトナム経済の闇",
-      "channel": "TBS CROSS DIG with Bloomberg",
-      "published_at": "2026-01-03T22:00:27+00:00",
-      "added_at": "2026-01-11T23:14:27.929829"
-    },
-    {
-      "video_id": "kgp_riXViEo",
-      "title": "【台湾有事】中国はアメリカに追いつけるのか",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-11T10:01:12+00:00",
-      "added_at": "2026-01-11T23:14:28.661795"
-    },
-    {
-      "video_id": "PaUyXFsIWgk",
-      "title": "【集中力爆上がり】美容室EARTH取締役の朝活術",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-11T03:00:34+00:00",
-      "added_at": "2026-01-11T23:14:28.661911"
-    },
-    {
-      "video_id": "c8S3LVhtHQU",
-      "title": "【食品添加物】コンビニのおにぎりは健康？",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-10T21:00:41+00:00",
-      "added_at": "2026-01-11T23:14:28.661930"
-    },
-    {
-      "video_id": "AY99b_KNyUY",
-      "title": "【新築ではなく中古を選べ】家賃年収5500万円・歴13年の大家が今から不動産投資を始めるなら？",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-10T21:00:09+00:00",
-      "added_at": "2026-01-11T23:14:28.661982"
-    },
-    {
-      "video_id": "N1u0xhP8vx0",
-      "title": "【ベネズエラ攻撃】モンロー主義復活で西半球はアメリカのもの？",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-10T03:00:26+00:00",
-      "added_at": "2026-01-11T23:14:28.662050"
-    },
-    {
-      "video_id": "9LZAmcnFf84",
-      "title": "【石油大国ベネズエラ】トランプの本音は中国経済の崩壊？",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-10T03:00:21+00:00",
-      "added_at": "2026-01-11T23:14:28.662099"
-    },
-    {
-      "video_id": "4trwh-iAdM8",
-      "title": "【外国人問題】”エリート”は日本に来ない？",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-09T21:00:14+00:00",
-      "added_at": "2026-01-11T23:14:28.662119"
-    },
-    {
-      "video_id": "81TSOkrfx1w",
-      "title": "【ベネズエラ攻撃】中国には入ってきてほしくない？",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-09T12:00:23+00:00",
-      "added_at": "2026-01-11T23:14:28.662158"
-    },
-    {
-      "video_id": "Aw35LJPZ4QY",
-      "title": "【国際法なんて存在しない】やりたい放題の米国",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-09T12:00:19+00:00",
-      "added_at": "2026-01-11T23:14:28.662179"
-    },
-    {
-      "video_id": "ot1PRZoJ8rY",
-      "title": "【ベネズエラ攻撃】中国にとっては「大恥」？",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-09T03:01:08+00:00",
-      "added_at": "2026-01-11T23:14:28.662198"
-    },
-    {
-      "video_id": "tgAm7n4QYGc",
-      "title": "【婚活】高収入男性の意外な落とし穴  #newspicks",
-      "channel": "NewsPicks /ニューズピックス",
-      "published_at": "2026-01-09T22:01:12+00:00",
-      "added_at": "2026-01-11T23:14:29.655303"
-    },
-    {
-      "video_id": "bhn1DBT35kA",
-      "title": "【平野啓一郎】NYの過酷な現実　#田内学  #平野啓一郎 #投資 #金融 #お金 #経済 #資本主義 #文学 #金利 #インフレ #資産",
-      "channel": "NewsPicks /ニューズピックス",
-      "published_at": "2026-01-09T12:01:18+00:00",
-      "added_at": "2026-01-11T23:14:29.655405"
-    },
-    {
-      "video_id": "AM8IK1z85Bg",
-      "title": "【インリン】セクシーな格好でも無礼は許さない  #newspicks",
-      "channel": "NewsPicks /ニューズピックス",
-      "published_at": "2026-01-09T09:00:15+00:00",
-      "added_at": "2026-01-11T23:14:29.655429"
-    },
-    {
-      "video_id": "bq7L63LJls8",
-      "title": "【ホリエモン×竹中平蔵 】「税調インナー」とは？　#堀江貴文 #ホリエモン #horieone #竹中平蔵 #経済政策  #補正予算  #高市早苗  #高市内閣 #インフレ  #税制改革 #税金",
-      "channel": "NewsPicks /ニューズピックス",
-      "published_at": "2026-01-09T03:00:50+00:00",
-      "added_at": "2026-01-11T23:14:29.655443"
-    },
-    {
-      "video_id": "I2NM4Z_BhNU",
-      "title": "【痴漢対策】歩きスマホもNG  #newspicks",
-      "channel": "NewsPicks /ニューズピックス",
-      "published_at": "2026-01-08T22:00:19+00:00",
-      "added_at": "2026-01-11T23:14:29.655466"
-    },
-    {
-      "video_id": "WrPpN8MTYDs",
-      "title": "【石丸伸二×平川理恵】学校内に感謝の人間関係を作る　#TheBOOSTERS #石丸伸二 #平川理恵 #教育 #学校 #公立 #私立 #子育て",
-      "channel": "NewsPicks /ニューズピックス",
-      "published_at": "2026-01-08T12:01:08+00:00",
-      "added_at": "2026-01-11T23:14:29.655534"
-    },
-    {
-      "video_id": "oH5kLyaHmDI",
-      "title": "【受験】テストの順位張り出すべき？  #newspicks",
-      "channel": "NewsPicks /ニューズピックス",
-      "published_at": "2026-01-08T09:01:14+00:00",
-      "added_at": "2026-01-11T23:14:29.655570"
-    },
-    {
-      "video_id": "SH0iAm0fxRM",
-      "title": "データセキュリティ領域の重要性とやりがい｜NewsPicks for WE",
-      "channel": "NewsPicks /ニューズピックス",
-      "published_at": "2026-01-08T03:00:37+00:00",
-      "added_at": "2026-01-11T23:14:29.655620"
-    },
-    {
-      "video_id": "Px7J_N4SUxw",
-      "title": "【大企業】諦めている人が会社をダメにする  #newspicks",
-      "channel": "NewsPicks /ニューズピックス",
-      "published_at": "2026-01-07T22:00:24+00:00",
-      "added_at": "2026-01-11T23:14:29.655690"
-    },
-    {
-      "video_id": "N1_B04CXg2E",
-      "title": "【平野啓一郎】「ありのままの自分」とは？　#田内学  #平野啓一郎 #投資 #金融 #お金 #経済 #資本主義 #文学 #金利 #インフレ #資産",
-      "channel": "NewsPicks /ニューズピックス",
-      "published_at": "2026-01-07T12:00:51+00:00",
-      "added_at": "2026-01-11T23:14:29.655737"
-    },
-    {
-      "video_id": "ImjableRRK4",
-      "title": "【ベネズエラ攻撃】マーケットは血も涙もない。",
-      "channel": "田端大学　投資学部",
-      "published_at": "2026-01-08T08:00:31+00:00",
-      "added_at": "2026-01-11T23:14:30.694156"
-    },
-    {
-      "video_id": "K_2DAX8AKGg",
-      "title": "【戦争なら株を買え】トランプのベネズエラ攻撃で株が爆上げ！これが市場の現実です。",
-      "channel": "田端大学　投資学部",
-      "published_at": "2026-01-07T09:31:07+00:00",
-      "added_at": "2026-01-11T23:14:30.694383"
-    },
-    {
-      "video_id": "8akvb20iZj4",
-      "title": "オリーブの古木が教えてくれること。　　=【新年のご挨拶】=2026年も田端信太郎を宜しくお願いいたします。",
-      "channel": "田端大学　投資学部",
-      "published_at": "2026-01-01T04:44:20+00:00",
-      "added_at": "2026-01-11T23:14:30.694567"
-    },
-    {
-      "video_id": "uy-3L43yk4E",
-      "title": "Christine Lagarde: 'I've Often Been an Outsider'",
-      "channel": "Bloomberg Originals",
-      "published_at": "2026-01-09T20:00:48+00:00",
-      "added_at": "2026-01-11T23:14:32.054927"
-    },
-    {
-      "video_id": "cT30j6xmMHA",
-      "title": "Highlights from This Season of The Circuit with Emily Chang",
-      "channel": "Bloomberg Originals",
-      "published_at": "2025-12-29T15:01:19+00:00",
-      "added_at": "2026-01-11T23:14:32.055098"
-    },
-    {
-      "video_id": "OyqyzQuQ-28",
-      "title": "What Happens When Reese Witherspoon Calls?",
-      "channel": "Bloomberg Originals",
-      "published_at": "2025-12-22T16:20:28+00:00",
-      "added_at": "2026-01-11T23:14:32.055209"
-    },
-    {
-      "video_id": "72G1kJBpFlk",
-      "title": "Spending a Day at the Disney Entertainment Studios",
-      "channel": "Bloomberg Originals",
-      "published_at": "2025-12-17T19:27:13+00:00",
-      "added_at": "2026-01-11T23:14:32.055321"
-    },
-    {
-      "video_id": "NI6hHh-lq1Y",
-      "title": "Theresa May's Biggest Regret as UK Prime Minister",
-      "channel": "Bloomberg Originals",
-      "published_at": "2025-12-13T17:00:40+00:00",
-      "added_at": "2026-01-11T23:14:32.055445"
-    },
-    {
-      "video_id": "HgduyEpRnWU",
-      "title": "How Is Kris Jenner as a Negotiator?",
-      "channel": "Bloomberg Originals",
-      "published_at": "2025-12-12T22:42:18+00:00",
-      "added_at": "2026-01-11T23:14:32.055525"
-    },
-    {
-      "video_id": "kEWgQJq-K7g",
-      "title": "Why Aptera Is Doomed To Fail",
-      "channel": "Broken Business Models",
-      "published_at": "2025-10-18T19:53:23+00:00",
-      "added_at": "2026-01-11T23:14:34.014968"
-    },
-    {
-      "video_id": "5QCkWGiQxmQ",
-      "title": "Archer Aviation",
-      "channel": "Broken Business Models",
-      "published_at": "2025-10-14T01:08:10+00:00",
-      "added_at": "2026-01-11T23:14:34.015153"
-    },
-    {
-      "video_id": "WsoZ3o0OK3g",
-      "title": "How a 16-Year-Old Worked at a Stanford Lab",
-      "channel": "EO Global",
-      "published_at": "2026-01-08T14:30:28+00:00",
-      "added_at": "2026-01-11T23:14:34.763457"
-    },
-    {
-      "video_id": "lSwy8iMlg2k",
-      "title": "How Founders Gets a Yes After 30 No's",
-      "channel": "EO Global",
-      "published_at": "2025-12-28T02:01:01+00:00",
-      "added_at": "2026-01-11T23:14:34.763609"
-    },
-    {
-      "video_id": "rytvigNQp_c",
-      "title": "How ex-Meta CTO Spots Breakout Tech Early",
-      "channel": "EO Global",
-      "published_at": "2025-12-26T14:01:29+00:00",
-      "added_at": "2026-01-11T23:14:34.763743"
-    },
-    {
-      "video_id": "kBxBIbR72W4",
-      "title": "A 50-Unicorn VC Explains What Defines an Exceptional Founder",
-      "channel": "EO Global",
-      "published_at": "2025-12-07T13:45:14+00:00",
-      "added_at": "2026-01-11T23:14:34.763911"
-    },
-    {
-      "video_id": "NxxkZtPUflM",
-      "title": "How did I build a great company",
-      "channel": "EO Global",
-      "published_at": "2025-12-06T13:45:06+00:00",
-      "added_at": "2026-01-11T23:14:34.763984"
-    },
-    {
-      "video_id": "zTYymWpptyI",
-      "title": "Google's First PM: The 10X Principle That Built Google #shorts",
-      "channel": "EO Global",
-      "published_at": "2025-12-05T13:45:08+00:00",
-      "added_at": "2026-01-11T23:14:34.764018"
-    },
-    {
-      "video_id": "Whyw7bMhDlQ",
-      "title": "3 Daily Habits to Master AI #shorts #ai",
-      "channel": "EO Global",
-      "published_at": "2025-11-28T13:30:43+00:00",
-      "added_at": "2026-01-11T23:14:34.764096"
-    },
-    {
-      "video_id": "3oM4gpAMliE",
-      "title": "How I Optimize My Content for Every Platform #shorts #contentcreator",
-      "channel": "EO Global",
-      "published_at": "2025-11-27T14:30:06+00:00",
-      "added_at": "2026-01-11T23:14:34.764132"
-    },
-    {
-      "video_id": "wrbTFrIqcfU",
-      "title": "The career stairs trap",
-      "channel": "Lenny's Podcast",
-      "published_at": "2026-01-07T12:02:04+00:00",
-      "added_at": "2026-01-11T23:14:35.716134"
-    },
-    {
-      "video_id": "XudmOTg6UFw",
-      "title": "You can't force company culture",
-      "channel": "Lenny's Podcast",
-      "published_at": "2026-01-06T12:01:16+00:00",
-      "added_at": "2026-01-11T23:14:35.716232"
-    },
-    {
-      "video_id": "M7R6pGLNAaQ",
-      "title": "\"Give away your Legos\"",
-      "channel": "Lenny's Podcast",
-      "published_at": "2026-01-05T18:00:26+00:00",
-      "added_at": "2026-01-11T23:14:35.716283"
-    },
-    {
-      "video_id": "DSUCSGU05DU",
-      "title": "\"We're done with hiring humans\"",
-      "channel": "Lenny's Podcast",
-      "published_at": "2026-01-03T12:00:32+00:00",
-      "added_at": "2026-01-11T23:14:35.716335"
-    },
-    {
-      "video_id": "HK6dtaX4I8w",
-      "title": "These sales roles are being replaced by AI",
-      "channel": "Lenny's Podcast",
-      "published_at": "2026-01-02T20:00:12+00:00",
-      "added_at": "2026-01-11T23:14:35.716376"
-    },
-    {
-      "video_id": "R0QFrGKVgIA",
-      "title": "Is AI about to wipe out a huge part of sales?",
-      "channel": "Lenny's Podcast",
-      "published_at": "2026-01-02T16:29:24+00:00",
-      "added_at": "2026-01-11T23:14:35.716405"
-    },
-    {
-      "video_id": "-CXiuquaGHc",
-      "title": "What separates great teams from the rest",
-      "channel": "Lenny's Podcast",
-      "published_at": "2025-12-31T14:30:00+00:00",
-      "added_at": "2026-01-11T23:14:35.716458"
-    },
-    {
-      "video_id": "q6vuFsRFyqI",
-      "title": "\"Fate has already decided the outcome\"",
-      "channel": "Lenny's Podcast",
-      "published_at": "2025-12-30T18:01:04+00:00",
-      "added_at": "2026-01-11T23:14:35.716486"
-    },
-    {
-      "video_id": "SYbKTTEWjIg",
-      "title": "Matt MacInnis founded Inkling and is now COO at Rippling",
-      "channel": "Lenny's Podcast",
-      "published_at": "2025-12-30T14:30:26+00:00",
-      "added_at": "2026-01-11T23:14:35.716513"
-    },
-    {
-      "video_id": "l0oopoYXz6c",
-      "title": "\"Teams will always optimize for local comfort\"",
-      "channel": "Lenny's Podcast",
-      "published_at": "2025-12-29T16:20:02+00:00",
-      "added_at": "2026-01-11T23:14:35.716559"
-    },
-    {
-      "video_id": "NcIBcfWpBPQ",
-      "title": "How a chatbot can get hijacked",
-      "channel": "Lenny's Podcast",
-      "published_at": "2025-12-24T21:00:22+00:00",
-      "added_at": "2026-01-11T23:14:35.716620"
-    },
-    {
-      "video_id": "qGA_rGJlTFs",
-      "title": "Netanyahu: Arab leaders don’t care about the Palestinian issue",
-      "channel": "The Economist",
-      "published_at": "2026-01-10T17:01:18+00:00",
-      "added_at": "2026-01-11T23:14:38.222515"
-    },
-    {
-      "video_id": "9m17-C9gPGw",
-      "title": "Why Chinese women made Sherlock Holmes a gay icon",
-      "channel": "The Economist",
-      "published_at": "2026-01-10T15:00:27+00:00",
-      "added_at": "2026-01-11T23:14:38.222639"
-    },
-    {
-      "video_id": "1WLlX66X-RA",
-      "title": "Netanyahu: we didn't carpet bomb Gaza",
-      "channel": "The Economist",
-      "published_at": "2026-01-10T11:00:03+00:00",
-      "added_at": "2026-01-11T23:14:38.222664"
-    },
-    {
-      "video_id": "HF16N3TtIyw",
-      "title": "Netanyahu on why journalists can’t enter Gaza without the IDF",
-      "channel": "The Economist",
-      "published_at": "2026-01-09T19:06:43+00:00",
-      "added_at": "2026-01-11T23:14:38.222718"
-    },
-    {
-      "video_id": "gH2BGuPtdwA",
-      "title": "Binyamin Netanyahu on how Israel justifies its war in Gaza",
-      "channel": "The Economist",
-      "published_at": "2026-01-09T17:19:49+00:00",
-      "added_at": "2026-01-11T23:14:38.222739"
-    },
-    {
-      "video_id": "g7pAnlLgtRk",
-      "title": "Netanyahu: I want to end US military aid to Israel within ten years",
-      "channel": "The Economist",
-      "published_at": "2026-01-09T16:32:56+00:00",
-      "added_at": "2026-01-11T23:14:38.222758"
-    },
-    {
-      "video_id": "Ijcw7l17c0w",
-      "title": "Should you buy your employer's shares?",
-      "channel": "The Economist",
-      "published_at": "2026-01-08T11:00:37+00:00",
-      "added_at": "2026-01-11T23:14:38.222798"
-    },
-    {
-      "video_id": "QK3o3kmA7HU",
-      "title": "Will humans still fight in future wars?",
-      "channel": "The Economist",
-      "published_at": "2026-01-07T17:28:40+00:00",
-      "added_at": "2026-01-11T23:14:38.222853"
-    },
-    {
-      "video_id": "5_Q_pPiUNo8",
-      "title": "Is Europe ready for war? | In conversation with Torsten Reil, co-founder of Helsing",
-      "channel": "The Economist",
-      "published_at": "2026-01-07T16:35:53+00:00",
-      "added_at": "2026-01-11T23:14:38.222884"
-    },
-    {
-      "video_id": "ecojs-0F6xc",
-      "title": "Could Donald Trump take Greenland?",
-      "channel": "The Economist",
-      "published_at": "2026-01-06T23:51:57+00:00",
-      "added_at": "2026-01-11T23:14:38.222935"
-    },
-    {
-      "video_id": "nkzFqwtyavs",
-      "title": "How much oil can Trump get out of Venezuela?",
-      "channel": "The Economist",
-      "published_at": "2026-01-05T22:25:03+00:00",
-      "added_at": "2026-01-11T23:14:38.222959"
-    },
-    {
-      "video_id": "faaAQufbx5g",
-      "title": "After Venezuela, which country could Trump target next?",
-      "channel": "The Economist",
-      "published_at": "2026-01-05T20:30:15+00:00",
-      "added_at": "2026-01-11T23:14:38.223014"
-    },
-    {
-      "video_id": "xFSnHEDI9Ug",
-      "title": "After Venezuela, which country could Trump target next?",
-      "channel": "The Economist",
-      "published_at": "2026-01-05T19:09:38+00:00",
-      "added_at": "2026-01-11T23:14:38.223038"
-    },
-    {
-      "video_id": "Vy1kudvg8ME",
-      "title": "The boundaries of superhumanity will be tested in 2026",
-      "channel": "The Economist",
-      "published_at": "2026-01-04T11:00:57+00:00",
-      "added_at": "2026-01-11T23:14:38.223056"
-    },
-    {
-      "video_id": "CH39w_ZhGRE",
-      "title": "Pray for a lost decade with Josh Brown",
-      "channel": "The Prof G Pod – Scott Galloway",
-      "published_at": "2026-01-10T14:00:18+00:00",
-      "added_at": "2026-01-11T23:14:39.321819"
-    },
-    {
-      "video_id": "d4ynoRC4fnI",
-      "title": "The Secret in Your Foie Gras",
-      "channel": "The Prof G Pod – Scott Galloway",
-      "published_at": "2026-01-09T19:00:42+00:00",
-      "added_at": "2026-01-11T23:14:39.322001"
-    },
-    {
-      "video_id": "4sUbUNP64Ak",
-      "title": "Are the AI bubble fears legitimate with Josh Brown",
-      "channel": "The Prof G Pod – Scott Galloway",
-      "published_at": "2026-01-09T16:30:00+00:00",
-      "added_at": "2026-01-11T23:14:39.322123"
-    },
-    {
-      "video_id": "yD_a6jWJ7qg",
-      "title": "Should Prof G Markets launch a true crime podcast in 2026?",
-      "channel": "The Prof G Pod – Scott Galloway",
-      "published_at": "2026-01-08T22:01:18+00:00",
-      "added_at": "2026-01-11T23:14:39.322268"
-    },
-    {
-      "video_id": "FJ5jblS6aIk",
-      "title": "California's controversial wealth tax rattles tech titans.",
-      "channel": "The Prof G Pod – Scott Galloway",
-      "published_at": "2026-01-08T18:15:03+00:00",
-      "added_at": "2026-01-11T23:14:39.322349"
-    },
-    {
-      "video_id": "7QF9y7p0hrg",
-      "title": "Why college is still valuable in 2026 with @profgalloway",
-      "channel": "The Prof G Pod – Scott Galloway",
-      "published_at": "2026-01-08T18:00:15+00:00",
-      "added_at": "2026-01-11T23:14:39.322466"
-    },
-    {
-      "video_id": "LMl4GiqtKAs",
-      "title": "Tesla’s Worst Year Ever?",
-      "channel": "The Prof G Pod – Scott Galloway",
-      "published_at": "2026-01-08T14:00:39+00:00",
-      "added_at": "2026-01-11T23:14:39.322601"
-    },
-    {
-      "video_id": "91B7JnJokvU",
-      "title": "What the new GLP-1 pill means for obesity treatment",
-      "channel": "The Prof G Pod – Scott Galloway",
-      "published_at": "2026-01-07T18:00:09+00:00",
-      "added_at": "2026-01-11T23:14:39.322724"
-    },
-    {
-      "video_id": "PTYDUWicY8s",
-      "title": "Will China Retaliate?",
-      "channel": "The Prof G Pod – Scott Galloway",
-      "published_at": "2026-01-07T17:21:40+00:00",
-      "added_at": "2026-01-11T23:14:39.322834"
-    }
-  ],
-  "failed": [
-    {
-      "video_id": "My6_0qquXko",
-      "title": "【疲れやすい・太りやすいをなくす】菊池雄星投手らプロアスリートの体を変えた超革新トレーニング／スクワット／レッグプレス／ランジ／下半身強化の理由【BODY SKILL SET】",
-      "channel": "PIVOT 公式チャンネル",
-      "published_at": "2026-01-10T11:00:52+00:00",
-      "added_at": "2026-01-11T09:48:33.823971",
-      "duration_seconds": 1758,
-      "duration": "PT29M18S",
-      "thumbnail": "https://i.ytimg.com/vi/My6_0qquXko/hqdefault.jpg",
-      "description": "▼続きはこちら（1/17 20時 公開）：\n\n▼動画の概要が3分で分かる「要点まとめ記事」はこちら\nhttps://pivotmedia.co.jp/launch_app?path=movie/13858&display_type=article&override=true\n\n▼PIVOTアプリなら「バックグラウンド再生」「ダウンロード機能」「音声モード再生」が無料。 アプリダウンロードはこちら↓（無料）\nhttps://pivot.go.link/?adj_t=1w45a0jy&redirect=https://pivotmedia.co.jp/movie/13858\n視聴ごとにマイルが貯まり、Amazonギフト券などの特典と交換できます。\n\n＜ゲスト＞\n清水忍｜トレーニングジムIPFヘッドトレーナー\n大手フィットネスクラブ勤務後、独立。「なぜ」を追求するロジカルなトレーニング指導でメジャーリーガー菊池雄星投手らプロアスリートのパーソナルトレーナーとして絶大な人気を誇る。\n\n＜MC＞\n国山ハセン｜PIVOT MC\n\n＜参考書籍＞\n『ロジカル筋トレ 超合理的に体を変える』\n清水忍(著) 幻冬舎(刊)\nhttps://amzn.to/3L2SmFS\n※上記リンクURLはAmazonアソシエイトのリンクを使用しています。\n\n＜目次＞\n00:00　ダイジェスト\n01:04　ロジカル筋トレとは？\n06:02　「押す」スクワット\n12:20　レッグプレスの新常識\n20:00　走りが速くなるランジ\n27:45　次回予告\n\nサムネイル\n写真：iStock\n\n#筋トレ #筋肉 #運動 #動作 #トレーニング #パフォーマンス #動き #スクワット #レッグプレス #ランジ #肉体 #肉体改造 #PIVOT #ピボット"
-    },
-    {
-      "video_id": "5WMKHhkoo_A",
-      "title": "【2026年 転職バブル終焉】量から質へ／女性転職に追い風／コンサル人気はなぜ起きた／AI時代に必要な推進力／転職がゴールではない／スキルの棚卸と言語化",
-      "channel": "PIVOT 公式チャンネル",
-      "published_at": "2026-01-10T03:00:07+00:00",
-      "added_at": "2026-01-11T09:48:33.823992",
-      "duration_seconds": 2432,
-      "duration": "PT40M32S",
-      "thumbnail": "https://i.ytimg.com/vi/5WMKHhkoo_A/hqdefault.jpg",
-      "description": "▼動画の概要が3分で分かる「要点まとめ記事」はこちら\nhttps://pivotmedia.co.jp/launch_app?path=movie/13863&display_type=article&override=true\n\n▼PIVOTアプリなら「バックグラウンド再生」「ダウンロード機能」「音声モード再生」が無料。 アプリダウンロードはこちら↓（無料）\nhttps://pivot.go.link/?adj_t=1wkarftc&redirect=https://pivotmedia.co.jp/movie/13863\n視聴ごとにマイルが貯まり、Amazonギフト券などの特典と交換できます。\n\n▼プロフィール\n岩下純子｜パソナ 常務執行役員\n大学卒業後、大手通信会社へ入社。同社退職後に専業主婦、派遣社員を経て2003年パソナキャリア大阪支社入社。名古屋支店の立ち上げ経験後、東京に異動。産休育休を取得後、人材紹介事業本部の企画部門の立ち上げを経て、現職。人材紹介事業歴は約20年。女性活躍推進に関するセミナーや研修も実施。\n\n山田将人｜パソナ キャリアアドバンテージ事業本部 コンサルティング統括部\n大学卒業後、某都市銀行に入社。法人・個人と幅広い融資業務に従事する。2018年6月、株式会社パソナへ入社。人材紹介コンサルティング業務を行う。エグゼクティブ・サーチ経験を通じて監査法人や税理士法人などを含む幅広い分野で数多くの経営幹部のサーチを手がけてきている。\n\n＜目次＞\n00:00　ダイジェスト\n00:49　転職バブルは終了、量より質へ\n12:12　AI時代に求められる「推進力」\n25:14　女性転職に追い風\n33:00　未来を拓く「言語化」の力\n\nサムネイル\n写真：iStock\n\n#転職 #バブル #コンサル #AI #スキル #言語化 #戦略 #質 #経験 #リテラシー #採用 #PIVOT #ピボット #西川典孝 #chatgpt #gemini #コンサル #コンサルティング #コンサルタント #給料 #ビジネス"
-    },
-    {
-      "video_id": "px3PWV4Ck-4",
-      "title": "【2026年超予測：AIと経営】日本のDXはうまくいってない／大企業が有利に／ゴールドラッシュの到来／AIがもたらす「新しい職業カースト」／生成AIは産業革命／企業に求められること",
-      "channel": "PIVOT 公式チャンネル",
-      "published_at": "2026-01-10T00:01:07+00:00",
-      "added_at": "2026-01-11T09:48:33.823999",
-      "duration_seconds": 3374,
-      "duration": "PT56M14S",
-      "thumbnail": "https://i.ytimg.com/vi/px3PWV4Ck-4/hqdefault.jpg",
-      "description": "▼動画の概要が3分で分かる「要点まとめ記事」はこちら\nhttps://pivotmedia.co.jp/launch_app?path=movie/13864&display_type=article&override=true\n\n▼PIVOTアプリなら「バックグラウンド再生」「ダウンロード機能」「音声モード再生」が無料。 アプリダウンロードはこちら↓（無料）\nhttps://pivot.go.link/?adj_t=1wg3wo7u&redirect=https://pivotmedia.co.jp/movie/13864\n視聴ごとにマイルが貯まり、Amazonギフト券などの特典と交換できます。\n\n▼ アプリに投稿されたコメントを見る↓\nhttps://pivotmedia.co.jp/launch_app?path=movie/13864&display_type=movie&override=true\n\n▼プロフィール\n須藤憲司｜Kaizen Platform 代表\nリクルートホールディングスに入社後、マーケティングや新規事業開発を経て、リクルートマーケティングパートナーズ執行役員として活躍。2013年にKaizen Platformを創業。デジタル変革の旗手として、企業の顧客体験の改善やデジタルトランスフォーメーション推進を牽引。\n\n＜目次＞\n00:00　ダイジェスト\n02:29　なぜAIはDXを超えるのか\n13:01　AIは「使う」競争の時代へ\n19:19　新たなAIカーストと大企業の未来\n36:19　AIで仕事が危ないのは誰か\n43:50　AIはドラえもんではなくポケモン\n\nサムネイル\n写真：iStock\n\n#AI #DX #IT #経営 #ビジネス #ホワイトカラー #マーケティング #組織 #デジタル #広告 #生成AI #PIVOT #ピボット"
-    },
-    {
       "video_id": "qjQH4XH4PBQ",
       "title": "【資産1億円はもはや富裕層ではない】1000人の富裕層から学んだ実態／杉村太蔵も驚く“新富裕層”お金の価値観／あなたはどの富裕層タイプ？4象限マトリクスで診断【PIVOT TALK SPECIAL】",
       "channel": "PIVOT 公式チャンネル",
@@ -1192,7 +604,211 @@
       "duration": "PT10M59S",
       "thumbnail": "https://i.ytimg.com/vi/B_7-8pS5Q6g/hqdefault.jpg",
       "description": "Looking to invest in energy stocks? You've come to the right place. In this video, we'll discuss one of our top-rated dividend growth stocks, which also happens to be a great play on the hidden opportunity of Canadian oil sands. This is one of the cheapest and easiest ways to get oil, and it comes from a country with which the U.S. is currently pretty friendly with. What more could you ask for?\n\nRESEARCH PIECES USED IN THIS VIDEO:\n1. How to Build A Great Dividend Portfolio\nhttps://www.youtube.com/watch?v=fv1NCFj_zvo\n2. How Will Electric Cars Impact the Oil Industry?\nhttps://www.nanalyze.com/2018/12/electric-cars-impact-oil-industry/\n\nCHAPTERS:\n00:00 Intro\n00:29 Which countries have the largest oil reserves?\n02:39 Canadian oil sands\n05:23 The Canadian oil opportunity\n06:30 Top Canadian oil stocks\n07:31 Canadian Natural Resources stock\n10:00 Conclusion\n\nABOUT US:\nThis video is brought to you by Nanalyze, a media and research firm founded by finance professionals with decades of experience. We share insights about #DisruptiveTechnology #stocks in a language that is future-proof and easy to understand.\n\nRead all the Nanalyze Premium articles you'd like for free! Sign up for a 30-day trial of our monthly subscription with no strings attached: https://www.nanalyze.com/subscription-plans/\n\nDISCLAIMER: Our content is intended to be used and must be used for informational purposes only. It is very important to do your own analysis before making any investment based on your own personal circumstances. You should take independent financial advice from a professional in connection with, along with independently researching and verifying, any information contained within our YouTube videos or on our website, whether for the purpose of making an investment or otherwise.\n\n$CNQ\n#dividendgrowth \n#dividendinvesting \n#dividendincome \n#dividendinvestor \n#dividends \n#dividendstocks \n#oilstocks"
+    },
+    {
+      "video_id": "NPkGR3gr2IM",
+      "title": "スウェーデンの小さな村が「ゲーム王国」に？| #ゲーム #ゲーム開発 #steam #goatsimulator #crossdig",
+      "channel": "TBS CROSS DIG with Bloomberg",
+      "published_at": "2026-01-09T08:45:04+00:00",
+      "added_at": "2026-01-11T23:55:41.671948"
+    },
+    {
+      "video_id": "kgp_riXViEo",
+      "title": "【台湾有事】中国はアメリカに追いつけるのか",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-01-11T10:01:12+00:00",
+      "added_at": "2026-01-11T23:55:41.671964"
+    },
+    {
+      "video_id": "PaUyXFsIWgk",
+      "title": "【集中力爆上がり】美容室EARTH取締役の朝活術",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-01-11T03:00:34+00:00",
+      "added_at": "2026-01-11T23:55:41.671972"
+    },
+    {
+      "video_id": "c8S3LVhtHQU",
+      "title": "【食品添加物】コンビニのおにぎりは健康？",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-01-10T21:00:41+00:00",
+      "added_at": "2026-01-11T23:55:41.671979"
+    },
+    {
+      "video_id": "AY99b_KNyUY",
+      "title": "【新築ではなく中古を選べ】家賃年収5500万円・歴13年の大家が今から不動産投資を始めるなら？",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-01-10T21:00:09+00:00",
+      "added_at": "2026-01-11T23:55:41.671986"
+    },
+    {
+      "video_id": "N1u0xhP8vx0",
+      "title": "【ベネズエラ攻撃】モンロー主義復活で西半球はアメリカのもの？",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-01-10T03:00:26+00:00",
+      "added_at": "2026-01-11T23:55:41.671992"
+    },
+    {
+      "video_id": "9LZAmcnFf84",
+      "title": "【石油大国ベネズエラ】トランプの本音は中国経済の崩壊？",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-01-10T03:00:21+00:00",
+      "added_at": "2026-01-11T23:55:41.671999"
+    },
+    {
+      "video_id": "4trwh-iAdM8",
+      "title": "【外国人問題】”エリート”は日本に来ない？",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-01-09T21:00:14+00:00",
+      "added_at": "2026-01-11T23:55:41.672005"
+    },
+    {
+      "video_id": "81TSOkrfx1w",
+      "title": "【ベネズエラ攻撃】中国には入ってきてほしくない？",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-01-09T12:00:23+00:00",
+      "added_at": "2026-01-11T23:55:41.672012"
+    },
+    {
+      "video_id": "Aw35LJPZ4QY",
+      "title": "【国際法なんて存在しない】やりたい放題の米国",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-01-09T12:00:19+00:00",
+      "added_at": "2026-01-11T23:55:41.672018"
+    },
+    {
+      "video_id": "ot1PRZoJ8rY",
+      "title": "【ベネズエラ攻撃】中国にとっては「大恥」？",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-01-09T03:01:08+00:00",
+      "added_at": "2026-01-11T23:55:41.672025"
+    },
+    {
+      "video_id": "tgAm7n4QYGc",
+      "title": "【婚活】高収入男性の意外な落とし穴  #newspicks",
+      "channel": "NewsPicks /ニューズピックス",
+      "published_at": "2026-01-09T22:01:12+00:00",
+      "added_at": "2026-01-11T23:55:41.672032"
+    },
+    {
+      "video_id": "bhn1DBT35kA",
+      "title": "【平野啓一郎】NYの過酷な現実　#田内学  #平野啓一郎 #投資 #金融 #お金 #経済 #資本主義 #文学 #金利 #インフレ #資産",
+      "channel": "NewsPicks /ニューズピックス",
+      "published_at": "2026-01-09T12:01:18+00:00",
+      "added_at": "2026-01-11T23:55:41.672039"
+    },
+    {
+      "video_id": "AM8IK1z85Bg",
+      "title": "【インリン】セクシーな格好でも無礼は許さない  #newspicks",
+      "channel": "NewsPicks /ニューズピックス",
+      "published_at": "2026-01-09T09:00:15+00:00",
+      "added_at": "2026-01-11T23:55:41.672045"
+    },
+    {
+      "video_id": "bq7L63LJls8",
+      "title": "【ホリエモン×竹中平蔵 】「税調インナー」とは？　#堀江貴文 #ホリエモン #horieone #竹中平蔵 #経済政策  #補正予算  #高市早苗  #高市内閣 #インフレ  #税制改革 #税金",
+      "channel": "NewsPicks /ニューズピックス",
+      "published_at": "2026-01-09T03:00:50+00:00",
+      "added_at": "2026-01-11T23:55:41.672052"
+    },
+    {
+      "video_id": "I2NM4Z_BhNU",
+      "title": "【痴漢対策】歩きスマホもNG  #newspicks",
+      "channel": "NewsPicks /ニューズピックス",
+      "published_at": "2026-01-08T22:00:19+00:00",
+      "added_at": "2026-01-11T23:55:41.672059"
+    },
+    {
+      "video_id": "uy-3L43yk4E",
+      "title": "Christine Lagarde: 'I've Often Been an Outsider'",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-01-09T20:00:48+00:00",
+      "added_at": "2026-01-11T23:55:41.672067"
+    },
+    {
+      "video_id": "qGA_rGJlTFs",
+      "title": "Netanyahu: Arab leaders don’t care about the Palestinian issue",
+      "channel": "The Economist",
+      "published_at": "2026-01-10T17:01:18+00:00",
+      "added_at": "2026-01-11T23:55:41.672077"
+    },
+    {
+      "video_id": "9m17-C9gPGw",
+      "title": "Why Chinese women made Sherlock Holmes a gay icon",
+      "channel": "The Economist",
+      "published_at": "2026-01-10T15:00:27+00:00",
+      "added_at": "2026-01-11T23:55:41.672084"
+    },
+    {
+      "video_id": "1WLlX66X-RA",
+      "title": "Netanyahu: we didn't carpet bomb Gaza",
+      "channel": "The Economist",
+      "published_at": "2026-01-10T11:00:03+00:00",
+      "added_at": "2026-01-11T23:55:41.672092"
+    },
+    {
+      "video_id": "HF16N3TtIyw",
+      "title": "Netanyahu on why journalists can’t enter Gaza without the IDF",
+      "channel": "The Economist",
+      "published_at": "2026-01-09T19:06:43+00:00",
+      "added_at": "2026-01-11T23:55:41.672099"
+    },
+    {
+      "video_id": "gH2BGuPtdwA",
+      "title": "Binyamin Netanyahu on how Israel justifies its war in Gaza",
+      "channel": "The Economist",
+      "published_at": "2026-01-09T17:19:49+00:00",
+      "added_at": "2026-01-11T23:55:41.672106"
+    },
+    {
+      "video_id": "g7pAnlLgtRk",
+      "title": "Netanyahu: I want to end US military aid to Israel within ten years",
+      "channel": "The Economist",
+      "published_at": "2026-01-09T16:32:56+00:00",
+      "added_at": "2026-01-11T23:55:41.672114"
+    },
+    {
+      "video_id": "CH39w_ZhGRE",
+      "title": "Pray for a lost decade with Josh Brown",
+      "channel": "The Prof G Pod – Scott Galloway",
+      "published_at": "2026-01-10T14:00:18+00:00",
+      "added_at": "2026-01-11T23:55:41.672122"
+    },
+    {
+      "video_id": "d4ynoRC4fnI",
+      "title": "The Secret in Your Foie Gras",
+      "channel": "The Prof G Pod – Scott Galloway",
+      "published_at": "2026-01-09T19:00:42+00:00",
+      "added_at": "2026-01-11T23:55:41.672130"
+    },
+    {
+      "video_id": "4sUbUNP64Ak",
+      "title": "Are the AI bubble fears legitimate with Josh Brown",
+      "channel": "The Prof G Pod – Scott Galloway",
+      "published_at": "2026-01-09T16:30:00+00:00",
+      "added_at": "2026-01-11T23:55:41.672137"
+    },
+    {
+      "video_id": "yD_a6jWJ7qg",
+      "title": "Should Prof G Markets launch a true crime podcast in 2026?",
+      "channel": "The Prof G Pod – Scott Galloway",
+      "published_at": "2026-01-08T22:01:18+00:00",
+      "added_at": "2026-01-11T23:55:41.672148"
+    },
+    {
+      "video_id": "FJ5jblS6aIk",
+      "title": "California's controversial wealth tax rattles tech titans.",
+      "channel": "The Prof G Pod – Scott Galloway",
+      "published_at": "2026-01-08T18:15:03+00:00",
+      "added_at": "2026-01-11T23:55:41.672157"
+    },
+    {
+      "video_id": "7QF9y7p0hrg",
+      "title": "Why college is still valuable in 2026 with @profgalloway",
+      "channel": "The Prof G Pod – Scott Galloway",
+      "published_at": "2026-01-08T18:00:15+00:00",
+      "added_at": "2026-01-11T23:55:41.672165"
     }
   ],
-  "last_processed_at": "2026-01-11T23:04:52.407809"
+  "failed": [],
+  "last_processed_at": "2026-01-11T23:56:55.153428"
 }
