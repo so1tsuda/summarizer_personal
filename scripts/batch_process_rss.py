@@ -230,24 +230,27 @@ def main():
         print("処理対象の動画はありません")
         return 0
     
-    # 処理する動画数を制限
-    process_count = min(args.process_count, len(queue))
-    print(f"  今回処理: {process_count}件\n")
+    # 目標とする処理数
+    target_count = args.process_count
+    print(f"  目標処理数: {target_count}件\n")
     
     processed_count = 0
     failed_count = 0
+    skipped_count = 0
     
-    for i in range(process_count):
+    # 目標数に達するか、キューが空になるまでループ
+    while processed_count < target_count and queue:
         video = queue[0]  # 常に先頭から取得
         
         print(f"\n{'='*60}")
-        print(f"[{i+1}/{process_count}] {video['title']}")
+        print(f"[{processed_count+1}/{target_count}] {video['title']}")
         print(f"{'='*60}")
         
         # 動画の長さチェック
         if not filter_by_duration(youtube, video, min_duration_seconds=args.min_duration * 60):
-            print(f"  ✗ スキップ (短い動画)")
+            print(f"  ✗ スキップ (短い動画) → 次の動画を探します")
             queue.pop(0)
+            skipped_count += 1
             continue
         
         try:
@@ -269,7 +272,7 @@ def main():
             state = load_state(state_path)
             
             # レート制限対策（10 RPM = 6秒間隔）
-            if i < process_count - 1:
+            if processed_count < target_count and queue:
                 print("\n⏳ レート制限対策のため6秒待機...")
                 time.sleep(6)
         
@@ -281,6 +284,9 @@ def main():
             backlog['failed'].append(failed_video)
             failed_count += 1
             continue
+    
+    if skipped_count > 0:
+        print(f"\n📌 スキップした短い動画: {skipped_count}件")
     
     # バックログ保存
     if not args.dry_run:
