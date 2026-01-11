@@ -41,7 +41,7 @@ class GeminiSummarizer:
         
         # プロンプト設定の読み込み
         if config_dir is None:
-            config_dir = Path(__file__).parent.parent
+            config_dir = Path(__file__).parent
         
         config_path = Path(config_dir) / "model_configs.json"
         with open(config_path, 'r', encoding='utf-8') as f:
@@ -132,7 +132,7 @@ def load_api_key() -> str:
     try:
         from dotenv import load_dotenv
         
-        script_dir = Path(__file__).parent.parent
+        script_dir = Path(__file__).parent
         env_path = script_dir / ".env"
         
         if env_path.exists():
