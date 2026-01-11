@@ -1,7 +1,19 @@
 [project]
 name = "summarizer-personal"
 version = "0.1.0"
-description = "Add your description here"
+description = "YouTube動画を要約してブログ形式に変換するツール"
 readme = "README.md"
-requires-python = ">=3.11"
-dependencies = []
+requires-python = ">=3.10"
+dependencies = [
+    "google-api-python-client",
+    "youtube-transcript-api",
+    "google-genai",
+    "python-dotenv",
+    "openai",
+    "feedparser",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+]

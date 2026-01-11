@@ -13,12 +13,15 @@
 - **埋め込み動画**: 記事ページで直接YouTube視聴可能
 - **文字起こしコピー**: タイムスタンプ付き全文を1クリックでコピー
 
-## � セットアップ
+## 🔧 セットアップ
 
 ### 1. 依存関係のインストール
 
 ```bash
-# Python依存関係
+# Python依存関係（uv推奨）
+uv sync
+
+# または従来のpip
 pip install -r requirements.txt
 
 # Node.js依存関係（フロントエンド）
@@ -37,11 +40,11 @@ cp .env.example .env
 
 ```
 YOUTUBE_API_KEY=your_youtube_api_key
-GOOGLE_AI_API_KEY=your_google_ai_studio_api_key
+GEMINI_API_KEY=your_google_ai_studio_api_key
 ```
 
 - **YouTube API**: [Google Cloud Console](https://console.cloud.google.com/) で取得
-- **Google AI API**: [Google AI Studio](https://aistudio.google.com/apikey) で取得（無料）
+- **Gemini API**: [Google AI Studio](https://aistudio.google.com/apikey) で取得（無料）
 
 ### 3. チャンネル登録
 

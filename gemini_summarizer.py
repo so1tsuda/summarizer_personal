@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Google AI Studio Gemini API を使用した要約生成モジュール
-- OpenRouterの代わりにGoogle Gemini APIを使用
-- 無料枠を活用してコストを削減
+- 新しい google-genai SDK を使用
+- Gemini 2.5 Flash モデルをサポート
 """
 
 import os
@@ -11,14 +11,14 @@ import json
 from typing import Dict, Optional, Tuple
 from pathlib import Path
 
-import google.generativeai as genai
+from google import genai
 
 
 class GeminiSummarizer:
     def __init__(
         self,
         api_key: str,
-        model_name: str = "gemini-2.5-flash-lite",
+        model_name: str = "gemini-2.5-flash",
         prompt_template: str = "blog_article",
         config_dir: Optional[str] = None
     ):
@@ -26,7 +26,7 @@ class GeminiSummarizer:
         Gemini Summarizer の初期化
         
         Args:
-            api_key: Google AI Studio API Key
+            api_key: Google AI Studio API Key (GEMINI_API_KEY)
             model_name: 使用するGeminiモデル
             prompt_template: プロンプトテンプレート名
             config_dir: model_configs.json のディレクトリ
@@ -35,9 +35,8 @@ class GeminiSummarizer:
         self.model_name = model_name
         self.prompt_template = prompt_template
         
-        # Gemini API設定
-        genai.configure(api_key=api_key)
-        self.model = genai.GenerativeModel(model_name)
+        # 新SDK: Clientを初期化
+        self.client = genai.Client(api_key=api_key)
         
         # プロンプト設定の読み込み
         if config_dir is None:
@@ -90,13 +89,14 @@ class GeminiSummarizer:
             try:
                 print(f"  [Gemini {self.model_name}] 要約生成中... (試行 {attempt + 1}/{max_retries})")
                 
-                # Gemini API呼び出し
-                response = self.model.generate_content(
-                    [system_message, user_prompt],
-                    generation_config=genai.GenerationConfig(
-                        temperature=0.3,
-                        max_output_tokens=8192,
-                    )
+                # 新SDK: client.models.generate_content を使用
+                response = self.client.models.generate_content(
+                    model=self.model_name,
+                    contents=[system_message, user_prompt],
+                    config={
+                        "temperature": 0.3,
+                        "max_output_tokens": 8192,
+                    }
                 )
                 
                 summary = response.text
@@ -106,14 +106,13 @@ class GeminiSummarizer:
                     "model": self.model_name,
                     "prompt_template": self.prompt_template,
                     "attempt": attempt + 1,
-                    "finish_reason": response.candidates[0].finish_reason if response.candidates else None,
                 }
                 
-                print(f"  要約完了: {len(summary)}文字")
+                print(f"  ✅ 要約完了: {len(summary)}文字")
                 return summary, metadata
             
             except Exception as e:
-                print(f"  エラー (試行 {attempt + 1}/{max_retries}): {e}")
+                print(f"  ❌ エラー (試行 {attempt + 1}/{max_retries}): {e}")
                 
                 if attempt < max_retries - 1:
                     wait_time = 2 ** attempt  # exponential backoff
@@ -127,7 +126,8 @@ class GeminiSummarizer:
 
 def load_api_key() -> str:
     """
-    .env または環境変数から Google AI API Key を読み込む
+    .env または環境変数から Gemini API Key を読み込む
+    新SDK用: GEMINI_API_KEY を優先、なければ GOOGLE_AI_API_KEY をフォールバック
     """
     try:
         from dotenv import load_dotenv
@@ -138,18 +138,19 @@ def load_api_key() -> str:
         if env_path.exists():
             load_dotenv(env_path)
         
-        api_key = os.getenv("GOOGLE_AI_API_KEY", "")
+        # 新しい環境変数名を優先
+        api_key = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_AI_API_KEY", "")
         
         if not api_key:
-            raise ValueError("GOOGLE_AI_API_KEY が設定されていません")
+            raise ValueError("GEMINI_API_KEY が設定されていません")
         
         return api_key
     
     except ImportError:
         print("警告: python-dotenvがインストールされていません")
-        api_key = os.getenv("GOOGLE_AI_API_KEY", "")
+        api_key = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_AI_API_KEY", "")
         if not api_key:
-            raise ValueError("GOOGLE_AI_API_KEY が設定されていません")
+            raise ValueError("GEMINI_API_KEY が設定されていません")
         return api_key
 
 
