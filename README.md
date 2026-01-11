@@ -150,17 +150,19 @@ npm run build
 │   └── backlog.json          # 処理待ちキュー
 ├── scripts/
 │   ├── rss_fetch.py          # RSS経由で新着動画を取得
-│   ├── process_video_gemini.py  # 単一動画を処理（Gemini版）
-│   ├── batch_process_rss.py  # バックログ処理（RSS + Gemini）
+│   ├── process_video.py      # 単一動画を処理 (Gemini/OpenRouter)
+│   ├── batch_process_rss.py  # バックログ処理 (RSS + AI)
 │   ├── manage_backlog.py     # バックログ管理CLI
-│   ├── text_cleanup.py       # 文字起こしクリーニング・整形ユーティリティ
+│   ├── deploy.sh             # NUC用デプロイスクリプト
+│   ├── text_cleanup.py       # 文字起こしクリーンアップ
 │   └── cron_update.sh        # Cron用自動更新スクリプト
 ├── src/                      # Next.js フロントエンド
 ├── gemini_summarizer.py      # Gemini API要約モジュール
-└── model_configs.json        # プロンプト設定
-```
+├── openrouter_summarizer.py  # OpenRouter API要約モジュール
+├── model_configs.json        # プロンプト設定
+└── wrangler.json             # Cloudflare Pages設定
 
-## � プロンプトのカスタマイズ
+##  プロンプトのカスタマイズ
 
 `model_configs.json` でプロンプトテンプレートを編集:
 
@@ -186,13 +188,32 @@ npm run build
 
 `batch_process_rss.py` は自動的に6秒間隔でリクエストを送信します（10 RPM対応）。
 
-## 🌐 デプロイ（Cloudflare Pages）
+## 🌐 デプロイ (Cloudflare Pages)
 
-1. GitHubリポジトリをCloudflare Pagesに接続
-2. ビルド設定:
-   - **Build command**: `npm run build`
-   - **Build output directory**: `out`
-3. Cron → Git Push で自動デプロイ
+Linux NUC から直接 Cloudflare Pages にデプロイし、高度なセキュリティで保護する構成です。
+
+### 1. 手動デプロイ (NUC)
+
+ビルドとアップロードを一括で行います。
+
+```bash
+# 初回のみログイン
+npx wrangler login
+
+# デプロイ実行
+./scripts/deploy.sh
+```
+
+### 2. セキュリティ (Cloudflare Access)
+
+サイト全体にパスワード（ログイン）制限をかけます。Cloudflare Zero Trust ダッシュボードから設定してください。
+
+1. **Access -> Applications** でサイトを登録。
+2. **Rules** で自分のメールアドレスのみ許可。
+3. 指定したメールに届く認証コードを入力しないと、サイトを閲覧できなくなります。
+
+> [!TIP]
+> 静的サイトとしてエクスポートしているため、サイト表示にサーバー費用は発生しません。
 
 ## � ライセンス
 

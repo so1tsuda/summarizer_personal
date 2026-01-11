@@ -15,7 +15,7 @@ data/transcripts/
 
 # Next.js
 .next/
-out/
+#out/
 node_modules/
 .vercel
 
