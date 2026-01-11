@@ -26,6 +26,17 @@ python3 scripts/batch_process_rss.py \
 
 EXIT_CODE=$?
 
+# 成功した場合、Cloudflare Pagesにデプロイ
+if [ $EXIT_CODE -eq 0 ]; then
+    echo "--- 🚀 Cloudflare Pagesへの自動デプロイを開始 ---" | tee -a "$LOG_FILE"
+    ./scripts/deploy.sh 2>&1 | tee -a "$LOG_FILE"
+    DEPLOY_EXIT_CODE=$?
+    if [ $DEPLOY_EXIT_CODE -ne 0 ]; then
+        echo "❌ デプロイに失敗しました" | tee -a "$LOG_FILE"
+        EXIT_CODE=$DEPLOY_EXIT_CODE
+    fi
+fi
+
 echo "=== Cron Update Finished: $(date) (Exit: $EXIT_CODE) ===" | tee -a "$LOG_FILE"
 
 # 古いログを削除（30日以上前）
