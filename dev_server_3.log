@@ -61,3 +61,40 @@
  ✓ Compiled in 320ms (239 modules)
  ✓ Compiled in 413ms (239 modules)
  ✓ Compiled in 405ms (239 modules)
+ ✓ Compiled in 333ms (239 modules)
+ ⨯ [TypeError: Cannot read properties of undefined (reading 'call')] {
+  digest: '1144481516'
+}
+[TypeError: Cannot read properties of undefined (reading 'call')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading 'call')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading 'call')] {
+  page: '/'
+}
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 6.5s (1256 modules)
+ GET / 500 in 8831ms
+ GET / 200 in 529ms
+ GET / 200 in 281ms
+ GET / 200 in 136ms
+ GET / 200 in 170ms
+ ✓ Compiled in 516ms (391 modules)
+ ✓ Compiled in 241ms (391 modules)
+ ✓ Compiled in 227ms (391 modules)
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 2.5s (1261 modules)
+ GET / 404 in 3434ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/so1/apps/summarizer_personal/.next/server/app/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/so1/apps/summarizer_personal/.next/server/app/page.js',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/so1/apps/summarizer_personal/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/so1/apps/summarizer_personal/.next/server/pages/_document.js'
+}
+ GET / 500 in 6738ms
+[?25h
