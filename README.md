@@ -54,10 +54,24 @@ UCxxxxxx,チャンネル名,メモ（任意）
 
 ## 🚀 使い方
 
-### 手動で1本の動画を処理
+### 手動で1本の動画を処理 (Gemini)
 
 ```bash
 python scripts/process_video_gemini.py VIDEO_ID_OR_URL
+```
+
+### 手動で1本の動画を処理 (Claude Code CLI)
+
+Claude Code CLIがインストール済みの場合、以下のコマンドでも記事を生成できます:
+
+```bash
+./scripts/process_video_claude.sh VIDEO_ID_OR_URL
+```
+
+もしくは、クリーニング済み文字起こしが既にある場合:
+
+```bash
+cat data/transcripts/VIDEO_ID_cleaned.txt | claude --system-prompt-file blog_article_system.txt -p "このstdinはYouTube文字起こしです。上の指示に厳密に従い、ブログ記事をMarkdownで出力してください。"
 ```
 
 ### RSS経由で新着動画を一括処理（バックログ方式）
