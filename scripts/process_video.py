@@ -23,8 +23,13 @@ from youtube_transcript_api import YouTubeTranscriptApi
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from gemini_summarizer import GeminiSummarizer, load_api_key as load_gemini_key
-from openrouter_summarizer import OpenRouterSummarizer
-from scripts.text_cleanup import clean_transcript_text, get_cleaned_path, save_text_to_file
+try:
+    from openrouter_summarizer import OpenRouterSummarizer
+    HAS_OPENROUTER = True
+except ImportError:
+    HAS_OPENROUTER = False
+    OpenRouterSummarizer = None
+from scripts.text_cleanup import clean_transcript_text, get_cleaned_path, get_description_path, save_text_to_file
 
 
 def load_api_keys():
@@ -129,6 +134,17 @@ def save_transcript_json(video_id: str, video_info: Dict, transcript: list, outp
     return output_path
 
 
+def save_description_text(video_id: str, description: str, output_dir: Path) -> Path:
+    """概要欄テキストをファイルに保存"""
+    output_dir.mkdir(parents=True, exist_ok=True)
+    output_path = output_dir / f"{video_id}_description.txt"
+    
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(description)
+    
+    return output_path
+
+
 def save_summary_markdown(video_id: str, video_info: Dict, summary: str, output_dir: Path, model_name: str = "gemini") -> Path:
     """要約をMarkdownファイルに保存"""
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -179,11 +195,12 @@ def update_state(state_path: Path, video_id: str, video_info: Dict):
 def process_video(
     video_id: str,
     youtube,
-    summarizer: GeminiSummarizer,
+    summarizer: Optional[GeminiSummarizer],
     transcripts_dir: Path,
     summaries_dir: Path,
     state_path: Path,
-    dry_run: bool = False
+    dry_run: bool = False,
+    skip_summarization: bool = False
 ) -> Dict:
     """動画を処理"""
     print(f"処理開始: {video_id}")
@@ -202,40 +219,48 @@ def process_video(
         raise ValueError("文字起こしが取得できませんでした")
     
     # 3. JSONに保存
+    transcript_path = None
     if not dry_run:
         transcript_path = save_transcript_json(video_id, video_info, transcript, transcripts_dir)
         print(f"  文字起こし保存: {transcript_path}")
     else:
         print("  [dry-run] 文字起こし保存をスキップ")
     
-    # 4. 要約を生成
-    print(f"  要約を生成中 (Gemini {summarizer.model_name})...")
+    # 4. 概要欄を別途テキストファイルに保存
+    description = video_info.get('description', '')
+    if not dry_run and description:
+        desc_path = save_description_text(video_id, description, transcripts_dir)
+        print(f"  ✓ 概要欄保存: {desc_path}")
+    elif not description:
+        print("  ⚠️ 概要欄が空です")
+    else:
+        print("  [dry-run] 概要欄保存をスキップ")
     
-    if not dry_run:
-        # トークン節約のためにクリーンアップ
+    # 5. クリーンアップ済みテキストを保存
+    summary_path = None
+    if not dry_run and transcript_path:
         raw_transcript_text = "\n".join([f"[{item['start']:.1f}] {item['text']}" for item in transcript])
         cleaned_transcript_text = clean_transcript_text(raw_transcript_text, keep_timestamps=False)
         
-        # クリーンアップ済みテキストを保存
         cleaned_path = get_cleaned_path(str(transcript_path))
         save_text_to_file(cleaned_transcript_text, cleaned_path)
         print(f"  ✓ クリーンアップ済みテキスト保存: {cleaned_path}")
         
-        # クリーンアップ済みテキストをLLMに送る
-        summary, metadata = summarizer.generate_summary(cleaned_transcript_text, video_info.get('description', ''))
-        print(f"  要約完了: {len(summary)}文字")
-    else:
-        summary = "[dry-run] 要約はスキップされました"
+        # 6. 要約を生成 (kilocode モードではスキップ)
+        if not skip_summarization and summarizer:
+            print(f"  要約を生成中 ({summarizer.model_name})...")
+            summary, metadata = summarizer.generate_summary(cleaned_transcript_text, description)
+            print(f"  要約完了: {len(summary)}文字")
+            
+            # 7. Markdownに保存
+            summary_path = save_summary_markdown(video_id, video_info, summary, summaries_dir, summarizer.model_name)
+            print(f"  要約保存: {summary_path}")
+        elif skip_summarization:
+            print("  [kilocode] LLM要約をスキップ（Kilo Code CLIで別途処理）")
+    elif dry_run:
         print("  [dry-run] 要約生成をスキップ")
     
-    # 5. Markdownに保存
-    if not dry_run:
-        summary_path = save_summary_markdown(video_id, video_info, summary, summaries_dir, summarizer.model_name)
-        print(f"  要約保存: {summary_path}")
-    else:
-        print("  [dry-run] 要約保存をスキップ")
-    
-    # 6. 状態更新
+    # 8. 状態更新
     if not dry_run:
         update_state(state_path, video_id, video_info)
         print("  状態更新完了")
@@ -245,7 +270,7 @@ def process_video(
     return {
         'video_id': video_id,
         'title': video_info['title'],
-        'summary_path': summary_path if not dry_run else None,
+        'summary_path': summary_path,
     }
 
 
@@ -253,7 +278,7 @@ def main():
     parser = argparse.ArgumentParser(description="単一の動画を処理 (Gemini API版)")
     parser.add_argument("video_id", help="YouTube動画IDまたはURL")
     parser.add_argument("--model", default="gemini-2.5-flash", help="使用するモデル")
-    parser.add_argument("--provider", default="gemini", choices=["gemini", "openrouter"], help="使用するAIプロバイダー")
+    parser.add_argument("--provider", default="gemini", choices=["gemini", "openrouter", "kilocode"], help="使用するAIプロバイダー (kilocodeは文字起こし保存のみ)")
     parser.add_argument("--dry-run", action="store_true", help="実際に保存せずテスト実行")
     parser.add_argument("--prompt-template", default="blog_article", 
                         choices=["strategist", "supereditor", "blog_article"],
@@ -277,8 +302,15 @@ def main():
     # YouTube API クライアント
     youtube = build('youtube', 'v3', developerKey=youtube_api_key)
     
-    # Summarizer 初期化
-    if args.provider == "gemini":
+    # Summarizer 初期化 (kilocode モードではスキップ)
+    summarizer = None
+    skip_summarization = False
+    
+    if args.provider == "kilocode":
+        skip_summarization = True
+        print(f"プロバイダー: {args.provider}")
+        print("モード: 文字起こし・概要欄保存のみ（LLM要約はKilo Code CLIで別途処理）\n")
+    elif args.provider == "gemini":
         google_ai_api_key = api_keys.get("google_ai_api_key")
         if not google_ai_api_key:
             print("エラー: Google AI API キーが設定されていません")
@@ -288,7 +320,13 @@ def main():
             model_name=args.model,
             prompt_template=args.prompt_template,
         )
-    else:
+        print(f"プロバイダー: {args.provider}")
+        print(f"モデル: {summarizer.model_name}")
+        print(f"テンプレート: {args.prompt_template}\n")
+    else:  # openrouter
+        if not HAS_OPENROUTER:
+            print("エラー: openrouter_summarizer モジュールが見つかりません")
+            return 1
         openrouter_api_key = api_keys.get("openrouter_api_key")
         if not openrouter_api_key:
             from openrouter_summarizer import load_api_key as load_or_key
@@ -307,10 +345,9 @@ def main():
             model_name=model_name,
             prompt_template=args.prompt_template,
         )
-    
-    print(f"プロバイダー: {args.provider}")
-    print(f"モデル: {summarizer.model_name}")
-    print(f"テンプレート: {args.prompt_template}\n")
+        print(f"プロバイダー: {args.provider}")
+        print(f"モデル: {summarizer.model_name}")
+        print(f"テンプレート: {args.prompt_template}\n")
     
     try:
         # video_id抽出（URLの場合）
@@ -335,12 +372,15 @@ def main():
             summaries_dir,
             state_path,
             dry_run=args.dry_run,
+            skip_summarization=skip_summarization,
         )
         
         print("\n✅ 処理完了!")
         print(f"  動画: {result['title']}")
         if result['summary_path']:
             print(f"  要約: {result['summary_path']}")
+        elif skip_summarization:
+            print("  [kilocode] Kilo Code CLIで要約を生成してください")
         
         return 0
         

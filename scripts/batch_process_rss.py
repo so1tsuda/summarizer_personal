@@ -76,6 +76,7 @@ def add_to_backlog(backlog: Dict, videos: List[Dict], state: Dict) -> int:
             'title': video.get('title', ''),
             'channel': video.get('channel_title', ''),
             'published_at': video.get('published_at', ''),
+            'lang': video.get('lang', 'ja'),
             'added_at': datetime.now().isoformat()
         })
         added_count += 1
@@ -119,6 +120,23 @@ def filter_by_duration(
     return False
 
 
+def get_channel_lang(channels: List[Dict], channel_name: str) -> str:
+    """
+    チャンネル名から言語設定を取得
+    
+    Args:
+        channels: チャンネルリスト
+        channel_name: チャンネル名
+    
+    Returns:
+        言語コード ('ja' または 'en'、見つからない場合は 'ja')
+    """
+    for channel in channels:
+        if channel.get('channel_name', '').strip() == channel_name.strip():
+            return channel.get('lang', 'ja')
+    return 'ja'  # デフォルトは日本語
+
+
 def git_commit_and_push(message: str) -> bool:
     """
     Gitにコミット&プッシュ
@@ -128,7 +146,7 @@ def git_commit_and_push(message: str) -> bool:
     """
     try:
         # git add
-        subprocess.run(['git', 'add', 'data/summaries/', 'data/state.json', 'data/backlog.json'],
+        subprocess.run(['git', 'add', 'data/transcripts/', 'data/summaries/', 'data/state.json', 'data/backlog.json'],
                       cwd=project_root, check=True)
         
         # git commit
@@ -254,6 +272,13 @@ def main():
             continue
         
         try:
+            # チャンネルの言語設定を取得
+            # バックログに lang がない場合は channels.csv から取得（後方互換性）
+            video_lang = video.get('lang')
+            if not video_lang:
+                video_lang = get_channel_lang(channels, video.get('channel', ''))
+            print(f"  字幕優先言語: {video_lang}")
+            
             process_video(
                 video['video_id'],
                 youtube,
@@ -261,7 +286,8 @@ def main():
                 transcripts_dir,
                 summaries_dir,
                 state_path,
-                dry_run=args.dry_run
+                dry_run=args.dry_run,
+                preferred_lang=video_lang
             )
             
             # 成功したらキューから削除
@@ -273,8 +299,8 @@ def main():
             
             # レート制限対策（10 RPM = 6秒間隔）
             if processed_count < target_count and queue:
-                print("\n⏳ レート制限対策のため6秒待機...")
-                time.sleep(6)
+                print("\n⏳ レート制限対策のため15秒待機...")
+                time.sleep(15)
         
         except Exception as e:
             print(f"❌ 処理失敗: {e}")

@@ -68,12 +68,22 @@ def get_video_info(youtube, video_id: str) -> Dict:
         raise Exception(f"YouTube APIエラー: {e}")
 
 
-def get_transcript(video_id: str) -> list:
-    """文字起こしを取得"""
+def get_transcript(video_id: str, preferred_lang: str = 'ja') -> list:
+    """文字起こしを取得
+    
+    Args:
+        video_id: YouTube動画ID
+        preferred_lang: 優先言語 ('ja' または 'en')
+    """
     try:
-        print(f"字幕を取得中 (ID: {video_id})...")
+        print(f"字幕を取得中 (ID: {video_id}, 優先言語: {preferred_lang})...")
         
-        languages = ['ja', 'en', 'en-US', 'en-GB']
+        # 優先言語に応じて検索順序を変更
+        if preferred_lang == 'en':
+            languages = ['en', 'en-US', 'en-GB', 'ja']
+        else:  # デフォルトは日本語優先
+            languages = ['ja', 'en', 'en-US', 'en-GB']
+        
         ytt_api = YouTubeTranscriptApi()
         transcript_list = ytt_api.list(video_id)
         
@@ -156,6 +166,17 @@ summarized_at: "{datetime.now().isoformat()}"
     return output_path
 
 
+def save_description_text(video_id: str, description: str, output_dir: Path) -> Path:
+    """概要欄テキストをファイルに保存"""
+    output_dir.mkdir(parents=True, exist_ok=True)
+    output_path = output_dir / f"{video_id}_description.txt"
+    
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(description)
+    
+    return output_path
+
+
 def update_state(state_path: Path, video_id: str, video_info: Dict):
     """処理状態を更新"""
     if state_path.exists():
@@ -181,9 +202,21 @@ def process_video(
     transcripts_dir: Path,
     summaries_dir: Path,
     state_path: Path,
-    dry_run: bool = False
+    dry_run: bool = False,
+    preferred_lang: str = 'ja'
 ) -> Dict:
-    """動画を処理"""
+    """動画を処理
+    
+    Args:
+        video_id: YouTube動画ID
+        youtube: YouTube APIクライアント
+        summarizer: GeminiSummarizer インスタンス
+        transcripts_dir: トランスクリプト保存ディレクトリ
+        summaries_dir: 要約保存ディレクトリ
+        state_path: 状態ファイルパス
+        dry_run: テスト実行フラグ
+        preferred_lang: 優先言語 ('ja' または 'en')
+    """
     print(f"処理開始: {video_id}")
     
     # 1. 動画情報を取得
@@ -194,7 +227,7 @@ def process_video(
     
     # 2. 文字起こしを取得
     print("  文字起こしを取得中...")
-    transcript = get_transcript(video_id)
+    transcript = get_transcript(video_id, preferred_lang=preferred_lang)
     
     if not transcript:
         raise ValueError("文字起こしが取得できませんでした")
@@ -218,6 +251,12 @@ def process_video(
         cleaned_path = get_cleaned_path(str(transcript_path))
         save_text_to_file(cleaned_transcript_text, cleaned_path)
         print(f"  ✓ クリーンアップ済みテキスト保存: {cleaned_path}")
+        
+        # 概要欄を保存
+        description = video_info.get('description', '')
+        if description:
+            desc_path = save_description_text(video_id, description, transcripts_dir)
+            print(f"  ✓ 概要欄保存: {desc_path}")
         
         # クリーンアップ済みテキストをLLMに送る
         summary, metadata = summarizer.generate_summary(cleaned_transcript_text, video_info.get('description', ''))

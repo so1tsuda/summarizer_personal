@@ -31,7 +31,8 @@ def get_channel_rss_url(channel_id: str) -> str:
 def fetch_rss_videos(
     channel_id: str,
     channel_name: str,
-    days_back: int = 7
+    days_back: int = 7,
+    lang: str = 'ja'
 ) -> List[Dict]:
     """
     RSSフィードから新着動画を取得
@@ -40,6 +41,7 @@ def fetch_rss_videos(
         channel_id: YouTubeチャンネルID
         channel_name: チャンネル名（表示用）
         days_back: 何日前までの動画を取得するか
+        lang: チャンネルの優先言語
     
     Returns:
         動画情報のリスト
@@ -73,6 +75,7 @@ def fetch_rss_videos(
                 'channel_title': channel_name,
                 'published_at': published.isoformat(),
                 'link': entry.link,
+                'lang': lang,
             })
         
     except Exception as e:
@@ -103,9 +106,10 @@ def fetch_all_rss_videos(
     for channel in channels:
         channel_id = channel['channel_id']
         channel_name = channel.get('channel_name', channel_id)
-        print(f"チャンネルをチェック中 (RSS): {channel_name}")
+        channel_lang = channel.get('lang', 'ja')
+        print(f"チャンネルをチェック中 (RSS): {channel_name} (言語: {channel_lang})")
         
-        videos = fetch_rss_videos(channel_id, channel_name, days_back)
+        videos = fetch_rss_videos(channel_id, channel_name, days_back, lang=channel_lang)
         
         for video in videos:
             # 処理済みチェック
@@ -137,6 +141,7 @@ def load_channels_from_csv(config_path: Path) -> List[Dict]:
                 channels.append({
                     'channel_id': row['channel_id'].strip(),
                     'channel_name': row.get('channel_name', '').strip(),
+                    'lang': row.get('lang', 'ja').strip(),  # デフォルトは日本語
                     'notes': row.get('notes', '').strip(),
                 })
     

@@ -74,6 +74,13 @@ def get_cleaned_path(original_path: str) -> str:
     base, _ = os.path.splitext(original_path)
     return f"{base}_cleaned.txt"
 
+def get_description_path(original_path: str) -> str:
+    """
+    元のパスから概要欄テキストのパスを生成 (video_id.json -> video_id_description.txt)
+    """
+    base, _ = os.path.splitext(original_path)
+    return f"{base}_description.txt"
+
 def save_text_to_file(text: str, file_path: str) -> bool:
     """
     テキストを指定されたパスに保存
