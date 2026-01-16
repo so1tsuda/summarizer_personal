@@ -1,0 +1,31 @@
+In this BG2 guest interview, Altimeter partner Apoorv Agrawal sits down with Ali Ghodsi (Databricks) and Arvind Jain (Glean) for a candid, operator-level discussion on what’s actually working in enterprise AI—and what isn’t.
+They unpack why 95% of AI projects fail, why LLMs are rapidly commoditizing, and why durable advantage is shifting to proprietary data, agentic systems, and workflow integration. The conversation dives deep into real-world use cases across finance, healthcare, and retail; the debate over whether we already have AGI; and how AI spend, CapEx, and valuation bubbles will realistically play out. A must-watch for builder, and investors navigating the AI transition inside real organizations.
+
+
+Timestamps:
+(00:00) Intro
+(01:00) Consumer AI vs. Enterprise Reality
+(02:15) Why 95% of AI Projects Fail
+(04:15) RBC, Merck, and 7-Eleven Use Cases
+(06:45) What Actually Makes AI Work
+(07:00) LLMs Are Commodities—Data Is the Moat
+(08:45) Failed AI Bets at Databricks & Glean
+(11:00) RPA vs. Generative AI
+(14:15) Advice for CIOs Planning AI Budgets
+(16:00) AI CapEx and the Revenue Math
+(18:00) The Three Camps of AI
+(21:00) Making AI Useful Inside Enterprises
+(24:30) Why Apps Capture the Value
+(30:00) The Future of UI, Voice, and Data Entry
+(37:30) Rapid Fire: Winners, Bubbles, Long/Short
+
+
+Produced by Dan Shevchuk
+Music by Yung Spielberg
+Available on Apple, Spotify, ⁠www.bg2pod.com⁠
+
+
+Follow:
+Apoorv Agrawal @apoorv03 https://x.com/apoorv03
+
+BG2 Pod @bg2pod ⁠https://x.com/BG2Pod⁠

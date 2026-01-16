@@ -1,0 +1,5486 @@
+{
+  "video_id": "EFlo6oDN9Ko",
+  "title": "Why the AI Bubble Hasn’t Popped — ft. Josh Brown | Prof G Markets",
+  "channel": "The Prof G Pod – Scott Galloway",
+  "published_at": "2026-01-09T14:00:22Z",
+  "duration": "PT44M46S",
+  "thumbnail": "https://i.ytimg.com/vi/EFlo6oDN9Ko/hqdefault.jpg",
+  "fetched_at": "2026-01-15T22:29:46.510772",
+  "transcript": [
+    {
+      "start": 0.08,
+      "duration": 5.6,
+      "text": "Today's number 54. That is the"
+    },
+    {
+      "start": 3.2,
+      "duration": 6.319,
+      "text": "percentage of men who have some form of"
+    },
+    {
+      "start": 5.68,
+      "duration": 5.839,
+      "text": "facial hair, up from 42% 10 years ago."
+    },
+    {
+      "start": 9.519,
+      "duration": 4.561,
+      "text": "According to surveys, most men don't"
+    },
+    {
+      "start": 11.519,
+      "duration": 6.321,
+      "text": "actually like their beard at first, but"
+    },
+    {
+      "start": 14.08,
+      "duration": 4.48,
+      "text": "then it grows on them."
+    },
+    {
+      "start": 17.84,
+      "duration": 3.359,
+      "text": ">> Okay."
+    },
+    {
+      "start": 18.56,
+      "duration": 4.799,
+      "text": ">> Oh, I was supposed to Oh my god."
+    },
+    {
+      "start": 21.199,
+      "duration": 4.561,
+      "text": ">> No, no. If you don't find it funny, then"
+    },
+    {
+      "start": 23.359,
+      "duration": 4.16,
+      "text": "that that's just what we do. So,"
+    },
+    {
+      "start": 25.76,
+      "duration": 6.519,
+      "text": ">> I did, but it was a delay. It was a"
+    },
+    {
+      "start": 27.519,
+      "duration": 4.76,
+      "text": "delayed reaction. I did find it funny."
+    },
+    {
+      "start": 34.32,
+      "duration": 5.759,
+      "text": ">> Welcome to Propy Markets. Scott is still"
+    },
+    {
+      "start": 37.36,
+      "duration": 5.12,
+      "text": "on vacation, but we are back in action"
+    },
+    {
+      "start": 40.079,
+      "duration": 5.441,
+      "text": "and we are kicking off the year with the"
+    },
+    {
+      "start": 42.48,
+      "duration": 6.72,
+      "text": "one and only Josh Brown, co-founder and"
+    },
+    {
+      "start": 45.52,
+      "duration": 5.6,
+      "text": "CEO of Rhett Holtz. Josh, welcome back"
+    },
+    {
+      "start": 49.2,
+      "duration": 3.839,
+      "text": "to the show. It's great to see you."
+    },
+    {
+      "start": 51.12,
+      "duration": 4.32,
+      "text": ">> Great to see you. I apologize for"
+    },
+    {
+      "start": 53.039,
+      "duration": 4.881,
+      "text": "dressing like the great and powerful Oz."
+    },
+    {
+      "start": 55.44,
+      "duration": 4.56,
+      "text": "I I didn't pick up on it until I saw"
+    },
+    {
+      "start": 57.92,
+      "duration": 4.24,
+      "text": "myself on a video screen. That's That's"
+    },
+    {
+      "start": 60.0,
+      "duration": 2.879,
+      "text": "what I'm That's the energy I came into"
+    },
+    {
+      "start": 62.16,
+      "duration": 2.24,
+      "text": "the year with."
+    },
+    {
+      "start": 62.879,
+      "duration": 4.161,
+      "text": ">> I love it. You're looking good. How was"
+    },
+    {
+      "start": 64.4,
+      "duration": 3.52,
+      "text": "your How was your holiday? How was your"
+    },
+    {
+      "start": 67.04,
+      "duration": 2.079,
+      "text": "new year?"
+    },
+    {
+      "start": 67.92,
+      "duration": 3.68,
+      "text": ">> So sick. Oh, yeah."
+    },
+    {
+      "start": 69.119,
+      "duration": 4.241,
+      "text": ">> So great. I You know what? I've been in"
+    },
+    {
+      "start": 71.6,
+      "duration": 2.32,
+      "text": "Florida for 2 weeks. I have a tan."
+    },
+    {
+      "start": 73.36,
+      "duration": 2.56,
+      "text": ">> You look good."
+    },
+    {
+      "start": 73.92,
+      "duration": 4.559,
+      "text": ">> The weather sucks here predictably, but"
+    },
+    {
+      "start": 75.92,
+      "duration": 4.64,
+      "text": "like it's not even bothering me. Um I"
+    },
+    {
+      "start": 78.479,
+      "duration": 5.041,
+      "text": "just uh I had an amazing couple of weeks"
+    },
+    {
+      "start": 80.56,
+      "duration": 5.36,
+      "text": "for the holidays and uh I feel good."
+    },
+    {
+      "start": 83.52,
+      "duration": 4.72,
+      "text": "Ready for uh 26. ready to rumble, ready"
+    },
+    {
+      "start": 85.92,
+      "duration": 4.8,
+      "text": "for 2026. Okay. Well, let's get right"
+    },
+    {
+      "start": 88.24,
+      "duration": 5.839,
+      "text": "into it. Um, lot of questions I want to"
+    },
+    {
+      "start": 90.72,
+      "duration": 6.399,
+      "text": "ask you. Uh, we haven't had you on since"
+    },
+    {
+      "start": 94.079,
+      "duration": 5.841,
+      "text": "the summer and a lot has happened since"
+    },
+    {
+      "start": 97.119,
+      "duration": 6.081,
+      "text": "then. We had the government shutdown. We"
+    },
+    {
+      "start": 99.92,
+      "duration": 7.68,
+      "text": "had rate cuts. We had this AI bubble"
+    },
+    {
+      "start": 103.2,
+      "duration": 7.36,
+      "text": "story which kind of got huge. A lot of"
+    },
+    {
+      "start": 107.6,
+      "duration": 7.519,
+      "text": "people were talking about it. Um, just"
+    },
+    {
+      "start": 110.56,
+      "duration": 6.96,
+      "text": "as you look back on 2025 and what's"
+    },
+    {
+      "start": 115.119,
+      "duration": 3.761,
+      "text": "happened since we last spoke, just a"
+    },
+    {
+      "start": 117.52,
+      "duration": 4.16,
+      "text": "pretty general question. What have been"
+    },
+    {
+      "start": 118.88,
+      "duration": 6.64,
+      "text": "your biggest takeaways? I think the key"
+    },
+    {
+      "start": 121.68,
+      "duration": 6.96,
+      "text": "thing was not getting too negative in"
+    },
+    {
+      "start": 125.52,
+      "duration": 5.28,
+      "text": "November when Oracle was blowing up and"
+    },
+    {
+      "start": 128.64,
+      "duration": 4.959,
+      "text": "it seemed like this was going to be like"
+    },
+    {
+      "start": 130.8,
+      "duration": 5.519,
+      "text": "this uh this comeuppance for all the"
+    },
+    {
+      "start": 133.599,
+      "duration": 4.72,
+      "text": "data center spend and all of a sudden"
+    },
+    {
+      "start": 136.319,
+      "duration": 4.481,
+      "text": "like the floor was about to fall out"
+    },
+    {
+      "start": 138.319,
+      "duration": 4.401,
+      "text": "from under all of us and like if you"
+    },
+    {
+      "start": 140.8,
+      "duration": 3.84,
+      "text": "fell prey to that narrative which"
+    },
+    {
+      "start": 142.72,
+      "duration": 3.28,
+      "text": "obviously a lot of people so there's two"
+    },
+    {
+      "start": 144.64,
+      "duration": 4.959,
+      "text": "categories there are people that fell"
+    },
+    {
+      "start": 146.0,
+      "duration": 4.72,
+      "text": "prey to it because they are just nervous"
+    },
+    {
+      "start": 149.599,
+      "duration": 4.881,
+      "text": "by nature"
+    },
+    {
+      "start": 150.72,
+      "duration": 6.48,
+      "text": "or um they they tend to fall for all of"
+    },
+    {
+      "start": 154.48,
+      "duration": 4.16,
+      "text": "those types of like bouts of negativity."
+    },
+    {
+      "start": 157.2,
+      "duration": 3.2,
+      "text": "But then there's another camp of people"
+    },
+    {
+      "start": 158.64,
+      "duration": 3.36,
+      "text": "that really did want it to fall apart."
+    },
+    {
+      "start": 160.4,
+      "duration": 4.08,
+      "text": "They wanted it to crash."
+    },
+    {
+      "start": 162.0,
+      "duration": 4.16,
+      "text": ">> Um and you know, some of that is like"
+    },
+    {
+      "start": 164.48,
+      "duration": 4.32,
+      "text": "political, some of that is people who"
+    },
+    {
+      "start": 166.16,
+      "duration": 4.719,
+      "text": "missed out on on the AI trade for the"
+    },
+    {
+      "start": 168.8,
+      "duration": 5.68,
+      "text": "last 3 years, but like whatever. You"
+    },
+    {
+      "start": 170.879,
+      "duration": 6.321,
+      "text": "just have this huge chorus of um people"
+    },
+    {
+      "start": 174.48,
+      "duration": 6.08,
+      "text": "warning you like this is the next year"
+    },
+    {
+      "start": 177.2,
+      "duration": 6.24,
+      "text": "2000 and it's dot com, you know, 2.0. 0."
+    },
+    {
+      "start": 180.56,
+      "duration": 5.44,
+      "text": "But I think the key to this year was not"
+    },
+    {
+      "start": 183.44,
+      "duration": 4.56,
+      "text": "falling prey to it. And if you were able"
+    },
+    {
+      "start": 186.0,
+      "duration": 3.84,
+      "text": "to stay the course, like we're talking"
+    },
+    {
+      "start": 188.0,
+      "duration": 4.08,
+      "text": "right now, the Dow is going to have its"
+    },
+    {
+      "start": 189.84,
+      "duration": 4.0,
+      "text": "first close, I think today, above"
+    },
+    {
+      "start": 192.08,
+      "duration": 5.28,
+      "text": "49,000."
+    },
+    {
+      "start": 193.84,
+      "duration": 5.039,
+      "text": "And the NASDAQ looks incredible, uh, you"
+    },
+    {
+      "start": 197.36,
+      "duration": 3.76,
+      "text": "know, through the end of last year and"
+    },
+    {
+      "start": 198.879,
+      "duration": 3.761,
+      "text": "now into the first week of this year."
+    },
+    {
+      "start": 201.12,
+      "duration": 3.199,
+      "text": "And I think it's really, it's tough"
+    },
+    {
+      "start": 202.64,
+      "duration": 3.92,
+      "text": "sometimes when everyone is screaming"
+    },
+    {
+      "start": 204.319,
+      "duration": 4.401,
+      "text": "bubble, bubble, bubble. it's really"
+    },
+    {
+      "start": 206.56,
+      "duration": 4.72,
+      "text": "tough to like, you know, stay the course"
+    },
+    {
+      "start": 208.72,
+      "duration": 5.439,
+      "text": "and stick to your guns. But that that"
+    },
+    {
+      "start": 211.28,
+      "duration": 3.519,
+      "text": "really was the key to the to the fourth"
+    },
+    {
+      "start": 214.159,
+      "duration": 3.36,
+      "text": "quarter."
+    },
+    {
+      "start": 214.799,
+      "duration": 4.72,
+      "text": ">> Which part of those bubble fears do you"
+    },
+    {
+      "start": 217.519,
+      "duration": 3.761,
+      "text": "take issue with? Cuz you know you know"
+    },
+    {
+      "start": 219.519,
+      "duration": 4.481,
+      "text": "we were talking about it a lot on this"
+    },
+    {
+      "start": 221.28,
+      "duration": 4.959,
+      "text": "podcast and there were several moments"
+    },
+    {
+      "start": 224.0,
+      "duration": 4.72,
+      "text": "which I think were substantial and they"
+    },
+    {
+      "start": 226.239,
+      "duration": 4.321,
+      "text": "were legitimately concerning. I think"
+    },
+    {
+      "start": 228.72,
+      "duration": 4.879,
+      "text": "the biggest one was probably what we saw"
+    },
+    {
+      "start": 230.56,
+      "duration": 6.48,
+      "text": "on Brad Gersonner's podcast where they"
+    },
+    {
+      "start": 233.599,
+      "duration": 4.56,
+      "text": "asked Sam Alman about the the revenue"
+    },
+    {
+      "start": 237.04,
+      "duration": 2.88,
+      "text": "and the amount that they're going to"
+    },
+    {
+      "start": 238.159,
+      "duration": 4.08,
+      "text": "spend. The fact they want to spend $1.5"
+    },
+    {
+      "start": 239.92,
+      "duration": 3.679,
+      "text": "trillion, they've got $13 billion in"
+    },
+    {
+      "start": 242.239,
+      "duration": 4.321,
+      "text": "revenue. And then we saw kind of the"
+    },
+    {
+      "start": 243.599,
+      "duration": 5.92,
+      "text": "worst response we've ever seen from a"
+    },
+    {
+      "start": 246.56,
+      "duration": 6.16,
+      "text": "CEO, the CEO of a company on which a lot"
+    },
+    {
+      "start": 249.519,
+      "duration": 6.241,
+      "text": "of the momentum uh in the market really"
+    },
+    {
+      "start": 252.72,
+      "duration": 5.12,
+      "text": "depends on. So, you know, we we weren't"
+    },
+    {
+      "start": 255.76,
+      "duration": 3.92,
+      "text": "saying it was doomsday on this podcast."
+    },
+    {
+      "start": 257.84,
+      "duration": 4.32,
+      "text": "We were trying to be rational about it,"
+    },
+    {
+      "start": 259.68,
+      "duration": 5.04,
+      "text": "but it was something that we were"
+    },
+    {
+      "start": 262.16,
+      "duration": 4.64,
+      "text": "worried about or that we thought was at"
+    },
+    {
+      "start": 264.72,
+      "duration": 6.64,
+      "text": "least significant. I guess from your"
+    },
+    {
+      "start": 266.8,
+      "duration": 7.28,
+      "text": "view, which part of the bubble story was"
+    },
+    {
+      "start": 271.36,
+      "duration": 5.52,
+      "text": "wrong or misguided? Well, no. We still"
+    },
+    {
+      "start": 274.08,
+      "duration": 5.44,
+      "text": "may end up having a bubble, but um I"
+    },
+    {
+      "start": 276.88,
+      "duration": 4.64,
+      "text": "look at price. I look at I look at"
+    },
+    {
+      "start": 279.52,
+      "duration": 4.239,
+      "text": "valuation. I look at all the things that"
+    },
+    {
+      "start": 281.52,
+      "duration": 6.08,
+      "text": "classically you're supposed to look at."
+    },
+    {
+      "start": 283.759,
+      "duration": 6.321,
+      "text": "And the stock market just was not uh"
+    },
+    {
+      "start": 287.6,
+      "duration": 4.72,
+      "text": "going along with the story that this is"
+    },
+    {
+      "start": 290.08,
+      "duration": 3.839,
+      "text": "all coming to an end. If you looked at"
+    },
+    {
+      "start": 292.32,
+      "duration": 3.52,
+      "text": "the way semiconductor stocks were"
+    },
+    {
+      "start": 293.919,
+      "duration": 5.521,
+      "text": "acting, they just they were not giving"
+    },
+    {
+      "start": 295.84,
+      "duration": 5.12,
+      "text": "into that narrative. And if you like I"
+    },
+    {
+      "start": 299.44,
+      "duration": 4.96,
+      "text": "so I'm one of the people that comes on"
+    },
+    {
+      "start": 300.96,
+      "duration": 6.079,
+      "text": "the show with you and you know my big my"
+    },
+    {
+      "start": 304.4,
+      "duration": 5.6,
+      "text": "big thing that I try to get across when"
+    },
+    {
+      "start": 307.039,
+      "duration": 5.841,
+      "text": "I can what I'm trying to convey is that"
+    },
+    {
+      "start": 310.0,
+      "duration": 5.68,
+      "text": "prices are more important than opinions"
+    },
+    {
+      "start": 312.88,
+      "duration": 4.8,
+      "text": "and prices represent the sum total of"
+    },
+    {
+      "start": 315.68,
+      "duration": 4.799,
+      "text": "people who actually manage money and are"
+    },
+    {
+      "start": 317.68,
+      "duration": 5.6,
+      "text": "voting with their money. So again I"
+    },
+    {
+      "start": 320.479,
+      "duration": 5.681,
+      "text": "think there's a lot of wish casting a"
+    },
+    {
+      "start": 323.28,
+      "duration": 5.12,
+      "text": "lot of people want to see open AI in the"
+    },
+    {
+      "start": 326.16,
+      "duration": 4.72,
+      "text": "private market. somehow like burst into"
+    },
+    {
+      "start": 328.4,
+      "duration": 5.76,
+      "text": "flames. A lot of people want to see"
+    },
+    {
+      "start": 330.88,
+      "duration": 5.36,
+      "text": "Larry Ellison and Oracle uh have a have"
+    },
+    {
+      "start": 334.16,
+      "duration": 5.599,
+      "text": "a comeuppance. Like a lot of that that's"
+    },
+    {
+      "start": 336.24,
+      "duration": 5.2,
+      "text": "wish casting is people saying they think"
+    },
+    {
+      "start": 339.759,
+      "duration": 4.401,
+      "text": "that's going to happen, but what they're"
+    },
+    {
+      "start": 341.44,
+      "duration": 5.52,
+      "text": "really saying is I want this to happen."
+    },
+    {
+      "start": 344.16,
+      "duration": 5.36,
+      "text": "And if you were looking away from Oracle"
+    },
+    {
+      "start": 346.96,
+      "duration": 4.799,
+      "text": "CDS prices, which I don't think are"
+    },
+    {
+      "start": 349.52,
+      "duration": 4.399,
+      "text": "particularly important, um, but if you"
+    },
+    {
+      "start": 351.759,
+      "duration": 5.521,
+      "text": "were looking at actual share prices for"
+    },
+    {
+      "start": 353.919,
+      "duration": 5.12,
+      "text": "Nvidia and Broadcom and Corning, which"
+    },
+    {
+      "start": 357.28,
+      "duration": 3.759,
+      "text": "makes the fiber optics for all the data"
+    },
+    {
+      "start": 359.039,
+      "duration": 3.841,
+      "text": "centers, and you were looking at, you"
+    },
+    {
+      "start": 361.039,
+      "duration": 4.081,
+      "text": "know, you definitely saw stocks come"
+    },
+    {
+      "start": 362.88,
+      "duration": 4.56,
+      "text": "down, but you did not see stocks"
+    },
+    {
+      "start": 365.12,
+      "duration": 5.519,
+      "text": "plunging, stocks crashing. That's not"
+    },
+    {
+      "start": 367.44,
+      "duration": 5.199,
+      "text": "how the real money was betting. And here"
+    },
+    {
+      "start": 370.639,
+      "duration": 4.321,
+      "text": "we are just a couple of weeks out of"
+    },
+    {
+      "start": 372.639,
+      "duration": 4.801,
+      "text": "that and most of those stocks have"
+    },
+    {
+      "start": 374.96,
+      "duration": 5.76,
+      "text": "recovered. The SMH looks amazing. I"
+    },
+    {
+      "start": 377.44,
+      "duration": 6.08,
+      "text": "think 86% of the names in the SMH"
+    },
+    {
+      "start": 380.72,
+      "duration": 5.36,
+      "text": "semiconductor ETF are above their 50-day"
+    },
+    {
+      "start": 383.52,
+      "duration": 5.44,
+      "text": "moving average. That didn't take long."
+    },
+    {
+      "start": 386.08,
+      "duration": 5.36,
+      "text": "So, I I think it's really important when"
+    },
+    {
+      "start": 388.96,
+      "duration": 4.799,
+      "text": "you hear people pounding on, you know,"
+    },
+    {
+      "start": 391.44,
+      "duration": 5.199,
+      "text": "with a with a wooden spoon on a pan"
+    },
+    {
+      "start": 393.759,
+      "duration": 4.641,
+      "text": "talking about bubble, ask yourself why"
+    },
+    {
+      "start": 396.639,
+      "duration": 4.881,
+      "text": "are they doing it? Are they in the"
+    },
+    {
+      "start": 398.4,
+      "duration": 4.96,
+      "text": "content business? Okay, they're doing it"
+    },
+    {
+      "start": 401.52,
+      "duration": 3.519,
+      "text": "for attention. They're doing it for"
+    },
+    {
+      "start": 403.36,
+      "duration": 2.8,
+      "text": "clicks. I get that. That's There's"
+    },
+    {
+      "start": 405.039,
+      "duration": 3.761,
+      "text": "nothing wrong with that. Everyone's got"
+    },
+    {
+      "start": 406.16,
+      "duration": 5.599,
+      "text": "to make a living. Um, are they money"
+    },
+    {
+      "start": 408.8,
+      "duration": 5.28,
+      "text": "managers who are overweight small cap"
+    },
+    {
+      "start": 411.759,
+      "duration": 4.961,
+      "text": "value underweight tech? Okay, I get"
+    },
+    {
+      "start": 414.08,
+      "duration": 4.48,
+      "text": "that, too. They're wish casting. They"
+    },
+    {
+      "start": 416.72,
+      "duration": 3.919,
+      "text": "want these stocks to blow up so they can"
+    },
+    {
+      "start": 418.56,
+      "duration": 4.8,
+      "text": "call their clients and say, \"You see, I"
+    },
+    {
+      "start": 420.639,
+      "duration": 5.28,
+      "text": "was right. I'm not a schmuck. I I told"
+    },
+    {
+      "start": 423.36,
+      "duration": 4.959,
+      "text": "you that. I told you so.\" Um, so there's"
+    },
+    {
+      "start": 425.919,
+      "duration": 5.041,
+      "text": "a lot of that going on. Um, obviously"
+    },
+    {
+      "start": 428.319,
+      "duration": 4.72,
+      "text": "people on financial television, it's"
+    },
+    {
+      "start": 430.96,
+      "duration": 4.0,
+      "text": "high ratings when stocks like Oracle"
+    },
+    {
+      "start": 433.039,
+      "duration": 4.16,
+      "text": "blow up. And then the next one and the"
+    },
+    {
+      "start": 434.96,
+      "duration": 4.639,
+      "text": "next, they want that domino effect"
+    },
+    {
+      "start": 437.199,
+      "duration": 4.881,
+      "text": "because this is when people are paying"
+    },
+    {
+      "start": 439.599,
+      "duration": 4.72,
+      "text": "the maximum amount of attention to"
+    },
+    {
+      "start": 442.08,
+      "duration": 4.239,
+      "text": "financial media. So there are a lot of"
+    },
+    {
+      "start": 444.319,
+      "duration": 4.481,
+      "text": "people who have a vested interest in"
+    },
+    {
+      "start": 446.319,
+      "duration": 4.961,
+      "text": "seeing this thing go badly and maybe it"
+    },
+    {
+      "start": 448.8,
+      "duration": 4.56,
+      "text": "will, but I I think it becomes really"
+    },
+    {
+      "start": 451.28,
+      "duration": 3.759,
+      "text": "important to say, all right, who's"
+    },
+    {
+      "start": 453.36,
+      "duration": 3.36,
+      "text": "talking about this? that's actually"
+    },
+    {
+      "start": 455.039,
+      "duration": 4.081,
+      "text": "invested."
+    },
+    {
+      "start": 456.72,
+      "duration": 5.599,
+      "text": "Who's talking about this that literally"
+    },
+    {
+      "start": 459.12,
+      "duration": 5.44,
+      "text": "has money on the line, reputation on the"
+    },
+    {
+      "start": 462.319,
+      "duration": 4.0,
+      "text": "line, that has skin in the game? I want"
+    },
+    {
+      "start": 464.56,
+      "duration": 4.479,
+      "text": "to listen to those people. Not that they"
+    },
+    {
+      "start": 466.319,
+      "duration": 4.72,
+      "text": "can't be wrong, but my god, I need a"
+    },
+    {
+      "start": 469.039,
+      "duration": 4.56,
+      "text": "counterbalance to all the Chicken"
+    },
+    {
+      "start": 471.039,
+      "duration": 4.88,
+      "text": "Littles and all the people saying the"
+    },
+    {
+      "start": 473.599,
+      "duration": 4.481,
+      "text": "end is nigh because without that"
+    },
+    {
+      "start": 475.919,
+      "duration": 4.081,
+      "text": "counterbalance, you're just listening to"
+    },
+    {
+      "start": 478.08,
+      "duration": 5.119,
+      "text": "people who are wish casting. What I"
+    },
+    {
+      "start": 480.0,
+      "duration": 4.879,
+      "text": "would say in in push back is, you know,"
+    },
+    {
+      "start": 483.199,
+      "duration": 2.801,
+      "text": "you're describing a dynamic where there"
+    },
+    {
+      "start": 484.879,
+      "duration": 4.0,
+      "text": "are certain people who have a vested"
+    },
+    {
+      "start": 486.0,
+      "duration": 4.639,
+      "text": "interest in things going down, but on"
+    },
+    {
+      "start": 488.879,
+      "duration": 3.681,
+      "text": "the flip side, there's also people who"
+    },
+    {
+      "start": 490.639,
+      "duration": 2.481,
+      "text": "have a vested interest in things going"
+    },
+    {
+      "start": 492.56,
+      "duration": 0.96,
+      "text": "up."
+    },
+    {
+      "start": 493.12,
+      "duration": 2.4,
+      "text": ">> Yes."
+    },
+    {
+      "start": 493.52,
+      "duration": 4.799,
+      "text": ">> And everyone has vested interests."
+    },
+    {
+      "start": 495.52,
+      "duration": 4.88,
+      "text": "Everyone has things that they want or"
+    },
+    {
+      "start": 498.319,
+      "duration": 3.681,
+      "text": "internal biases. They want things to go"
+    },
+    {
+      "start": 500.4,
+      "duration": 3.919,
+      "text": "right. Maybe they want things to go"
+    },
+    {
+      "start": 502.0,
+      "duration": 5.52,
+      "text": "wrong. And I think to your point, it is"
+    },
+    {
+      "start": 504.319,
+      "duration": 4.72,
+      "text": "so important to figure out how to kind"
+    },
+    {
+      "start": 507.52,
+      "duration": 4.56,
+      "text": "of weed through that."
+    },
+    {
+      "start": 509.039,
+      "duration": 6.161,
+      "text": ">> My point is when in doubt, follow price."
+    },
+    {
+      "start": 512.08,
+      "duration": 6.0,
+      "text": ">> When in doubt, trust what the markets"
+    },
+    {
+      "start": 515.2,
+      "duration": 3.279,
+      "text": "are saying about the the price of a"
+    },
+    {
+      "start": 518.08,
+      "duration": 2.639,
+      "text": "stock."
+    },
+    {
+      "start": 518.479,
+      "duration": 4.081,
+      "text": ">> Pay less attention to what people say"
+    },
+    {
+      "start": 520.719,
+      "duration": 3.761,
+      "text": "and more attention to what they do."
+    },
+    {
+      "start": 522.56,
+      "duration": 4.959,
+      "text": ">> Fair enough. I I I think that's"
+    },
+    {
+      "start": 524.48,
+      "duration": 5.52,
+      "text": "definitely true. on open AI as an"
+    },
+    {
+      "start": 527.519,
+      "duration": 4.721,
+      "text": "example. So I I feel like we need to"
+    },
+    {
+      "start": 530.0,
+      "duration": 4.24,
+      "text": "kind of bucket these companies into into"
+    },
+    {
+      "start": 532.24,
+      "duration": 2.8,
+      "text": "into buckets basically."
+    },
+    {
+      "start": 534.24,
+      "duration": 4.0,
+      "text": ">> Totally true"
+    },
+    {
+      "start": 535.04,
+      "duration": 6.08,
+      "text": ">> where you do have many of these AI"
+    },
+    {
+      "start": 538.24,
+      "duration": 4.96,
+      "text": "related stocks which I think are growing"
+    },
+    {
+      "start": 541.12,
+      "duration": 3.6,
+      "text": "pretty healthily and they're managing"
+    },
+    {
+      "start": 543.2,
+      "duration": 3.36,
+      "text": "their balance sheets well and everything"
+    },
+    {
+      "start": 544.72,
+      "duration": 4.64,
+      "text": "looks pretty good. And then I think"
+    },
+    {
+      "start": 546.56,
+      "duration": 5.2,
+      "text": "there are other companies like OpenAI"
+    },
+    {
+      "start": 549.36,
+      "duration": 5.36,
+      "text": "which I honestly I mean maybe I'm one of"
+    },
+    {
+      "start": 551.76,
+      "duration": 5.04,
+      "text": "those wooden spoon uh banging against"
+    },
+    {
+      "start": 554.72,
+      "duration": 4.559,
+      "text": "the drone but I I don't look at what"
+    },
+    {
+      "start": 556.8,
+      "duration": 4.08,
+      "text": "OpenAI is doing from a financial"
+    },
+    {
+      "start": 559.279,
+      "duration": 3.521,
+      "text": "management perspective and it I don't"
+    },
+    {
+      "start": 560.88,
+      "duration": 5.28,
+      "text": "think it inspires much confidence in me"
+    },
+    {
+      "start": 562.8,
+      "duration": 5.28,
+      "text": "personally. And the trouble is I can't"
+    },
+    {
+      "start": 566.16,
+      "duration": 4.56,
+      "text": "follow the price because it's private."
+    },
+    {
+      "start": 568.08,
+      "duration": 6.319,
+      "text": "So I actually don't know what the price"
+    },
+    {
+      "start": 570.72,
+      "duration": 5.28,
+      "text": "of Open AI is. But if I had to guess"
+    },
+    {
+      "start": 574.399,
+      "duration": 3.281,
+      "text": "based on what we're seeing in the public"
+    },
+    {
+      "start": 576.0,
+      "duration": 3.519,
+      "text": "markets, I would probably look at Oracle"
+    },
+    {
+      "start": 577.68,
+      "duration": 5.2,
+      "text": "as a proxy for what's going on with Open"
+    },
+    {
+      "start": 579.519,
+      "duration": 7.201,
+      "text": "AI and it's not looking very good. So in"
+    },
+    {
+      "start": 582.88,
+      "duration": 5.44,
+      "text": "that sense, OpenAI doesn't seem to be"
+    },
+    {
+      "start": 586.72,
+      "duration": 3.92,
+      "text": "the best reflection of what is happening"
+    },
+    {
+      "start": 588.32,
+      "duration": 3.68,
+      "text": "in AI right now. I have so much other"
+    },
+    {
+      "start": 590.64,
+      "duration": 3.28,
+      "text": "stuff I want to ask you, but I am just"
+    },
+    {
+      "start": 592.0,
+      "duration": 4.64,
+      "text": "interested in this topic. Would you"
+    },
+    {
+      "start": 593.92,
+      "duration": 4.88,
+      "text": "agree that we need to divide it up?"
+    },
+    {
+      "start": 596.64,
+      "duration": 5.52,
+      "text": ">> I think you're exactly right. It's a"
+    },
+    {
+      "start": 598.8,
+      "duration": 6.0,
+      "text": "very unique situation where one of the"
+    },
+    {
+      "start": 602.16,
+      "duration": 6.32,
+      "text": "most important chess pieces is not on"
+    },
+    {
+      "start": 604.8,
+      "duration": 7.68,
+      "text": "the board. This it's it's highly highly"
+    },
+    {
+      "start": 608.48,
+      "duration": 7.2,
+      "text": "unique situation. Um I've likened it in"
+    },
+    {
+      "start": 612.48,
+      "duration": 6.64,
+      "text": "in in uh other venues. I've explained it"
+    },
+    {
+      "start": 615.68,
+      "duration": 5.92,
+      "text": "as Kaiser So in The Usual Suspects."
+    },
+    {
+      "start": 619.12,
+      "duration": 4.88,
+      "text": ">> Sam Alton limping off."
+    },
+    {
+      "start": 621.6,
+      "duration": 4.479,
+      "text": ">> It's the main character in the movie."
+    },
+    {
+      "start": 624.0,
+      "duration": 4.8,
+      "text": "It's the thing that animates the actions"
+    },
+    {
+      "start": 626.079,
+      "duration": 4.401,
+      "text": "of everyone else in the movie. And he"
+    },
+    {
+      "start": 628.8,
+      "duration": 4.0,
+      "text": "doesn't show up until the last one"
+    },
+    {
+      "start": 630.48,
+      "duration": 4.64,
+      "text": "minute of the film. In old Hollywood,"
+    },
+    {
+      "start": 632.8,
+      "duration": 5.44,
+      "text": "they used to call it the McGuffin. So"
+    },
+    {
+      "start": 635.12,
+      "duration": 5.279,
+      "text": "the Maltese Falcon. The What is the"
+    },
+    {
+      "start": 638.24,
+      "duration": 3.839,
+      "text": "Maltese Falcon? It's a stupid statue,"
+    },
+    {
+      "start": 640.399,
+      "duration": 3.361,
+      "text": "but it's the McGuffin. It's the thing"
+    },
+    {
+      "start": 642.079,
+      "duration": 5.121,
+      "text": "that sets everything else in the movie"
+    },
+    {
+      "start": 643.76,
+      "duration": 5.44,
+      "text": "in motion. Open AAI share price is not"
+    },
+    {
+      "start": 647.2,
+      "duration": 4.079,
+      "text": "tradable. Now, of course, there are"
+    },
+    {
+      "start": 649.2,
+      "duration": 4.319,
+      "text": "people who are invested in it. But even"
+    },
+    {
+      "start": 651.279,
+      "duration": 3.521,
+      "text": "if they on a Monday they're bullish, on"
+    },
+    {
+      "start": 653.519,
+      "duration": 4.081,
+      "text": "a Tuesday they're bearish. They don't"
+    },
+    {
+      "start": 654.8,
+      "duration": 5.039,
+      "text": "have the liquidity to change their mind"
+    },
+    {
+      "start": 657.6,
+      "duration": 4.32,
+      "text": "and act on that that price in the way"
+    },
+    {
+      "start": 659.839,
+      "duration": 3.761,
+      "text": "that we have in the public market. To"
+    },
+    {
+      "start": 661.92,
+      "duration": 3.52,
+      "text": "which I would respond to you, I'd say"
+    },
+    {
+      "start": 663.6,
+      "duration": 4.96,
+      "text": "you're exactly right. Thank God for"
+    },
+    {
+      "start": 665.44,
+      "duration": 5.6,
+      "text": "public markets number one. Um because"
+    },
+    {
+      "start": 668.56,
+      "duration": 5.68,
+      "text": "yes there is a lot of concern about open"
+    },
+    {
+      "start": 671.04,
+      "duration": 5.12,
+      "text": "AAI and we saw it viscerally in the"
+    },
+    {
+      "start": 674.24,
+      "duration": 5.839,
+      "text": "prices of the companies that were deemed"
+    },
+    {
+      "start": 676.16,
+      "duration": 6.08,
+      "text": "to be quote open AAI dependent companies"
+    },
+    {
+      "start": 680.079,
+      "duration": 4.641,
+      "text": "that OpenAI is spending the most money"
+    },
+    {
+      "start": 682.24,
+      "duration": 4.48,
+      "text": "on their services and Oracle sort of"
+    },
+    {
+      "start": 684.72,
+      "duration": 5.2,
+      "text": "became like an avatar for that. But let"
+    },
+    {
+      "start": 686.72,
+      "duration": 7.04,
+      "text": "me ask you a question. Anthropic, one of"
+    },
+    {
+      "start": 689.92,
+      "duration": 6.64,
+      "text": "the biggest players in AI, also private,"
+    },
+    {
+      "start": 693.76,
+      "duration": 6.16,
+      "text": "um, spends about5 billion dollars"
+    },
+    {
+      "start": 696.56,
+      "duration": 6.56,
+      "text": "annually that we know of on, uh, the AWS"
+    },
+    {
+      "start": 699.92,
+      "duration": 5.919,
+      "text": "cloud to support its business. Anthropic"
+    },
+    {
+      "start": 703.12,
+      "duration": 5.839,
+      "text": "is actually ahead of Open AI in"
+    },
+    {
+      "start": 705.839,
+      "duration": 5.12,
+      "text": "enterprise. Um, they're selling to"
+    },
+    {
+      "start": 708.959,
+      "duration": 4.721,
+      "text": "thousands of the largest organizations"
+    },
+    {
+      "start": 710.959,
+      "duration": 4.401,
+      "text": "and corporations around the world. Um,"
+    },
+    {
+      "start": 713.68,
+      "duration": 4.399,
+      "text": "we don't have a share price for that one"
+    },
+    {
+      "start": 715.36,
+      "duration": 4.96,
+      "text": "either. You think you think Anthropic is"
+    },
+    {
+      "start": 718.079,
+      "duration": 4.961,
+      "text": "in as big of a draw down from its high"
+    },
+    {
+      "start": 720.32,
+      "duration": 5.84,
+      "text": "as the public share price of Oracle is?"
+    },
+    {
+      "start": 723.04,
+      "duration": 6.4,
+      "text": "Probably not. Um Amazon actually"
+    },
+    {
+      "start": 726.16,
+      "duration": 5.84,
+      "text": "consolidates some of the the profit from"
+    },
+    {
+      "start": 729.44,
+      "duration": 5.28,
+      "text": "Anthropic is doing as a very large"
+    },
+    {
+      "start": 732.0,
+      "duration": 5.279,
+      "text": "shareholder of the company. Um we think"
+    },
+    {
+      "start": 734.72,
+      "duration": 4.0,
+      "text": "that that business is gang busters. So"
+    },
+    {
+      "start": 737.279,
+      "duration": 3.921,
+      "text": "yes, you have to bucket these things,"
+    },
+    {
+      "start": 738.72,
+      "duration": 6.64,
+      "text": "but then you also have to realize"
+    },
+    {
+      "start": 741.2,
+      "duration": 6.48,
+      "text": "narratives in AI are shifting overnight."
+    },
+    {
+      "start": 745.36,
+      "duration": 5.039,
+      "text": "Seven months ago, the talk around"
+    },
+    {
+      "start": 747.68,
+      "duration": 4.88,
+      "text": "Alphabet is that they're finished."
+    },
+    {
+      "start": 750.399,
+      "duration": 6.081,
+      "text": "They're done. They're going to get"
+    },
+    {
+      "start": 752.56,
+      "duration": 5.36,
+      "text": "murdered by o by OpenAI and other LLMs."
+    },
+    {
+      "start": 756.48,
+      "duration": 5.28,
+      "text": "People are going to start their searches"
+    },
+    {
+      "start": 757.92,
+      "duration": 6.64,
+      "text": "on Perplexity and and Claude and Chat"
+    },
+    {
+      "start": 761.76,
+      "duration": 6.0,
+      "text": "GPT and completely bypass the Google"
+    },
+    {
+      "start": 764.56,
+      "duration": 5.44,
+      "text": "experience. And then Google goes up 65%"
+    },
+    {
+      "start": 767.76,
+      "duration": 4.8,
+      "text": "on the year, becomes the best performing"
+    },
+    {
+      "start": 770.0,
+      "duration": 3.92,
+      "text": "of the Mag 7, and all of a sudden it's"
+    },
+    {
+      "start": 772.56,
+      "duration": 3.76,
+      "text": "Google's world and the rest of us live"
+    },
+    {
+      "start": 773.92,
+      "duration": 5.599,
+      "text": "in it. That shift didn't take three"
+    },
+    {
+      "start": 776.32,
+      "duration": 5.28,
+      "text": "years. It took like three months. So the"
+    },
+    {
+      "start": 779.519,
+      "duration": 5.281,
+      "text": "narratives and the banging on pots and"
+    },
+    {
+      "start": 781.6,
+      "duration": 6.479,
+      "text": "pans has to give way to the primacy of"
+    },
+    {
+      "start": 784.8,
+      "duration": 5.92,
+      "text": "price. What are people actually betting"
+    },
+    {
+      "start": 788.079,
+      "duration": 5.121,
+      "text": "on with real money versus who is wish"
+    },
+    {
+      "start": 790.72,
+      "duration": 5.679,
+      "text": "casting and just hoping the guy they"
+    },
+    {
+      "start": 793.2,
+      "duration": 5.52,
+      "text": "don't like uh goes down for the count,"
+    },
+    {
+      "start": 796.399,
+      "duration": 5.921,
+      "text": "right? Oh, I don't trust Sam or I hate"
+    },
+    {
+      "start": 798.72,
+      "duration": 7.28,
+      "text": "Elon or it's so important to focus on"
+    },
+    {
+      "start": 802.32,
+      "duration": 5.519,
+      "text": "price more than ever. not to try to sit"
+    },
+    {
+      "start": 806.0,
+      "duration": 3.92,
+      "text": "here and parse 50 different people's"
+    },
+    {
+      "start": 807.839,
+      "duration": 5.12,
+      "text": "opinions. That game is almost"
+    },
+    {
+      "start": 809.92,
+      "duration": 4.4,
+      "text": "impossible. The real game is okay, fine,"
+    },
+    {
+      "start": 812.959,
+      "duration": 3.841,
+      "text": "but what are the buyers doing? What are"
+    },
+    {
+      "start": 814.32,
+      "duration": 4.16,
+      "text": "the sellers doing?"
+    },
+    {
+      "start": 816.8,
+      "duration": 3.279,
+      "text": ">> We'll be right back after the break. And"
+    },
+    {
+      "start": 818.48,
+      "duration": 3.919,
+      "text": "if you're enjoying the show so far, be"
+    },
+    {
+      "start": 820.079,
+      "duration": 6.121,
+      "text": "sure to give Prof Markets a follow"
+    },
+    {
+      "start": 822.399,
+      "duration": 3.801,
+      "text": "wherever you get your podcasts."
+    },
+    {
+      "start": 830.639,
+      "duration": 3.121,
+      "text": "Support for the show comes from"
+    },
+    {
+      "start": 831.839,
+      "duration": 3.361,
+      "text": "Fundrise. For the past 70 years, there's"
+    },
+    {
+      "start": 833.76,
+      "duration": 2.96,
+      "text": "been a room in finance that most people"
+    },
+    {
+      "start": 835.2,
+      "duration": 2.639,
+      "text": "couldn't enter. A room where you could"
+    },
+    {
+      "start": 836.72,
+      "duration": 3.28,
+      "text": "have invested in some of the biggest"
+    },
+    {
+      "start": 837.839,
+      "duration": 4.641,
+      "text": "names in tech companies including Airbnb"
+    },
+    {
+      "start": 840.0,
+      "duration": 5.519,
+      "text": "and Uber before their multi-billion"
+    },
+    {
+      "start": 842.48,
+      "duration": 5.12,
+      "text": "dollar IPOs. I'm talking about venture"
+    },
+    {
+      "start": 845.519,
+      "duration": 3.601,
+      "text": "capital. But unless you had millions of"
+    },
+    {
+      "start": 847.6,
+      "duration": 3.2,
+      "text": "dollars and the right connections, the"
+    },
+    {
+      "start": 849.12,
+      "duration": 3.279,
+      "text": "door to the venture capital room was"
+    },
+    {
+      "start": 850.8,
+      "duration": 3.599,
+      "text": "closed. You were stuck waiting in line"
+    },
+    {
+      "start": 852.399,
+      "duration": 3.521,
+      "text": "with everyone else. But recently,"
+    },
+    {
+      "start": 854.399,
+      "duration": 2.88,
+      "text": "Fundrise took a sledgehammer to that"
+    },
+    {
+      "start": 855.92,
+      "duration": 3.12,
+      "text": "door when they launched their venture"
+    },
+    {
+      "start": 857.279,
+      "duration": 4.0,
+      "text": "capital product and made it available to"
+    },
+    {
+      "start": 859.04,
+      "duration": 4.56,
+      "text": "anyone with a minimum investment of just"
+    },
+    {
+      "start": 861.279,
+      "duration": 3.92,
+      "text": "$10. Fundrise says their mission is to"
+    },
+    {
+      "start": 863.6,
+      "duration": 3.76,
+      "text": "give everyone the chance to invest in"
+    },
+    {
+      "start": 865.199,
+      "duration": 5.841,
+      "text": "the best tech and AI companies before"
+    },
+    {
+      "start": 867.36,
+      "duration": 5.2,
+      "text": "they go public. Visit fundrise.com/propg"
+    },
+    {
+      "start": 871.04,
+      "duration": 3.12,
+      "text": "to check out Fundrise's venture"
+    },
+    {
+      "start": 872.56,
+      "duration": 3.519,
+      "text": "portfolio and start investing in"
+    },
+    {
+      "start": 874.16,
+      "duration": 3.039,
+      "text": "minutes. All investments involve risk,"
+    },
+    {
+      "start": 876.079,
+      "duration": 3.041,
+      "text": "including the potential loss of"
+    },
+    {
+      "start": 877.199,
+      "duration": 3.521,
+      "text": "principle. Past performance is not"
+    },
+    {
+      "start": 879.12,
+      "duration": 4.92,
+      "text": "indicative of future results. This is a"
+    },
+    {
+      "start": 880.72,
+      "duration": 3.32,
+      "text": "paid advertisement."
+    },
+    {
+      "start": 891.44,
+      "duration": 4.0,
+      "text": "We're back with Profy Markets. Based on"
+    },
+    {
+      "start": 893.6,
+      "duration": 4.32,
+      "text": "everything you've you've told us here"
+    },
+    {
+      "start": 895.44,
+      "duration": 4.56,
+      "text": "and what you've seen in 2025, let's look"
+    },
+    {
+      "start": 897.92,
+      "duration": 5.919,
+      "text": "ahead to 2026."
+    },
+    {
+      "start": 900.0,
+      "duration": 5.6,
+      "text": "Um, we've been having a lot of different"
+    },
+    {
+      "start": 903.839,
+      "duration": 3.12,
+      "text": "commentators on telling us their"
+    },
+    {
+      "start": 905.6,
+      "duration": 4.239,
+      "text": "predictions for the year. We've gotten"
+    },
+    {
+      "start": 906.959,
+      "duration": 5.841,
+      "text": "kind of a range of opinions. Um, what"
+    },
+    {
+      "start": 909.839,
+      "duration": 5.841,
+      "text": "are your predictions for markets this"
+    },
+    {
+      "start": 912.8,
+      "duration": 4.64,
+      "text": "year? Are you bullish on 2026? Are you"
+    },
+    {
+      "start": 915.68,
+      "duration": 4.24,
+      "text": "bearish and why?"
+    },
+    {
+      "start": 917.44,
+      "duration": 5.519,
+      "text": ">> So, we're money managers, not sellside"
+    },
+    {
+      "start": 919.92,
+      "duration": 6.479,
+      "text": "analysts and not chief strategists. So,"
+    },
+    {
+      "start": 922.959,
+      "duration": 5.521,
+      "text": "we don't have price targets. We don't"
+    },
+    {
+      "start": 926.399,
+      "duration": 5.281,
+      "text": "have our own internal earnings"
+    },
+    {
+      "start": 928.48,
+      "duration": 5.359,
+      "text": "expectation. What we do for clients is"
+    },
+    {
+      "start": 931.68,
+      "duration": 4.56,
+      "text": "we rationalize the risks they're taking"
+    },
+    {
+      "start": 933.839,
+      "duration": 5.921,
+      "text": "with data. We try to give them the"
+    },
+    {
+      "start": 936.24,
+      "duration": 5.76,
+      "text": "historical context that we think is more"
+    },
+    {
+      "start": 939.76,
+      "duration": 4.56,
+      "text": "important than the prediction of the of"
+    },
+    {
+      "start": 942.0,
+      "duration": 4.32,
+      "text": "of the month or of the day these days"
+    },
+    {
+      "start": 944.32,
+      "duration": 3.199,
+      "text": "because we're in the the January where"
+    },
+    {
+      "start": 946.32,
+      "duration": 2.959,
+      "text": "everyone's making their year-end"
+    },
+    {
+      "start": 947.519,
+      "duration": 4.641,
+      "text": "predictions. But this is what I would"
+    },
+    {
+      "start": 949.279,
+      "duration": 6.56,
+      "text": "share with you. The only questions that"
+    },
+    {
+      "start": 952.16,
+      "duration": 6.08,
+      "text": "matter for this year. Number one, will"
+    },
+    {
+      "start": 955.839,
+      "duration": 4.321,
+      "text": "the fundamentals continue to justify an"
+    },
+    {
+      "start": 958.24,
+      "duration": 3.76,
+      "text": "above average price earnings multiple?"
+    },
+    {
+      "start": 960.16,
+      "duration": 5.039,
+      "text": "That's it. That's the question. You"
+    },
+    {
+      "start": 962.0,
+      "duration": 6.16,
+      "text": "either answer that yes, no, maybe, or or"
+    },
+    {
+      "start": 965.199,
+      "duration": 5.121,
+      "text": "let's say yes, no, I don't know. So, of"
+    },
+    {
+      "start": 968.16,
+      "duration": 4.32,
+      "text": "course, like obviously I don't know, but"
+    },
+    {
+      "start": 970.32,
+      "duration": 5.04,
+      "text": "I think the answer is yes. Why do I"
+    },
+    {
+      "start": 972.48,
+      "duration": 6.08,
+      "text": "think the answer is yes? Well, the first"
+    },
+    {
+      "start": 975.36,
+      "duration": 4.719,
+      "text": "earnings uh season we'll have is Q4."
+    },
+    {
+      "start": 978.56,
+      "duration": 4.48,
+      "text": "We'll start getting these reports in"
+    },
+    {
+      "start": 980.079,
+      "duration": 4.241,
+      "text": "February. And here are the consensus"
+    },
+    {
+      "start": 983.04,
+      "duration": 3.76,
+      "text": "estimates. You tell me what you think"
+    },
+    {
+      "start": 984.32,
+      "duration": 4.639,
+      "text": "when I'm done."
+    },
+    {
+      "start": 986.8,
+      "duration": 6.24,
+      "text": "Wall Street thinks the S&P will deliver"
+    },
+    {
+      "start": 988.959,
+      "duration": 8.961,
+      "text": "an 8.6% 6% uh earnings growth quarter"
+    },
+    {
+      "start": 993.04,
+      "duration": 7.44,
+      "text": "versus Q4 of 2024. Okay. They think the"
+    },
+    {
+      "start": 997.92,
+      "duration": 4.0,
+      "text": "technology sector which is obviously the"
+    },
+    {
+      "start": 1000.48,
+      "duration": 3.12,
+      "text": "most important sector for earnings"
+    },
+    {
+      "start": 1001.92,
+      "duration": 5.279,
+      "text": "growth and also for market"
+    },
+    {
+      "start": 1003.6,
+      "duration": 7.2,
+      "text": "capitalization will do 25.8% earnings"
+    },
+    {
+      "start": 1007.199,
+      "duration": 7.601,
+      "text": "growth. That's an eyepopping number. If"
+    },
+    {
+      "start": 1010.8,
+      "duration": 5.68,
+      "text": "they do 24% or 27% or anywhere in that"
+    },
+    {
+      "start": 1014.8,
+      "duration": 3.52,
+      "text": "vicinity,"
+    },
+    {
+      "start": 1016.48,
+      "duration": 5.039,
+      "text": "wouldn't you agree that that would"
+    },
+    {
+      "start": 1018.32,
+      "duration": 5.439,
+      "text": "support a 21 multiple on the overall S&P"
+    },
+    {
+      "start": 1021.519,
+      "duration": 4.56,
+      "text": "given how important those companies are"
+    },
+    {
+      "start": 1023.759,
+      "duration": 4.241,
+      "text": "to market cap? I like that's what I"
+    },
+    {
+      "start": 1026.079,
+      "duration": 4.081,
+      "text": "would say. Um, you're not getting that"
+    },
+    {
+      "start": 1028.0,
+      "duration": 4.0,
+      "text": "across the whole S&P. You're getting"
+    },
+    {
+      "start": 1030.16,
+      "duration": 4.56,
+      "text": "that in tech and a lot of that's coming"
+    },
+    {
+      "start": 1032.0,
+      "duration": 4.48,
+      "text": "from semiconductors. Okay, fine. But the"
+    },
+    {
+      "start": 1034.72,
+      "duration": 4.88,
+      "text": "number is the number. We don't put"
+    },
+    {
+      "start": 1036.48,
+      "duration": 4.8,
+      "text": "asterisks on any other year for the S&P"
+    },
+    {
+      "start": 1039.6,
+      "duration": 3.839,
+      "text": "500. Why would we all of a sudden put an"
+    },
+    {
+      "start": 1041.28,
+      "duration": 5.919,
+      "text": "asterisk? Now, here are the full year"
+    },
+    {
+      "start": 1043.439,
+      "duration": 6.561,
+      "text": "2026 consensus uh estimates for sectors,"
+    },
+    {
+      "start": 1047.199,
+      "duration": 5.281,
+      "text": "the big sectors that matter. Uh Wall"
+    },
+    {
+      "start": 1050.0,
+      "duration": 4.799,
+      "text": "Street thinks industrials will do 13.1%"
+    },
+    {
+      "start": 1052.48,
+      "duration": 6.0,
+      "text": "earnings growth. They think uh"
+    },
+    {
+      "start": 1054.799,
+      "duration": 7.12,
+      "text": "technology will do 29.7"
+    },
+    {
+      "start": 1058.48,
+      "duration": 6.079,
+      "text": "30% earn not revenue earnings growth for"
+    },
+    {
+      "start": 1061.919,
+      "duration": 4.801,
+      "text": "26 again if they even get close. But"
+    },
+    {
+      "start": 1064.559,
+      "duration": 6.321,
+      "text": "here's what's really fascinating."
+    },
+    {
+      "start": 1066.72,
+      "duration": 6.48,
+      "text": "Financials 10.4% 4% for 2026. Disc"
+    },
+    {
+      "start": 1070.88,
+      "duration": 5.6,
+      "text": "consumer discretionary huge sector."
+    },
+    {
+      "start": 1073.2,
+      "duration": 7.12,
+      "text": "Amazon's in that sector. Um Tesla for"
+    },
+    {
+      "start": 1076.48,
+      "duration": 7.28,
+      "text": "some reason is in that sector 11.7%."
+    },
+    {
+      "start": 1080.32,
+      "duration": 8.719,
+      "text": "Um communication services that's"
+    },
+    {
+      "start": 1083.76,
+      "duration": 8.32,
+      "text": "Alphabet, Meta, uh Netflix, etc. 7.2%."
+    },
+    {
+      "start": 1089.039,
+      "duration": 5.681,
+      "text": "So like if uh healthcare 8 and a half,"
+    },
+    {
+      "start": 1092.08,
+      "duration": 5.28,
+      "text": "utilities 8.7, that's become a deacto AI"
+    },
+    {
+      "start": 1094.72,
+      "duration": 5.28,
+      "text": "trade. So, the consensus thinks the S&P"
+    },
+    {
+      "start": 1097.36,
+      "duration": 7.04,
+      "text": "500 will grow earnings once again for"
+    },
+    {
+      "start": 1100.0,
+      "duration": 6.24,
+      "text": "all of calendar 2026 by 14.6%."
+    },
+    {
+      "start": 1104.4,
+      "duration": 5.04,
+      "text": "So, with a typical beat rate, it'll"
+    },
+    {
+      "start": 1106.24,
+      "duration": 6.24,
+      "text": "probably be more like 15 16%. If you"
+    },
+    {
+      "start": 1109.44,
+      "duration": 6.479,
+      "text": "think the market delivers that 21 times"
+    },
+    {
+      "start": 1112.48,
+      "duration": 5.04,
+      "text": "earnings is justifiable and so it"
+    },
+    {
+      "start": 1115.919,
+      "duration": 5.041,
+      "text": "doesn't mean we'll get another, you"
+    },
+    {
+      "start": 1117.52,
+      "duration": 4.8,
+      "text": "know, 18 20% return on the S&P, but at"
+    },
+    {
+      "start": 1120.96,
+      "duration": 4.0,
+      "text": "the very least, we should have a lot of"
+    },
+    {
+      "start": 1122.32,
+      "duration": 5.12,
+      "text": "winners in the market. 16 stocks of the"
+    },
+    {
+      "start": 1124.96,
+      "duration": 4.32,
+      "text": "S&P doubled last year. These aren't"
+    },
+    {
+      "start": 1127.44,
+      "duration": 5.28,
+      "text": "obscure, bizarre stocks no one's ever"
+    },
+    {
+      "start": 1129.28,
+      "duration": 5.84,
+      "text": "heard of. Some very big stocks doubled"
+    },
+    {
+      "start": 1132.72,
+      "duration": 5.36,
+      "text": "last year. All sorts of stocks went up"
+    },
+    {
+      "start": 1135.12,
+      "duration": 5.84,
+      "text": "30, 40, 50, 60%. And I want you to"
+    },
+    {
+      "start": 1138.08,
+      "duration": 5.92,
+      "text": "remember the stock market wasn't cheap a"
+    },
+    {
+      "start": 1140.96,
+      "duration": 5.599,
+      "text": "year ago at this time. So the earnings"
+    },
+    {
+      "start": 1144.0,
+      "duration": 4.08,
+      "text": "growth has to deliver. So the the real"
+    },
+    {
+      "start": 1146.559,
+      "duration": 1.841,
+      "text": "question that we need to answer is will"
+    },
+    {
+      "start": 1148.08,
+      "duration": 0.719,
+      "text": "it?"
+    },
+    {
+      "start": 1148.4,
+      "duration": 3.76,
+      "text": ">> Yes,"
+    },
+    {
+      "start": 1148.799,
+      "duration": 5.681,
+      "text": ">> I think it will. And there's a chance"
+    },
+    {
+      "start": 1152.16,
+      "duration": 4.48,
+      "text": "that that's wrong. You could have some"
+    },
+    {
+      "start": 1154.48,
+      "duration": 4.72,
+      "text": "sort of an exogenous shock that changes"
+    },
+    {
+      "start": 1156.64,
+      "duration": 4.399,
+      "text": "everything. So, you have to just be like"
+    },
+    {
+      "start": 1159.2,
+      "duration": 5.52,
+      "text": "okay with that. That's the risk that"
+    },
+    {
+      "start": 1161.039,
+      "duration": 8.081,
+      "text": "we're all taking because just for fun,"
+    },
+    {
+      "start": 1164.72,
+      "duration": 6.64,
+      "text": "go read the January 2020 year ahead"
+    },
+    {
+      "start": 1169.12,
+      "duration": 4.72,
+      "text": "outlooks from Wall Street. How many of"
+    },
+    {
+      "start": 1171.36,
+      "duration": 5.92,
+      "text": "them were talking about Corona virus?"
+    },
+    {
+      "start": 1173.84,
+      "duration": 5.76,
+      "text": "Zero. Hundreds of outlooks. Zero. And"
+    },
+    {
+      "start": 1177.28,
+      "duration": 5.279,
+      "text": "that obviously changed everything. Stock"
+    },
+    {
+      "start": 1179.6,
+      "duration": 5.6,
+      "text": "market ended up going up by the way. Um,"
+    },
+    {
+      "start": 1182.559,
+      "duration": 5.12,
+      "text": "but I'm just making the point like the"
+    },
+    {
+      "start": 1185.2,
+      "duration": 4.88,
+      "text": "thing that could alter the course of 15%"
+    },
+    {
+      "start": 1187.679,
+      "duration": 3.761,
+      "text": "earnings growth this year is not really"
+    },
+    {
+      "start": 1190.08,
+      "duration": 3.44,
+      "text": "the thing that any of us could put our"
+    },
+    {
+      "start": 1191.44,
+      "duration": 4.239,
+      "text": "finger on. Now, a lot of people would"
+    },
+    {
+      "start": 1193.52,
+      "duration": 3.68,
+      "text": "say, \"Oh, it's going to be the AI data"
+    },
+    {
+      "start": 1195.679,
+      "duration": 3.601,
+      "text": "centers. They're going to slow down."
+    },
+    {
+      "start": 1197.2,
+      "duration": 5.12,
+      "text": "There's going to be another Oracle, blah"
+    },
+    {
+      "start": 1199.28,
+      "duration": 5.92,
+      "text": "blah blah.\" Okay, possible. Um, but"
+    },
+    {
+      "start": 1202.32,
+      "duration": 4.32,
+      "text": "right now that's just not I wouldn't say"
+    },
+    {
+      "start": 1205.2,
+      "duration": 3.76,
+      "text": "that's sort of like what should be"
+    },
+    {
+      "start": 1206.64,
+      "duration": 4.24,
+      "text": "anyone's base case that all of a sudden"
+    },
+    {
+      "start": 1208.96,
+      "duration": 3.76,
+      "text": "all this money that these companies have"
+    },
+    {
+      "start": 1210.88,
+      "duration": 5.12,
+      "text": "spent they're going to say, you know"
+    },
+    {
+      "start": 1212.72,
+      "duration": 5.76,
+      "text": "what, forget it. It's it's just unlikely"
+    },
+    {
+      "start": 1216.0,
+      "duration": 3.2,
+      "text": "to me. So that that's where I am on on"
+    },
+    {
+      "start": 1218.48,
+      "duration": 2.48,
+      "text": "26."
+    },
+    {
+      "start": 1219.2,
+      "duration": 4.32,
+      "text": ">> I think that makes a lot of sense and I"
+    },
+    {
+      "start": 1220.96,
+      "duration": 4.8,
+      "text": "I I appreciate I think it's a really"
+    },
+    {
+      "start": 1223.52,
+      "duration": 4.32,
+      "text": "good framework. Let's just focus on the"
+    },
+    {
+      "start": 1225.76,
+      "duration": 5.919,
+      "text": "fundamentals. Are the fundamentals going"
+    },
+    {
+      "start": 1227.84,
+      "duration": 7.36,
+      "text": "to grow in 2026? and a lot of indicators"
+    },
+    {
+      "start": 1231.679,
+      "duration": 6.081,
+      "text": "would say yes they will uh beyond just"
+    },
+    {
+      "start": 1235.2,
+      "duration": 4.56,
+      "text": "the numbers itself that that itself that"
+    },
+    {
+      "start": 1237.76,
+      "duration": 3.6,
+      "text": "Wall Street is projecting but the fact"
+    },
+    {
+      "start": 1239.76,
+      "duration": 2.88,
+      "text": "that we do have interest rates coming"
+    },
+    {
+      "start": 1241.36,
+      "duration": 4.08,
+      "text": "down the fact that we're going to see"
+    },
+    {
+      "start": 1242.64,
+      "duration": 4.96,
+      "text": "more deficit spending having said that"
+    },
+    {
+      "start": 1245.44,
+      "duration": 4.0,
+      "text": "on the AI front I think one of the"
+    },
+    {
+      "start": 1247.6,
+      "duration": 3.6,
+      "text": "questions that I'm thinking about and"
+    },
+    {
+      "start": 1249.44,
+      "duration": 5.04,
+      "text": "that a lot of people are thinking about"
+    },
+    {
+      "start": 1251.2,
+      "duration": 5.52,
+      "text": "is we've seen all of this unbelievable"
+    },
+    {
+      "start": 1254.48,
+      "duration": 5.439,
+      "text": "spending and as you say it it is mostly"
+    },
+    {
+      "start": 1256.72,
+      "duration": 4.64,
+      "text": "coming from the semiconductor industry"
+    },
+    {
+      "start": 1259.919,
+      "duration": 3.201,
+      "text": "That's sort of where the action is"
+    },
+    {
+      "start": 1261.36,
+      "duration": 5.439,
+      "text": "happening and that's what's kind of"
+    },
+    {
+      "start": 1263.12,
+      "duration": 6.559,
+      "text": "driving growth at this point. But I"
+    },
+    {
+      "start": 1266.799,
+      "duration": 6.481,
+      "text": "think the question then becomes will we"
+    },
+    {
+      "start": 1269.679,
+      "duration": 6.641,
+      "text": "see the ROI on those chip and data"
+    },
+    {
+      "start": 1273.28,
+      "duration": 5.519,
+      "text": "center investments? Like is it the case"
+    },
+    {
+      "start": 1276.32,
+      "duration": 4.719,
+      "text": "that all of the money that Meta is"
+    },
+    {
+      "start": 1278.799,
+      "duration": 4.0,
+      "text": "spending on the data centers and that"
+    },
+    {
+      "start": 1281.039,
+      "duration": 3.601,
+      "text": "Alphabet spending on the data centers,"
+    },
+    {
+      "start": 1282.799,
+      "duration": 4.081,
+      "text": "all the money that they're spending on"
+    },
+    {
+      "start": 1284.64,
+      "duration": 4.24,
+      "text": "these chips, are we going to see that"
+    },
+    {
+      "start": 1286.88,
+      "duration": 5.12,
+      "text": "reflected? Are they going to get a real"
+    },
+    {
+      "start": 1288.88,
+      "duration": 5.2,
+      "text": "return on their investment in the what I"
+    },
+    {
+      "start": 1292.0,
+      "duration": 5.28,
+      "text": "would say the real economy which is the"
+    },
+    {
+      "start": 1294.08,
+      "duration": 4.959,
+      "text": "consumer economy? And for that we kind"
+    },
+    {
+      "start": 1297.28,
+      "duration": 3.759,
+      "text": "of have to look at companies like"
+    },
+    {
+      "start": 1299.039,
+      "duration": 4.721,
+      "text": "Anthropic. We have to look at companies"
+    },
+    {
+      "start": 1301.039,
+      "duration": 4.961,
+      "text": "like OpenAI and we have to figure out"
+    },
+    {
+      "start": 1303.76,
+      "duration": 4.159,
+      "text": "how much are people actually willing to"
+    },
+    {
+      "start": 1306.0,
+      "duration": 4.32,
+      "text": "spend for this stuff."
+    },
+    {
+      "start": 1307.919,
+      "duration": 6.401,
+      "text": ">> Palunteer is your tell."
+    },
+    {
+      "start": 1310.32,
+      "duration": 5.839,
+      "text": "Okay. Amazon is your tell. Alphabet."
+    },
+    {
+      "start": 1314.32,
+      "duration": 5.12,
+      "text": "This is where the spending is literally"
+    },
+    {
+      "start": 1316.159,
+      "duration": 5.121,
+      "text": "happening. Corporations are not buying"
+    },
+    {
+      "start": 1319.44,
+      "duration": 5.599,
+      "text": "GPUs."
+    },
+    {
+      "start": 1321.28,
+      "duration": 6.879,
+      "text": "Amazon and and uh right like Amazon,"
+    },
+    {
+      "start": 1325.039,
+      "duration": 5.921,
+      "text": "Alphabet, Microsoft are buying GPUs. Uh"
+    },
+    {
+      "start": 1328.159,
+      "duration": 5.681,
+      "text": "Meta and why are they buying them?"
+    },
+    {
+      "start": 1330.96,
+      "duration": 5.12,
+      "text": "Because their customers want to be able"
+    },
+    {
+      "start": 1333.84,
+      "duration": 5.839,
+      "text": "to do more with their data. And that's"
+    },
+    {
+      "start": 1336.08,
+      "duration": 6.16,
+      "text": "how that that works. So, um you watch"
+    },
+    {
+      "start": 1339.679,
+      "duration": 4.081,
+      "text": "the data centers. I think I I think"
+    },
+    {
+      "start": 1342.24,
+      "duration": 4.16,
+      "text": "everyone is. So that's not like a big"
+    },
+    {
+      "start": 1343.76,
+      "duration": 4.399,
+      "text": "revelation. You watch the Palunteers,"
+    },
+    {
+      "start": 1346.4,
+      "duration": 4.32,
+      "text": "the Accentur,"
+    },
+    {
+      "start": 1348.159,
+      "duration": 4.64,
+      "text": "um you listen to their commentary, those"
+    },
+    {
+      "start": 1350.72,
+      "duration": 3.92,
+      "text": "are the companies that are actually"
+    },
+    {
+      "start": 1352.799,
+      "duration": 4.161,
+      "text": "assisting"
+    },
+    {
+      "start": 1354.64,
+      "duration": 5.44,
+      "text": "um large enterprises with like okay"
+    },
+    {
+      "start": 1356.96,
+      "duration": 5.36,
+      "text": "great AI AI AI. What do I actually do"
+    },
+    {
+      "start": 1360.08,
+      "duration": 5.68,
+      "text": "with it? How like how does it help me"
+    },
+    {
+      "start": 1362.32,
+      "duration": 5.04,
+      "text": "beat earnings uh you know next quarter?"
+    },
+    {
+      "start": 1365.76,
+      "duration": 4.88,
+      "text": "Well, here's a project that you could"
+    },
+    {
+      "start": 1367.36,
+      "duration": 4.96,
+      "text": "work on right now. So like that's that's"
+    },
+    {
+      "start": 1370.64,
+      "duration": 4.88,
+      "text": "where the rubber meets the road is in"
+    },
+    {
+      "start": 1372.32,
+      "duration": 5.839,
+      "text": "that part of the market. Um look I think"
+    },
+    {
+      "start": 1375.52,
+      "duration": 5.279,
+      "text": "you look at the performance in sectors"
+    },
+    {
+      "start": 1378.159,
+      "duration": 4.64,
+      "text": "that have nothing to do with AI over the"
+    },
+    {
+      "start": 1380.799,
+      "duration": 4.721,
+      "text": "last year and you've seen like different"
+    },
+    {
+      "start": 1382.799,
+      "duration": 6.401,
+      "text": "sectors waking up. Biotech had an"
+    },
+    {
+      "start": 1385.52,
+      "duration": 6.56,
+      "text": "unbelievable comeback in 2025."
+    },
+    {
+      "start": 1389.2,
+      "duration": 6.24,
+      "text": "What has materially changed in biotech?"
+    },
+    {
+      "start": 1392.08,
+      "duration": 6.88,
+      "text": "nothing other than the use of AI is"
+    },
+    {
+      "start": 1395.44,
+      "duration": 6.239,
+      "text": "probably a huge efficiency driver in uh"
+    },
+    {
+      "start": 1398.96,
+      "duration": 5.04,
+      "text": "phase 1, 2, and three clinical trials."
+    },
+    {
+      "start": 1401.679,
+      "duration": 3.761,
+      "text": "It probably speeds up a lot of the"
+    },
+    {
+      "start": 1404.0,
+      "duration": 4.64,
+      "text": "things that have slowed those companies"
+    },
+    {
+      "start": 1405.44,
+      "duration": 4.8,
+      "text": "down in the drug discovery uh realm."
+    },
+    {
+      "start": 1408.64,
+      "duration": 4.64,
+      "text": "That's the way Wall Street is starting"
+    },
+    {
+      "start": 1410.24,
+      "duration": 5.919,
+      "text": "to price in the AI opportunity in in"
+    },
+    {
+      "start": 1413.28,
+      "duration": 5.759,
+      "text": "healthcare. Look at the financials, same"
+    },
+    {
+      "start": 1416.159,
+      "duration": 5.601,
+      "text": "thing. fraud detection, cyber security,"
+    },
+    {
+      "start": 1419.039,
+      "duration": 4.0,
+      "text": "like AI becomes a force multiplier in"
+    },
+    {
+      "start": 1421.76,
+      "duration": 3.44,
+      "text": "things that they're already spending"
+    },
+    {
+      "start": 1423.039,
+      "duration": 3.921,
+      "text": "money on if they could spend money more"
+    },
+    {
+      "start": 1425.2,
+      "duration": 4.8,
+      "text": "efficiently. And the last thing, and I"
+    },
+    {
+      "start": 1426.96,
+      "duration": 8.079,
+      "text": "know we're going to get to this, but um"
+    },
+    {
+      "start": 1430.0,
+      "duration": 9.12,
+      "text": "at CES, Nvidia was able to show that"
+    },
+    {
+      "start": 1435.039,
+      "duration": 8.801,
+      "text": "they have done in one year what took"
+    },
+    {
+      "start": 1439.12,
+      "duration": 6.32,
+      "text": "Tesla 8 years to automate an automobile"
+    },
+    {
+      "start": 1443.84,
+      "duration": 4.0,
+      "text": "so that it could drive through the city"
+    },
+    {
+      "start": 1445.44,
+      "duration": 5.2,
+      "text": "of San Francisco without a human"
+    },
+    {
+      "start": 1447.84,
+      "duration": 6.959,
+      "text": "touching any of the uh steering wheel,"
+    },
+    {
+      "start": 1450.64,
+      "duration": 8.32,
+      "text": "gear, shift, brake, uh acceleration. Um,"
+    },
+    {
+      "start": 1454.799,
+      "duration": 7.36,
+      "text": "again, that's eight years of of Tesla"
+    },
+    {
+      "start": 1458.96,
+      "duration": 6.24,
+      "text": "experimenting on the road. Nvidia has an"
+    },
+    {
+      "start": 1462.159,
+      "duration": 5.52,
+      "text": "offthe-shelf solution for every OEM in"
+    },
+    {
+      "start": 1465.2,
+      "duration": 5.359,
+      "text": "the world to turn their automobiles with"
+    },
+    {
+      "start": 1467.679,
+      "duration": 6.321,
+      "text": "a few sensors and a software package and"
+    },
+    {
+      "start": 1470.559,
+      "duration": 6.0,
+      "text": "and a chip package into an autonomous"
+    },
+    {
+      "start": 1474.0,
+      "duration": 6.96,
+      "text": "car. You know who Nvidia works with?"
+    },
+    {
+      "start": 1476.559,
+      "duration": 6.961,
+      "text": "Volvo, MercedesBenz, GM, Toyota, Jaguar,"
+    },
+    {
+      "start": 1480.96,
+      "duration": 5.76,
+      "text": "Land Rover, all of them are going to"
+    },
+    {
+      "start": 1483.52,
+      "duration": 6.8,
+      "text": "have access to minimum level two"
+    },
+    {
+      "start": 1486.72,
+      "duration": 5.839,
+      "text": "autonomous driving via uh Nvidia."
+    },
+    {
+      "start": 1490.32,
+      "duration": 5.44,
+      "text": "They'll be able to catch up to Tesla"
+    },
+    {
+      "start": 1492.559,
+      "duration": 4.881,
+      "text": "like within a year, 18 months. Did think"
+    },
+    {
+      "start": 1495.76,
+      "duration": 4.159,
+      "text": "now you think about you say, \"What's the"
+    },
+    {
+      "start": 1497.44,
+      "duration": 5.44,
+      "text": "ROI? Are you [ __ ] kidding me?\" the"
+    },
+    {
+      "start": 1499.919,
+      "duration": 4.801,
+      "text": "ROI for these types of projects and"
+    },
+    {
+      "start": 1502.88,
+      "duration": 4.88,
+      "text": "we're not even getting into robots which"
+    },
+    {
+      "start": 1504.72,
+      "duration": 4.16,
+      "text": "is probably a late 2020s story like"
+    },
+    {
+      "start": 1507.76,
+      "duration": 5.12,
+      "text": "robots right"
+    },
+    {
+      "start": 1508.88,
+      "duration": 6.799,
+      "text": ">> as like an ROI driver is probably 27 28"
+    },
+    {
+      "start": 1512.88,
+      "duration": 4.96,
+      "text": "29 but like that is what the street is"
+    },
+    {
+      "start": 1515.679,
+      "duration": 5.281,
+      "text": "pricing in when it says it's willing to"
+    },
+    {
+      "start": 1517.84,
+      "duration": 4.64,
+      "text": "pay 22 times for the top 500 companies"
+    },
+    {
+      "start": 1520.96,
+      "duration": 4.319,
+      "text": "in the United States that's the"
+    },
+    {
+      "start": 1522.48,
+      "duration": 6.72,
+      "text": "mentality right now it's not what's the"
+    },
+    {
+      "start": 1525.279,
+      "duration": 7.361,
+      "text": "ROI it's oh my god I can't even imagine"
+    },
+    {
+      "start": 1529.2,
+      "duration": 5.839,
+      "text": "how big the ROI could be. It's all"
+    },
+    {
+      "start": 1532.64,
+      "duration": 4.159,
+      "text": "moving so fast. My dreams can't even"
+    },
+    {
+      "start": 1535.039,
+      "duration": 3.681,
+      "text": "keep up with the things that they're"
+    },
+    {
+      "start": 1536.799,
+      "duration": 4.321,
+      "text": "announcing. So, it's a very exciting"
+    },
+    {
+      "start": 1538.72,
+      "duration": 4.8,
+      "text": "time to be an investor. Not to lose your"
+    },
+    {
+      "start": 1541.12,
+      "duration": 6.799,
+      "text": "head. We It'd be a different If I said"
+    },
+    {
+      "start": 1543.52,
+      "duration": 6.8,
+      "text": "to you, the S&P's 45 times earnings like"
+    },
+    {
+      "start": 1547.919,
+      "duration": 3.921,
+      "text": "it's the year 2000. All right. It's a"
+    },
+    {
+      "start": 1550.32,
+      "duration": 3.44,
+      "text": "different conversation. But that's not"
+    },
+    {
+      "start": 1551.84,
+      "duration": 3.6,
+      "text": "what's going on right now. I wish it"
+    },
+    {
+      "start": 1553.76,
+      "duration": 3.84,
+      "text": "were. It would be It'd be more fun to"
+    },
+    {
+      "start": 1555.44,
+      "duration": 4.479,
+      "text": "talk about. It'd be a slam dunk bubble."
+    },
+    {
+      "start": 1557.6,
+      "duration": 3.52,
+      "text": "we could all be short and get rich. It's"
+    },
+    {
+      "start": 1559.919,
+      "duration": 3.041,
+      "text": "just not that easy."
+    },
+    {
+      "start": 1561.12,
+      "duration": 5.2,
+      "text": ">> Yeah. I think the other the other piece"
+    },
+    {
+      "start": 1562.96,
+      "duration": 5.52,
+      "text": "of it is the timing of all of this. It's"
+    },
+    {
+      "start": 1566.32,
+      "duration": 4.16,
+      "text": "sort of like what is our time frame for"
+    },
+    {
+      "start": 1568.48,
+      "duration": 4.64,
+      "text": "when we're going to see that ROI and"
+    },
+    {
+      "start": 1570.48,
+      "duration": 4.48,
+      "text": "what are Wall Street's expectations for"
+    },
+    {
+      "start": 1573.12,
+      "duration": 4.72,
+      "text": "when that is all going to come through."
+    },
+    {
+      "start": 1574.96,
+      "duration": 5.36,
+      "text": "And I think that kind of defines whether"
+    },
+    {
+      "start": 1577.84,
+      "duration": 4.0,
+      "text": "we see an implosion, whether we see a"
+    },
+    {
+      "start": 1580.32,
+      "duration": 4.4,
+      "text": "correction or some sort of crash or we"
+    },
+    {
+      "start": 1581.84,
+      "duration": 5.6,
+      "text": "don't. I'm with you. the ROI is going to"
+    },
+    {
+      "start": 1584.72,
+      "duration": 4.319,
+      "text": "show up at some point in some way and"
+    },
+    {
+      "start": 1587.44,
+      "duration": 3.2,
+      "text": "it'll be in a very big way."
+    },
+    {
+      "start": 1589.039,
+      "duration": 3.201,
+      "text": ">> Would you right now here's a thought"
+    },
+    {
+      "start": 1590.64,
+      "duration": 5.919,
+      "text": "exercise."
+    },
+    {
+      "start": 1592.24,
+      "duration": 6.08,
+      "text": "I take away your LLM usage from your"
+    },
+    {
+      "start": 1596.559,
+      "duration": 4.401,
+      "text": "day. You're not a corporation. You're"
+    },
+    {
+      "start": 1598.32,
+      "duration": 6.4,
+      "text": "not a government. You're an individual."
+    },
+    {
+      "start": 1600.96,
+      "duration": 7.199,
+      "text": "I say to you, no LLM for the next 30"
+    },
+    {
+      "start": 1604.72,
+      "duration": 5.199,
+      "text": "days. What's your experience like"
+    },
+    {
+      "start": 1608.159,
+      "duration": 4.801,
+      "text": "relative to what you've just spent the"
+    },
+    {
+      "start": 1609.919,
+      "duration": 5.281,
+      "text": "last two years doing? It sucks. you're"
+    },
+    {
+      "start": 1612.96,
+      "duration": 3.68,
+      "text": "not going to stop paying for it. And"
+    },
+    {
+      "start": 1615.2,
+      "duration": 3.359,
+      "text": "then if I say, \"Okay, you could have it"
+    },
+    {
+      "start": 1616.64,
+      "duration": 3.6,
+      "text": "back, but the only way you could have it"
+    },
+    {
+      "start": 1618.559,
+      "duration": 2.561,
+      "text": "back is you have to pay three times more"
+    },
+    {
+      "start": 1620.24,
+      "duration": 2.64,
+      "text": "than you were paying.\""
+    },
+    {
+      "start": 1621.12,
+      "duration": 3.439,
+      "text": ">> That's the question. I'm not sure. I'm"
+    },
+    {
+      "start": 1622.88,
+      "duration": 4.56,
+      "text": "not sure. That's what I want to know."
+    },
+    {
+      "start": 1624.559,
+      "duration": 5.201,
+      "text": ">> Oh, I'm fairly sure. If I took it away"
+    },
+    {
+      "start": 1627.44,
+      "duration": 4.16,
+      "text": "from you for 30 days and then said, \"All"
+    },
+    {
+      "start": 1629.76,
+      "duration": 5.44,
+      "text": "right, you could have it back, but um"
+    },
+    {
+      "start": 1631.6,
+      "duration": 5.679,
+      "text": "Chad GPT Plus is no longer 20, it's 40,"
+    },
+    {
+      "start": 1635.2,
+      "duration": 5.2,
+      "text": "or it's 60.\" You're probably paying it."
+    },
+    {
+      "start": 1637.279,
+      "duration": 4.801,
+      "text": ">> I think I probably am. I think. But that"
+    },
+    {
+      "start": 1640.4,
+      "duration": 4.639,
+      "text": "to me is the big question. And it's like"
+    },
+    {
+      "start": 1642.08,
+      "duration": 5.199,
+      "text": "and that's what the I guess as a sort of"
+    },
+    {
+      "start": 1645.039,
+      "duration": 4.0,
+      "text": "naturally maybe risk averse person which"
+    },
+    {
+      "start": 1647.279,
+      "duration": 4.561,
+      "text": "is not a good thing by the way. It's way"
+    },
+    {
+      "start": 1649.039,
+      "duration": 6.24,
+      "text": "better to be risk on risky. It's it's"
+    },
+    {
+      "start": 1651.84,
+      "duration": 6.24,
+      "text": "it's a better strategy in general. But I"
+    },
+    {
+      "start": 1655.279,
+      "duration": 5.121,
+      "text": "guess my point is and what I what I want"
+    },
+    {
+      "start": 1658.08,
+      "duration": 4.24,
+      "text": "to know is what is that price, right?"
+    },
+    {
+      "start": 1660.4,
+      "duration": 3.68,
+      "text": ">> And I want to see it in the numbers like"
+    },
+    {
+      "start": 1662.32,
+      "duration": 4.16,
+      "text": "what are people actually willing to pay?"
+    },
+    {
+      "start": 1664.08,
+      "duration": 6.0,
+      "text": "What is this thing really worth? And can"
+    },
+    {
+      "start": 1666.48,
+      "duration": 7.199,
+      "text": "we see that happening? And I guess my"
+    },
+    {
+      "start": 1670.08,
+      "duration": 6.319,
+      "text": "response I I just I don't quite know."
+    },
+    {
+      "start": 1673.679,
+      "duration": 4.401,
+      "text": "And that's why I feel and I think"
+    },
+    {
+      "start": 1676.399,
+      "duration": 5.201,
+      "text": "probably others feel a little bit more"
+    },
+    {
+      "start": 1678.08,
+      "duration": 6.719,
+      "text": "hesitation this year. Um is that we we"
+    },
+    {
+      "start": 1681.6,
+      "duration": 4.799,
+      "text": "don't fully know yet. We we kind of are"
+    },
+    {
+      "start": 1684.799,
+      "duration": 4.88,
+      "text": "getting a sense. We're beginning to get"
+    },
+    {
+      "start": 1686.399,
+      "duration": 5.041,
+      "text": "a sense. We're beginning to see the ROI"
+    },
+    {
+      "start": 1689.679,
+      "duration": 4.161,
+      "text": "begin to get reflected in the numbers,"
+    },
+    {
+      "start": 1691.44,
+      "duration": 4.0,
+      "text": "but we haven't fully realized it. I"
+    },
+    {
+      "start": 1693.84,
+      "duration": 4.24,
+      "text": "think there's already been a behavioral"
+    },
+    {
+      "start": 1695.44,
+      "duration": 6.16,
+      "text": "transformation that um cannot be"
+    },
+    {
+      "start": 1698.08,
+      "duration": 6.719,
+      "text": "reversed and I think that most knowledge"
+    },
+    {
+      "start": 1701.6,
+      "duration": 6.48,
+      "text": "economy workers have already um very"
+    },
+    {
+      "start": 1704.799,
+      "duration": 6.161,
+      "text": "heavily incorporated AI tools into their"
+    },
+    {
+      "start": 1708.08,
+      "duration": 4.479,
+      "text": "daily workflows in ways that they might"
+    },
+    {
+      "start": 1710.96,
+      "duration": 4.48,
+      "text": "not even be aware that they've done"
+    },
+    {
+      "start": 1712.559,
+      "duration": 5.681,
+      "text": "because of the ways in which Alphabet"
+    },
+    {
+      "start": 1715.44,
+      "duration": 4.959,
+      "text": "has sort of inserted this stuff into all"
+    },
+    {
+      "start": 1718.24,
+      "duration": 4.319,
+      "text": "the services that we already use."
+    },
+    {
+      "start": 1720.399,
+      "duration": 6.321,
+      "text": "There's AI all over Gmail. Well, there's"
+    },
+    {
+      "start": 1722.559,
+      "duration": 5.6,
+      "text": "AI all over Docs and Drive and I just um"
+    },
+    {
+      "start": 1726.72,
+      "duration": 3.679,
+      "text": "and then you think about like for people"
+    },
+    {
+      "start": 1728.159,
+      "duration": 4.24,
+      "text": "that are heavily working in tech doing"
+    },
+    {
+      "start": 1730.399,
+      "duration": 4.0,
+      "text": "things like coding, no one's coding"
+    },
+    {
+      "start": 1732.399,
+      "duration": 3.441,
+      "text": "without a co-pilot at this point. So, I"
+    },
+    {
+      "start": 1734.399,
+      "duration": 3.921,
+      "text": "think there's been a behavioral change"
+    },
+    {
+      "start": 1735.84,
+      "duration": 6.24,
+      "text": "that's irreversible and I think that"
+    },
+    {
+      "start": 1738.32,
+      "duration": 5.68,
+      "text": "that um grounds this AI spending story"
+    },
+    {
+      "start": 1742.08,
+      "duration": 4.479,
+      "text": "at least in something there's like a"
+    },
+    {
+      "start": 1744.0,
+      "duration": 5.039,
+      "text": "baseline. Yes. Okay. So that's really"
+    },
+    {
+      "start": 1746.559,
+      "duration": 6.401,
+      "text": "that's important. And Ed, you could not"
+    },
+    {
+      "start": 1749.039,
+      "duration": 6.401,
+      "text": "have said that in 1999."
+    },
+    {
+      "start": 1752.96,
+      "duration": 4.4,
+      "text": "You could not have said that because"
+    },
+    {
+      "start": 1755.44,
+      "duration": 3.359,
+      "text": "nobody was actually making money on the"
+    },
+    {
+      "start": 1757.36,
+      "duration": 2.08,
+      "text": "internet,"
+    },
+    {
+      "start": 1758.799,
+      "duration": 4.561,
+      "text": ">> right?"
+    },
+    {
+      "start": 1759.44,
+      "duration": 6.4,
+      "text": ">> And uh it's funny, the first use case"
+    },
+    {
+      "start": 1763.36,
+      "duration": 5.36,
+      "text": "where people actually were willing to"
+    },
+    {
+      "start": 1765.84,
+      "duration": 5.76,
+      "text": "surrender a credit card number to any"
+    },
+    {
+      "start": 1768.72,
+      "duration": 6.319,
+      "text": "internet company was the purchase of"
+    },
+    {
+      "start": 1771.6,
+      "duration": 4.959,
+      "text": "online pornography. Like pornography is"
+    },
+    {
+      "start": 1775.039,
+      "duration": 3.681,
+      "text": "probably the thing that got AOL to"
+    },
+    {
+      "start": 1776.559,
+      "duration": 4.961,
+      "text": "profitability. Like honestly, it's a"
+    },
+    {
+      "start": 1778.72,
+      "duration": 4.88,
+      "text": "it's it's um it's the thing that made"
+    },
+    {
+      "start": 1781.52,
+      "duration": 3.12,
+      "text": "the internet like a going concern. It"
+    },
+    {
+      "start": 1783.6,
+      "duration": 2.559,
+      "text": "was the only revenue."
+    },
+    {
+      "start": 1784.64,
+      "duration": 3.44,
+      "text": ">> It's what's going to get Open AI to"
+    },
+    {
+      "start": 1786.159,
+      "duration": 4.321,
+      "text": "profitability, right?"
+    },
+    {
+      "start": 1788.08,
+      "duration": 4.079,
+      "text": ">> Perhaps. But I I think this is very"
+    },
+    {
+      "start": 1790.48,
+      "duration": 4.079,
+      "text": "different from that. I think this is"
+    },
+    {
+      "start": 1792.159,
+      "duration": 4.801,
+      "text": "like it's already proliferated through"
+    },
+    {
+      "start": 1794.559,
+      "duration": 4.321,
+      "text": "corporate America. And then just regular"
+    },
+    {
+      "start": 1796.96,
+      "duration": 4.0,
+      "text": "people in the way that they look for"
+    },
+    {
+      "start": 1798.88,
+      "duration": 4.72,
+      "text": "information. Like my wife and her"
+    },
+    {
+      "start": 1800.96,
+      "duration": 6.24,
+      "text": "friends take pictures of things and ask"
+    },
+    {
+      "start": 1803.6,
+      "duration": 5.199,
+      "text": "chat GPT how much does this cost or um"
+    },
+    {
+      "start": 1807.2,
+      "duration": 5.04,
+      "text": "does this look like I should take my son"
+    },
+    {
+      "start": 1808.799,
+      "duration": 5.76,
+      "text": "to the doctor or uh right like it's just"
+    },
+    {
+      "start": 1812.24,
+      "duration": 4.319,
+      "text": "it's become it's become ingrained"
+    },
+    {
+      "start": 1814.559,
+      "duration": 4.081,
+      "text": "behaviorally already. So we need to stop"
+    },
+    {
+      "start": 1816.559,
+      "duration": 4.881,
+      "text": "thinking about this as something that's"
+    },
+    {
+      "start": 1818.64,
+      "duration": 4.32,
+      "text": "about to abruptly end. And then I think"
+    },
+    {
+      "start": 1821.44,
+      "duration": 5.599,
+      "text": "you're asking the right question. It's"
+    },
+    {
+      "start": 1822.96,
+      "duration": 5.76,
+      "text": "like okay but what is it really worth? I"
+    },
+    {
+      "start": 1827.039,
+      "duration": 4.561,
+      "text": "don't know that there's one one answer"
+    },
+    {
+      "start": 1828.72,
+      "duration": 6.8,
+      "text": "that um makes sense for everybody, but"
+    },
+    {
+      "start": 1831.6,
+      "duration": 5.679,
+      "text": "it's I I agree it's the right question."
+    },
+    {
+      "start": 1835.52,
+      "duration": 3.36,
+      "text": "We'll be right back. And for even more"
+    },
+    {
+      "start": 1837.279,
+      "duration": 5.88,
+      "text": "markets content, sign up for our"
+    },
+    {
+      "start": 1838.88,
+      "duration": 4.279,
+      "text": "newsletter at profarkets.com/subscribe."
+    },
+    {
+      "start": 1848.24,
+      "duration": 3.039,
+      "text": "Support for this show comes from"
+    },
+    {
+      "start": 1849.44,
+      "duration": 3.119,
+      "text": "LinkedIn. If you've ever hired for your"
+    },
+    {
+      "start": 1851.279,
+      "duration": 2.801,
+      "text": "small business, you know how important"
+    },
+    {
+      "start": 1852.559,
+      "duration": 3.201,
+      "text": "it is to find the right person. That's"
+    },
+    {
+      "start": 1854.08,
+      "duration": 4.0,
+      "text": "why LinkedIn Jobs is stepping things up"
+    },
+    {
+      "start": 1855.76,
+      "duration": 4.0,
+      "text": "with their new AI assistant, so you can"
+    },
+    {
+      "start": 1858.08,
+      "duration": 3.839,
+      "text": "feel confident you're finding top talent"
+    },
+    {
+      "start": 1859.76,
+      "duration": 3.36,
+      "text": "that you can't find anywhere else. And"
+    },
+    {
+      "start": 1861.919,
+      "duration": 3.201,
+      "text": "those great candidates you're looking"
+    },
+    {
+      "start": 1863.12,
+      "duration": 3.679,
+      "text": "for are already on LinkedIn. In fact,"
+    },
+    {
+      "start": 1865.12,
+      "duration": 3.76,
+      "text": "according to their data, employees hired"
+    },
+    {
+      "start": 1866.799,
+      "duration": 3.201,
+      "text": "through LinkedIn are 30% more likely to"
+    },
+    {
+      "start": 1868.88,
+      "duration": 2.32,
+      "text": "stick around for at least a year"
+    },
+    {
+      "start": 1870.0,
+      "duration": 3.36,
+      "text": "compared to those hired through the"
+    },
+    {
+      "start": 1871.2,
+      "duration": 4.24,
+      "text": "leading competitor. That's a big deal"
+    },
+    {
+      "start": 1873.36,
+      "duration": 3.76,
+      "text": "when every hire counts. With LinkedIn"
+    },
+    {
+      "start": 1875.44,
+      "duration": 3.76,
+      "text": "Jobs AI assistant, you can skip"
+    },
+    {
+      "start": 1877.12,
+      "duration": 3.76,
+      "text": "confusing steps and recruiting jargon."
+    },
+    {
+      "start": 1879.2,
+      "duration": 3.199,
+      "text": "It filters through applicants based on"
+    },
+    {
+      "start": 1880.88,
+      "duration": 3.2,
+      "text": "criteria you've set for your role and"
+    },
+    {
+      "start": 1882.399,
+      "duration": 3.201,
+      "text": "surfaces only the best matches so you're"
+    },
+    {
+      "start": 1884.08,
+      "duration": 4.4,
+      "text": "not stuck sorting through a mountain of"
+    },
+    {
+      "start": 1885.6,
+      "duration": 5.04,
+      "text": "résumés. LinkedIn Jobs AI assistant can"
+    },
+    {
+      "start": 1888.48,
+      "duration": 3.679,
+      "text": "even suggest 25 great fit candidates"
+    },
+    {
+      "start": 1890.64,
+      "duration": 4.159,
+      "text": "daily so you can invite them to apply"
+    },
+    {
+      "start": 1892.159,
+      "duration": 4.24,
+      "text": "and keep things moving. Hire right the"
+    },
+    {
+      "start": 1894.799,
+      "duration": 3.521,
+      "text": "first time. Post your job for free at"
+    },
+    {
+      "start": 1896.399,
+      "duration": 3.921,
+      "text": "linkedin.com/prof"
+    },
+    {
+      "start": 1898.32,
+      "duration": 4.079,
+      "text": "then promoted to use LinkedIn jobs new"
+    },
+    {
+      "start": 1900.32,
+      "duration": 3.52,
+      "text": "AI assistant making it easier and faster"
+    },
+    {
+      "start": 1902.399,
+      "duration": 3.041,
+      "text": "to find top candidates. That's"
+    },
+    {
+      "start": 1903.84,
+      "duration": 3.839,
+      "text": "linkedin.com/prof"
+    },
+    {
+      "start": 1905.44,
+      "duration": 5.64,
+      "text": "to post your job for free. terms and"
+    },
+    {
+      "start": 1907.679,
+      "duration": 3.401,
+      "text": "conditions apply."
+    },
+    {
+      "start": 1914.799,
+      "duration": 6.161,
+      "text": "We're back with property markets. AI was"
+    },
+    {
+      "start": 1917.36,
+      "duration": 5.199,
+      "text": "a huge narrative driver in 2025. Based"
+    },
+    {
+      "start": 1920.96,
+      "duration": 3.599,
+      "text": "on this conversation, we're thinking"
+    },
+    {
+      "start": 1922.559,
+      "duration": 3.441,
+      "text": "about what's going to happen in 2026. I"
+    },
+    {
+      "start": 1924.559,
+      "duration": 4.561,
+      "text": "think it's probably going to be a huge"
+    },
+    {
+      "start": 1926.0,
+      "duration": 5.519,
+      "text": "driver of the narrative in 2026 as well."
+    },
+    {
+      "start": 1929.12,
+      "duration": 5.6,
+      "text": "What else are you thinking about going"
+    },
+    {
+      "start": 1931.519,
+      "duration": 5.441,
+      "text": "into 2026 aside from AI? What are the"
+    },
+    {
+      "start": 1934.72,
+      "duration": 3.36,
+      "text": "big stories? is what are the big shifts"
+    },
+    {
+      "start": 1936.96,
+      "duration": 2.079,
+      "text": "that are going to really drive the"
+    },
+    {
+      "start": 1938.08,
+      "duration": 3.52,
+      "text": "market this year?"
+    },
+    {
+      "start": 1939.039,
+      "duration": 4.401,
+      "text": ">> Well, it's profit margins and we hit"
+    },
+    {
+      "start": 1941.6,
+      "duration": 3.36,
+      "text": "record levels of profit margins this"
+    },
+    {
+      "start": 1943.44,
+      "duration": 4.88,
+      "text": "year and I think we'll do it again next"
+    },
+    {
+      "start": 1944.96,
+      "duration": 5.68,
+      "text": "year and that is mostly an AI story. So,"
+    },
+    {
+      "start": 1948.32,
+      "duration": 6.32,
+      "text": "I hate to like recursively keep coming"
+    },
+    {
+      "start": 1950.64,
+      "duration": 6.879,
+      "text": "back. Um, I think that's really it. It's"
+    },
+    {
+      "start": 1954.64,
+      "duration": 5.519,
+      "text": "so big, dude. It's so it's so big. Yes."
+    },
+    {
+      "start": 1957.519,
+      "duration": 7.121,
+      "text": "The most incredible thing for next year"
+    },
+    {
+      "start": 1960.159,
+      "duration": 7.201,
+      "text": "is to see the S&P 493 stocks, not the"
+    },
+    {
+      "start": 1964.64,
+      "duration": 4.48,
+      "text": "MAG7, start beating earnings and"
+    },
+    {
+      "start": 1967.36,
+      "duration": 3.76,
+      "text": "crediting all these AI investments"
+    },
+    {
+      "start": 1969.12,
+      "duration": 4.559,
+      "text": "they're making. That's it. Like that's"
+    },
+    {
+      "start": 1971.12,
+      "duration": 3.6,
+      "text": "the whole that's the whole ball game."
+    },
+    {
+      "start": 1973.679,
+      "duration": 1.441,
+      "text": "And I think that's what we're going to"
+    },
+    {
+      "start": 1974.72,
+      "duration": 2.88,
+      "text": "get."
+    },
+    {
+      "start": 1975.12,
+      "duration": 5.2,
+      "text": ">> What about interest rates? Are you"
+    },
+    {
+      "start": 1977.6,
+      "duration": 4.24,
+      "text": "focused on what we're going to see from"
+    },
+    {
+      "start": 1980.32,
+      "duration": 3.52,
+      "text": "the Federal Reserve? I mean, obviously"
+    },
+    {
+      "start": 1981.84,
+      "duration": 3.439,
+      "text": "Trump's going to pick his new Fed chair"
+    },
+    {
+      "start": 1983.84,
+      "duration": 3.28,
+      "text": "in May. Does that matter to you?"
+    },
+    {
+      "start": 1985.279,
+      "duration": 4.721,
+      "text": ">> Not really. There are years in which the"
+    },
+    {
+      "start": 1987.12,
+      "duration": 5.679,
+      "text": "Fed is the queen on the chessboard."
+    },
+    {
+      "start": 1990.0,
+      "duration": 3.6,
+      "text": ">> I think the Fed this year is a bishop at"
+    },
+    {
+      "start": 1992.799,
+      "duration": 2.801,
+      "text": "best."
+    },
+    {
+      "start": 1993.6,
+      "duration": 5.04,
+      "text": ">> I just I don't think anywhere near as"
+    },
+    {
+      "start": 1995.6,
+      "duration": 5.04,
+      "text": "impactful. If we get one interest rate"
+    },
+    {
+      "start": 1998.64,
+      "duration": 4.639,
+      "text": "or three interest rates, I'm not sure"
+    },
+    {
+      "start": 2000.64,
+      "duration": 4.0,
+      "text": "that that materially uh means a whole"
+    },
+    {
+      "start": 2003.279,
+      "duration": 2.4,
+      "text": "hell of a lot. One of the things we've"
+    },
+    {
+      "start": 2004.64,
+      "duration": 2.96,
+      "text": "learned over the last couple years,"
+    },
+    {
+      "start": 2005.679,
+      "duration": 4.321,
+      "text": "which I know you and I have discussed,"
+    },
+    {
+      "start": 2007.6,
+      "duration": 4.64,
+      "text": "is that high interest rates actually"
+    },
+    {
+      "start": 2010.0,
+      "duration": 4.88,
+      "text": "served as a form of stimulus for the top"
+    },
+    {
+      "start": 2012.24,
+      "duration": 5.439,
+      "text": "20% of the country. um people's bank"
+    },
+    {
+      "start": 2014.88,
+      "duration": 4.56,
+      "text": "accounts were gushing income in ways"
+    },
+    {
+      "start": 2017.679,
+      "duration": 5.12,
+      "text": "that they hadn't experienced in 15"
+    },
+    {
+      "start": 2019.44,
+      "duration": 5.359,
+      "text": "years. Um there there's just no evidence"
+    },
+    {
+      "start": 2022.799,
+      "duration": 4.321,
+      "text": "that what the system needs right now is"
+    },
+    {
+      "start": 2024.799,
+      "duration": 4.401,
+      "text": "a lot of rate cuts. There's also no"
+    },
+    {
+      "start": 2027.12,
+      "duration": 4.88,
+      "text": "evidence for any reason why we should"
+    },
+    {
+      "start": 2029.2,
+      "duration": 5.28,
+      "text": "expect to see rate hikes. So I think"
+    },
+    {
+      "start": 2032.0,
+      "duration": 4.72,
+      "text": "there will be a transition at the Fed. I"
+    },
+    {
+      "start": 2034.48,
+      "duration": 4.24,
+      "text": "don't think it'll be fire and brimstone."
+    },
+    {
+      "start": 2036.72,
+      "duration": 3.679,
+      "text": "I don't think the new guy walks in with"
+    },
+    {
+      "start": 2038.72,
+      "duration": 5.28,
+      "text": "a mandate from the White House to take"
+    },
+    {
+      "start": 2040.399,
+      "duration": 4.961,
+      "text": "rates to zero. Um I I just I think the"
+    },
+    {
+      "start": 2044.0,
+      "duration": 3.519,
+      "text": "most interesting thing happening at the"
+    },
+    {
+      "start": 2045.36,
+      "duration": 5.6,
+      "text": "Fed right now is what they're doing with"
+    },
+    {
+      "start": 2047.519,
+      "duration": 4.801,
+      "text": "very short-term uh repo markets just you"
+    },
+    {
+      "start": 2050.96,
+      "duration": 3.76,
+      "text": "know doing their best to maintain"
+    },
+    {
+      "start": 2052.32,
+      "duration": 4.48,
+      "text": "liquidity. Maybe that sort of becomes a"
+    },
+    {
+      "start": 2054.72,
+      "duration": 4.879,
+      "text": "story if we have a liquidity air pocket"
+    },
+    {
+      "start": 2056.8,
+      "duration": 4.72,
+      "text": "but outside of that I would not have the"
+    },
+    {
+      "start": 2059.599,
+      "duration": 4.48,
+      "text": "Fed on my bingo card as being a"
+    },
+    {
+      "start": 2061.52,
+      "duration": 3.44,
+      "text": "particularly notable player in what's to"
+    },
+    {
+      "start": 2064.079,
+      "duration": 3.04,
+      "text": "come this year."
+    },
+    {
+      "start": 2064.96,
+      "duration": 4.08,
+      "text": ">> What about deficit spending? We've got"
+    },
+    {
+      "start": 2067.119,
+      "duration": 4.48,
+      "text": "the big beautiful bill which is kind of"
+    },
+    {
+      "start": 2069.04,
+      "duration": 4.559,
+      "text": "going to go into effect this year. It's"
+    },
+    {
+      "start": 2071.599,
+      "duration": 4.8,
+      "text": "going to add nearly half a trillion"
+    },
+    {
+      "start": 2073.599,
+      "duration": 4.721,
+      "text": "dollars in some form of fiscal support."
+    },
+    {
+      "start": 2076.399,
+      "duration": 4.081,
+      "text": "I assume that's just going to show up in"
+    },
+    {
+      "start": 2078.32,
+      "duration": 4.24,
+      "text": "earnings. Are you thinking about that?"
+    },
+    {
+      "start": 2080.48,
+      "duration": 4.399,
+      "text": "Do you think that will be a significant"
+    },
+    {
+      "start": 2082.56,
+      "duration": 5.279,
+      "text": "driver this year in markets as well?"
+    },
+    {
+      "start": 2084.879,
+      "duration": 4.72,
+      "text": ">> No, I think the deficit is just"
+    },
+    {
+      "start": 2087.839,
+      "duration": 3.84,
+      "text": "something that you put on your list of"
+    },
+    {
+      "start": 2089.599,
+      "duration": 3.921,
+      "text": "risks to the market every year. If"
+    },
+    {
+      "start": 2091.679,
+      "duration": 3.601,
+      "text": "you're a chief strategist or a chief"
+    },
+    {
+      "start": 2093.52,
+      "duration": 3.76,
+      "text": "economist, you just like it's like an"
+    },
+    {
+      "start": 2095.28,
+      "duration": 4.24,
+      "text": "automatic. It's almost like putting uh"
+    },
+    {
+      "start": 2097.28,
+      "duration": 3.6,
+      "text": "China invades Taiwan. Like it's just"
+    },
+    {
+      "start": 2099.52,
+      "duration": 1.68,
+      "text": "like one of those like just pencil it"
+    },
+    {
+      "start": 2100.88,
+      "duration": 2.64,
+      "text": "in."
+    },
+    {
+      "start": 2101.2,
+      "duration": 4.72,
+      "text": ">> Well, I sorry. I I mean it in a positive"
+    },
+    {
+      "start": 2103.52,
+      "duration": 4.079,
+      "text": "sense that this is just more money."
+    },
+    {
+      "start": 2105.92,
+      "duration": 4.64,
+      "text": "We're just injecting more money into the"
+    },
+    {
+      "start": 2107.599,
+      "duration": 3.281,
+      "text": "system and so perhaps it will be a good"
+    },
+    {
+      "start": 2110.56,
+      "duration": 3.36,
+      "text": "thing."
+    },
+    {
+      "start": 2110.88,
+      "duration": 7.199,
+      "text": ">> The risk there is it's inflationary. Um"
+    },
+    {
+      "start": 2113.92,
+      "duration": 6.64,
+      "text": "but the prevailing trend right now um in"
+    },
+    {
+      "start": 2118.079,
+      "duration": 5.841,
+      "text": "the stuff that really matters and and uh"
+    },
+    {
+      "start": 2120.56,
+      "duration": 5.519,
+      "text": "my colleague uh Cali Cox who's actually"
+    },
+    {
+      "start": 2123.92,
+      "duration": 5.52,
+      "text": "uh out out of the picture on maternity"
+    },
+    {
+      "start": 2126.079,
+      "duration": 5.52,
+      "text": "leave uh recently but like the big like"
+    },
+    {
+      "start": 2129.44,
+      "duration": 4.8,
+      "text": "her big concept that she tries to get"
+    },
+    {
+      "start": 2131.599,
+      "duration": 4.961,
+      "text": "across to people uh our investors is"
+    },
+    {
+      "start": 2134.24,
+      "duration": 4.96,
+      "text": "just like look there are blips in"
+    },
+    {
+      "start": 2136.56,
+      "duration": 5.44,
+      "text": "inflation for individual items but the"
+    },
+    {
+      "start": 2139.2,
+      "duration": 4.56,
+      "text": "prevailing trend is lower uh less"
+    },
+    {
+      "start": 2142.0,
+      "duration": 4.88,
+      "text": "exacerbated ISS issues in the labor"
+    },
+    {
+      "start": 2143.76,
+      "duration": 5.92,
+      "text": "markets, lower wage growth, lower"
+    },
+    {
+      "start": 2146.88,
+      "duration": 4.56,
+      "text": "commodity prices, filled up my car this"
+    },
+    {
+      "start": 2149.68,
+      "duration": 6.48,
+      "text": "morning at three, you know, a three"
+    },
+    {
+      "start": 2151.44,
+      "duration": 7.36,
+      "text": "handle for uh premium uh gasoline. Um"
+    },
+    {
+      "start": 2156.16,
+      "duration": 5.36,
+      "text": "rents are coming in, home prices are"
+    },
+    {
+      "start": 2158.8,
+      "duration": 5.279,
+      "text": "moderating. We do have, it's not at the"
+    },
+    {
+      "start": 2161.52,
+      "duration": 5.92,
+      "text": "speed the Fed would have liked, but we"
+    },
+    {
+      "start": 2164.079,
+      "duration": 5.28,
+      "text": "do have moderating uh inflation. all"
+    },
+    {
+      "start": 2167.44,
+      "duration": 3.12,
+      "text": "that stimulus that you referenced, all"
+    },
+    {
+      "start": 2169.359,
+      "duration": 3.601,
+      "text": "of that spending, all the"
+    },
+    {
+      "start": 2170.56,
+      "duration": 4.64,
+      "text": "infrastructure, is there a risk there"
+    },
+    {
+      "start": 2172.96,
+      "duration": 6.48,
+      "text": "that all of a sudden the inflation"
+    },
+    {
+      "start": 2175.2,
+      "duration": 6.48,
+      "text": "picture moderates at a slower pace or"
+    },
+    {
+      "start": 2179.44,
+      "duration": 4.399,
+      "text": "starts to scare people to the upside?"
+    },
+    {
+      "start": 2181.68,
+      "duration": 4.399,
+      "text": "Sure, it's definitely something that we"
+    },
+    {
+      "start": 2183.839,
+      "duration": 5.121,
+      "text": "can worry about. I wouldn't use that as"
+    },
+    {
+      "start": 2186.079,
+      "duration": 5.28,
+      "text": "a reason to not invest. Um, you know,"
+    },
+    {
+      "start": 2188.96,
+      "duration": 3.36,
+      "text": "it's it's on the list. Low on the list,"
+    },
+    {
+      "start": 2191.359,
+      "duration": 3.681,
+      "text": "but it's on the list."
+    },
+    {
+      "start": 2192.32,
+      "duration": 3.2,
+      "text": ">> Josh Brown sounds very bullish is what I"
+    },
+    {
+      "start": 2195.04,
+      "duration": 2.24,
+      "text": "would say,"
+    },
+    {
+      "start": 2195.52,
+      "duration": 4.0,
+      "text": ">> but I always am. It's not it."
+    },
+    {
+      "start": 2197.28,
+      "duration": 5.36,
+      "text": ">> You always are. And I think I think I"
+    },
+    {
+      "start": 2199.52,
+      "duration": 7.2,
+      "text": "mean it seems as though your view going"
+    },
+    {
+      "start": 2202.64,
+      "duration": 9.76,
+      "text": "into 2026 is kind of stay the course"
+    },
+    {
+      "start": 2206.72,
+      "duration": 7.52,
+      "text": "more of the same. Um which you know is"
+    },
+    {
+      "start": 2212.4,
+      "duration": 4.32,
+      "text": "exactly what you kind of told us last"
+    },
+    {
+      "start": 2214.24,
+      "duration": 4.24,
+      "text": "year and that's exactly how you were"
+    },
+    {
+      "start": 2216.72,
+      "duration": 2.16,
+      "text": "rewarded for it. I mean we had a great"
+    },
+    {
+      "start": 2218.48,
+      "duration": 2.16,
+      "text": "year."
+    },
+    {
+      "start": 2218.88,
+      "duration": 5.04,
+      "text": ">> I'd love to show up and say we're at a"
+    },
+    {
+      "start": 2220.64,
+      "duration": 6.64,
+      "text": "turning point. I know I'm in the content"
+    },
+    {
+      "start": 2223.92,
+      "duration": 4.88,
+      "text": "game also, but I I'm doing I'm doing"
+    },
+    {
+      "start": 2227.28,
+      "duration": 3.6,
+      "text": "this a long time. I've been bullish"
+    },
+    {
+      "start": 2228.8,
+      "duration": 4.72,
+      "text": "forever. My clients have been rewarded"
+    },
+    {
+      "start": 2230.88,
+      "duration": 5.6,
+      "text": "for that. Um, there are bare markets"
+    },
+    {
+      "start": 2233.52,
+      "duration": 6.559,
+      "text": "along the way. 2022 was not fun. We did"
+    },
+    {
+      "start": 2236.48,
+      "duration": 7.2,
+      "text": "our jobs as wealth managers in 2022. We"
+    },
+    {
+      "start": 2240.079,
+      "duration": 7.04,
+      "text": "had massive stocks like Meta and Amazon"
+    },
+    {
+      "start": 2243.68,
+      "duration": 5.12,
+      "text": "in 50 70% draw downs. Like that does"
+    },
+    {
+      "start": 2247.119,
+      "duration": 5.361,
+      "text": "happen. It's part of the experience of"
+    },
+    {
+      "start": 2248.8,
+      "duration": 5.68,
+      "text": "investing. Our our approach is not to"
+    },
+    {
+      "start": 2252.48,
+      "duration": 3.84,
+      "text": "try to predict those moments. It's to"
+    },
+    {
+      "start": 2254.48,
+      "duration": 4.4,
+      "text": "help people get through them because"
+    },
+    {
+      "start": 2256.32,
+      "duration": 5.759,
+      "text": "what's on the other side is even higher"
+    },
+    {
+      "start": 2258.88,
+      "duration": 4.719,
+      "text": "prices, even more profitability, even"
+    },
+    {
+      "start": 2262.079,
+      "duration": 3.601,
+      "text": "better outcomes for people who are"
+    },
+    {
+      "start": 2263.599,
+      "duration": 3.681,
+      "text": "willing to bear risk. This is what we do"
+    },
+    {
+      "start": 2265.68,
+      "duration": 3.679,
+      "text": "and and I think we're the best in the"
+    },
+    {
+      "start": 2267.28,
+      "duration": 4.319,
+      "text": "world at it. We are not the best in the"
+    },
+    {
+      "start": 2269.359,
+      "duration": 4.72,
+      "text": "world at calling turning points like"
+    },
+    {
+      "start": 2271.599,
+      "duration": 3.76,
+      "text": "that. I can't get I wish I could. I"
+    },
+    {
+      "start": 2274.079,
+      "duration": 3.201,
+      "text": "can't deliver that for you."
+    },
+    {
+      "start": 2275.359,
+      "duration": 5.521,
+      "text": ">> What would be your advice to young"
+    },
+    {
+      "start": 2277.28,
+      "duration": 5.12,
+      "text": "investors right now? Uh I mean and I I"
+    },
+    {
+      "start": 2280.88,
+      "duration": 4.64,
+      "text": "would just couch this in the fact that"
+    },
+    {
+      "start": 2282.4,
+      "duration": 5.199,
+      "text": "we've had for example Asswath Deodoran"
+    },
+    {
+      "start": 2285.52,
+      "duration": 4.24,
+      "text": "who we had on on our podcast earlier"
+    },
+    {
+      "start": 2287.599,
+      "duration": 5.681,
+      "text": "this or early this year last year"
+    },
+    {
+      "start": 2289.76,
+      "duration": 6.88,
+      "text": "towards the end of last year. Um and it"
+    },
+    {
+      "start": 2293.28,
+      "duration": 8.079,
+      "text": "was one of the most strikingly bearish"
+    },
+    {
+      "start": 2296.64,
+      "duration": 7.68,
+      "text": "pods we've recorded where he was very I"
+    },
+    {
+      "start": 2301.359,
+      "duration": 6.0,
+      "text": "mean and this is not a person who loves"
+    },
+    {
+      "start": 2304.32,
+      "duration": 5.6,
+      "text": "to sound the alarm on stuff. I mean, he"
+    },
+    {
+      "start": 2307.359,
+      "duration": 5.041,
+      "text": "is a very calm, composed, measured"
+    },
+    {
+      "start": 2309.92,
+      "duration": 4.32,
+      "text": "investor. He tells everyone what what"
+    },
+    {
+      "start": 2312.4,
+      "duration": 4.719,
+      "text": "he's doing and you can track his"
+    },
+    {
+      "start": 2314.24,
+      "duration": 6.64,
+      "text": "investments on his website, but he said"
+    },
+    {
+      "start": 2317.119,
+      "duration": 6.0,
+      "text": "that he is looking at selling and"
+    },
+    {
+      "start": 2320.88,
+      "duration": 4.64,
+      "text": "getting into collectibles because he"
+    },
+    {
+      "start": 2323.119,
+      "duration": 3.921,
+      "text": "thinks that everything is is overvalued."
+    },
+    {
+      "start": 2325.52,
+      "duration": 3.839,
+      "text": "Now, I don't know where he stands on"
+    },
+    {
+      "start": 2327.04,
+      "duration": 4.96,
+      "text": "things right now. This was this was you"
+    },
+    {
+      "start": 2329.359,
+      "duration": 4.0,
+      "text": "know some time ago but just given what"
+    },
+    {
+      "start": 2332.0,
+      "duration": 3.2,
+      "text": "everything we're seeing all the all the"
+    },
+    {
+      "start": 2333.359,
+      "duration": 4.0,
+      "text": "opinions out there what would be your"
+    },
+    {
+      "start": 2335.2,
+      "duration": 5.36,
+      "text": "advice to investors especially young"
+    },
+    {
+      "start": 2337.359,
+      "duration": 4.641,
+      "text": "investors going into 2026 right now how"
+    },
+    {
+      "start": 2340.56,
+      "duration": 5.68,
+      "text": "should you think about investing"
+    },
+    {
+      "start": 2342.0,
+      "duration": 6.72,
+      "text": ">> do not get into collectibles um Asswath"
+    },
+    {
+      "start": 2346.24,
+      "duration": 5.2,
+      "text": "is brilliant he's the dean of valuation"
+    },
+    {
+      "start": 2348.72,
+      "duration": 5.359,
+      "text": "they call him I understand he's he's"
+    },
+    {
+      "start": 2351.44,
+      "duration": 5.04,
+      "text": "looking at present valuations and he's"
+    },
+    {
+      "start": 2354.079,
+      "duration": 3.28,
+      "text": "looking historically and he's it's"
+    },
+    {
+      "start": 2356.48,
+      "duration": 3.28,
+      "text": "accurate"
+    },
+    {
+      "start": 2357.359,
+      "duration": 4.801,
+      "text": "when you buy at high valuations,"
+    },
+    {
+      "start": 2359.76,
+      "duration": 5.12,
+      "text": "prospective returns are lower. It's like"
+    },
+    {
+      "start": 2362.16,
+      "duration": 7.04,
+      "text": "an iron law of of finance. The problem"
+    },
+    {
+      "start": 2364.88,
+      "duration": 7.12,
+      "text": "is um we have seen a consistent"
+    },
+    {
+      "start": 2369.2,
+      "duration": 5.68,
+      "text": "ratcheting up of multiples over the last"
+    },
+    {
+      "start": 2372.0,
+      "duration": 5.44,
+      "text": "10 years and companies have found ways"
+    },
+    {
+      "start": 2374.88,
+      "duration": 6.0,
+      "text": "to deliver higher than expected profits"
+    },
+    {
+      "start": 2377.44,
+      "duration": 6.0,
+      "text": "and uh this could be yet another one of"
+    },
+    {
+      "start": 2380.88,
+      "duration": 5.04,
+      "text": "those years. So I think the the key"
+    },
+    {
+      "start": 2383.44,
+      "duration": 5.04,
+      "text": "thing for young investors is to pray for"
+    },
+    {
+      "start": 2385.92,
+      "duration": 5.12,
+      "text": "downside in the stock market to remember"
+    },
+    {
+      "start": 2388.48,
+      "duration": 5.84,
+      "text": "that they are forced investors, forced"
+    },
+    {
+      "start": 2391.04,
+      "duration": 6.319,
+      "text": "savers. If you are in your 20s or 30s,"
+    },
+    {
+      "start": 2394.32,
+      "duration": 4.72,
+      "text": "you have decades that you are forced to"
+    },
+    {
+      "start": 2397.359,
+      "duration": 5.041,
+      "text": "take a portion of your paycheck every"
+    },
+    {
+      "start": 2399.04,
+      "duration": 5.68,
+      "text": "two weeks and add it into a 401k. If you"
+    },
+    {
+      "start": 2402.4,
+      "duration": 5.439,
+      "text": "know that today, are you rooting for"
+    },
+    {
+      "start": 2404.72,
+      "duration": 6.0,
+      "text": "all-time highs? Are you mad? Have you"
+    },
+    {
+      "start": 2407.839,
+      "duration": 6.081,
+      "text": "lost perspective on like time and space?"
+    },
+    {
+      "start": 2410.72,
+      "duration": 5.119,
+      "text": "You want lower prices if you're young."
+    },
+    {
+      "start": 2413.92,
+      "duration": 3.76,
+      "text": "So I have clients in their 20s. I have"
+    },
+    {
+      "start": 2415.839,
+      "duration": 4.24,
+      "text": "clients in their 80s. My clients in"
+    },
+    {
+      "start": 2417.68,
+      "duration": 3.919,
+      "text": "their 80s want higher prices. No [ __ ]"
+    },
+    {
+      "start": 2420.079,
+      "duration": 3.52,
+      "text": "They're cashing their investments out"
+    },
+    {
+      "start": 2421.599,
+      "duration": 4.24,
+      "text": "now and living off the money today."
+    },
+    {
+      "start": 2423.599,
+      "duration": 4.48,
+      "text": ">> My clients in their 20s, we have"
+    },
+    {
+      "start": 2425.839,
+      "duration": 5.921,
+      "text": "conditioned them. Don't root for record"
+    },
+    {
+      "start": 2428.079,
+      "duration": 5.601,
+      "text": "highs. Root for 20% corrections and then"
+    },
+    {
+      "start": 2431.76,
+      "duration": 4.24,
+      "text": "call me and tell me how you're going to"
+    },
+    {
+      "start": 2433.68,
+      "duration": 5.6,
+      "text": "get me more money into your account or"
+    },
+    {
+      "start": 2436.0,
+      "duration": 5.839,
+      "text": "I'll call you. So, you must, if you're"
+    },
+    {
+      "start": 2439.28,
+      "duration": 5.6,
+      "text": "in your 20s and 30s, stop rooting for"
+    },
+    {
+      "start": 2441.839,
+      "duration": 5.121,
+      "text": "record highs. I know it feels good. I"
+    },
+    {
+      "start": 2444.88,
+      "duration": 4.959,
+      "text": "know it's endorphins. Look what a genius"
+    },
+    {
+      "start": 2446.96,
+      "duration": 4.32,
+      "text": "I am. I bought Tesla at 300. It's 340."
+    },
+    {
+      "start": 2449.839,
+      "duration": 3.52,
+      "text": "Yeah, yeah, yeah. I get it. That's what"
+    },
+    {
+      "start": 2451.28,
+      "duration": 3.839,
+      "text": "you're rooting for. But you shouldn't"
+    },
+    {
+      "start": 2453.359,
+      "duration": 4.881,
+      "text": "be. What you really should be rooting"
+    },
+    {
+      "start": 2455.119,
+      "duration": 5.601,
+      "text": "for is a lost decade. A, it'll hurt your"
+    },
+    {
+      "start": 2458.24,
+      "duration": 4.64,
+      "text": "parents. I know you'll you'll get that"
+    },
+    {
+      "start": 2460.72,
+      "duration": 5.44,
+      "text": "shade in Freud."
+    },
+    {
+      "start": 2462.88,
+      "duration": 5.439,
+      "text": "But B, you will be accumulating shares"
+    },
+    {
+      "start": 2466.16,
+      "duration": 5.52,
+      "text": "in the greatest corporations known to"
+    },
+    {
+      "start": 2468.319,
+      "duration": 6.961,
+      "text": "mankind at discounted levels from where"
+    },
+    {
+      "start": 2471.68,
+      "duration": 6.24,
+      "text": "they once sold. And when you're buying"
+    },
+    {
+      "start": 2475.28,
+      "duration": 4.64,
+      "text": "low, eventually the market goes back to"
+    },
+    {
+      "start": 2477.92,
+      "duration": 5.28,
+      "text": "its old highs. You don't get back to"
+    },
+    {
+      "start": 2479.92,
+      "duration": 5.04,
+      "text": "even. You slingshot ahead of where you"
+    },
+    {
+      "start": 2483.2,
+      "duration": 3.52,
+      "text": "otherwise would have been. So if you're"
+    },
+    {
+      "start": 2484.96,
+      "duration": 4.159,
+      "text": "listening to this, you're a young"
+    },
+    {
+      "start": 2486.72,
+      "duration": 4.8,
+      "text": "investor. You're not an old rich man"
+    },
+    {
+      "start": 2489.119,
+      "duration": 4.72,
+      "text": "like Scott Galloway."
+    },
+    {
+      "start": 2491.52,
+      "duration": 4.4,
+      "text": "Stop rooting for record highs. Root for"
+    },
+    {
+      "start": 2493.839,
+      "duration": 4.961,
+      "text": "corrections. Root for lost decades"
+    },
+    {
+      "start": 2495.92,
+      "duration": 5.36,
+      "text": "because that makes you uh a lot more"
+    },
+    {
+      "start": 2498.8,
+      "duration": 5.92,
+      "text": "money over the preponderance of your"
+    },
+    {
+      "start": 2501.28,
+      "duration": 7.12,
+      "text": "investing career, which is decades long."
+    },
+    {
+      "start": 2504.72,
+      "duration": 6.56,
+      "text": "Mine is too. I am an older gentleman. I"
+    },
+    {
+      "start": 2508.4,
+      "duration": 5.199,
+      "text": "am a forced buyer of stocks. I'm 48"
+    },
+    {
+      "start": 2511.28,
+      "duration": 6.96,
+      "text": "years old, if you could believe that. I"
+    },
+    {
+      "start": 2513.599,
+      "duration": 6.881,
+      "text": "I can't touch my own 401k till I'm 65,"
+    },
+    {
+      "start": 2518.24,
+      "duration": 4.72,
+      "text": "70 years old. I won't be withdrawing to"
+    },
+    {
+      "start": 2520.48,
+      "duration": 5.52,
+      "text": "my IAS until the last minute. So, I'm a"
+    },
+    {
+      "start": 2522.96,
+      "duration": 4.639,
+      "text": "buyer of stocks. I"
+    },
+    {
+      "start": 2526.0,
+      "duration": 2.88,
+      "text": "alltime highs are great for me. They"
+    },
+    {
+      "start": 2527.599,
+      "duration": 3.52,
+      "text": "make me look like a genius to my"
+    },
+    {
+      "start": 2528.88,
+      "duration": 5.199,
+      "text": "clients, but the reality is I'd rather"
+    },
+    {
+      "start": 2531.119,
+      "duration": 4.321,
+      "text": "buy low. So, it's it's a mindset shift."
+    },
+    {
+      "start": 2534.079,
+      "duration": 2.161,
+      "text": "It's not about predicting what's going"
+    },
+    {
+      "start": 2535.44,
+      "duration": 3.76,
+      "text": "to happen."
+    },
+    {
+      "start": 2536.24,
+      "duration": 4.72,
+      "text": ">> Career advice going into 2026 for these"
+    },
+    {
+      "start": 2539.2,
+      "duration": 4.96,
+      "text": "young investors, these young"
+    },
+    {
+      "start": 2540.96,
+      "duration": 4.72,
+      "text": "professionals. Um, you know, you've had"
+    },
+    {
+      "start": 2544.16,
+      "duration": 3.84,
+      "text": "so much success in so many different"
+    },
+    {
+      "start": 2545.68,
+      "duration": 3.679,
+      "text": "arenas. I watch you on CNBC all the"
+    },
+    {
+      "start": 2548.0,
+      "duration": 3.2,
+      "text": "time, crushing it. I listen to your"
+    },
+    {
+      "start": 2549.359,
+      "duration": 4.96,
+      "text": "podcast. I love it. You're a great"
+    },
+    {
+      "start": 2551.2,
+      "duration": 6.72,
+      "text": "writer. You're a great investor. Um,"
+    },
+    {
+      "start": 2554.319,
+      "duration": 6.0,
+      "text": "what would be your your words of wisdom"
+    },
+    {
+      "start": 2557.92,
+      "duration": 5.04,
+      "text": "for young people, young working"
+    },
+    {
+      "start": 2560.319,
+      "duration": 3.841,
+      "text": "professionals heading into 2026? What"
+    },
+    {
+      "start": 2562.96,
+      "duration": 3.2,
+      "text": "should they be focused on?"
+    },
+    {
+      "start": 2564.16,
+      "duration": 3.919,
+      "text": ">> All right. So, I've heard a lot of very"
+    },
+    {
+      "start": 2566.16,
+      "duration": 3.6,
+      "text": "uh accomp people more accomplished than"
+    },
+    {
+      "start": 2568.079,
+      "duration": 4.161,
+      "text": "I am answer this question. I've heard"
+    },
+    {
+      "start": 2569.76,
+      "duration": 4.72,
+      "text": "people give uh commencement speeches."
+    },
+    {
+      "start": 2572.24,
+      "duration": 5.2,
+      "text": "I've heard uh I've heard the professor."
+    },
+    {
+      "start": 2574.48,
+      "duration": 7.28,
+      "text": "Um, my opinion is figure out how to"
+    },
+    {
+      "start": 2577.44,
+      "duration": 6.32,
+      "text": "solve the problems of wealthy people."
+    },
+    {
+      "start": 2581.76,
+      "duration": 5.44,
+      "text": ">> It's let's just cut it. And that could"
+    },
+    {
+      "start": 2583.76,
+      "duration": 4.96,
+      "text": "be as simple as like everyone mocks, oh,"
+    },
+    {
+      "start": 2587.2,
+      "duration": 4.24,
+      "text": "you're an art history major. Good luck"
+    },
+    {
+      "start": 2588.72,
+      "duration": 3.68,
+      "text": "with all your student debt. Hey [ __ ]"
+    },
+    {
+      "start": 2591.44,
+      "duration": 2.159,
+      "text": "what do you think all these"
+    },
+    {
+      "start": 2592.4,
+      "duration": 2.56,
+      "text": "trillionaires are going to be doing with"
+    },
+    {
+      "start": 2593.599,
+      "duration": 3.76,
+      "text": "their money? They're going to be"
+    },
+    {
+      "start": 2594.96,
+      "duration": 4.639,
+      "text": "collecting priceless works of art and"
+    },
+    {
+      "start": 2597.359,
+      "duration": 5.601,
+      "text": "they have no taste. You see how Jeff"
+    },
+    {
+      "start": 2599.599,
+      "duration": 6.881,
+      "text": "Bezos celebrates his birthday on on a on"
+    },
+    {
+      "start": 2602.96,
+      "duration": 5.6,
+      "text": "a yacht with people waving sparklers?"
+    },
+    {
+      "start": 2606.48,
+      "duration": 5.359,
+      "text": ">> They they're Philistines. That was"
+    },
+    {
+      "start": 2608.56,
+      "duration": 5.2,
+      "text": "amazing. They're they're Imagine having"
+    },
+    {
+      "start": 2611.839,
+      "duration": 3.52,
+      "text": "a hundred billion dollars and that's how"
+    },
+    {
+      "start": 2613.76,
+      "duration": 4.0,
+      "text": "you celebrate your birthday on [ __ ]"
+    },
+    {
+      "start": 2615.359,
+      "duration": 5.441,
+      "text": "Instagram. Okay."
+    },
+    {
+      "start": 2617.76,
+      "duration": 5.68,
+      "text": ">> Cater to wealthy people. Solve their"
+    },
+    {
+      "start": 2620.8,
+      "duration": 4.24,
+      "text": "problems. Make yourself"
+    },
+    {
+      "start": 2623.44,
+      "duration": 5.2,
+      "text": "indispensable"
+    },
+    {
+      "start": 2625.04,
+      "duration": 6.559,
+      "text": "to large corporations, small business"
+    },
+    {
+      "start": 2628.64,
+      "duration": 5.52,
+      "text": "owners, people with means, people who"
+    },
+    {
+      "start": 2631.599,
+      "duration": 4.961,
+      "text": "are willing to give you money to make"
+    },
+    {
+      "start": 2634.16,
+      "duration": 4.24,
+      "text": "their problems go away. You will have"
+    },
+    {
+      "start": 2636.56,
+      "duration": 2.32,
+      "text": "lifetime employment. It's as simple as"
+    },
+    {
+      "start": 2638.4,
+      "duration": 2.24,
+      "text": "that."
+    },
+    {
+      "start": 2638.88,
+      "duration": 3.76,
+      "text": ">> I love it. Josh Brown is the co-founder"
+    },
+    {
+      "start": 2640.64,
+      "duration": 3.92,
+      "text": "and CEO of Rit Holtz, a New York City"
+    },
+    {
+      "start": 2642.64,
+      "duration": 4.88,
+      "text": "based investment advisory firm managing"
+    },
+    {
+      "start": 2644.56,
+      "duration": 4.16,
+      "text": "$6.5 billion in assets for individuals,"
+    },
+    {
+      "start": 2647.52,
+      "duration": 3.12,
+      "text": "corporate retirement plans, and"
+    },
+    {
+      "start": 2648.72,
+      "duration": 4.639,
+      "text": "foundations. And you can also check out"
+    },
+    {
+      "start": 2650.64,
+      "duration": 6.479,
+      "text": "his podcast, The Compound and Friends"
+    },
+    {
+      "start": 2653.359,
+      "duration": 5.521,
+      "text": "for more. I highly recommend it. Josh,"
+    },
+    {
+      "start": 2657.119,
+      "duration": 3.921,
+      "text": "uh, next time we'll have to do this"
+    },
+    {
+      "start": 2658.88,
+      "duration": 2.8,
+      "text": "longer, but we'll let you go. Thank you"
+    },
+    {
+      "start": 2661.04,
+      "duration": 2.48,
+      "text": "so much."
+    },
+    {
+      "start": 2661.68,
+      "duration": 3.6,
+      "text": ">> Always a pleasure, Ed. Wishing you guys"
+    },
+    {
+      "start": 2663.52,
+      "duration": 5.04,
+      "text": "all the best in 2026."
+    },
+    {
+      "start": 2665.28,
+      "duration": 4.48,
+      "text": ">> You, too. Thank you, sir."
+    },
+    {
+      "start": 2668.56,
+      "duration": 3.2,
+      "text": ">> Thank you for listening to Profit"
+    },
+    {
+      "start": 2669.76,
+      "duration": 3.76,
+      "text": "Markets from Profit Media. If you liked"
+    },
+    {
+      "start": 2671.76,
+      "duration": 4.4,
+      "text": "what you heard, give us a follow and"
+    },
+    {
+      "start": 2673.52,
+      "duration": 5.64,
+      "text": "join us for a fresh take on markets on"
+    },
+    {
+      "start": 2676.16,
+      "duration": 3.0,
+      "text": "Monday."
+    }
+  ]
+}

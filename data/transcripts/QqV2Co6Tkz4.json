@@ -1,0 +1,2601 @@
+{
+  "video_id": "QqV2Co6Tkz4",
+  "title": "Plug Power Datacenter Narrative Likely BS $PLUG",
+  "channel": "Broken Business Models",
+  "published_at": "2025-11-24T07:05:24Z",
+  "duration": "PT20M21S",
+  "thumbnail": "https://i.ytimg.com/vi/QqV2Co6Tkz4/hqdefault.jpg",
+  "fetched_at": "2026-01-16T11:33:39.290592",
+  "transcript": [
+    {
+      "start": 2.96,
+      "duration": 3.28,
+      "text": "Hello and welcome back to the Broken"
+    },
+    {
+      "start": 4.48,
+      "duration": 3.68,
+      "text": "Business Models podcast. We are your"
+    },
+    {
+      "start": 6.24,
+      "duration": 3.439,
+      "text": "hosts, Ryan and James. And before we get"
+    },
+    {
+      "start": 8.16,
+      "duration": 3.439,
+      "text": "into today's podcast, just a quick"
+    },
+    {
+      "start": 9.679,
+      "duration": 3.201,
+      "text": "disclaimer, nothing in this podcast or"
+    },
+    {
+      "start": 11.599,
+      "duration": 3.361,
+      "text": "any of our other material should be"
+    },
+    {
+      "start": 12.88,
+      "duration": 3.28,
+      "text": "taken as investment advice. James and I"
+    },
+    {
+      "start": 14.96,
+      "duration": 3.2,
+      "text": "could have positions in any of the"
+    },
+    {
+      "start": 16.16,
+      "duration": 3.119,
+      "text": "stocks we we may mention today and we"
+    },
+    {
+      "start": 18.16,
+      "duration": 3.199,
+      "text": "reserve the right to change those"
+    },
+    {
+      "start": 19.279,
+      "duration": 3.521,
+      "text": "positions at any time. So, always make"
+    },
+    {
+      "start": 21.359,
+      "duration": 2.961,
+      "text": "sure you do your own work and consult"
+    },
+    {
+      "start": 22.8,
+      "duration": 4.0,
+      "text": "with a professional before making any"
+    },
+    {
+      "start": 24.32,
+      "duration": 4.32,
+      "text": "investment decision. With that being"
+    },
+    {
+      "start": 26.8,
+      "duration": 5.2,
+      "text": "said, the topic of today's podcast is"
+    },
+    {
+      "start": 28.64,
+      "duration": 5.439,
+      "text": "going to be Plug Power."
+    },
+    {
+      "start": 32.0,
+      "duration": 3.84,
+      "text": "So to start off, just a quick refresher,"
+    },
+    {
+      "start": 34.079,
+      "duration": 3.601,
+      "text": "Plug Power is a company who is in the"
+    },
+    {
+      "start": 35.84,
+      "duration": 4.64,
+      "text": "business in the business of hydrogen"
+    },
+    {
+      "start": 37.68,
+      "duration": 4.559,
+      "text": "fuel cells. So they create these"
+    },
+    {
+      "start": 40.48,
+      "duration": 2.96,
+      "text": "hydrogen fuel cell devices, which are"
+    },
+    {
+      "start": 42.239,
+      "duration": 4.961,
+      "text": "basically these little electronic"
+    },
+    {
+      "start": 43.44,
+      "duration": 7.04,
+      "text": "devices that take in hydrogen gas, so H2"
+    },
+    {
+      "start": 47.2,
+      "duration": 5.679,
+      "text": "gas, and then uh produce as output"
+    },
+    {
+      "start": 50.48,
+      "duration": 4.16,
+      "text": "electricity. So it is a electricity"
+    },
+    {
+      "start": 52.879,
+      "duration": 3.921,
+      "text": "storage solution similar to a"
+    },
+    {
+      "start": 54.64,
+      "duration": 3.84,
+      "text": "rechargeable battery where instead of"
+    },
+    {
+      "start": 56.8,
+      "duration": 3.759,
+      "text": "just storing the electricity in the"
+    },
+    {
+      "start": 58.48,
+      "duration": 4.079,
+      "text": "chemicals of the battery you store the"
+    },
+    {
+      "start": 60.559,
+      "duration": 3.521,
+      "text": "energy in the form of hydrogen gas and"
+    },
+    {
+      "start": 62.559,
+      "duration": 3.201,
+      "text": "then when you need the electricity you"
+    },
+    {
+      "start": 64.08,
+      "duration": 4.56,
+      "text": "run the hydrogen gas through the fuel"
+    },
+    {
+      "start": 65.76,
+      "duration": 5.52,
+      "text": "cell and it produces the electricity."
+    },
+    {
+      "start": 68.64,
+      "duration": 5.2,
+      "text": "The problem is that in terms of the cost"
+    },
+    {
+      "start": 71.28,
+      "duration": 4.8,
+      "text": "of producing the hydrogen required to"
+    },
+    {
+      "start": 73.84,
+      "duration": 4.16,
+      "text": "generate one unit of electricity, it is"
+    },
+    {
+      "start": 76.08,
+      "duration": 4.16,
+      "text": "much much more expensive than a regular"
+    },
+    {
+      "start": 78.0,
+      "duration": 4.96,
+      "text": "rechargeable battery and thus is not"
+    },
+    {
+      "start": 80.24,
+      "duration": 6.239,
+      "text": "economically viable on any scale except"
+    },
+    {
+      "start": 82.96,
+      "duration": 5.28,
+      "text": "for very niche use cases. And so Plug"
+    },
+    {
+      "start": 86.479,
+      "duration": 3.761,
+      "text": "Power sells these hydrogen fuel cell"
+    },
+    {
+      "start": 88.24,
+      "duration": 5.199,
+      "text": "devices to customers. But they also have"
+    },
+    {
+      "start": 90.24,
+      "duration": 5.36,
+      "text": "to sell the hydrogen fuel itself at a"
+    },
+    {
+      "start": 93.439,
+      "duration": 4.561,
+      "text": "massive discount, significantly below"
+    },
+    {
+      "start": 95.6,
+      "duration": 4.159,
+      "text": "its own cost to produce the hydrogen in"
+    },
+    {
+      "start": 98.0,
+      "duration": 3.2,
+      "text": "order for it to make sense for any of"
+    },
+    {
+      "start": 99.759,
+      "duration": 3.441,
+      "text": "their customers to actually use these"
+    },
+    {
+      "start": 101.2,
+      "duration": 3.2,
+      "text": "hydrogen fuel cell devices. Otherwise,"
+    },
+    {
+      "start": 103.2,
+      "duration": 3.44,
+      "text": "they would just use a much cheaper"
+    },
+    {
+      "start": 104.4,
+      "duration": 3.52,
+      "text": "solution like a rechargeable battery. So"
+    },
+    {
+      "start": 106.64,
+      "duration": 2.96,
+      "text": "they sell the hydrogen fuel cell"
+    },
+    {
+      "start": 107.92,
+      "duration": 4.159,
+      "text": "devices. They also sell the hydrogen"
+    },
+    {
+      "start": 109.6,
+      "duration": 4.72,
+      "text": "fuel at below cost. And they also make a"
+    },
+    {
+      "start": 112.079,
+      "duration": 3.921,
+      "text": "little bit of revenue from selling from"
+    },
+    {
+      "start": 114.32,
+      "duration": 4.64,
+      "text": "the electricity generated by some of"
+    },
+    {
+      "start": 116.0,
+      "duration": 6.0,
+      "text": "their hydrogen fuel cells. Um as I"
+    },
+    {
+      "start": 118.96,
+      "duration": 5.199,
+      "text": "mentioned uh just now the entire system"
+    },
+    {
+      "start": 122.0,
+      "duration": 4.079,
+      "text": "is not economically viable and so plug"
+    },
+    {
+      "start": 124.159,
+      "duration": 4.16,
+      "text": "power basically subsidizes the entire"
+    },
+    {
+      "start": 126.079,
+      "duration": 4.24,
+      "text": "system and because of that they make"
+    },
+    {
+      "start": 128.319,
+      "duration": 4.64,
+      "text": "massive gross losses on all the revenue"
+    },
+    {
+      "start": 130.319,
+      "duration": 4.56,
+      "text": "that they generate."
+    },
+    {
+      "start": 132.959,
+      "duration": 4.081,
+      "text": "Their financials are nothing short of"
+    },
+    {
+      "start": 134.879,
+      "duration": 4.241,
+      "text": "disastrous. So as you can see here in"
+    },
+    {
+      "start": 137.04,
+      "duration": 4.16,
+      "text": "this chart I have the quarterly revenue"
+    },
+    {
+      "start": 139.12,
+      "duration": 5.28,
+      "text": "and operating income of the company"
+    },
+    {
+      "start": 141.2,
+      "duration": 5.039,
+      "text": "going back uh a couple of years in"
+    },
+    {
+      "start": 144.4,
+      "duration": 4.32,
+      "text": "almost all quarters they burn something"
+    },
+    {
+      "start": 146.239,
+      "duration": 4.881,
+      "text": "something around 200 to $300 million in"
+    },
+    {
+      "start": 148.72,
+      "duration": 3.84,
+      "text": "operating losses which is on the same"
+    },
+    {
+      "start": 151.12,
+      "duration": 3.28,
+      "text": "order of magnitude as the amount of"
+    },
+    {
+      "start": 152.56,
+      "duration": 4.88,
+      "text": "revenue that they generate. So they're"
+    },
+    {
+      "start": 154.4,
+      "duration": 5.68,
+      "text": "losing about as much money in operating"
+    },
+    {
+      "start": 157.44,
+      "duration": 4.879,
+      "text": "losses as they make in revenue."
+    },
+    {
+      "start": 160.08,
+      "duration": 4.879,
+      "text": "Over time, these losses have piled up"
+    },
+    {
+      "start": 162.319,
+      "duration": 5.041,
+      "text": "and in early 2025, they had to come to"
+    },
+    {
+      "start": 164.959,
+      "duration": 4.64,
+      "text": "terms with it um in some in some"
+    },
+    {
+      "start": 167.36,
+      "duration": 4.8,
+      "text": "capacity and so they initiated something"
+    },
+    {
+      "start": 169.599,
+      "duration": 4.081,
+      "text": "called Project Quantum Leap, which the"
+    },
+    {
+      "start": 172.16,
+      "duration": 2.96,
+      "text": "name Project Quantum Leap sounds like"
+    },
+    {
+      "start": 173.68,
+      "duration": 2.559,
+      "text": "something really exciting and really,"
+    },
+    {
+      "start": 175.12,
+      "duration": 3.199,
+      "text": "you know, really exciting for the"
+    },
+    {
+      "start": 176.239,
+      "duration": 5.36,
+      "text": "future, but in reality, it was just a"
+    },
+    {
+      "start": 178.319,
+      "duration": 5.2,
+      "text": "massive uh effort to cut costs and"
+    },
+    {
+      "start": 181.599,
+      "duration": 4.881,
+      "text": "reduce their their massive losses that"
+    },
+    {
+      "start": 183.519,
+      "duration": 5.36,
+      "text": "they're generating. So massive layoffs,"
+    },
+    {
+      "start": 186.48,
+      "duration": 4.72,
+      "text": "facilities consolidation, other types of"
+    },
+    {
+      "start": 188.879,
+      "duration": 3.761,
+      "text": "cost cuts, and also they they said they"
+    },
+    {
+      "start": 191.2,
+      "duration": 3.44,
+      "text": "were going to start increasing the"
+    },
+    {
+      "start": 192.64,
+      "duration": 4.319,
+      "text": "pricing of their hydrogen fuel that they"
+    },
+    {
+      "start": 194.64,
+      "duration": 4.879,
+      "text": "sell to customers. Uh if you remember, I"
+    },
+    {
+      "start": 196.959,
+      "duration": 4.401,
+      "text": "mentioned that they they sell hydrogen"
+    },
+    {
+      "start": 199.519,
+      "duration": 3.44,
+      "text": "fuel to their fuel cell customers at"
+    },
+    {
+      "start": 201.36,
+      "duration": 3.44,
+      "text": "below cost. So they said they're going"
+    },
+    {
+      "start": 202.959,
+      "duration": 4.161,
+      "text": "to try to increase the pricing of this"
+    },
+    {
+      "start": 204.8,
+      "duration": 4.4,
+      "text": "hydrogen fuel in order to recoup some of"
+    },
+    {
+      "start": 207.12,
+      "duration": 5.44,
+      "text": "those losses."
+    },
+    {
+      "start": 209.2,
+      "duration": 5.599,
+      "text": "Despite that, their uh gross losses and"
+    },
+    {
+      "start": 212.56,
+      "duration": 6.16,
+      "text": "their cost of goods sold have continued"
+    },
+    {
+      "start": 214.799,
+      "duration": 5.44,
+      "text": "to be extremely extremely bad. In the re"
+    },
+    {
+      "start": 218.72,
+      "duration": 3.84,
+      "text": "in in the most recent quarter, their"
+    },
+    {
+      "start": 220.239,
+      "duration": 4.401,
+      "text": "cost of revenue and gross loss both"
+    },
+    {
+      "start": 222.56,
+      "duration": 4.239,
+      "text": "actually increased by $20 million versus"
+    },
+    {
+      "start": 224.64,
+      "duration": 3.44,
+      "text": "the year ago period, despite the fact"
+    },
+    {
+      "start": 226.799,
+      "duration": 2.961,
+      "text": "that they actually generated a little"
+    },
+    {
+      "start": 228.08,
+      "duration": 4.68,
+      "text": "bit less revenue than the year ago"
+    },
+    {
+      "start": 229.76,
+      "duration": 3.0,
+      "text": "period."
+    },
+    {
+      "start": 233.2,
+      "duration": 3.599,
+      "text": "In terms of their financial position, at"
+    },
+    {
+      "start": 235.2,
+      "duration": 4.319,
+      "text": "the end of the most recent quarter, they"
+    },
+    {
+      "start": 236.799,
+      "duration": 4.881,
+      "text": "only had about $166 million of cash in"
+    },
+    {
+      "start": 239.519,
+      "duration": 4.481,
+      "text": "cash equivalents, which is less than one"
+    },
+    {
+      "start": 241.68,
+      "duration": 5.04,
+      "text": "quarter's worth of cash burn. They also"
+    },
+    {
+      "start": 244.0,
+      "duration": 5.519,
+      "text": "had to raise about $400 million in just"
+    },
+    {
+      "start": 246.72,
+      "duration": 5.04,
+      "text": "a few days ago in November of 2025 in"
+    },
+    {
+      "start": 249.519,
+      "duration": 4.08,
+      "text": "the form of convertible notes. Uh but"
+    },
+    {
+      "start": 251.76,
+      "duration": 3.6,
+      "text": "even after that cash raise, they still"
+    },
+    {
+      "start": 253.599,
+      "duration": 3.841,
+      "text": "have less than one year worth of cash."
+    },
+    {
+      "start": 255.36,
+      "duration": 4.879,
+      "text": "So they're going to have to reduce costs"
+    },
+    {
+      "start": 257.44,
+      "duration": 5.199,
+      "text": "further uh increase revenue or raise"
+    },
+    {
+      "start": 260.239,
+      "duration": 5.041,
+      "text": "additional capital in order to avoid"
+    },
+    {
+      "start": 262.639,
+      "duration": 4.641,
+      "text": "bankruptcy."
+    },
+    {
+      "start": 265.28,
+      "duration": 4.639,
+      "text": "So one last thing to mention about Plug"
+    },
+    {
+      "start": 267.28,
+      "duration": 4.88,
+      "text": "Power's background is um earlier this"
+    },
+    {
+      "start": 269.919,
+      "duration": 4.321,
+      "text": "month the stock briefly pumped had a"
+    },
+    {
+      "start": 272.16,
+      "duration": 4.4,
+      "text": "increase in share price due to something"
+    },
+    {
+      "start": 274.24,
+      "duration": 5.28,
+      "text": "that happened that is is related to the"
+    },
+    {
+      "start": 276.56,
+      "duration": 5.04,
+      "text": "current data center and AI narrative. So"
+    },
+    {
+      "start": 279.52,
+      "duration": 4.399,
+      "text": "they announced a non-binding letter of"
+    },
+    {
+      "start": 281.6,
+      "duration": 4.08,
+      "text": "intent with a data center company that"
+    },
+    {
+      "start": 283.919,
+      "duration": 3.921,
+      "text": "is currently building out data centers"
+    },
+    {
+      "start": 285.68,
+      "duration": 4.48,
+      "text": "across the country. And what's going to"
+    },
+    {
+      "start": 287.84,
+      "duration": 4.88,
+      "text": "happen is that current that plug power"
+    },
+    {
+      "start": 290.16,
+      "duration": 5.12,
+      "text": "previously had been planning to planning"
+    },
+    {
+      "start": 292.72,
+      "duration": 5.36,
+      "text": "a green hydrogen production facility in"
+    },
+    {
+      "start": 295.28,
+      "duration": 5.12,
+      "text": "New York uh for which they had"
+    },
+    {
+      "start": 298.08,
+      "duration": 4.559,
+      "text": "electricity purchase agreements with"
+    },
+    {
+      "start": 300.4,
+      "duration": 5.519,
+      "text": "electricity companies to power this"
+    },
+    {
+      "start": 302.639,
+      "duration": 5.12,
+      "text": "green hydrogen production facility. Um"
+    },
+    {
+      "start": 305.919,
+      "duration": 5.041,
+      "text": "this agreement with the data center"
+    },
+    {
+      "start": 307.759,
+      "duration": 5.841,
+      "text": "company is for uh Plug Power to"
+    },
+    {
+      "start": 310.96,
+      "duration": 4.32,
+      "text": "essentially cancel their plans to build"
+    },
+    {
+      "start": 313.6,
+      "duration": 4.64,
+      "text": "this green green hydrogen production"
+    },
+    {
+      "start": 315.28,
+      "duration": 4.72,
+      "text": "facility and divert those electricity uh"
+    },
+    {
+      "start": 318.24,
+      "duration": 3.92,
+      "text": "purchase contracts to the data center"
+    },
+    {
+      "start": 320.0,
+      "duration": 5.36,
+      "text": "companies to instead use the electricity"
+    },
+    {
+      "start": 322.16,
+      "duration": 5.759,
+      "text": "for their data centers. Um, so this"
+    },
+    {
+      "start": 325.36,
+      "duration": 5.04,
+      "text": "could potentially generate over $275"
+    },
+    {
+      "start": 327.919,
+      "duration": 4.0,
+      "text": "million for plug power, but it is"
+    },
+    {
+      "start": 330.4,
+      "duration": 3.2,
+      "text": "probably not going to amount to anything"
+    },
+    {
+      "start": 331.919,
+      "duration": 4.321,
+      "text": "because it's a non-binding letter of"
+    },
+    {
+      "start": 333.6,
+      "duration": 5.52,
+      "text": "intent and so most likely it's not going"
+    },
+    {
+      "start": 336.24,
+      "duration": 4.959,
+      "text": "to move the needle in either direction."
+    },
+    {
+      "start": 339.12,
+      "duration": 4.56,
+      "text": "But something to mention uh because it"
+    },
+    {
+      "start": 341.199,
+      "duration": 3.681,
+      "text": "did affect the stock price briefly. So"
+    },
+    {
+      "start": 343.68,
+      "duration": 2.88,
+      "text": "with that being said, I'll kick it over"
+    },
+    {
+      "start": 344.88,
+      "duration": 4.56,
+      "text": "to you James to talk more about the"
+    },
+    {
+      "start": 346.56,
+      "duration": 4.88,
+      "text": "specifics of uh uh Plug Power's current"
+    },
+    {
+      "start": 349.44,
+      "duration": 4.08,
+      "text": "situation."
+    },
+    {
+      "start": 351.44,
+      "duration": 4.72,
+      "text": ">> Yeah. So, first Ryan mentioned the"
+    },
+    {
+      "start": 353.52,
+      "duration": 6.08,
+      "text": "project quantum leap where Plug Power in"
+    },
+    {
+      "start": 356.16,
+      "duration": 5.039,
+      "text": "2025 was trying to reduce costs and"
+    },
+    {
+      "start": 359.6,
+      "duration": 3.52,
+      "text": "reduce the amount of money that they're"
+    },
+    {
+      "start": 361.199,
+      "duration": 4.241,
+      "text": "losing. And if we look at this chart of"
+    },
+    {
+      "start": 363.12,
+      "duration": 5.44,
+      "text": "their free cash flow each quarter, so"
+    },
+    {
+      "start": 365.44,
+      "duration": 4.8,
+      "text": "their quarterly cash burn, 2025 does"
+    },
+    {
+      "start": 368.56,
+      "duration": 4.56,
+      "text": "have a significant improvement over"
+    },
+    {
+      "start": 370.24,
+      "duration": 6.239,
+      "text": "2024, but they're still burning a lot of"
+    },
+    {
+      "start": 373.12,
+      "duration": 6.32,
+      "text": "cash. So in just the first nine months"
+    },
+    {
+      "start": 376.479,
+      "duration": 5.201,
+      "text": "of 2025,"
+    },
+    {
+      "start": 379.44,
+      "duration": 6.0,
+      "text": "they burn Plug Power burned $500"
+    },
+    {
+      "start": 381.68,
+      "duration": 5.76,
+      "text": "million, but that's still a huge cash"
+    },
+    {
+      "start": 385.44,
+      "duration": 5.44,
+      "text": "burn, but it's less cash than they"
+    },
+    {
+      "start": 387.44,
+      "duration": 5.12,
+      "text": "burned in 2024. So part of that is"
+    },
+    {
+      "start": 390.88,
+      "duration": 3.52,
+      "text": "indeed due to their cost cuts and"
+    },
+    {
+      "start": 392.56,
+      "duration": 3.6,
+      "text": "layoffs and such. However, another thing"
+    },
+    {
+      "start": 394.4,
+      "duration": 4.079,
+      "text": "we have to consider is that throughout"
+    },
+    {
+      "start": 396.16,
+      "duration": 3.759,
+      "text": "this period, their inventory decreased a"
+    },
+    {
+      "start": 398.479,
+      "duration": 4.0,
+      "text": "lot. So, they've been running down their"
+    },
+    {
+      "start": 399.919,
+      "duration": 4.56,
+      "text": "inventory um failing to produce new"
+    },
+    {
+      "start": 402.479,
+      "duration": 4.72,
+      "text": "hydrogen inventory. And that's a way"
+    },
+    {
+      "start": 404.479,
+      "duration": 5.041,
+      "text": "that they've tried to improve their cash"
+    },
+    {
+      "start": 407.199,
+      "duration": 4.161,
+      "text": "firm situation. However, that's not a"
+    },
+    {
+      "start": 409.52,
+      "duration": 4.56,
+      "text": "sustainable solution because if you're"
+    },
+    {
+      "start": 411.36,
+      "duration": 5.04,
+      "text": "just trying to improve your improve your"
+    },
+    {
+      "start": 414.08,
+      "duration": 4.16,
+      "text": "cash flow by reducing inventory,"
+    },
+    {
+      "start": 416.4,
+      "duration": 3.199,
+      "text": "eventually you run out of inventory and"
+    },
+    {
+      "start": 418.24,
+      "duration": 3.6,
+      "text": "there's some amount of inventory that"
+    },
+    {
+      "start": 419.599,
+      "duration": 4.481,
+      "text": "you need to actually run the business."
+    },
+    {
+      "start": 421.84,
+      "duration": 4.079,
+      "text": "So, this is a temporary benefit of them"
+    },
+    {
+      "start": 424.08,
+      "duration": 3.679,
+      "text": "running down the inventory. and despite"
+    },
+    {
+      "start": 425.919,
+      "duration": 4.081,
+      "text": "them running down the inventory, they're"
+    },
+    {
+      "start": 427.759,
+      "duration": 5.28,
+      "text": "still burning a huge amount of cash. So"
+    },
+    {
+      "start": 430.0,
+      "duration": 5.28,
+      "text": "the core business is still is still"
+    },
+    {
+      "start": 433.039,
+      "duration": 4.481,
+      "text": "unviable and is still losing a lot of"
+    },
+    {
+      "start": 435.28,
+      "duration": 4.8,
+      "text": "money. Um so we need to we need to keep"
+    },
+    {
+      "start": 437.52,
+      "duration": 5.56,
+      "text": "that in mind as we analyze the company"
+    },
+    {
+      "start": 440.08,
+      "duration": 3.0,
+      "text": "further."
+    },
+    {
+      "start": 443.36,
+      "duration": 5.6,
+      "text": "So in the early part in the first half"
+    },
+    {
+      "start": 446.96,
+      "duration": 3.92,
+      "text": "of 2025, that's when Plight Power was"
+    },
+    {
+      "start": 448.96,
+      "duration": 2.959,
+      "text": "talking about their project quantum leap"
+    },
+    {
+      "start": 450.88,
+      "duration": 3.28,
+      "text": "and they were saying, \"Oh, we're going"
+    },
+    {
+      "start": 451.919,
+      "duration": 4.0,
+      "text": "to cut all these costs, do all these"
+    },
+    {
+      "start": 454.16,
+      "duration": 3.2,
+      "text": "layoffs, do all these other things, and"
+    },
+    {
+      "start": 455.919,
+      "duration": 4.881,
+      "text": "that's supposedly going to get us to"
+    },
+    {
+      "start": 457.36,
+      "duration": 6.48,
+      "text": "profitability.\" And one of the big, if"
+    },
+    {
+      "start": 460.8,
+      "duration": 4.56,
+      "text": "you follow Plug Power over the previous"
+    },
+    {
+      "start": 463.84,
+      "duration": 3.68,
+      "text": "years,"
+    },
+    {
+      "start": 465.36,
+      "duration": 3.76,
+      "text": "they have always, Plug Power has"
+    },
+    {
+      "start": 467.52,
+      "duration": 3.76,
+      "text": "incurred operating losses since"
+    },
+    {
+      "start": 469.12,
+      "duration": 4.72,
+      "text": "inception. And they have typically"
+    },
+    {
+      "start": 471.28,
+      "duration": 5.359,
+      "text": "funded their operating losses by selling"
+    },
+    {
+      "start": 473.84,
+      "duration": 5.12,
+      "text": "new shares of by selling new stock onto"
+    },
+    {
+      "start": 476.639,
+      "duration": 5.28,
+      "text": "the market. Basically, they use dilutive"
+    },
+    {
+      "start": 478.96,
+      "duration": 8.0,
+      "text": "equity raises to raise capital to fund"
+    },
+    {
+      "start": 481.919,
+      "duration": 8.321,
+      "text": "their cash burn. Now, in April of 2025,"
+    },
+    {
+      "start": 486.96,
+      "duration": 6.799,
+      "text": "they announced a loan that they had"
+    },
+    {
+      "start": 490.24,
+      "duration": 5.12,
+      "text": "secured a loan of up to $500 million."
+    },
+    {
+      "start": 493.759,
+      "duration": 3.44,
+      "text": "And they said, \"Now that we got this"
+    },
+    {
+      "start": 495.36,
+      "duration": 3.519,
+      "text": "loan, this is enough cash to get us"
+    },
+    {
+      "start": 497.199,
+      "duration": 5.361,
+      "text": "through the rest of the year.\" And at"
+    },
+    {
+      "start": 498.879,
+      "duration": 6.801,
+      "text": "the time in April of 2025, they said as"
+    },
+    {
+      "start": 502.56,
+      "duration": 5.44,
+      "text": "a result of them securing this loan,"
+    },
+    {
+      "start": 505.68,
+      "duration": 5.12,
+      "text": "Plug Power has no intention of raising"
+    },
+    {
+      "start": 508.0,
+      "duration": 4.479,
+      "text": "additional equity in 2025, underscoring"
+    },
+    {
+      "start": 510.8,
+      "duration": 4.08,
+      "text": "its focus on discipline capital"
+    },
+    {
+      "start": 512.479,
+      "duration": 4.56,
+      "text": "management. So just in April, they said"
+    },
+    {
+      "start": 514.88,
+      "duration": 5.039,
+      "text": "that we have enough money, we don't need"
+    },
+    {
+      "start": 517.039,
+      "duration": 4.8,
+      "text": "to sell more stock in 2025. Well, then"
+    },
+    {
+      "start": 519.919,
+      "duration": 4.24,
+      "text": "what happened in the third quarter of"
+    },
+    {
+      "start": 521.839,
+      "duration": 4.081,
+      "text": "2025? So just a few months after they"
+    },
+    {
+      "start": 524.159,
+      "duration": 4.001,
+      "text": "made that statement, what do they do?"
+    },
+    {
+      "start": 525.92,
+      "duration": 6.32,
+      "text": "They sell 29 million shares of stock to"
+    },
+    {
+      "start": 528.16,
+      "duration": 6.32,
+      "text": "raise $76 million. So they they're this"
+    },
+    {
+      "start": 532.24,
+      "duration": 4.4,
+      "text": "project quantum leap, this cost cutting"
+    },
+    {
+      "start": 534.48,
+      "duration": 3.84,
+      "text": "initiative that they had for 2025, it"
+    },
+    {
+      "start": 536.64,
+      "duration": 3.84,
+      "text": "has failed to deliver the intended"
+    },
+    {
+      "start": 538.32,
+      "duration": 4.24,
+      "text": "results. Plug Power is still losing an"
+    },
+    {
+      "start": 540.48,
+      "duration": 4.799,
+      "text": "obscene amount of money and they are"
+    },
+    {
+      "start": 542.56,
+      "duration": 4.959,
+      "text": "still obliged to do dilutive equity"
+    },
+    {
+      "start": 545.279,
+      "duration": 4.24,
+      "text": "raises to raise capital just to keep the"
+    },
+    {
+      "start": 547.519,
+      "duration": 4.081,
+      "text": "lights on."
+    },
+    {
+      "start": 549.519,
+      "duration": 4.0,
+      "text": "And this you should the fact that they"
+    },
+    {
+      "start": 551.6,
+      "duration": 3.359,
+      "text": "said we don't need to sell stock and"
+    },
+    {
+      "start": 553.519,
+      "duration": 3.601,
+      "text": "then a few months later they sell a ton"
+    },
+    {
+      "start": 554.959,
+      "duration": 4.401,
+      "text": "of stock that just shows that whatever"
+    },
+    {
+      "start": 557.12,
+      "duration": 3.839,
+      "text": "management says whatever uh whatever"
+    },
+    {
+      "start": 559.36,
+      "duration": 3.68,
+      "text": "future projections and guidance that"
+    },
+    {
+      "start": 560.959,
+      "duration": 3.44,
+      "text": "plug powers management gives cannot be"
+    },
+    {
+      "start": 563.04,
+      "duration": 3.04,
+      "text": "trusted because they have such a"
+    },
+    {
+      "start": 564.399,
+      "duration": 3.761,
+      "text": "horrible track record of keeping their"
+    },
+    {
+      "start": 566.08,
+      "duration": 8.319,
+      "text": "promises."
+    },
+    {
+      "start": 568.16,
+      "duration": 8.239,
+      "text": "Now back in like uh 2020 2021 when there"
+    },
+    {
+      "start": 574.399,
+      "duration": 3.921,
+      "text": "was this whole stock market bubble"
+    },
+    {
+      "start": 576.399,
+      "duration": 4.081,
+      "text": "during COVID related to green energy and"
+    },
+    {
+      "start": 578.32,
+      "duration": 4.0,
+      "text": "hydrogen and whatever poly power share"
+    },
+    {
+      "start": 580.48,
+      "duration": 4.479,
+      "text": "price was very high and they were able"
+    },
+    {
+      "start": 582.32,
+      "duration": 4.639,
+      "text": "to sell stock because their stock price"
+    },
+    {
+      "start": 584.959,
+      "duration": 4.241,
+      "text": "was so high they were able to sell stock"
+    },
+    {
+      "start": 586.959,
+      "duration": 4.641,
+      "text": "and generate huge proceeds from their"
+    },
+    {
+      "start": 589.2,
+      "duration": 4.4,
+      "text": "equity issuance. So they had, you know,"
+    },
+    {
+      "start": 591.6,
+      "duration": 3.52,
+      "text": "back in 2022, they had billions of"
+    },
+    {
+      "start": 593.6,
+      "duration": 2.72,
+      "text": "dollars of cash on their balance sheet"
+    },
+    {
+      "start": 595.12,
+      "duration": 3.52,
+      "text": "because they were able to raise so much"
+    },
+    {
+      "start": 596.32,
+      "duration": 4.48,
+      "text": "money by selling their stock."
+    },
+    {
+      "start": 598.64,
+      "duration": 3.44,
+      "text": "But then their as they've they've"
+    },
+    {
+      "start": 600.8,
+      "duration": 3.92,
+      "text": "quickly burned through their cash"
+    },
+    {
+      "start": 602.08,
+      "duration": 4.4,
+      "text": "balance. And over the past couple years,"
+    },
+    {
+      "start": 604.72,
+      "duration": 3.52,
+      "text": "their share price has been so low. It's"
+    },
+    {
+      "start": 606.48,
+      "duration": 4.0,
+      "text": "usually been only like$1 or $2 per"
+    },
+    {
+      "start": 608.24,
+      "duration": 5.12,
+      "text": "share. And when the share price is so"
+    },
+    {
+      "start": 610.48,
+      "duration": 4.56,
+      "text": "low, they sell a lot of shares, but they"
+    },
+    {
+      "start": 613.36,
+      "duration": 4.159,
+      "text": "are not even able to raise that much"
+    },
+    {
+      "start": 615.04,
+      "duration": 4.64,
+      "text": "capital. So they're they've been"
+    },
+    {
+      "start": 617.519,
+      "duration": 3.681,
+      "text": "basically only raising cash. They've"
+    },
+    {
+      "start": 619.68,
+      "duration": 4.32,
+      "text": "basically only been able to raise"
+    },
+    {
+      "start": 621.2,
+      "duration": 4.72,
+      "text": "capital as fast as they can burn it. So,"
+    },
+    {
+      "start": 624.0,
+      "duration": 5.44,
+      "text": "their cash balance has remained pretty"
+    },
+    {
+      "start": 625.92,
+      "duration": 5.12,
+      "text": "low over the past couple years, but they"
+    },
+    {
+      "start": 629.44,
+      "duration": 4.079,
+      "text": "at least today they have still been able"
+    },
+    {
+      "start": 631.04,
+      "duration": 4.32,
+      "text": "to raise enough cash each quarter uh to"
+    },
+    {
+      "start": 633.519,
+      "duration": 3.44,
+      "text": "not to avoid bankruptcy, but they're"
+    },
+    {
+      "start": 635.36,
+      "duration": 3.599,
+      "text": "really operating on the margin here"
+    },
+    {
+      "start": 636.959,
+      "duration": 4.241,
+      "text": "where they're living hand-to-mouth and"
+    },
+    {
+      "start": 638.959,
+      "duration": 4.961,
+      "text": "basically burning money almost as fast"
+    },
+    {
+      "start": 641.2,
+      "duration": 5.92,
+      "text": "as they can raise it. thus resulting in"
+    },
+    {
+      "start": 643.92,
+      "duration": 5.28,
+      "text": "a persistently low uh a persistently low"
+    },
+    {
+      "start": 647.12,
+      "duration": 7.0,
+      "text": "cash balance which puts the company"
+    },
+    {
+      "start": 649.2,
+      "duration": 4.92,
+      "text": "always in a precarious position."
+    },
+    {
+      "start": 654.32,
+      "duration": 6.16,
+      "text": "So now uh let's look at the details of"
+    },
+    {
+      "start": 656.88,
+      "duration": 5.44,
+      "text": "their financial position. So as of the"
+    },
+    {
+      "start": 660.48,
+      "duration": 7.599,
+      "text": "end of the third quarter on September"
+    },
+    {
+      "start": 662.32,
+      "duration": 9.68,
+      "text": "30th, 2025, Plug Power had 166 million"
+    },
+    {
+      "start": 668.079,
+      "duration": 7.041,
+      "text": "of cash. They also had 1.2 2 billion"
+    },
+    {
+      "start": 672.0,
+      "duration": 5.12,
+      "text": "common shares outstanding. Subsequent to"
+    },
+    {
+      "start": 675.12,
+      "duration": 5.36,
+      "text": "the end of the third quarter, so in"
+    },
+    {
+      "start": 677.12,
+      "duration": 5.2,
+      "text": "October of 2025, they did a warrant"
+    },
+    {
+      "start": 680.48,
+      "duration": 4.32,
+      "text": "conversion where there was a bunch of"
+    },
+    {
+      "start": 682.32,
+      "duration": 4.24,
+      "text": "warrants that they had issued previously"
+    },
+    {
+      "start": 684.8,
+      "duration": 4.159,
+      "text": "where they then they converted those"
+    },
+    {
+      "start": 686.56,
+      "duration": 6.0,
+      "text": "warrants into stock and Plug Power"
+    },
+    {
+      "start": 688.959,
+      "duration": 5.681,
+      "text": "received some cash for that. Plug Power"
+    },
+    {
+      "start": 692.56,
+      "duration": 6.16,
+      "text": "received some cash as a result of this"
+    },
+    {
+      "start": 694.64,
+      "duration": 6.48,
+      "text": "conversion. So they raised $355 million"
+    },
+    {
+      "start": 698.72,
+      "duration": 4.88,
+      "text": "from this warrant conversion. But this"
+    },
+    {
+      "start": 701.12,
+      "duration": 6.08,
+      "text": "also increased their share counts. They"
+    },
+    {
+      "start": 703.6,
+      "duration": 5.76,
+      "text": "had to issue 340 million shares. So"
+    },
+    {
+      "start": 707.2,
+      "duration": 4.639,
+      "text": "their share counts increased from 1.2"
+    },
+    {
+      "start": 709.36,
+      "duration": 4.32,
+      "text": "billion to 1.55 billion. So just from"
+    },
+    {
+      "start": 711.839,
+      "duration": 5.761,
+      "text": "this one warrant conversion, their share"
+    },
+    {
+      "start": 713.68,
+      "duration": 6.8,
+      "text": "count increased by approximately 30%."
+    },
+    {
+      "start": 717.6,
+      "duration": 6.239,
+      "text": "Now they did raise uh this did get them"
+    },
+    {
+      "start": 720.48,
+      "duration": 5.12,
+      "text": "some cash. So their cash balance it was"
+    },
+    {
+      "start": 723.839,
+      "duration": 5.68,
+      "text": "166 million at the end of the third"
+    },
+    {
+      "start": 725.6,
+      "duration": 5.52,
+      "text": "quarter. they got this $355 million from"
+    },
+    {
+      "start": 729.519,
+      "duration": 5.041,
+      "text": "the warning conversion. So that brings"
+    },
+    {
+      "start": 731.12,
+      "duration": 5.92,
+      "text": "their cash balance up to $521 million."
+    },
+    {
+      "start": 734.56,
+      "duration": 5.279,
+      "text": "However, just in the first nine months"
+    },
+    {
+      "start": 737.04,
+      "duration": 5.359,
+      "text": "of 2025, they already burned $500"
+    },
+    {
+      "start": 739.839,
+      "duration": 5.361,
+      "text": "million. And that's even despite them"
+    },
+    {
+      "start": 742.399,
+      "duration": 5.44,
+      "text": "running down their inventory. So they"
+    },
+    {
+      "start": 745.2,
+      "duration": 5.12,
+      "text": "are burning cash at a rate of like $650"
+    },
+    {
+      "start": 747.839,
+      "duration": 4.881,
+      "text": "million a year approximately. So this"
+    },
+    {
+      "start": 750.32,
+      "duration": 3.92,
+      "text": "$500 million of cash that they have now"
+    },
+    {
+      "start": 752.72,
+      "duration": 4.32,
+      "text": "is probably only going to get them"
+    },
+    {
+      "start": 754.24,
+      "duration": 6.08,
+      "text": "through the first half of 2026 at which"
+    },
+    {
+      "start": 757.04,
+      "duration": 5.68,
+      "text": "point they are going to need to raise"
+    },
+    {
+      "start": 760.32,
+      "duration": 5.12,
+      "text": "even more capital and probably probably"
+    },
+    {
+      "start": 762.72,
+      "duration": 5.119,
+      "text": "resulting in further dilution. Now Plug"
+    },
+    {
+      "start": 765.44,
+      "duration": 6.24,
+      "text": "Power they previously had um multiple"
+    },
+    {
+      "start": 767.839,
+      "duration": 5.841,
+      "text": "outstanding loans in November. So also"
+    },
+    {
+      "start": 771.68,
+      "duration": 6.0,
+      "text": "subsequent to quarter end in November of"
+    },
+    {
+      "start": 773.68,
+      "duration": 6.56,
+      "text": "2025 they refinanced um a bunch of their"
+    },
+    {
+      "start": 777.68,
+      "duration": 5.52,
+      "text": "loans. So they basically consolidated"
+    },
+    {
+      "start": 780.24,
+      "duration": 5.12,
+      "text": "their loans into one big loan of and"
+    },
+    {
+      "start": 783.2,
+      "duration": 3.68,
+      "text": "that that's basically the only loan they"
+    },
+    {
+      "start": 785.36,
+      "duration": 5.76,
+      "text": "have on their balance sheet now. And"
+    },
+    {
+      "start": 786.88,
+      "duration": 7.6,
+      "text": "this is a $431 million loan that has a"
+    },
+    {
+      "start": 791.12,
+      "duration": 6.399,
+      "text": "that is a convertible bond. So that this"
+    },
+    {
+      "start": 794.48,
+      "duration": 5.84,
+      "text": "loan can convert into stock at a $3"
+    },
+    {
+      "start": 797.519,
+      "duration": 6.081,
+      "text": "strike price and it carries a 7%"
+    },
+    {
+      "start": 800.32,
+      "duration": 6.4,
+      "text": "interest rate. So uh but it does not"
+    },
+    {
+      "start": 803.6,
+      "duration": 5.2,
+      "text": "mature until 2033. So that's eight years"
+    },
+    {
+      "start": 806.72,
+      "duration": 4.559,
+      "text": "away. So they do in addition, you know,"
+    },
+    {
+      "start": 808.8,
+      "duration": 4.32,
+      "text": "to their massive cash burn, they also"
+    },
+    {
+      "start": 811.279,
+      "duration": 3.921,
+      "text": "have this massive loan that they're"
+    },
+    {
+      "start": 813.12,
+      "duration": 4.48,
+      "text": "eventually going to have to repay, but"
+    },
+    {
+      "start": 815.2,
+      "duration": 4.639,
+      "text": "the maturity is pretty far out. So this"
+    },
+    {
+      "start": 817.6,
+      "duration": 4.96,
+      "text": "is not really um this is not really an"
+    },
+    {
+      "start": 819.839,
+      "duration": 6.68,
+      "text": "an imminent uh risk for the company, but"
+    },
+    {
+      "start": 822.56,
+      "duration": 3.959,
+      "text": "just something to keep in mind."
+    },
+    {
+      "start": 827.44,
+      "duration": 4.959,
+      "text": "And now finally, we're going to discuss"
+    },
+    {
+      "start": 829.2,
+      "duration": 4.879,
+      "text": "in a little bit greater greater detail"
+    },
+    {
+      "start": 832.399,
+      "duration": 4.321,
+      "text": "that"
+    },
+    {
+      "start": 834.079,
+      "duration": 5.76,
+      "text": "this AI data center narrative that Ryan"
+    },
+    {
+      "start": 836.72,
+      "duration": 6.32,
+      "text": "alluded to at the um that Ryan alluded"
+    },
+    {
+      "start": 839.839,
+      "duration": 4.961,
+      "text": "to earlier in the video. So on November"
+    },
+    {
+      "start": 843.04,
+      "duration": 3.68,
+      "text": "10th, Plug Power put out this press"
+    },
+    {
+      "start": 844.8,
+      "duration": 5.2,
+      "text": "release saying"
+    },
+    {
+      "start": 846.72,
+      "duration": 5.04,
+      "text": "Plug Power to generate over $270 million"
+    },
+    {
+      "start": 850.0,
+      "duration": 4.079,
+      "text": "through monetization of electricity"
+    },
+    {
+      "start": 851.76,
+      "duration": 4.8,
+      "text": "rights and operational efficiencies"
+    },
+    {
+      "start": 854.079,
+      "duration": 4.401,
+      "text": "supports major US data center buildup."
+    },
+    {
+      "start": 856.56,
+      "duration": 3.519,
+      "text": "So obviously now with AI and everything"
+    },
+    {
+      "start": 858.48,
+      "duration": 3.2,
+      "text": "and there's all these data center"
+    },
+    {
+      "start": 860.079,
+      "duration": 3.44,
+      "text": "companies building new data centers to"
+    },
+    {
+      "start": 861.68,
+      "duration": 4.159,
+      "text": "support AI and this is kind of the"
+    },
+    {
+      "start": 863.519,
+      "duration": 4.241,
+      "text": "hottest investment has been the hottest"
+    },
+    {
+      "start": 865.839,
+      "duration": 3.841,
+      "text": "investment theme over the past couple"
+    },
+    {
+      "start": 867.76,
+      "duration": 4.56,
+      "text": "years and Plug Power wants to jump on"
+    },
+    {
+      "start": 869.68,
+      "duration": 5.36,
+      "text": "this bag bandwagon and pretend like"
+    },
+    {
+      "start": 872.32,
+      "duration": 5.12,
+      "text": "there's some kind of AI beneficiary. But"
+    },
+    {
+      "start": 875.04,
+      "duration": 7.28,
+      "text": "if you read the uh the details of the"
+    },
+    {
+      "start": 877.44,
+      "duration": 7.199,
+      "text": "deal, it's all very vague. So they say,"
+    },
+    {
+      "start": 882.32,
+      "duration": 4.24,
+      "text": "\"Plug Power has signed a non-binding"
+    },
+    {
+      "start": 884.639,
+      "duration": 4.161,
+      "text": "letter of intent to monetize its"
+    },
+    {
+      "start": 886.56,
+      "duration": 4.399,
+      "text": "electricity rights in New York and one"
+    },
+    {
+      "start": 888.8,
+      "duration": 5.76,
+      "text": "other location and collaborate with a U"
+    },
+    {
+      "start": 890.959,
+      "duration": 5.281,
+      "text": "with U with a US data center developer."
+    },
+    {
+      "start": 894.56,
+      "duration": 3.2,
+      "text": "The project developer is actively"
+    },
+    {
+      "start": 896.24,
+      "duration": 3.52,
+      "text": "expanding its data center platforms"
+    },
+    {
+      "start": 897.76,
+      "duration": 3.439,
+      "text": "across the country and Plug Power will"
+    },
+    {
+      "start": 899.76,
+      "duration": 3.439,
+      "text": "work with them to explore providing"
+    },
+    {
+      "start": 901.199,
+      "duration": 5.521,
+      "text": "auxiliary and backup solutions utilizing"
+    },
+    {
+      "start": 903.199,
+      "duration": 6.241,
+      "text": "plugs advanced fuel cell technology. So"
+    },
+    {
+      "start": 906.72,
+      "duration": 5.84,
+      "text": "there's kind of two aspects of this."
+    },
+    {
+      "start": 909.44,
+      "duration": 5.199,
+      "text": "First is the monetization of Plug"
+    },
+    {
+      "start": 912.56,
+      "duration": 3.92,
+      "text": "Powers's electricity rights and the"
+    },
+    {
+      "start": 914.639,
+      "duration": 4.88,
+      "text": "second thing is they're potentially"
+    },
+    {
+      "start": 916.48,
+      "duration": 6.479,
+      "text": "looking at providing plug power hydrogen"
+    },
+    {
+      "start": 919.519,
+      "duration": 6.401,
+      "text": "fuel cells as backup auxiliary power. So"
+    },
+    {
+      "start": 922.959,
+      "duration": 5.12,
+      "text": "the first uh the first part of it, the"
+    },
+    {
+      "start": 925.92,
+      "duration": 4.08,
+      "text": "monetizing electricity rights. So Plug"
+    },
+    {
+      "start": 928.079,
+      "duration": 4.88,
+      "text": "Power was planning to build this green"
+    },
+    {
+      "start": 930.0,
+      "duration": 4.56,
+      "text": "hydrogen facility in New York. And the"
+    },
+    {
+      "start": 932.959,
+      "duration": 3.921,
+      "text": "the way that this green hydrogen"
+    },
+    {
+      "start": 934.56,
+      "duration": 4.24,
+      "text": "production facility would work is you"
+    },
+    {
+      "start": 936.88,
+      "duration": 3.519,
+      "text": "know you take water you basically put"
+    },
+    {
+      "start": 938.8,
+      "duration": 3.36,
+      "text": "electricity into it and then that turns"
+    },
+    {
+      "start": 940.399,
+      "duration": 3.921,
+      "text": "into hydrogen. So you need a lot of"
+    },
+    {
+      "start": 942.16,
+      "duration": 4.799,
+      "text": "electricity to operate a green hydrogen"
+    },
+    {
+      "start": 944.32,
+      "duration": 5.439,
+      "text": "production facility. So Plug Power they"
+    },
+    {
+      "start": 946.959,
+      "duration": 6.081,
+      "text": "secured contracts with the electric"
+    },
+    {
+      "start": 949.759,
+      "duration": 5.601,
+      "text": "utility companies in New York and that"
+    },
+    {
+      "start": 953.04,
+      "duration": 5.2,
+      "text": "electricity contracts that they had"
+    },
+    {
+      "start": 955.36,
+      "duration": 5.12,
+      "text": "secured they were intending to use for"
+    },
+    {
+      "start": 958.24,
+      "duration": 4.88,
+      "text": "their green hydrogen production. But now"
+    },
+    {
+      "start": 960.48,
+      "duration": 3.919,
+      "text": "they're saying there's this data center"
+    },
+    {
+      "start": 963.12,
+      "duration": 3.36,
+      "text": "company that really wants to build this"
+    },
+    {
+      "start": 964.399,
+      "duration": 4.321,
+      "text": "data center in New York and they need"
+    },
+    {
+      "start": 966.48,
+      "duration": 5.68,
+      "text": "electricity and there's I guess a"
+    },
+    {
+      "start": 968.72,
+      "duration": 6.239,
+      "text": "shortage of electricity. So Plug Power"
+    },
+    {
+      "start": 972.16,
+      "duration": 6.08,
+      "text": "is going to cancel its green hydrogen"
+    },
+    {
+      "start": 974.959,
+      "duration": 7.521,
+      "text": "production facility and then they will"
+    },
+    {
+      "start": 978.24,
+      "duration": 5.76,
+      "text": "um and then they will sell their power"
+    },
+    {
+      "start": 982.48,
+      "duration": 3.919,
+      "text": "they will sell their electricity"
+    },
+    {
+      "start": 984.0,
+      "duration": 5.12,
+      "text": "purchase contract at a premium to this"
+    },
+    {
+      "start": 986.399,
+      "duration": 5.36,
+      "text": "data center company. That I believe is"
+    },
+    {
+      "start": 989.12,
+      "duration": 4.959,
+      "text": "what they're saying. However, this is a"
+    },
+    {
+      "start": 991.759,
+      "duration": 4.961,
+      "text": "non-binding letter of intent. So nothing"
+    },
+    {
+      "start": 994.079,
+      "duration": 4.401,
+      "text": "has actually happened. The D this data"
+    },
+    {
+      "start": 996.72,
+      "duration": 3.119,
+      "text": "center, this unnamed data center"
+    },
+    {
+      "start": 998.48,
+      "duration": 3.52,
+      "text": "operator, they have not actually"
+    },
+    {
+      "start": 999.839,
+      "duration": 4.0,
+      "text": "committed to anything. They just signed"
+    },
+    {
+      "start": 1002.0,
+      "duration": 4.32,
+      "text": "a piece of paper saying, \"Oh, we'll look"
+    },
+    {
+      "start": 1003.839,
+      "duration": 5.601,
+      "text": "into maybe purchasing Plug Powers's"
+    },
+    {
+      "start": 1006.32,
+      "duration": 6.16,
+      "text": "electricity rate. Also, they say Plug"
+    },
+    {
+      "start": 1009.44,
+      "duration": 6.72,
+      "text": "Power to generate over $275 million.\""
+    },
+    {
+      "start": 1012.48,
+      "duration": 6.719,
+      "text": "But this $275 million is very vague."
+    },
+    {
+      "start": 1016.16,
+      "duration": 5.599,
+      "text": "They say it is expected to generate more"
+    },
+    {
+      "start": 1019.199,
+      "duration": 4.241,
+      "text": "than $275 million in liquidity"
+    },
+    {
+      "start": 1021.759,
+      "duration": 4.001,
+      "text": "improvement through a combination of"
+    },
+    {
+      "start": 1023.44,
+      "duration": 5.04,
+      "text": "asset monetization, release of"
+    },
+    {
+      "start": 1025.76,
+      "duration": 5.279,
+      "text": "restricted cash, and reduced maintenance"
+    },
+    {
+      "start": 1028.48,
+      "duration": 6.079,
+      "text": "expect uh and reduced maintenance"
+    },
+    {
+      "start": 1031.039,
+      "duration": 7.201,
+      "text": "expenses. So, this is a very vague"
+    },
+    {
+      "start": 1034.559,
+      "duration": 5.921,
+      "text": "statement. They get $275 million in"
+    },
+    {
+      "start": 1038.24,
+      "duration": 4.559,
+      "text": "liquidity improvements. So, they're not"
+    },
+    {
+      "start": 1040.48,
+      "duration": 4.079,
+      "text": "even going to get $275 million of cash"
+    },
+    {
+      "start": 1042.799,
+      "duration": 4.561,
+      "text": "from this data center company. What it"
+    },
+    {
+      "start": 1044.559,
+      "duration": 5.12,
+      "text": "sounds like is there's a bunch of costs"
+    },
+    {
+      "start": 1047.36,
+      "duration": 4.72,
+      "text": "that are associated with building this"
+    },
+    {
+      "start": 1049.679,
+      "duration": 5.761,
+      "text": "green hydrogen production facility in"
+    },
+    {
+      "start": 1052.08,
+      "duration": 4.88,
+      "text": "New York. And if Plug Power cancels that"
+    },
+    {
+      "start": 1055.44,
+      "duration": 3.599,
+      "text": "facility because they're instead going"
+    },
+    {
+      "start": 1056.96,
+      "duration": 4.079,
+      "text": "to sell the electricity rates to this"
+    },
+    {
+      "start": 1059.039,
+      "duration": 4.0,
+      "text": "data center company, well, that reduces"
+    },
+    {
+      "start": 1061.039,
+      "duration": 3.52,
+      "text": "their obligations and the amount of"
+    },
+    {
+      "start": 1063.039,
+      "duration": 3.441,
+      "text": "money that they would have to pay to"
+    },
+    {
+      "start": 1064.559,
+      "duration": 5.521,
+      "text": "build that hydrogen production facility."
+    },
+    {
+      "start": 1066.48,
+      "duration": 5.68,
+      "text": "So that $275 million is not actually"
+    },
+    {
+      "start": 1070.08,
+      "duration": 4.32,
+      "text": "cash that they're receiving. It sounds"
+    },
+    {
+      "start": 1072.16,
+      "duration": 4.72,
+      "text": "like basically the savings that they"
+    },
+    {
+      "start": 1074.4,
+      "duration": 4.399,
+      "text": "will acrue by cancelling the"
+    },
+    {
+      "start": 1076.88,
+      "duration": 4.159,
+      "text": "construction of the green hydrogen"
+    },
+    {
+      "start": 1078.799,
+      "duration": 4.801,
+      "text": "production facility. But again, this is"
+    },
+    {
+      "start": 1081.039,
+      "duration": 4.481,
+      "text": "all none of this is guaranteed because"
+    },
+    {
+      "start": 1083.6,
+      "duration": 3.92,
+      "text": "it's still just a non-binding letter"
+    },
+    {
+      "start": 1085.52,
+      "duration": 5.039,
+      "text": "letter of intent. And then they say"
+    },
+    {
+      "start": 1087.52,
+      "duration": 4.72,
+      "text": "we're going to explore potentially uh"
+    },
+    {
+      "start": 1090.559,
+      "duration": 4.641,
+      "text": "this data center company is going to"
+    },
+    {
+      "start": 1092.24,
+      "duration": 5.52,
+      "text": "explore potentially buying some plug"
+    },
+    {
+      "start": 1095.2,
+      "duration": 5.04,
+      "text": "power fuel cell generators as backup"
+    },
+    {
+      "start": 1097.76,
+      "duration": 4.56,
+      "text": "power for their data centers. But again,"
+    },
+    {
+      "start": 1100.24,
+      "duration": 4.319,
+      "text": "it's a non-binding letter of intent. It"
+    },
+    {
+      "start": 1102.32,
+      "duration": 4.96,
+      "text": "means almost nothing because no deal has"
+    },
+    {
+      "start": 1104.559,
+      "duration": 4.881,
+      "text": "been signed. So overall, I think this is"
+    },
+    {
+      "start": 1107.28,
+      "duration": 3.759,
+      "text": "basically a giant nothing burger. This"
+    },
+    {
+      "start": 1109.44,
+      "duration": 5.04,
+      "text": "whole thing is probably BS because it's"
+    },
+    {
+      "start": 1111.039,
+      "duration": 5.601,
+      "text": "just a non-binding letter of intent. Uh"
+    },
+    {
+      "start": 1114.48,
+      "duration": 4.48,
+      "text": "so it's probably it may not even ever"
+    },
+    {
+      "start": 1116.64,
+      "duration": 5.44,
+      "text": "come to fruition."
+    },
+    {
+      "start": 1118.96,
+      "duration": 4.959,
+      "text": "So Plug Power over the years, they have"
+    },
+    {
+      "start": 1122.08,
+      "duration": 3.44,
+      "text": "had so many different narratives that"
+    },
+    {
+      "start": 1123.919,
+      "duration": 2.961,
+      "text": "they've tried to sell. So this company"
+    },
+    {
+      "start": 1125.52,
+      "duration": 3.68,
+      "text": "was founded all the way back in I think"
+    },
+    {
+      "start": 1126.88,
+      "duration": 3.36,
+      "text": "like 1998. So it's been like almost this"
+    },
+    {
+      "start": 1129.2,
+      "duration": 5.04,
+      "text": "company has been around for like more"
+    },
+    {
+      "start": 1130.24,
+      "duration": 5.76,
+      "text": "than 25 years and they have tried to do"
+    },
+    {
+      "start": 1134.24,
+      "duration": 4.24,
+      "text": "many different things. So first they"
+    },
+    {
+      "start": 1136.0,
+      "duration": 3.76,
+      "text": "were going to make a first that they"
+    },
+    {
+      "start": 1138.48,
+      "duration": 3.12,
+      "text": "they were going to make a stationary"
+    },
+    {
+      "start": 1139.76,
+      "duration": 3.52,
+      "text": "hydrogen fuel cell generator. Then"
+    },
+    {
+      "start": 1141.6,
+      "duration": 2.72,
+      "text": "they're going to make forklifts. Then"
+    },
+    {
+      "start": 1143.28,
+      "duration": 2.48,
+      "text": "they're going to start producing their"
+    },
+    {
+      "start": 1144.32,
+      "duration": 3.2,
+      "text": "own hydrogen. Then they're going to sell"
+    },
+    {
+      "start": 1145.76,
+      "duration": 3.44,
+      "text": "electrolyers. Now they're doing they"
+    },
+    {
+      "start": 1147.52,
+      "duration": 3.519,
+      "text": "have this non-binding letter of intent"
+    },
+    {
+      "start": 1149.2,
+      "duration": 3.68,
+      "text": "with a data center company. They always"
+    },
+    {
+      "start": 1151.039,
+      "duration": 5.841,
+      "text": "have a new narrative that they try to"
+    },
+    {
+      "start": 1152.88,
+      "duration": 6.48,
+      "text": "get investors excited about to um to try"
+    },
+    {
+      "start": 1156.88,
+      "duration": 4.56,
+      "text": "to increase their stock price. But every"
+    },
+    {
+      "start": 1159.36,
+      "duration": 4.88,
+      "text": "single thing that they have ever tried"
+    },
+    {
+      "start": 1161.44,
+      "duration": 4.64,
+      "text": "has resulted in massive losses because"
+    },
+    {
+      "start": 1164.24,
+      "duration": 5.439,
+      "text": "hydrogen as a technology is not"
+    },
+    {
+      "start": 1166.08,
+      "duration": 5.599,
+      "text": "economically viable. And we can see if"
+    },
+    {
+      "start": 1169.679,
+      "duration": 3.681,
+      "text": "you want to understand the plug power"
+    },
+    {
+      "start": 1171.679,
+      "duration": 3.921,
+      "text": "story, you just need to look at these"
+    },
+    {
+      "start": 1173.36,
+      "duration": 4.16,
+      "text": "two charts. The first chart is Plug"
+    },
+    {
+      "start": 1175.6,
+      "duration": 3.68,
+      "text": "Power stock price, which is basically,"
+    },
+    {
+      "start": 1177.52,
+      "duration": 3.519,
+      "text": "you know, sometimes there's pumps."
+    },
+    {
+      "start": 1179.28,
+      "duration": 3.6,
+      "text": "Sometimes it'll it'll pump up for a few"
+    },
+    {
+      "start": 1181.039,
+      "duration": 3.76,
+      "text": "months, but it always goes down. The"
+    },
+    {
+      "start": 1182.88,
+      "duration": 3.919,
+      "text": "trend of Plug Power stock is always"
+    },
+    {
+      "start": 1184.799,
+      "duration": 4.0,
+      "text": "going downwards. And the reason the"
+    },
+    {
+      "start": 1186.799,
+      "duration": 4.0,
+      "text": "stock is always going down is because"
+    },
+    {
+      "start": 1188.799,
+      "duration": 4.481,
+      "text": "the company loses so much money that"
+    },
+    {
+      "start": 1190.799,
+      "duration": 5.76,
+      "text": "they have to issue they have to issue"
+    },
+    {
+      "start": 1193.28,
+      "duration": 5.759,
+      "text": "new shares to fund their losses. And as"
+    },
+    {
+      "start": 1196.559,
+      "duration": 5.281,
+      "text": "the share count explodes, uh this"
+    },
+    {
+      "start": 1199.039,
+      "duration": 4.88,
+      "text": "dilution c puts downward pressure on the"
+    },
+    {
+      "start": 1201.84,
+      "duration": 5.52,
+      "text": "stock price. And I expect this to"
+    },
+    {
+      "start": 1203.919,
+      "duration": 5.12,
+      "text": "continue uh going forward. So that about"
+    },
+    {
+      "start": 1207.36,
+      "duration": 4.0,
+      "text": "wraps it up for everything we had to"
+    },
+    {
+      "start": 1209.039,
+      "duration": 4.241,
+      "text": "talk about plug power today. As always,"
+    },
+    {
+      "start": 1211.36,
+      "duration": 4.08,
+      "text": "if you have any opinions or thoughts"
+    },
+    {
+      "start": 1213.28,
+      "duration": 4.08,
+      "text": "about plug power, please let us know in"
+    },
+    {
+      "start": 1215.44,
+      "duration": 6.16,
+      "text": "the comments section below. And we will"
+    },
+    {
+      "start": 1217.36,
+      "duration": 4.24,
+      "text": "see you all on next week's video."
+    }
+  ]
+}

@@ -1,0 +1,2261 @@
+{
+  "video_id": "d6lKyaPgvzs",
+  "title": "Why Your Startup Fails to Scale ($12B+ Founder Explains) | DevRev, Dheeraj Pandey",
+  "channel": "EO",
+  "published_at": "2025-12-11T14:01:16Z",
+  "duration": "PT17M6S",
+  "thumbnail": "https://i.ytimg.com/vi/d6lKyaPgvzs/hqdefault.jpg",
+  "fetched_at": "2026-01-16T00:02:07.619727",
+  "transcript": [
+    {
+      "start": 0.08,
+      "duration": 3.92,
+      "text": "A feature alone is not going to get me"
+    },
+    {
+      "start": 2.0,
+      "duration": 3.359,
+      "text": "$100,000 from a customer. One of the"
+    },
+    {
+      "start": 4.0,
+      "duration": 3.2,
+      "text": "reasons for our success is"
+    },
+    {
+      "start": 5.359,
+      "duration": 3.841,
+      "text": "underpromising and overd delivering."
+    },
+    {
+      "start": 7.2,
+      "duration": 3.519,
+      "text": "This is the core of repeat business. If"
+    },
+    {
+      "start": 9.2,
+      "duration": 3.6,
+      "text": "your existing customers are not paying"
+    },
+    {
+      "start": 10.719,
+      "duration": 4.0,
+      "text": "you more, then you're basically just"
+    },
+    {
+      "start": 12.8,
+      "duration": 3.84,
+      "text": "selling and running, which means hunt,"
+    },
+    {
+      "start": 14.719,
+      "duration": 4.081,
+      "text": "hunt, hunt. But the balance between"
+    },
+    {
+      "start": 16.64,
+      "duration": 4.24,
+      "text": "hunting and farming, which is new"
+    },
+    {
+      "start": 18.8,
+      "duration": 4.0,
+      "text": "customers versus getting more from"
+    },
+    {
+      "start": 20.88,
+      "duration": 3.76,
+      "text": "existing customers. Jeff Bezos has"
+    },
+    {
+      "start": 22.8,
+      "duration": 3.6,
+      "text": "called it like the flywheel effect of"
+    },
+    {
+      "start": 24.64,
+      "duration": 3.44,
+      "text": "companies. You know, you need to add new"
+    },
+    {
+      "start": 26.4,
+      "duration": 4.16,
+      "text": "logos, but you need to go make money"
+    },
+    {
+      "start": 28.08,
+      "duration": 4.56,
+      "text": "from existing logos. I think that tests"
+    },
+    {
+      "start": 30.56,
+      "duration": 4.8,
+      "text": "the real metal of a company. I'm a big"
+    },
+    {
+      "start": 32.64,
+      "duration": 4.8,
+      "text": "fan of Will Gdara is a restaurant tour"
+    },
+    {
+      "start": 35.36,
+      "duration": 4.16,
+      "text": "who actually had two of the most famous"
+    },
+    {
+      "start": 37.44,
+      "duration": 4.4,
+      "text": "restaurants in the world and he talks"
+    },
+    {
+      "start": 39.52,
+      "duration": 5.12,
+      "text": "about this concept of unreasonable"
+    },
+    {
+      "start": 41.84,
+      "duration": 5.28,
+      "text": "hospitality giving people way more than"
+    },
+    {
+      "start": 44.64,
+      "duration": 4.88,
+      "text": "they expect. That is where great"
+    },
+    {
+      "start": 47.12,
+      "duration": 5.88,
+      "text": "entrepreneurs differentiate from the"
+    },
+    {
+      "start": 49.52,
+      "duration": 3.48,
+      "text": "mediocre ones."
+    },
+    {
+      "start": 56.48,
+      "duration": 3.919,
+      "text": "My name is Dhiraj Pande. I'm the"
+    },
+    {
+      "start": 58.399,
+      "duration": 4.241,
+      "text": "co-founder and CEO of a company called"
+    },
+    {
+      "start": 60.399,
+      "duration": 4.321,
+      "text": "DevRev. So we are in the business of"
+    },
+    {
+      "start": 62.64,
+      "duration": 4.4,
+      "text": "blurring the lines between the public"
+    },
+    {
+      "start": 64.72,
+      "duration": 4.48,
+      "text": "wisdom of the internet and natural"
+    },
+    {
+      "start": 67.04,
+      "duration": 4.399,
+      "text": "language wisdom with the enterprise"
+    },
+    {
+      "start": 69.2,
+      "duration": 4.16,
+      "text": "wisdom. That's basically what Devre is"
+    },
+    {
+      "start": 71.439,
+      "duration": 4.161,
+      "text": "all about. Before this I had started a"
+    },
+    {
+      "start": 73.36,
+      "duration": 4.64,
+      "text": "company nutanics. We were the fastest to"
+    },
+    {
+      "start": 75.6,
+      "duration": 4.72,
+      "text": "a billion dollars in revenue and took it"
+    },
+    {
+      "start": 78.0,
+      "duration": 4.72,
+      "text": "public in 7 years record time on NASDAQ"
+    },
+    {
+      "start": 80.32,
+      "duration": 4.56,
+      "text": "was the largest tech IPO of 2016. I ran"
+    },
+    {
+      "start": 82.72,
+      "duration": 3.68,
+      "text": "it as a public company CEO for almost 5"
+    },
+    {
+      "start": 84.88,
+      "duration": 3.279,
+      "text": "years. Then I realized there's a big"
+    },
+    {
+      "start": 86.4,
+      "duration": 4.16,
+      "text": "opportunity opening up in AI which is"
+    },
+    {
+      "start": 88.159,
+      "duration": 4.401,
+      "text": "how dead started almost 4 years ago. I"
+    },
+    {
+      "start": 90.56,
+      "duration": 3.76,
+      "text": "also sit on Adobe's board. I'm on the"
+    },
+    {
+      "start": 92.56,
+      "duration": 4.559,
+      "text": "audit committee there. And last but not"
+    },
+    {
+      "start": 94.32,
+      "duration": 5.799,
+      "text": "the least a big student of both AI and"
+    },
+    {
+      "start": 97.119,
+      "duration": 3.0,
+      "text": "design."
+    },
+    {
+      "start": 101.04,
+      "duration": 5.52,
+      "text": "I had a fairly dysfunctional childhood."
+    },
+    {
+      "start": 103.759,
+      "duration": 5.04,
+      "text": "I grew up in the poorest state of India."
+    },
+    {
+      "start": 106.56,
+      "duration": 4.32,
+      "text": "The Himalayan rivers the seasonal rivers"
+    },
+    {
+      "start": 108.799,
+      "duration": 4.64,
+      "text": "that would flood half the state. Half"
+    },
+    {
+      "start": 110.88,
+      "duration": 4.4,
+      "text": "the year was flooded. It was the most"
+    },
+    {
+      "start": 113.439,
+      "duration": 4.96,
+      "text": "lawless state but the poorest state."
+    },
+    {
+      "start": 115.28,
+      "duration": 4.96,
+      "text": "That state's GDP per capita is only as"
+    },
+    {
+      "start": 118.399,
+      "duration": 3.601,
+      "text": "much as subsaharan Africa. So you can"
+    },
+    {
+      "start": 120.24,
+      "duration": 3.76,
+      "text": "imagine the level of poverty that"
+    },
+    {
+      "start": 122.0,
+      "duration": 3.84,
+      "text": "actually I saw. That's what catapulted"
+    },
+    {
+      "start": 124.0,
+      "duration": 4.16,
+      "text": "me to actually get out of the state and"
+    },
+    {
+      "start": 125.84,
+      "duration": 4.0,
+      "text": "do something. Back in the day you could"
+    },
+    {
+      "start": 128.16,
+      "duration": 3.68,
+      "text": "only be a good engineer or a good"
+    },
+    {
+      "start": 129.84,
+      "duration": 4.8,
+      "text": "doctor. There was no third profession. I"
+    },
+    {
+      "start": 131.84,
+      "duration": 4.479,
+      "text": "picked engineering. Luckily when I was"
+    },
+    {
+      "start": 134.64,
+      "duration": 3.52,
+      "text": "growing up and I had to pick uh the"
+    },
+    {
+      "start": 136.319,
+      "duration": 4.321,
+      "text": "field of engineering the internet had"
+    },
+    {
+      "start": 138.16,
+      "duration": 4.079,
+      "text": "just happened. This is 1993 1994."
+    },
+    {
+      "start": 140.64,
+      "duration": 3.599,
+      "text": "computer science was going to be the"
+    },
+    {
+      "start": 142.239,
+      "duration": 4.561,
+      "text": "next hot thing just like AI which is the"
+    },
+    {
+      "start": 144.239,
+      "duration": 4.72,
+      "text": "new computer science is hot right now I"
+    },
+    {
+      "start": 146.8,
+      "duration": 4.079,
+      "text": "built my entire career just being shaped"
+    },
+    {
+      "start": 148.959,
+      "duration": 4.0,
+      "text": "around the internet I can't stay in"
+    },
+    {
+      "start": 150.879,
+      "duration": 4.161,
+      "text": "India right now but back in the day the"
+    },
+    {
+      "start": 152.959,
+      "duration": 4.721,
+      "text": "only option was to leave the country if"
+    },
+    {
+      "start": 155.04,
+      "duration": 4.479,
+      "text": "you're an engineer I have to be in this"
+    },
+    {
+      "start": 157.68,
+      "duration": 4.72,
+      "text": "bubble to know what working in the"
+    },
+    {
+      "start": 159.519,
+      "duration": 6.08,
+      "text": "industry means a big part of this is to"
+    },
+    {
+      "start": 162.4,
+      "duration": 5.119,
+      "text": "have seen dysfunction as a child"
+    },
+    {
+      "start": 165.599,
+      "duration": 4.081,
+      "text": "divorced is not bad enough I mean if"
+    },
+    {
+      "start": 167.519,
+      "duration": 4.241,
+      "text": "you've seen sad and disappointing days"
+    },
+    {
+      "start": 169.68,
+      "duration": 3.839,
+      "text": "as a higher. I think it actually carries"
+    },
+    {
+      "start": 171.76,
+      "duration": 2.88,
+      "text": "through with you. But it also means you"
+    },
+    {
+      "start": 173.519,
+      "duration": 3.521,
+      "text": "can actually take care of tough"
+    },
+    {
+      "start": 174.64,
+      "duration": 5.12,
+      "text": "situations and entrepreneurship is a lot"
+    },
+    {
+      "start": 177.04,
+      "duration": 4.72,
+      "text": "of that. It's a lot of highs and lows"
+    },
+    {
+      "start": 179.76,
+      "duration": 3.839,
+      "text": "and it's important not to get too sad"
+    },
+    {
+      "start": 181.76,
+      "duration": 3.839,
+      "text": "with the lows which also means that you"
+    },
+    {
+      "start": 183.599,
+      "duration": 4.481,
+      "text": "can't be too happy with the highs and"
+    },
+    {
+      "start": 185.599,
+      "duration": 5.841,
+      "text": "staying on that average line and how you"
+    },
+    {
+      "start": 188.08,
+      "duration": 7.32,
+      "text": "modulate your emotion is the way you"
+    },
+    {
+      "start": 191.44,
+      "duration": 3.96,
+      "text": "will deal with a lot of failures."
+    },
+    {
+      "start": 195.76,
+      "duration": 4.32,
+      "text": ">> I'm Taylor Rottwell, the founder and CEO"
+    },
+    {
+      "start": 197.68,
+      "duration": 4.559,
+      "text": "of Laravel. Our mission is to help"
+    },
+    {
+      "start": 200.08,
+      "duration": 3.76,
+      "text": "developers build, deploy, and monitor"
+    },
+    {
+      "start": 202.239,
+      "duration": 3.121,
+      "text": "applications consistently and"
+    },
+    {
+      "start": 203.84,
+      "duration": 3.28,
+      "text": "beautifully."
+    },
+    {
+      "start": 205.36,
+      "duration": 3.36,
+      "text": "Starting projects is great, but more"
+    },
+    {
+      "start": 207.12,
+      "duration": 3.36,
+      "text": "importantly, you need to ship them."
+    },
+    {
+      "start": 208.72,
+      "duration": 3.519,
+      "text": "Great ideas mean nothing until they"
+    },
+    {
+      "start": 210.48,
+      "duration": 3.92,
+      "text": "ship."
+    },
+    {
+      "start": 212.239,
+      "duration": 4.08,
+      "text": "That's exactly why I built Laravel, to"
+    },
+    {
+      "start": 214.4,
+      "duration": 5.28,
+      "text": "bring your entire journey from idea to"
+    },
+    {
+      "start": 216.319,
+      "duration": 5.28,
+      "text": "production into one seamless flow. It's"
+    },
+    {
+      "start": 219.68,
+      "duration": 4.0,
+      "text": "more than a PHP framework. It's a"
+    },
+    {
+      "start": 221.599,
+      "duration": 4.72,
+      "text": "complete connected ecosystem built for"
+    },
+    {
+      "start": 223.68,
+      "duration": 4.559,
+      "text": "speed and confidence. We provide"
+    },
+    {
+      "start": 226.319,
+      "duration": 4.401,
+      "text": "elegant, opinionated solutions for"
+    },
+    {
+      "start": 228.239,
+      "duration": 4.08,
+      "text": "everything your modern web app needs."
+    },
+    {
+      "start": 230.72,
+      "duration": 3.92,
+      "text": "And you can deploy in under a minute"
+    },
+    {
+      "start": 232.319,
+      "duration": 5.601,
+      "text": "with Laravel Cloud, straight from Git."
+    },
+    {
+      "start": 234.64,
+      "duration": 5.92,
+      "text": "Zero config needed. Laravel now powers"
+    },
+    {
+      "start": 237.92,
+      "duration": 4.48,
+      "text": "nearly 600,000 lab websites, helping"
+    },
+    {
+      "start": 240.56,
+      "duration": 3.679,
+      "text": "developers worldwide ship their ideas"
+    },
+    {
+      "start": 242.4,
+      "duration": 3.68,
+      "text": "faster."
+    },
+    {
+      "start": 244.239,
+      "duration": 4.72,
+      "text": "Build with elegance. Deploy with"
+    },
+    {
+      "start": 246.08,
+      "duration": 5.2,
+      "text": "confidence. Monitor with precision."
+    },
+    {
+      "start": 248.959,
+      "duration": 6.36,
+      "text": "Stop configuring. Start shipping. Visit"
+    },
+    {
+      "start": 251.28,
+      "duration": 4.039,
+      "text": "larave.com today."
+    },
+    {
+      "start": 259.359,
+      "duration": 5.681,
+      "text": "only direction when you start a company"
+    },
+    {
+      "start": 262.24,
+      "duration": 4.399,
+      "text": "is forward. That's the best you can do."
+    },
+    {
+      "start": 265.04,
+      "duration": 2.48,
+      "text": ">> I can't thank you enough. I mean, I'm"
+    },
+    {
+      "start": 266.639,
+      "duration": 3.041,
+      "text": "I'm not going to"
+    },
+    {
+      "start": 267.52,
+      "duration": 5.119,
+      "text": ">> Nutanics was my first startup. I think"
+    },
+    {
+      "start": 269.68,
+      "duration": 4.88,
+      "text": "the core of Nutanix was to really do"
+    },
+    {
+      "start": 272.639,
+      "duration": 4.801,
+      "text": "something around data management. We"
+    },
+    {
+      "start": 274.56,
+      "duration": 7.04,
+      "text": "said, look, we are good at data inensive"
+    },
+    {
+      "start": 277.44,
+      "duration": 6.08,
+      "text": "applications. We reliably manage data at"
+    },
+    {
+      "start": 281.6,
+      "duration": 4.64,
+      "text": "fast speeds like no one else. Hey, we"
+    },
+    {
+      "start": 283.52,
+      "duration": 5.2,
+      "text": "can ship software to you where your data"
+    },
+    {
+      "start": 286.24,
+      "duration": 4.8,
+      "text": "centers will look like Google's and"
+    },
+    {
+      "start": 288.72,
+      "duration": 3.759,
+      "text": "Amazons and Facebooks and so on. And we"
+    },
+    {
+      "start": 291.04,
+      "duration": 3.92,
+      "text": "were also trying to bring commodity"
+    },
+    {
+      "start": 292.479,
+      "duration": 4.481,
+      "text": "hardware which was Taiwanese equipment"
+    },
+    {
+      "start": 294.96,
+      "duration": 5.76,
+      "text": "to the enterprise. Before that, people"
+    },
+    {
+      "start": 296.96,
+      "duration": 6.88,
+      "text": "were buying hardware from Dell, HP, IBM,"
+    },
+    {
+      "start": 300.72,
+      "duration": 5.919,
+      "text": "all these branded hardware companies,"
+    },
+    {
+      "start": 303.84,
+      "duration": 4.48,
+      "text": "EMC, NetApp. So, they were all into"
+    },
+    {
+      "start": 306.639,
+      "duration": 3.921,
+      "text": "shiny hardware. And he like no, no, no,"
+    },
+    {
+      "start": 308.32,
+      "duration": 4.48,
+      "text": "no. You can take the same approach that"
+    },
+    {
+      "start": 310.56,
+      "duration": 4.96,
+      "text": "Amazon, Google, Facebook take really"
+    },
+    {
+      "start": 312.8,
+      "duration": 5.2,
+      "text": "source hardware from Taiwan, bring it to"
+    },
+    {
+      "start": 315.52,
+      "duration": 4.56,
+      "text": "the US and put software on top. So you"
+    },
+    {
+      "start": 318.0,
+      "duration": 4.56,
+      "text": "have a commodity hardware and a pure"
+    },
+    {
+      "start": 320.08,
+      "duration": 4.24,
+      "text": "software running on top of it. First"
+    },
+    {
+      "start": 322.56,
+      "duration": 3.84,
+      "text": "four five years was extremely"
+    },
+    {
+      "start": 324.32,
+      "duration": 4.64,
+      "text": "problematic because the hardware was"
+    },
+    {
+      "start": 326.4,
+      "duration": 4.639,
+      "text": "flaky and unreliable and the software"
+    },
+    {
+      "start": 328.96,
+      "duration": 3.679,
+      "text": "needed to overcompensate for that. So we"
+    },
+    {
+      "start": 331.039,
+      "duration": 4.321,
+      "text": "took our time to really make the"
+    },
+    {
+      "start": 332.639,
+      "duration": 4.241,
+      "text": "software compensate for a flaky fragile"
+    },
+    {
+      "start": 335.36,
+      "duration": 3.92,
+      "text": "hardware. In fact, our company was"
+    },
+    {
+      "start": 336.88,
+      "duration": 6.0,
+      "text": "always shut down three times. But at the"
+    },
+    {
+      "start": 339.28,
+      "duration": 5.28,
+      "text": "core, the big thing in my head was that"
+    },
+    {
+      "start": 342.88,
+      "duration": 4.0,
+      "text": "you are on a tight rope and you're"
+    },
+    {
+      "start": 344.56,
+      "duration": 4.479,
+      "text": "walking a tight rope and you have to"
+    },
+    {
+      "start": 346.88,
+      "duration": 4.4,
+      "text": "cross this valley. When you're halfway"
+    },
+    {
+      "start": 349.039,
+      "duration": 4.72,
+      "text": "through, you can't turn around. You'll"
+    },
+    {
+      "start": 351.28,
+      "duration": 4.8,
+      "text": "fall if you turn around. Any new product"
+    },
+    {
+      "start": 353.759,
+      "duration": 3.681,
+      "text": "that you launch, any new initiative, you"
+    },
+    {
+      "start": 356.08,
+      "duration": 4.16,
+      "text": "have to think about plowing through."
+    },
+    {
+      "start": 357.44,
+      "duration": 4.96,
+      "text": "Now, sometimes moving forward might mean"
+    },
+    {
+      "start": 360.24,
+      "duration": 3.92,
+      "text": "shutting it down completely. But to"
+    },
+    {
+      "start": 362.4,
+      "duration": 3.519,
+      "text": "actually say I want to go back this"
+    },
+    {
+      "start": 364.16,
+      "duration": 3.44,
+      "text": "direction is the worst thing that"
+    },
+    {
+      "start": 365.919,
+      "duration": 4.0,
+      "text": "entrepreneurs actually do. So we did"
+    },
+    {
+      "start": 367.6,
+      "duration": 4.8,
+      "text": "have a couple of big pivots. The only"
+    },
+    {
+      "start": 369.919,
+      "duration": 4.321,
+      "text": "constant in building a company is"
+    },
+    {
+      "start": 372.4,
+      "duration": 3.919,
+      "text": "change. So if you can embrace change and"
+    },
+    {
+      "start": 374.24,
+      "duration": 3.76,
+      "text": "you can make it seamless and you can be"
+    },
+    {
+      "start": 376.319,
+      "duration": 2.88,
+      "text": "a little bit ahead of the market and you"
+    },
+    {
+      "start": 378.0,
+      "duration": 3.759,
+      "text": "have to be really good at looking around"
+    },
+    {
+      "start": 379.199,
+      "duration": 4.161,
+      "text": "the corner and that means listening"
+    },
+    {
+      "start": 381.759,
+      "duration": 3.601,
+      "text": "because when you hear something from the"
+    },
+    {
+      "start": 383.36,
+      "duration": 4.24,
+      "text": "market the first time as a stubborn"
+    },
+    {
+      "start": 385.36,
+      "duration": 4.24,
+      "text": "entrepreneur you'll say h that's an"
+    },
+    {
+      "start": 387.6,
+      "duration": 5.52,
+      "text": "aberration. When you hear it the second"
+    },
+    {
+      "start": 389.6,
+      "duration": 6.24,
+      "text": "time, now it's a coincidence. When you"
+    },
+    {
+      "start": 393.12,
+      "duration": 4.799,
+      "text": "hear it a third time, it's a pattern."
+    },
+    {
+      "start": 395.84,
+      "duration": 4.799,
+      "text": "You need to understand how to recognize"
+    },
+    {
+      "start": 397.919,
+      "duration": 4.961,
+      "text": "patterns and look around the corner. Be"
+    },
+    {
+      "start": 400.639,
+      "duration": 4.4,
+      "text": "at least 6 months ahead of what"
+    },
+    {
+      "start": 402.88,
+      "duration": 4.48,
+      "text": "eventually will be a hard pivot and see"
+    },
+    {
+      "start": 405.039,
+      "duration": 4.0,
+      "text": "if you can make soft pivots into that"
+    },
+    {
+      "start": 407.36,
+      "duration": 4.399,
+      "text": "direction. There's no point just making"
+    },
+    {
+      "start": 409.039,
+      "duration": 5.28,
+      "text": "90° turns or 180° turns if you can"
+    },
+    {
+      "start": 411.759,
+      "duration": 3.841,
+      "text": "actually make softer turns to the same"
+    },
+    {
+      "start": 414.319,
+      "duration": 3.521,
+      "text": "degree that he would have otherwise"
+    },
+    {
+      "start": 415.6,
+      "duration": 5.039,
+      "text": "achieved."
+    },
+    {
+      "start": 417.84,
+      "duration": 5.6,
+      "text": "I think if you look at the idea of"
+    },
+    {
+      "start": 420.639,
+      "duration": 4.321,
+      "text": "nutanics, it was where the puck was as"
+    },
+    {
+      "start": 423.44,
+      "duration": 3.44,
+      "text": "opposed to where the puck was headed"
+    },
+    {
+      "start": 424.96,
+      "duration": 4.079,
+      "text": "because it my the first idea my first"
+    },
+    {
+      "start": 426.88,
+      "duration": 4.319,
+      "text": "startup. I had started to really take"
+    },
+    {
+      "start": 429.039,
+      "duration": 5.121,
+      "text": "technology risk but not a market risk"
+    },
+    {
+      "start": 431.199,
+      "duration": 5.201,
+      "text": "cuz the market by 2012 had already seen"
+    },
+    {
+      "start": 434.16,
+      "duration": 3.84,
+      "text": "cloud and the fact that consumer cloud"
+    },
+    {
+      "start": 436.4,
+      "duration": 3.359,
+      "text": "companies were saying look you don't"
+    },
+    {
+      "start": 438.0,
+      "duration": 3.28,
+      "text": "need to own infrastructure if you can"
+    },
+    {
+      "start": 439.759,
+      "duration": 3.28,
+      "text": "stream the infrastructure. It's like"
+    },
+    {
+      "start": 441.28,
+      "duration": 4.08,
+      "text": "what happened with music eventually was"
+    },
+    {
+      "start": 443.039,
+      "duration": 4.88,
+      "text": "like you don't need to own songs. market"
+    },
+    {
+      "start": 445.36,
+      "duration": 4.32,
+      "text": "for Spotify was already happening and"
+    },
+    {
+      "start": 447.919,
+      "duration": 3.361,
+      "text": "the public cloud was that version for"
+    },
+    {
+      "start": 449.68,
+      "duration": 3.919,
+      "text": "infrastructure. So the puck was headed"
+    },
+    {
+      "start": 451.28,
+      "duration": 5.84,
+      "text": "to streaming and we were still at iTunes"
+    },
+    {
+      "start": 453.599,
+      "duration": 5.761,
+      "text": "and on software was basically headed in"
+    },
+    {
+      "start": 457.12,
+      "duration": 3.76,
+      "text": "that challenge market where you would"
+    },
+    {
+      "start": 459.36,
+      "duration": 3.2,
+      "text": "constantly have to think about do I need"
+    },
+    {
+      "start": 460.88,
+      "duration": 4.8,
+      "text": "to own or can I stream do I need to own"
+    },
+    {
+      "start": 462.56,
+      "duration": 5.44,
+      "text": "can I stream so the idea of nutanics was"
+    },
+    {
+      "start": 465.68,
+      "duration": 4.079,
+      "text": "where the puck was and it was a"
+    },
+    {
+      "start": 468.0,
+      "duration": 3.36,
+      "text": "technology risk and we got paid for it"
+    },
+    {
+      "start": 469.759,
+      "duration": 3.361,
+      "text": "for 1020 $20 million that's the"
+    },
+    {
+      "start": 471.36,
+      "duration": 4.08,
+      "text": "valuation of nanic but to really build a"
+    },
+    {
+      "start": 473.12,
+      "duration": 5.28,
+      "text": "hundred billion business you had to take"
+    },
+    {
+      "start": 475.44,
+      "duration": 2.96,
+      "text": "a market risk"
+    },
+    {
+      "start": 480.0,
+      "duration": 3.68,
+      "text": "This is something that all entrepreneurs"
+    },
+    {
+      "start": 481.599,
+      "duration": 3.841,
+      "text": "will actually face being an investor but"
+    },
+    {
+      "start": 483.68,
+      "duration": 4.16,
+      "text": "also being an operator and when you do"
+    },
+    {
+      "start": 485.44,
+      "duration": 4.4,
+      "text": "your company you're doing both in one at"
+    },
+    {
+      "start": 487.84,
+      "duration": 3.68,
+      "text": "some point you might have to decouple"
+    },
+    {
+      "start": 489.84,
+      "duration": 3.44,
+      "text": "those where you become an investor in"
+    },
+    {
+      "start": 491.52,
+      "duration": 4.48,
+      "text": "your current idea and you become an"
+    },
+    {
+      "start": 493.28,
+      "duration": 4.4,
+      "text": "operator of a new idea around 2020 when"
+    },
+    {
+      "start": 496.0,
+      "duration": 3.84,
+      "text": "co happened is when you're like okay"
+    },
+    {
+      "start": 497.68,
+      "duration": 3.76,
+      "text": "what's the next chemistry we can bring"
+    },
+    {
+      "start": 499.84,
+      "duration": 3.6,
+      "text": "together and it really happened to be"
+    },
+    {
+      "start": 501.44,
+      "duration": 5.759,
+      "text": "around business software when GPT came"
+    },
+    {
+      "start": 503.44,
+      "duration": 5.759,
+      "text": "about by this time we already had our"
+    },
+    {
+      "start": 507.199,
+      "duration": 4.241,
+      "text": "own vector database. We had built our"
+    },
+    {
+      "start": 509.199,
+      "duration": 5.441,
+      "text": "own vector database to actually do"
+    },
+    {
+      "start": 511.44,
+      "duration": 5.36,
+      "text": "search because we knew search was the"
+    },
+    {
+      "start": 514.64,
+      "duration": 4.959,
+      "text": "first killer app for anything"
+    },
+    {
+      "start": 516.8,
+      "duration": 6.719,
+      "text": "intelligent. Now what GPT has given us"
+    },
+    {
+      "start": 519.599,
+      "duration": 5.92,
+      "text": "is the ability to ask it questions and"
+    },
+    {
+      "start": 523.519,
+      "duration": 3.361,
+      "text": "bring the natural language wisdom that"
+    },
+    {
+      "start": 525.519,
+      "duration": 3.521,
+      "text": "otherwise we would have struggled to"
+    },
+    {
+      "start": 526.88,
+      "duration": 4.32,
+      "text": "build. But at the core of it, the"
+    },
+    {
+      "start": 529.04,
+      "duration": 4.0,
+      "text": "enterprise data piece of it is the"
+    },
+    {
+      "start": 531.2,
+      "duration": 3.759,
+      "text": "biggest challenge cuz I can't do"
+    },
+    {
+      "start": 533.04,
+      "duration": 3.84,
+      "text": "anything in the in the business in a in"
+    },
+    {
+      "start": 534.959,
+      "duration": 3.761,
+      "text": "an enterprise software environment with"
+    },
+    {
+      "start": 536.88,
+      "duration": 3.68,
+      "text": "Wikipedia's knowledge or internet's"
+    },
+    {
+      "start": 538.72,
+      "duration": 4.48,
+      "text": "knowledge. I need to bring the knowledge"
+    },
+    {
+      "start": 540.56,
+      "duration": 4.399,
+      "text": "of the enterprise in a coherent hole"
+    },
+    {
+      "start": 543.2,
+      "duration": 4.16,
+      "text": "which is what a knowledge graph actually"
+    },
+    {
+      "start": 544.959,
+      "duration": 4.801,
+      "text": "brings. And to take this knowledge graph"
+    },
+    {
+      "start": 547.36,
+      "duration": 5.039,
+      "text": "and mix it up with the wisdom of the"
+    },
+    {
+      "start": 549.76,
+      "duration": 6.0,
+      "text": "internet is what we really do. So the"
+    },
+    {
+      "start": 552.399,
+      "duration": 6.641,
+      "text": "biggest bang for AI is building a"
+    },
+    {
+      "start": 555.76,
+      "duration": 5.6,
+      "text": "perplexity like thing for all enterprise"
+    },
+    {
+      "start": 559.04,
+      "duration": 4.16,
+      "text": "assets. And that to me was the light"
+    },
+    {
+      "start": 561.36,
+      "duration": 3.76,
+      "text": "bulb moment. In the absence of the"
+    },
+    {
+      "start": 563.2,
+      "duration": 4.24,
+      "text": "public cloud, we could have been a"
+    },
+    {
+      "start": 565.12,
+      "duration": 4.399,
+      "text": "hundred billion company. But in the"
+    },
+    {
+      "start": 567.44,
+      "duration": 4.079,
+      "text": "presence of the public cloud, we'd be"
+    },
+    {
+      "start": 569.519,
+      "duration": 4.481,
+      "text": "hovering around the $20 billion range,"
+    },
+    {
+      "start": 571.519,
+      "duration": 4.801,
+      "text": "you know, because the market has moved."
+    },
+    {
+      "start": 574.0,
+      "duration": 4.24,
+      "text": "If technology doesn't integrate things,"
+    },
+    {
+      "start": 576.32,
+      "duration": 4.72,
+      "text": "bring the chemistry as opposed to just"
+    },
+    {
+      "start": 578.24,
+      "duration": 5.76,
+      "text": "new features and new ideas, it has not"
+    },
+    {
+      "start": 581.04,
+      "duration": 4.799,
+      "text": "done its job. A big ideas are about"
+    },
+    {
+      "start": 584.0,
+      "duration": 3.68,
+      "text": "alchemy. It's about mixing things"
+    },
+    {
+      "start": 585.839,
+      "duration": 4.081,
+      "text": "together and making it look like a more"
+    },
+    {
+      "start": 587.68,
+      "duration": 4.56,
+      "text": "robust solution. Even like a chemical"
+    },
+    {
+      "start": 589.92,
+      "duration": 4.16,
+      "text": "solution is about bringing chemistry"
+    },
+    {
+      "start": 592.24,
+      "duration": 3.76,
+      "text": "together. And bringing a lot of these"
+    },
+    {
+      "start": 594.08,
+      "duration": 4.56,
+      "text": "things together is where a lot of uh"
+    },
+    {
+      "start": 596.0,
+      "duration": 4.64,
+      "text": "value gets created."
+    },
+    {
+      "start": 598.64,
+      "duration": 3.759,
+      "text": "Product market fit is actually a"
+    },
+    {
+      "start": 600.64,
+      "duration": 3.68,
+      "text": "journey, not a destination. You'll need"
+    },
+    {
+      "start": 602.399,
+      "duration": 4.081,
+      "text": "to struggle with that. At 1 million, at"
+    },
+    {
+      "start": 604.32,
+      "duration": 4.079,
+      "text": "10 million, at 50 million, at 100"
+    },
+    {
+      "start": 606.48,
+      "duration": 4.08,
+      "text": "million, at a quarter billion, at half a"
+    },
+    {
+      "start": 608.399,
+      "duration": 4.161,
+      "text": "billion, a billion, every such"
+    },
+    {
+      "start": 610.56,
+      "duration": 3.76,
+      "text": "milestone, you have to keep thinking"
+    },
+    {
+      "start": 612.56,
+      "duration": 3.839,
+      "text": "again. You have to think ahead of the"
+    },
+    {
+      "start": 614.32,
+      "duration": 3.759,
+      "text": "curve because if you waited too long,"
+    },
+    {
+      "start": 616.399,
+      "duration": 3.281,
+      "text": "you might start to sputter at 100"
+    },
+    {
+      "start": 618.079,
+      "duration": 3.681,
+      "text": "million. You might have needed a new"
+    },
+    {
+      "start": 619.68,
+      "duration": 4.0,
+      "text": "product for going from 100 million to"
+    },
+    {
+      "start": 621.76,
+      "duration": 3.519,
+      "text": "250 million. And you might need have"
+    },
+    {
+      "start": 623.68,
+      "duration": 3.68,
+      "text": "needed to see the new region of the"
+    },
+    {
+      "start": 625.279,
+      "duration": 4.961,
+      "text": "world to do sales and marketing. I think"
+    },
+    {
+      "start": 627.36,
+      "duration": 4.8,
+      "text": "this idea of PMF is relative and it's"
+    },
+    {
+      "start": 630.24,
+      "duration": 3.76,
+      "text": "not a destination. Every time you think"
+    },
+    {
+      "start": 632.16,
+      "duration": 3.6,
+      "text": "you have product market fit, you will"
+    },
+    {
+      "start": 634.0,
+      "duration": 3.279,
+      "text": "start to sputter at the next threshold."
+    },
+    {
+      "start": 635.76,
+      "duration": 3.28,
+      "text": "So at 10 million, you're like, \"Okay, I"
+    },
+    {
+      "start": 637.279,
+      "duration": 3.761,
+      "text": "have PMF.\" That means that you not"
+    },
+    {
+      "start": 639.04,
+      "duration": 3.919,
+      "text": "thought through that at 50 million, you"
+    },
+    {
+      "start": 641.04,
+      "duration": 4.0,
+      "text": "will stall because you didn't have a"
+    },
+    {
+      "start": 642.959,
+      "duration": 3.841,
+      "text": "pipeline that was large enough for more"
+    },
+    {
+      "start": 645.04,
+      "duration": 4.56,
+      "text": "features, more capabilities, bigger"
+    },
+    {
+      "start": 646.8,
+      "duration": 4.0,
+      "text": "deals, bigger customers, or you didn't"
+    },
+    {
+      "start": 649.6,
+      "duration": 2.96,
+      "text": "think hard enough about the other"
+    },
+    {
+      "start": 650.8,
+      "duration": 4.56,
+      "text": "regions of the world, which will now"
+    },
+    {
+      "start": 652.56,
+      "duration": 5.279,
+      "text": "create a portfolio effect. Because what"
+    },
+    {
+      "start": 655.36,
+      "duration": 5.28,
+      "text": "he keep me to doing is to create a"
+    },
+    {
+      "start": 657.839,
+      "duration": 4.401,
+      "text": "portfolio of products of customers of"
+    },
+    {
+      "start": 660.64,
+      "duration": 2.879,
+      "text": "regions of the world, geographies around"
+    },
+    {
+      "start": 662.24,
+      "duration": 3.68,
+      "text": "the world that will give you that"
+    },
+    {
+      "start": 663.519,
+      "duration": 4.241,
+      "text": "balance every quarter because not every"
+    },
+    {
+      "start": 665.92,
+      "duration": 3.599,
+      "text": "existing customer will pay you every"
+    },
+    {
+      "start": 667.76,
+      "duration": 4.079,
+      "text": "quarter. So you need to find a portfolio"
+    },
+    {
+      "start": 669.519,
+      "duration": 4.081,
+      "text": "of large customers so that they can all"
+    },
+    {
+      "start": 671.839,
+      "duration": 4.081,
+      "text": "balance each other every quarter. I"
+    },
+    {
+      "start": 673.6,
+      "duration": 5.56,
+      "text": "think that to me is a journey more than"
+    },
+    {
+      "start": 675.92,
+      "duration": 3.24,
+      "text": "a destination."
+    },
+    {
+      "start": 680.56,
+      "duration": 4.32,
+      "text": "We take a step back and think about the"
+    },
+    {
+      "start": 682.24,
+      "duration": 4.56,
+      "text": "funnel of idea and the life cycle of an"
+    },
+    {
+      "start": 684.88,
+      "duration": 3.76,
+      "text": "idea. There's a lot of ideas up there at"
+    },
+    {
+      "start": 686.8,
+      "duration": 4.8,
+      "text": "the top of the funnel and then they"
+    },
+    {
+      "start": 688.64,
+      "duration": 4.8,
+      "text": "become concepts. From concepts when it"
+    },
+    {
+      "start": 691.6,
+      "duration": 3.28,
+      "text": "becomes a little bit real, it's still a"
+    },
+    {
+      "start": 693.44,
+      "duration": 2.959,
+      "text": "feature. You talk about all these"
+    },
+    {
+      "start": 694.88,
+      "duration": 3.76,
+      "text": "companies that are basically building"
+    },
+    {
+      "start": 696.399,
+      "duration": 4.161,
+      "text": "agents, but at best they're features and"
+    },
+    {
+      "start": 698.64,
+      "duration": 3.759,
+      "text": "you can get some early wins by showing a"
+    },
+    {
+      "start": 700.56,
+      "duration": 4.08,
+      "text": "feature to your customer, but how do you"
+    },
+    {
+      "start": 702.399,
+      "duration": 4.321,
+      "text": "take a feature to a product? A feature"
+    },
+    {
+      "start": 704.64,
+      "duration": 4.16,
+      "text": "alone is not going to get me $100,000"
+    },
+    {
+      "start": 706.72,
+      "duration": 4.48,
+      "text": "from a customer. How do you organize all"
+    },
+    {
+      "start": 708.8,
+      "duration": 4.719,
+      "text": "this into a robust product and a product"
+    },
+    {
+      "start": 711.2,
+      "duration": 5.12,
+      "text": "to a company and a company to a"
+    },
+    {
+      "start": 713.519,
+      "duration": 4.481,
+      "text": "business? That is the real test of"
+    },
+    {
+      "start": 716.32,
+      "duration": 3.759,
+      "text": "entrepreneurship. Going from a company"
+    },
+    {
+      "start": 718.0,
+      "duration": 3.839,
+      "text": "to a business is now really building"
+    },
+    {
+      "start": 720.079,
+      "duration": 3.921,
+      "text": "relationships with customers, making"
+    },
+    {
+      "start": 721.839,
+      "duration": 3.841,
+      "text": "sure that you don't leave customers in"
+    },
+    {
+      "start": 724.0,
+      "duration": 3.2,
+      "text": "the lurch when they need the most amount"
+    },
+    {
+      "start": 725.68,
+      "duration": 3.52,
+      "text": "of help. One of the reasons for our"
+    },
+    {
+      "start": 727.2,
+      "duration": 3.439,
+      "text": "success is underpromising and overd"
+    },
+    {
+      "start": 729.2,
+      "duration": 3.199,
+      "text": "delivering, you know, and this is the"
+    },
+    {
+      "start": 730.639,
+      "duration": 3.281,
+      "text": "core of repeat business. If your"
+    },
+    {
+      "start": 732.399,
+      "duration": 3.921,
+      "text": "existing customers are not paying you"
+    },
+    {
+      "start": 733.92,
+      "duration": 4.08,
+      "text": "more, then you're basically just selling"
+    },
+    {
+      "start": 736.32,
+      "duration": 3.519,
+      "text": "and running, which means hunt, hunt,"
+    },
+    {
+      "start": 738.0,
+      "duration": 4.16,
+      "text": "hunt. But the balance between hunting"
+    },
+    {
+      "start": 739.839,
+      "duration": 4.321,
+      "text": "and farming, which is new customers"
+    },
+    {
+      "start": 742.16,
+      "duration": 4.16,
+      "text": "versus getting more from existing"
+    },
+    {
+      "start": 744.16,
+      "duration": 3.84,
+      "text": "customers, is at the core of building"
+    },
+    {
+      "start": 746.32,
+      "duration": 3.44,
+      "text": "large businesses. You know, Jeff Bezos"
+    },
+    {
+      "start": 748.0,
+      "duration": 3.6,
+      "text": "has called it like the flywheel effect"
+    },
+    {
+      "start": 749.76,
+      "duration": 3.68,
+      "text": "of companies. You know, you need to add"
+    },
+    {
+      "start": 751.6,
+      "duration": 4.32,
+      "text": "new logos, but you need to go make money"
+    },
+    {
+      "start": 753.44,
+      "duration": 4.399,
+      "text": "from existing logos. I think that tests"
+    },
+    {
+      "start": 755.92,
+      "duration": 4.159,
+      "text": "the real metal of a company. Do you have"
+    },
+    {
+      "start": 757.839,
+      "duration": 4.401,
+      "text": "a product that is authentic? You have"
+    },
+    {
+      "start": 760.079,
+      "duration": 3.921,
+      "text": "customer support that's really good and"
+    },
+    {
+      "start": 762.24,
+      "duration": 3.52,
+      "text": "finally you have salespeople who really"
+    },
+    {
+      "start": 764.0,
+      "duration": 4.56,
+      "text": "know how to underpromise and overd"
+    },
+    {
+      "start": 765.76,
+      "duration": 4.96,
+      "text": "deliver. I'm a big fan of Will Gdara is"
+    },
+    {
+      "start": 768.56,
+      "duration": 4.079,
+      "text": "a restaurant tour who actually had two"
+    },
+    {
+      "start": 770.72,
+      "duration": 4.48,
+      "text": "of the most famous restaurants in the"
+    },
+    {
+      "start": 772.639,
+      "duration": 5.121,
+      "text": "world and he talks about this concept of"
+    },
+    {
+      "start": 775.2,
+      "duration": 5.84,
+      "text": "unreasonable hospitality giving people"
+    },
+    {
+      "start": 777.76,
+      "duration": 5.759,
+      "text": "way more than they expect. That is where"
+    },
+    {
+      "start": 781.04,
+      "duration": 4.239,
+      "text": "great entrepreneurs differentiate from"
+    },
+    {
+      "start": 783.519,
+      "duration": 3.281,
+      "text": "the mediocre ones. I think a lot of"
+    },
+    {
+      "start": 785.279,
+      "duration": 3.041,
+      "text": "people think that entrepreneurship is"
+    },
+    {
+      "start": 786.8,
+      "duration": 3.839,
+      "text": "about selling, selling, selling your"
+    },
+    {
+      "start": 788.32,
+      "duration": 4.079,
+      "text": "dreams and ideas to prospective"
+    },
+    {
+      "start": 790.639,
+      "duration": 3.601,
+      "text": "candidates who become employees of your"
+    },
+    {
+      "start": 792.399,
+      "duration": 4.24,
+      "text": "company, but also prospective customers"
+    },
+    {
+      "start": 794.24,
+      "duration": 4.159,
+      "text": "and partners. Very few people, I would"
+    },
+    {
+      "start": 796.639,
+      "duration": 3.601,
+      "text": "say less than a percent of the people"
+    },
+    {
+      "start": 798.399,
+      "duration": 3.281,
+      "text": "are really good at following through."
+    },
+    {
+      "start": 800.24,
+      "duration": 2.719,
+      "text": "They'll sell and they'll move on and"
+    },
+    {
+      "start": 801.68,
+      "duration": 4.08,
+      "text": "they'll sell some more and they'll move"
+    },
+    {
+      "start": 802.959,
+      "duration": 4.481,
+      "text": "on as opposed to selling and staying. I"
+    },
+    {
+      "start": 805.76,
+      "duration": 4.079,
+      "text": "think that idea of unreasonable"
+    },
+    {
+      "start": 807.44,
+      "duration": 4.72,
+      "text": "hospitality is what really creates the"
+    },
+    {
+      "start": 809.839,
+      "duration": 4.481,
+      "text": "flywheel. When you go to a new"
+    },
+    {
+      "start": 812.16,
+      "duration": 4.0,
+      "text": "customers, they hear from existing"
+    },
+    {
+      "start": 814.32,
+      "duration": 3.6,
+      "text": "customers and that's how you reduce the"
+    },
+    {
+      "start": 816.16,
+      "duration": 3.919,
+      "text": "friction. At the end of the day, there's"
+    },
+    {
+      "start": 817.92,
+      "duration": 3.84,
+      "text": "two emotions going on in a new"
+    },
+    {
+      "start": 820.079,
+      "duration": 4.0,
+      "text": "relationship. The fear of missing out,"
+    },
+    {
+      "start": 821.76,
+      "duration": 4.8,
+      "text": "but also the fear of messing up. FOMO"
+    },
+    {
+      "start": 824.079,
+      "duration": 4.081,
+      "text": "and FOMO as we call it. And a lot of"
+    },
+    {
+      "start": 826.56,
+      "duration": 4.48,
+      "text": "people think that they just need to"
+    },
+    {
+      "start": 828.16,
+      "duration": 4.96,
+      "text": "create for more with prospects. But they"
+    },
+    {
+      "start": 831.04,
+      "duration": 3.84,
+      "text": "don't realize that most customers,"
+    },
+    {
+      "start": 833.12,
+      "duration": 3.2,
+      "text": "especially in B2B, I'm talking about B2B"
+    },
+    {
+      "start": 834.88,
+      "duration": 4.16,
+      "text": "software, when you're really doing"
+    },
+    {
+      "start": 836.32,
+      "duration": 4.72,
+      "text": "larger deals like $50, $100, $200,000. A"
+    },
+    {
+      "start": 839.04,
+      "duration": 5.44,
+      "text": "lot of it is actually based on faux"
+    },
+    {
+      "start": 841.04,
+      "duration": 5.68,
+      "text": "mean, which is fear of messing up. So"
+    },
+    {
+      "start": 844.48,
+      "duration": 4.159,
+      "text": "building that critical relationship and"
+    },
+    {
+      "start": 846.72,
+      "duration": 4.559,
+      "text": "providing that unreasonable hospitality"
+    },
+    {
+      "start": 848.639,
+      "duration": 4.961,
+      "text": "and letting your existing customers"
+    },
+    {
+      "start": 851.279,
+      "duration": 6.24,
+      "text": "speak of that unreasonable hospitality"
+    },
+    {
+      "start": 853.6,
+      "duration": 5.919,
+      "text": "is the only way to blunt that emotion of"
+    },
+    {
+      "start": 857.519,
+      "duration": 3.841,
+      "text": "fear of messing up. To me,"
+    },
+    {
+      "start": 859.519,
+      "duration": 4.481,
+      "text": "entrepreneurship is about building that"
+    },
+    {
+      "start": 861.36,
+      "duration": 5.2,
+      "text": "authenticity at every level of the way"
+    },
+    {
+      "start": 864.0,
+      "duration": 6.04,
+      "text": "because the market is actually smarter"
+    },
+    {
+      "start": 866.56,
+      "duration": 3.48,
+      "text": "than you think."
+    },
+    {
+      "start": 870.959,
+      "duration": 4.24,
+      "text": "What is disruptive in technology? The"
+    },
+    {
+      "start": 873.36,
+      "duration": 3.52,
+      "text": "biggest disruptor to technology is"
+    },
+    {
+      "start": 875.199,
+      "duration": 4.32,
+      "text": "miniaturization."
+    },
+    {
+      "start": 876.88,
+      "duration": 4.639,
+      "text": "Big things into small things. Literate"
+    },
+    {
+      "start": 879.519,
+      "duration": 3.76,
+      "text": "sits in a pocket. No one on a desk. I"
+    },
+    {
+      "start": 881.519,
+      "duration": 3.361,
+      "text": "mean, even the idea of infrastructure"
+    },
+    {
+      "start": 883.279,
+      "duration": 4.481,
+      "text": "was like that. Oh, we buying things for"
+    },
+    {
+      "start": 884.88,
+      "duration": 5.44,
+      "text": "5 years. big metal monolithic purchases"
+    },
+    {
+      "start": 887.76,
+      "duration": 4.24,
+      "text": "like just come and use the compute for 2"
+    },
+    {
+      "start": 890.32,
+      "duration": 3.199,
+      "text": "hours if that's what it takes for you"
+    },
+    {
+      "start": 892.0,
+      "duration": 3.76,
+      "text": "when you make things smaller and lighter"
+    },
+    {
+      "start": 893.519,
+      "duration": 5.281,
+      "text": "weight that is the biggest disruptor to"
+    },
+    {
+      "start": 895.76,
+      "duration": 5.84,
+      "text": "incumbents SAS has become extremely"
+    },
+    {
+      "start": 898.8,
+      "duration": 5.039,
+      "text": "heavyweight extremely"
+    },
+    {
+      "start": 901.6,
+      "duration": 4.4,
+      "text": "complex in terms of implementation so"
+    },
+    {
+      "start": 903.839,
+      "duration": 5.12,
+      "text": "the disruption that will happen is"
+    },
+    {
+      "start": 906.0,
+      "duration": 5.92,
+      "text": "consumption we go from subscription to"
+    },
+    {
+      "start": 908.959,
+      "duration": 5.601,
+      "text": "consumption and consumption models is"
+    },
+    {
+      "start": 911.92,
+      "duration": 3.44,
+      "text": "what will disrupt subscription models"
+    },
+    {
+      "start": 914.56,
+      "duration": 3.6,
+      "text": "remember subscription Subscription"
+    },
+    {
+      "start": 915.36,
+      "duration": 4.479,
+      "text": "models disrupted licensing models of the"
+    },
+    {
+      "start": 918.16,
+      "duration": 4.32,
+      "text": "last 20 years before that where people"
+    },
+    {
+      "start": 919.839,
+      "duration": 4.481,
+      "text": "are buying 5 years enterprise license"
+    },
+    {
+      "start": 922.48,
+      "duration": 3.919,
+      "text": "agreements we move to subscription we"
+    },
+    {
+      "start": 924.32,
+      "duration": 3.44,
+      "text": "said hey you can pay by the user then"
+    },
+    {
+      "start": 926.399,
+      "duration": 2.88,
+      "text": "slack comes in there you don't have to"
+    },
+    {
+      "start": 927.76,
+      "duration": 3.759,
+      "text": "pay by the user you can pay by the"
+    },
+    {
+      "start": 929.279,
+      "duration": 4.0,
+      "text": "monthly active user making it even more"
+    },
+    {
+      "start": 931.519,
+      "duration": 4.081,
+      "text": "lightweight and a little bit more"
+    },
+    {
+      "start": 933.279,
+      "duration": 4.8,
+      "text": "towards consumption snowflake coming in"
+    },
+    {
+      "start": 935.6,
+      "duration": 4.96,
+      "text": "saying everything consumption based I"
+    },
+    {
+      "start": 938.079,
+      "duration": 5.76,
+      "text": "think all SAS will probably become"
+    },
+    {
+      "start": 940.56,
+      "duration": 6.0,
+      "text": "consumptionbased and that will disrupt"
+    },
+    {
+      "start": 943.839,
+      "duration": 2.721,
+      "text": "legacy SAS"
+    },
+    {
+      "start": 947.04,
+      "duration": 5.2,
+      "text": "And the worst decision that people"
+    },
+    {
+      "start": 948.88,
+      "duration": 5.84,
+      "text": "should not take is sit on things for too"
+    },
+    {
+      "start": 952.24,
+      "duration": 5.279,
+      "text": "long. Sit on people who are not a good"
+    },
+    {
+      "start": 954.72,
+      "duration": 5.919,
+      "text": "fit for too long. Bad products, unhappy"
+    },
+    {
+      "start": 957.519,
+      "duration": 6.0,
+      "text": "customers, unhappy employees, mediocre"
+    },
+    {
+      "start": 960.639,
+      "duration": 4.961,
+      "text": "leaders. So to me, sitting on the"
+    },
+    {
+      "start": 963.519,
+      "duration": 4.0,
+      "text": "suboptimal thing for too long is the"
+    },
+    {
+      "start": 965.6,
+      "duration": 5.28,
+      "text": "worst thing that can happen. It's the"
+    },
+    {
+      "start": 967.519,
+      "duration": 5.841,
+      "text": "tyranny of mediocrity. not changing and"
+    },
+    {
+      "start": 970.88,
+      "duration": 4.319,
+      "text": "do nothing. Which is exactly what you"
+    },
+    {
+      "start": 973.36,
+      "duration": 4.24,
+      "text": "have to go and fight when you go and"
+    },
+    {
+      "start": 975.199,
+      "duration": 4.801,
+      "text": "sell your new idea to customers because"
+    },
+    {
+      "start": 977.6,
+      "duration": 4.159,
+      "text": "customers most comfortable thing is to"
+    },
+    {
+      "start": 980.0,
+      "duration": 4.079,
+      "text": "do nothing. And your biggest competition"
+    },
+    {
+      "start": 981.759,
+      "duration": 5.361,
+      "text": "is not that other idea, the other"
+    },
+    {
+      "start": 984.079,
+      "duration": 5.521,
+      "text": "competitor. Your biggest competitor is"
+    },
+    {
+      "start": 987.12,
+      "duration": 4.639,
+      "text": "inertia. And that is also the biggest"
+    },
+    {
+      "start": 989.6,
+      "duration": 3.84,
+      "text": "enemy within a company. Do nothing."
+    },
+    {
+      "start": 991.759,
+      "duration": 3.041,
+      "text": "That's the worst thing uh an"
+    },
+    {
+      "start": 993.44,
+      "duration": 5.079,
+      "text": "entrepreneur can do. That's the worst"
+    },
+    {
+      "start": 994.8,
+      "duration": 3.719,
+      "text": "thing a company can do."
+    }
+  ]
+}

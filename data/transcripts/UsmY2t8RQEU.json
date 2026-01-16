@@ -1,0 +1,2011 @@
+{
+  "video_id": "UsmY2t8RQEU",
+  "title": "Eos Energy Accused of Massive Fraud $EOSE",
+  "channel": "Broken Business Models",
+  "published_at": "2025-12-28T20:55:45Z",
+  "duration": "PT16M23S",
+  "thumbnail": "https://i.ytimg.com/vi/UsmY2t8RQEU/hqdefault.jpg",
+  "fetched_at": "2026-01-15T22:13:37.075462",
+  "transcript": [
+    {
+      "start": 0.48,
+      "duration": 3.52,
+      "text": "All right, hello and welcome back to the"
+    },
+    {
+      "start": 2.0,
+      "duration": 3.839,
+      "text": "Broken Business Models podcast. We are"
+    },
+    {
+      "start": 4.0,
+      "duration": 3.44,
+      "text": "your hosts, Ryan and James. And before"
+    },
+    {
+      "start": 5.839,
+      "duration": 3.68,
+      "text": "we get into today's podcast, just a"
+    },
+    {
+      "start": 7.44,
+      "duration": 3.36,
+      "text": "quick disclaimer, nothing that we say in"
+    },
+    {
+      "start": 9.519,
+      "duration": 2.721,
+      "text": "this podcast or any of our other"
+    },
+    {
+      "start": 10.8,
+      "duration": 3.28,
+      "text": "material should be taken as investment"
+    },
+    {
+      "start": 12.24,
+      "duration": 3.84,
+      "text": "advice. James and I could have positions"
+    },
+    {
+      "start": 14.08,
+      "duration": 3.36,
+      "text": "in any stock we may mention today, and"
+    },
+    {
+      "start": 16.08,
+      "duration": 3.52,
+      "text": "we reserve the right to change those"
+    },
+    {
+      "start": 17.44,
+      "duration": 3.759,
+      "text": "positions at any time. So, make sure to"
+    },
+    {
+      "start": 19.6,
+      "duration": 2.8,
+      "text": "always do your own work and consult with"
+    },
+    {
+      "start": 21.199,
+      "duration": 3.041,
+      "text": "a professional before making any"
+    },
+    {
+      "start": 22.4,
+      "duration": 3.28,
+      "text": "investment decision. With that being"
+    },
+    {
+      "start": 24.24,
+      "duration": 4.92,
+      "text": "said, today we're going to talk about"
+    },
+    {
+      "start": 25.68,
+      "duration": 3.48,
+      "text": "EOS Energy."
+    },
+    {
+      "start": 29.359,
+      "duration": 4.561,
+      "text": "So, we've talked about EOS many times"
+    },
+    {
+      "start": 31.439,
+      "duration": 4.96,
+      "text": "before on this podcast, but just for a"
+    },
+    {
+      "start": 33.92,
+      "duration": 4.479,
+      "text": "quick background, EOS Energy is a"
+    },
+    {
+      "start": 36.399,
+      "duration": 5.121,
+      "text": "company whose business model is to"
+    },
+    {
+      "start": 38.399,
+      "duration": 5.281,
+      "text": "create rechargeable battery cells that"
+    },
+    {
+      "start": 41.52,
+      "duration": 4.4,
+      "text": "are zinc based. They use a zinc based"
+    },
+    {
+      "start": 43.68,
+      "duration": 4.559,
+      "text": "chemistry as opposed to traditional"
+    },
+    {
+      "start": 45.92,
+      "duration": 4.72,
+      "text": "lithium- based rechargeable batteries."
+    },
+    {
+      "start": 48.239,
+      "duration": 5.521,
+      "text": "So, the point of zinc, this zinc based"
+    },
+    {
+      "start": 50.64,
+      "duration": 5.599,
+      "text": "chemistry is that um it is much less"
+    },
+    {
+      "start": 53.76,
+      "duration": 4.799,
+      "text": "efficient in terms of storage like how"
+    },
+    {
+      "start": 56.239,
+      "duration": 4.64,
+      "text": "much energy it can store for the weight."
+    },
+    {
+      "start": 58.559,
+      "duration": 4.32,
+      "text": "You know, these these these battery"
+    },
+    {
+      "start": 60.879,
+      "duration": 4.721,
+      "text": "cells are much more heavy than lithium"
+    },
+    {
+      "start": 62.879,
+      "duration": 5.121,
+      "text": "batteries, but they're theoretically up"
+    },
+    {
+      "start": 65.6,
+      "duration": 4.72,
+      "text": "to 30% more cost effective per unit of"
+    },
+    {
+      "start": 68.0,
+      "duration": 5.04,
+      "text": "energy stored than lithium batteries."
+    },
+    {
+      "start": 70.32,
+      "duration": 5.2,
+      "text": "So, while they would not make a good uh"
+    },
+    {
+      "start": 73.04,
+      "duration": 5.68,
+      "text": "product for anything that anything where"
+    },
+    {
+      "start": 75.52,
+      "duration": 6.959,
+      "text": "the weight is a concern, um their main"
+    },
+    {
+      "start": 78.72,
+      "duration": 5.6,
+      "text": "target uh customer is uh their their"
+    },
+    {
+      "start": 82.479,
+      "duration": 3.361,
+      "text": "target application is things like grids"
+    },
+    {
+      "start": 84.32,
+      "duration": 4.32,
+      "text": "scale energy storage. So if you think"
+    },
+    {
+      "start": 85.84,
+      "duration": 4.959,
+      "text": "about renewable energy where wind"
+    },
+    {
+      "start": 88.64,
+      "duration": 3.68,
+      "text": "turbines or solar panels are only"
+    },
+    {
+      "start": 90.799,
+      "duration": 4.0,
+      "text": "producing energy a certain time of the"
+    },
+    {
+      "start": 92.32,
+      "duration": 6.24,
+      "text": "day um during those times they could be"
+    },
+    {
+      "start": 94.799,
+      "duration": 6.32,
+      "text": "charging these theoretically cheap uh"
+    },
+    {
+      "start": 98.56,
+      "duration": 3.84,
+      "text": "energy cells and then when the wind is"
+    },
+    {
+      "start": 101.119,
+      "duration": 4.161,
+      "text": "not blowing or when the sun is not"
+    },
+    {
+      "start": 102.4,
+      "duration": 5.92,
+      "text": "shining these zinc based batteries can"
+    },
+    {
+      "start": 105.28,
+      "duration": 4.96,
+      "text": "produce the electricity in the meantime."
+    },
+    {
+      "start": 108.32,
+      "duration": 4.72,
+      "text": "So that's the idea with these zinc based"
+    },
+    {
+      "start": 110.24,
+      "duration": 4.08,
+      "text": "batteries."
+    },
+    {
+      "start": 113.04,
+      "duration": 3.84,
+      "text": "In terms of the financials,"
+    },
+    {
+      "start": 114.32,
+      "duration": 4.96,
+      "text": "unfortunately for EOS Energy, the"
+    },
+    {
+      "start": 116.88,
+      "duration": 4.879,
+      "text": "financial situation is is uh pretty"
+    },
+    {
+      "start": 119.28,
+      "duration": 4.96,
+      "text": "desperate. So since they went public in"
+    },
+    {
+      "start": 121.759,
+      "duration": 4.0,
+      "text": "this during the spa mania of 2020,"
+    },
+    {
+      "start": 124.24,
+      "duration": 5.28,
+      "text": "they've they've constantly been"
+    },
+    {
+      "start": 125.759,
+      "duration": 7.2,
+      "text": "generating um very large uh operating"
+    },
+    {
+      "start": 129.52,
+      "duration": 5.439,
+      "text": "losses. Their revenue has been basically"
+    },
+    {
+      "start": 132.959,
+      "duration": 4.241,
+      "text": "immaterial until the most recent few"
+    },
+    {
+      "start": 134.959,
+      "duration": 3.761,
+      "text": "quarters. And even in the most recent"
+    },
+    {
+      "start": 137.2,
+      "duration": 3.6,
+      "text": "few quarters, it's not nearly enough to"
+    },
+    {
+      "start": 138.72,
+      "duration": 4.08,
+      "text": "cover their cost of goods sold. So"
+    },
+    {
+      "start": 140.8,
+      "duration": 3.36,
+      "text": "they're run rating about you know"
+    },
+    {
+      "start": 142.8,
+      "duration": 4.4,
+      "text": "they're losing hundreds of millions of"
+    },
+    {
+      "start": 144.16,
+      "duration": 4.96,
+      "text": "dollars per year in terms of operating"
+    },
+    {
+      "start": 147.2,
+      "duration": 4.56,
+      "text": "losses and that those losses are"
+    },
+    {
+      "start": 149.12,
+      "duration": 4.08,
+      "text": "accelerating and they've since their spa"
+    },
+    {
+      "start": 151.76,
+      "duration": 5.88,
+      "text": "they've they've had to raise many rounds"
+    },
+    {
+      "start": 153.2,
+      "duration": 4.44,
+      "text": "of diluted funding to fund those losses."
+    },
+    {
+      "start": 158.72,
+      "duration": 5.92,
+      "text": "So in the most recent quarter they they"
+    },
+    {
+      "start": 161.519,
+      "duration": 4.561,
+      "text": "did uh generate record revenue of $30"
+    },
+    {
+      "start": 164.64,
+      "duration": 2.8,
+      "text": "million. In the past few quarters"
+    },
+    {
+      "start": 166.08,
+      "duration": 3.6,
+      "text": "they've been generating more revenue"
+    },
+    {
+      "start": 167.44,
+      "duration": 3.439,
+      "text": "than they ever have in the past. But as"
+    },
+    {
+      "start": 169.68,
+      "duration": 3.199,
+      "text": "I had mentioned before, they're still"
+    },
+    {
+      "start": 170.879,
+      "duration": 5.281,
+      "text": "burning on the order of about $250"
+    },
+    {
+      "start": 172.879,
+      "duration": 4.881,
+      "text": "million per year on that revenue. Um,"
+    },
+    {
+      "start": 176.16,
+      "duration": 3.2,
+      "text": "operationally, they've had some they've"
+    },
+    {
+      "start": 177.76,
+      "duration": 2.88,
+      "text": "had numerous supply chain issues that"
+    },
+    {
+      "start": 179.36,
+      "duration": 4.48,
+      "text": "have only recently started being"
+    },
+    {
+      "start": 180.64,
+      "duration": 5.2,
+      "text": "resolved. Um, and the most the most"
+    },
+    {
+      "start": 183.84,
+      "duration": 3.84,
+      "text": "fundamental challenge that they are"
+    },
+    {
+      "start": 185.84,
+      "duration": 4.08,
+      "text": "facing is that the competitive landscape"
+    },
+    {
+      "start": 187.68,
+      "duration": 4.24,
+      "text": "is be is has been very difficult"
+    },
+    {
+      "start": 189.92,
+      "duration": 4.959,
+      "text": "especially in the past two three years."
+    },
+    {
+      "start": 191.92,
+      "duration": 4.48,
+      "text": "So in 2020 um as you can see from this"
+    },
+    {
+      "start": 194.879,
+      "duration": 3.841,
+      "text": "chart in the bottom right I have the"
+    },
+    {
+      "start": 196.4,
+      "duration": 4.96,
+      "text": "prices of lithium carbonate which is a"
+    },
+    {
+      "start": 198.72,
+      "duration": 5.2,
+      "text": "raw input into creating lithium based"
+    },
+    {
+      "start": 201.36,
+      "duration": 5.04,
+      "text": "batteries. So in 2020 the prices of"
+    },
+    {
+      "start": 203.92,
+      "duration": 5.36,
+      "text": "lithium skyrocketed during the EV boom"
+    },
+    {
+      "start": 206.4,
+      "duration": 5.68,
+      "text": "but since then new supplies come online"
+    },
+    {
+      "start": 209.28,
+      "duration": 6.16,
+      "text": "uh very very rapidly and since about"
+    },
+    {
+      "start": 212.08,
+      "duration": 7.68,
+      "text": "2024 and 2025 the price of lithium has"
+    },
+    {
+      "start": 215.44,
+      "duration": 6.079,
+      "text": "gone down to uh the pre-EV hype lows. So"
+    },
+    {
+      "start": 219.76,
+      "duration": 3.68,
+      "text": "traditional lithium based batteries have"
+    },
+    {
+      "start": 221.519,
+      "duration": 5.201,
+      "text": "become much much cheaper which kind of"
+    },
+    {
+      "start": 223.44,
+      "duration": 5.28,
+      "text": "destroys the whole cost effective um"
+    },
+    {
+      "start": 226.72,
+      "duration": 5.599,
+      "text": "narrative of the zinc based batteries"
+    },
+    {
+      "start": 228.72,
+      "duration": 6.799,
+      "text": "that EOS produce uh produces."
+    },
+    {
+      "start": 232.319,
+      "duration": 5.521,
+      "text": "So that's the situation that EOS Energy"
+    },
+    {
+      "start": 235.519,
+      "duration": 4.08,
+      "text": "is in today. Like I like I mentioned"
+    },
+    {
+      "start": 237.84,
+      "duration": 3.599,
+      "text": "before in the most recent quarters"
+    },
+    {
+      "start": 239.599,
+      "duration": 3.84,
+      "text": "they've started generating significantly"
+    },
+    {
+      "start": 241.439,
+      "duration": 3.841,
+      "text": "more revenue than they have in the past."
+    },
+    {
+      "start": 243.439,
+      "duration": 4.241,
+      "text": "You know still much less than they need"
+    },
+    {
+      "start": 245.28,
+      "duration": 4.4,
+      "text": "to cover their cost of goods sold. But"
+    },
+    {
+      "start": 247.68,
+      "duration": 4.479,
+      "text": "along with that, management has also"
+    },
+    {
+      "start": 249.68,
+      "duration": 5.839,
+      "text": "been guiding for revenue to continue"
+    },
+    {
+      "start": 252.159,
+      "duration": 5.681,
+      "text": "increasing into 2026 and they talk about"
+    },
+    {
+      "start": 255.519,
+      "duration": 4.161,
+      "text": "having a massive order backlog and that"
+    },
+    {
+      "start": 257.84,
+      "duration": 5.84,
+      "text": "has caused the stock price to increase"
+    },
+    {
+      "start": 259.68,
+      "duration": 6.4,
+      "text": "massively since um the end of 2024."
+    },
+    {
+      "start": 263.68,
+      "duration": 4.48,
+      "text": "However, there are questions about the"
+    },
+    {
+      "start": 266.08,
+      "duration": 4.88,
+      "text": "order backlog and the trajectory of"
+    },
+    {
+      "start": 268.16,
+      "duration": 4.56,
+      "text": "their future revenue. Uh recently a"
+    },
+    {
+      "start": 270.96,
+      "duration": 4.64,
+      "text": "well-known short seller called Fuzzy"
+    },
+    {
+      "start": 272.72,
+      "duration": 5.199,
+      "text": "Panda Research um put out a short report"
+    },
+    {
+      "start": 275.6,
+      "duration": 4.319,
+      "text": "on EOS Energy talking a lot about this"
+    },
+    {
+      "start": 277.919,
+      "duration": 3.84,
+      "text": "order backlog and so there are many many"
+    },
+    {
+      "start": 279.919,
+      "duration": 4.241,
+      "text": "questions about that about that and to"
+    },
+    {
+      "start": 281.759,
+      "duration": 4.241,
+      "text": "get into those I will kick it over to"
+    },
+    {
+      "start": 284.16,
+      "duration": 5.52,
+      "text": "you James."
+    },
+    {
+      "start": 286.0,
+      "duration": 6.96,
+      "text": ">> Yes thank you. So on October 30th, Fuzzy"
+    },
+    {
+      "start": 289.68,
+      "duration": 6.56,
+      "text": "Panda Research published a short report"
+    },
+    {
+      "start": 292.96,
+      "duration": 5.6,
+      "text": "with a lot of allegations against EOS"
+    },
+    {
+      "start": 296.24,
+      "duration": 4.64,
+      "text": "Energy. And in for the remainder of the"
+    },
+    {
+      "start": 298.56,
+      "duration": 5.52,
+      "text": "video, we'll basically be going through"
+    },
+    {
+      "start": 300.88,
+      "duration": 7.68,
+      "text": "the main points of the main points from"
+    },
+    {
+      "start": 304.08,
+      "duration": 7.839,
+      "text": "the fuzzy panda report. And just um also"
+    },
+    {
+      "start": 308.56,
+      "duration": 5.6,
+      "text": "a quick note, we have a website called"
+    },
+    {
+      "start": 311.919,
+      "duration": 3.761,
+      "text": "differentiatedanalytics.com."
+    },
+    {
+      "start": 314.16,
+      "duration": 4.319,
+      "text": "There's a link to it in the description"
+    },
+    {
+      "start": 315.68,
+      "duration": 5.68,
+      "text": "of the video below. But on the website,"
+    },
+    {
+      "start": 318.479,
+      "duration": 4.881,
+      "text": "we have a free section. Um, under the"
+    },
+    {
+      "start": 321.36,
+      "duration": 4.32,
+      "text": "shortselling research section, we have a"
+    },
+    {
+      "start": 323.36,
+      "duration": 5.44,
+      "text": "short report aggregator. And what we do"
+    },
+    {
+      "start": 325.68,
+      "duration": 5.76,
+      "text": "is we follow a number of activist short"
+    },
+    {
+      "start": 328.8,
+      "duration": 5.44,
+      "text": "sellers. And whenever they whenever they"
+    },
+    {
+      "start": 331.44,
+      "duration": 5.44,
+      "text": "publish a new short report, we will"
+    },
+    {
+      "start": 334.24,
+      "duration": 4.72,
+      "text": "summarize it into a single paragraph,"
+    },
+    {
+      "start": 336.88,
+      "duration": 4.64,
+      "text": "making it, you know, much easier to read"
+    },
+    {
+      "start": 338.96,
+      "duration": 4.64,
+      "text": "and understand. And then we'll also have"
+    },
+    {
+      "start": 341.52,
+      "duration": 5.519,
+      "text": "include a link to the full report if you"
+    },
+    {
+      "start": 343.6,
+      "duration": 5.76,
+      "text": "want to read the full report. So this is"
+    },
+    {
+      "start": 347.039,
+      "duration": 4.72,
+      "text": "you know if you want to keep track of"
+    },
+    {
+      "start": 349.36,
+      "duration": 3.36,
+      "text": "the latest activist short seller reports"
+    },
+    {
+      "start": 351.759,
+      "duration": 3.44,
+      "text": "go to our website"
+    },
+    {
+      "start": 352.72,
+      "duration": 4.56,
+      "text": "differentiatedanalytics.com."
+    },
+    {
+      "start": 355.199,
+      "duration": 4.56,
+      "text": "We also have our own premium original"
+    },
+    {
+      "start": 357.28,
+      "duration": 5.919,
+      "text": "research but you can access the short"
+    },
+    {
+      "start": 359.759,
+      "duration": 6.641,
+      "text": "report aggregator for free. And back in"
+    },
+    {
+      "start": 363.199,
+      "duration": 6.321,
+      "text": "October when Fuzzy Panda released the"
+    },
+    {
+      "start": 366.4,
+      "duration": 5.919,
+      "text": "released the short report about EOSE, we"
+    },
+    {
+      "start": 369.52,
+      "duration": 5.28,
+      "text": "in we included a summary of it on our"
+    },
+    {
+      "start": 372.319,
+      "duration": 4.241,
+      "text": "short report aggregator section. So"
+    },
+    {
+      "start": 374.8,
+      "duration": 4.16,
+      "text": "yeah, you check check that out if that"
+    },
+    {
+      "start": 376.56,
+      "duration": 4.88,
+      "text": "at all sounds interesting to you. And"
+    },
+    {
+      "start": 378.96,
+      "duration": 7.6,
+      "text": "now let's get back to this Fuzzy Panda"
+    },
+    {
+      "start": 381.44,
+      "duration": 7.52,
+      "text": "report. So there are a few main issues"
+    },
+    {
+      "start": 386.56,
+      "duration": 5.44,
+      "text": "uh a few main big allegations that Fuzzy"
+    },
+    {
+      "start": 388.96,
+      "duration": 7.04,
+      "text": "Panda has made in the report. The first"
+    },
+    {
+      "start": 392.0,
+      "duration": 6.72,
+      "text": "allegation is that EOS's zinc based"
+    },
+    {
+      "start": 396.0,
+      "duration": 6.479,
+      "text": "batteries, apparently the chemistry of"
+    },
+    {
+      "start": 398.72,
+      "duration": 6.72,
+      "text": "them uh is very dangerous. And there"
+    },
+    {
+      "start": 402.479,
+      "duration": 6.401,
+      "text": "have allegedly been multiple incidences"
+    },
+    {
+      "start": 405.44,
+      "duration": 6.479,
+      "text": "of the batteries releasing hydrogen"
+    },
+    {
+      "start": 408.88,
+      "duration": 7.599,
+      "text": "broomemide gas, which is a potentially"
+    },
+    {
+      "start": 411.919,
+      "duration": 7.68,
+      "text": "deadly gas. and Fuzzy Panda Panda sent a"
+    },
+    {
+      "start": 416.479,
+      "duration": 5.761,
+      "text": "FOYA Freedom of Information Act request"
+    },
+    {
+      "start": 419.599,
+      "duration": 5.04,
+      "text": "to the local fire department. The fire"
+    },
+    {
+      "start": 422.24,
+      "duration": 6.32,
+      "text": "the fire department had to go was called"
+    },
+    {
+      "start": 424.639,
+      "duration": 7.201,
+      "text": "to EOS's headquarters due to a hydrogen"
+    },
+    {
+      "start": 428.56,
+      "duration": 6.479,
+      "text": "broomemide leak. So here we do have"
+    },
+    {
+      "start": 431.84,
+      "duration": 4.72,
+      "text": "evidence apparently from the fire"
+    },
+    {
+      "start": 435.039,
+      "duration": 3.761,
+      "text": "department that there was a hydrogen"
+    },
+    {
+      "start": 436.56,
+      "duration": 6.079,
+      "text": "bromide leak which is potentially very"
+    },
+    {
+      "start": 438.8,
+      "duration": 6.72,
+      "text": "dangerous. Fuzzy Panda also claims that"
+    },
+    {
+      "start": 442.639,
+      "duration": 6.081,
+      "text": "at multiple of"
+    },
+    {
+      "start": 445.52,
+      "duration": 5.28,
+      "text": "of EOS's customer locations, there have"
+    },
+    {
+      "start": 448.72,
+      "duration": 4.64,
+      "text": "been reports of hydrogen broomemide"
+    },
+    {
+      "start": 450.8,
+      "duration": 4.959,
+      "text": "leaks. Now, this is potentially a very"
+    },
+    {
+      "start": 453.36,
+      "duration": 5.839,
+      "text": "dangerous gas. So, that's, you know,"
+    },
+    {
+      "start": 455.759,
+      "duration": 6.16,
+      "text": "potentially a huge problem. Now, the"
+    },
+    {
+      "start": 459.199,
+      "duration": 5.601,
+      "text": "other big issue relates to their"
+    },
+    {
+      "start": 461.919,
+      "duration": 5.12,
+      "text": "supposed order backlog. Now, to date,"
+    },
+    {
+      "start": 464.8,
+      "duration": 3.839,
+      "text": "their revenue has been pretty minuscule."
+    },
+    {
+      "start": 467.039,
+      "duration": 3.041,
+      "text": "uh it has increased, their revenue has"
+    },
+    {
+      "start": 468.639,
+      "duration": 3.361,
+      "text": "increased throughout 2025, but it's"
+    },
+    {
+      "start": 470.08,
+      "duration": 3.679,
+      "text": "still pretty small. I think as Ryan said"
+    },
+    {
+      "start": 472.0,
+      "duration": 4.4,
+      "text": "earlier, their revenue in the third"
+    },
+    {
+      "start": 473.759,
+      "duration": 5.681,
+      "text": "quarter, the most recent quarter was $30"
+    },
+    {
+      "start": 476.4,
+      "duration": 7.12,
+      "text": "million. But EOS claims they have this"
+    },
+    {
+      "start": 479.44,
+      "duration": 6.319,
+      "text": "massive order backlog for $644 million"
+    },
+    {
+      "start": 483.52,
+      "duration": 4.239,
+      "text": "and that they expect to fulfill over the"
+    },
+    {
+      "start": 485.759,
+      "duration": 5.041,
+      "text": "coming years. Uh we we have published"
+    },
+    {
+      "start": 487.759,
+      "duration": 5.921,
+      "text": "multiple videos about EOS Energy um on"
+    },
+    {
+      "start": 490.8,
+      "duration": 5.2,
+      "text": "this channel in the past and one of the"
+    },
+    {
+      "start": 493.68,
+      "duration": 3.919,
+      "text": "issues that we've raised in the past is"
+    },
+    {
+      "start": 496.0,
+      "duration": 4.96,
+      "text": "that there's reason to believe that this"
+    },
+    {
+      "start": 497.599,
+      "duration": 6.241,
+      "text": "order backlog is mostly fake where their"
+    },
+    {
+      "start": 500.96,
+      "duration": 5.28,
+      "text": "customers in the order backlog are in a"
+    },
+    {
+      "start": 503.84,
+      "duration": 4.96,
+      "text": "lot of cases tiny companies or companies"
+    },
+    {
+      "start": 506.24,
+      "duration": 3.84,
+      "text": "that appear to be defunct and there's"
+    },
+    {
+      "start": 508.8,
+      "duration": 3.76,
+      "text": "basically no way that they would"
+    },
+    {
+      "start": 510.08,
+      "duration": 5.92,
+      "text": "actually be able to pay $644 million."
+    },
+    {
+      "start": 512.56,
+      "duration": 5.919,
+      "text": "Fuzzy Panda has gone even further and"
+    },
+    {
+      "start": 516.0,
+      "duration": 5.919,
+      "text": "they claim based on their conversations"
+    },
+    {
+      "start": 518.479,
+      "duration": 5.36,
+      "text": "with former EOS employees that EOS has"
+    },
+    {
+      "start": 521.919,
+      "duration": 4.801,
+      "text": "three different sets of financial"
+    },
+    {
+      "start": 523.839,
+      "duration": 4.401,
+      "text": "projections and there are certain I"
+    },
+    {
+      "start": 526.72,
+      "duration": 3.28,
+      "text": "guess they have the real financial"
+    },
+    {
+      "start": 528.24,
+      "duration": 3.039,
+      "text": "projections that they use internally of"
+    },
+    {
+      "start": 530.0,
+      "duration": 3.279,
+      "text": "what they actually think the business"
+    },
+    {
+      "start": 531.279,
+      "duration": 4.24,
+      "text": "will do over the coming years. Then they"
+    },
+    {
+      "start": 533.279,
+      "duration": 4.24,
+      "text": "have you know fake projections that they"
+    },
+    {
+      "start": 535.519,
+      "duration": 3.681,
+      "text": "show to investors and that they showed"
+    },
+    {
+      "start": 537.519,
+      "duration": 3.921,
+      "text": "to the department of energy in order to"
+    },
+    {
+      "start": 539.2,
+      "duration": 6.079,
+      "text": "secure a department of energy loan. So,"
+    },
+    {
+      "start": 541.44,
+      "duration": 6.0,
+      "text": "a while ago, EOS received a large loan"
+    },
+    {
+      "start": 545.279,
+      "duration": 4.56,
+      "text": "from the Department of Energy um as part"
+    },
+    {
+      "start": 547.44,
+      "duration": 3.92,
+      "text": "of I think it was as part of Biden's"
+    },
+    {
+      "start": 549.839,
+      "duration": 3.68,
+      "text": "inflation reduction act. There's all"
+    },
+    {
+      "start": 551.36,
+      "duration": 5.36,
+      "text": "these loans that the DOE was giving to"
+    },
+    {
+      "start": 553.519,
+      "duration": 5.121,
+      "text": "green energy companies. And to qualify"
+    },
+    {
+      "start": 556.72,
+      "duration": 3.84,
+      "text": "for one of the loans, you have to give"
+    },
+    {
+      "start": 558.64,
+      "duration": 3.759,
+      "text": "the Department of Energy your financial"
+    },
+    {
+      "start": 560.56,
+      "duration": 3.36,
+      "text": "projections and show that your you"
+    },
+    {
+      "start": 562.399,
+      "duration": 5.761,
+      "text": "expect your business to actually be"
+    },
+    {
+      "start": 563.92,
+      "duration": 5.44,
+      "text": "viable. and uh and then so that the DOE"
+    },
+    {
+      "start": 568.16,
+      "duration": 2.96,
+      "text": "can have some confidence that you're"
+    },
+    {
+      "start": 569.36,
+      "duration": 5.12,
+      "text": "going to be able to pay the money back."
+    },
+    {
+      "start": 571.12,
+      "duration": 6.719,
+      "text": "According to Fuzzy Panda, the"
+    },
+    {
+      "start": 574.48,
+      "duration": 6.16,
+      "text": "um EOS sent a misleading version of"
+    },
+    {
+      "start": 577.839,
+      "duration": 4.56,
+      "text": "their financial projections uh to the"
+    },
+    {
+      "start": 580.64,
+      "duration": 3.36,
+      "text": "Department of Energy to get the loan,"
+    },
+    {
+      "start": 582.399,
+      "duration": 2.801,
+      "text": "even though they know internally that"
+    },
+    {
+      "start": 584.0,
+      "duration": 3.2,
+      "text": "they're almost certainly not going to"
+    },
+    {
+      "start": 585.2,
+      "duration": 4.56,
+      "text": "make the they're not going to meet these"
+    },
+    {
+      "start": 587.2,
+      "duration": 5.6,
+      "text": "financial projections, probably because"
+    },
+    {
+      "start": 589.76,
+      "duration": 5.68,
+      "text": "this order backlog, the $644 million of"
+    },
+    {
+      "start": 592.8,
+      "duration": 5.2,
+      "text": "order backlog that they claim to have,"
+    },
+    {
+      "start": 595.44,
+      "duration": 4.0,
+      "text": "uh probably doesn't really exist. And"
+    },
+    {
+      "start": 598.0,
+      "duration": 4.08,
+      "text": "you know, we'll drill down into this"
+    },
+    {
+      "start": 599.44,
+      "duration": 5.04,
+      "text": "order backlog even further on the next"
+    },
+    {
+      "start": 602.08,
+      "duration": 5.68,
+      "text": "few slides."
+    },
+    {
+      "start": 604.48,
+      "duration": 6.24,
+      "text": "So, the order backlog includes um a lot"
+    },
+    {
+      "start": 607.76,
+      "duration": 5.36,
+      "text": "of customers that are probably not even"
+    },
+    {
+      "start": 610.72,
+      "duration": 6.239,
+      "text": "going to be able to uh come up with the"
+    },
+    {
+      "start": 613.12,
+      "duration": 5.6,
+      "text": "money to pay for the orders. And also, a"
+    },
+    {
+      "start": 616.959,
+      "duration": 4.0,
+      "text": "lot of these so-called orders and the"
+    },
+    {
+      "start": 618.72,
+      "duration": 4.559,
+      "text": "order backlogs are not binding orders."
+    },
+    {
+      "start": 620.959,
+      "duration": 5.921,
+      "text": "They are non-binding letters of intent."
+    },
+    {
+      "start": 623.279,
+      "duration": 6.0,
+      "text": "So, Fuzzy Panda claims to have found the"
+    },
+    {
+      "start": 626.88,
+      "duration": 5.519,
+      "text": "actual letter of intent for one of the"
+    },
+    {
+      "start": 629.279,
+      "duration": 6.24,
+      "text": "supposed customers, a c a company called"
+    },
+    {
+      "start": 632.399,
+      "duration": 5.281,
+      "text": "Carson Hybrid, uh, Carson Hybrid Energy"
+    },
+    {
+      "start": 635.519,
+      "duration": 4.081,
+      "text": "Storage. So, Carson Hybrid Energy"
+    },
+    {
+      "start": 637.68,
+      "duration": 4.32,
+      "text": "Storage is one of these companies that"
+    },
+    {
+      "start": 639.6,
+      "duration": 5.6,
+      "text": "is included in EOS's backlog. They're"
+    },
+    {
+      "start": 642.0,
+      "duration": 7.2,
+      "text": "part of the $644 million of backlog."
+    },
+    {
+      "start": 645.2,
+      "duration": 6.72,
+      "text": "However, according to the letter um that"
+    },
+    {
+      "start": 649.2,
+      "duration": 5.12,
+      "text": "Fuzzy Panda found, Carson has not"
+    },
+    {
+      "start": 651.92,
+      "duration": 5.2,
+      "text": "actually placed any binding order to"
+    },
+    {
+      "start": 654.32,
+      "duration": 6.079,
+      "text": "EOS. All they have is a non-binding"
+    },
+    {
+      "start": 657.12,
+      "duration": 6.08,
+      "text": "letter of intent with and a commercial"
+    },
+    {
+      "start": 660.399,
+      "duration": 5.44,
+      "text": "contract is being contemplated."
+    },
+    {
+      "start": 663.2,
+      "duration": 5.199,
+      "text": "They could deploy energy storage, right?"
+    },
+    {
+      "start": 665.839,
+      "duration": 5.041,
+      "text": "So, they they might buy an EOS battery."
+    },
+    {
+      "start": 668.399,
+      "duration": 4.56,
+      "text": "they could buy EOS batteries and they"
+    },
+    {
+      "start": 670.88,
+      "duration": 4.0,
+      "text": "are contemplating signing a contract of"
+    },
+    {
+      "start": 672.959,
+      "duration": 4.88,
+      "text": "EOS, but they have not actually signed"
+    },
+    {
+      "start": 674.88,
+      "duration": 4.8,
+      "text": "any binding contract. They So, it's"
+    },
+    {
+      "start": 677.839,
+      "duration": 5.12,
+      "text": "pretty ridiculous for EOS to include"
+    },
+    {
+      "start": 679.68,
+      "duration": 5.599,
+      "text": "that in their order backlog."
+    },
+    {
+      "start": 682.959,
+      "duration": 4.88,
+      "text": "Now, there's another company called"
+    },
+    {
+      "start": 685.279,
+      "duration": 5.361,
+      "text": "Pinegate. Um there's a solar company"
+    },
+    {
+      "start": 687.839,
+      "duration": 5.281,
+      "text": "called Pinegate. Now, Pinegate has"
+    },
+    {
+      "start": 690.64,
+      "duration": 6.639,
+      "text": "already taken deliveries of some EOS"
+    },
+    {
+      "start": 693.12,
+      "duration": 8.56,
+      "text": "batteries um a few quarters ago."
+    },
+    {
+      "start": 697.279,
+      "duration": 7.281,
+      "text": "However, according to multiple Pinegate"
+    },
+    {
+      "start": 701.68,
+      "duration": 6.96,
+      "text": "and EOS employees that talked to Fuzzy"
+    },
+    {
+      "start": 704.56,
+      "duration": 6.56,
+      "text": "Panda, they said Pinegate was not happy"
+    },
+    {
+      "start": 708.64,
+      "duration": 4.48,
+      "text": "with the performance of the EOS"
+    },
+    {
+      "start": 711.12,
+      "duration": 5.2,
+      "text": "batteries that they had purchased"
+    },
+    {
+      "start": 713.12,
+      "duration": 5.76,
+      "text": "because they had gas leaks essentially"
+    },
+    {
+      "start": 716.32,
+      "duration": 5.68,
+      "text": "that hydrogen bro uh hydrogen broomemide"
+    },
+    {
+      "start": 718.88,
+      "duration": 6.399,
+      "text": "toxic gas and the roundtrip efficiency"
+    },
+    {
+      "start": 722.0,
+      "duration": 5.76,
+      "text": "was very bad. So only about 50%. So that"
+    },
+    {
+      "start": 725.279,
+      "duration": 4.56,
+      "text": "means that notice this solar company"
+    },
+    {
+      "start": 727.76,
+      "duration": 5.28,
+      "text": "Pine Gate they have the solar panels on"
+    },
+    {
+      "start": 729.839,
+      "duration": 6.321,
+      "text": "they put in energy into the zinc battery"
+    },
+    {
+      "start": 733.04,
+      "duration": 5.84,
+      "text": "the EOS zinc battery but then because"
+    },
+    {
+      "start": 736.16,
+      "duration": 5.52,
+      "text": "the battery is so inefficient by the"
+    },
+    {
+      "start": 738.88,
+      "duration": 5.68,
+      "text": "time that you extract the energy out of"
+    },
+    {
+      "start": 741.68,
+      "duration": 5.92,
+      "text": "the battery half of it is gone. So"
+    },
+    {
+      "start": 744.56,
+      "duration": 4.959,
+      "text": "because it's so bad, Hindgate is not"
+    },
+    {
+      "start": 747.6,
+      "duration": 5.28,
+      "text": "going is not going to order any more"
+    },
+    {
+      "start": 749.519,
+      "duration": 5.601,
+      "text": "batteries from EOS most likely, but they"
+    },
+    {
+      "start": 752.88,
+      "duration": 4.399,
+      "text": "still have, you know, they are still"
+    },
+    {
+      "start": 755.12,
+      "duration": 3.92,
+      "text": "included in the customer backlog. Not"
+    },
+    {
+      "start": 757.279,
+      "duration": 4.0,
+      "text": "only that, according to Bloomberg,"
+    },
+    {
+      "start": 759.04,
+      "duration": 4.4,
+      "text": "Pinegate is on the brink of filing for"
+    },
+    {
+      "start": 761.279,
+      "duration": 4.481,
+      "text": "bankruptcy. So you're going to have this"
+    },
+    {
+      "start": 763.44,
+      "duration": 4.32,
+      "text": "near bankrupt company that purchased a"
+    },
+    {
+      "start": 765.76,
+      "duration": 4.079,
+      "text": "few batteries from EOS. The performance"
+    },
+    {
+      "start": 767.76,
+      "duration": 3.519,
+      "text": "was much worse than expected. So they"
+    },
+    {
+      "start": 769.839,
+      "duration": 3.041,
+      "text": "are not going to they're probably not"
+    },
+    {
+      "start": 771.279,
+      "duration": 2.961,
+      "text": "going to order anymore and they're about"
+    },
+    {
+      "start": 772.88,
+      "duration": 3.6,
+      "text": "to go bankrupt anyway. So they probably"
+    },
+    {
+      "start": 774.24,
+      "duration": 3.92,
+      "text": "could not even order any more EOS"
+    },
+    {
+      "start": 776.48,
+      "duration": 4.32,
+      "text": "batteries even if they wanted to."
+    },
+    {
+      "start": 778.16,
+      "duration": 5.44,
+      "text": "Despite that, they still represent a"
+    },
+    {
+      "start": 780.8,
+      "duration": 4.56,
+      "text": "significant chunk of EOS's claimed"
+    },
+    {
+      "start": 783.6,
+      "duration": 4.32,
+      "text": "backlog."
+    },
+    {
+      "start": 785.36,
+      "duration": 4.08,
+      "text": "And now the final issue, uh this"
+    },
+    {
+      "start": 787.92,
+      "duration": 3.12,
+      "text": "actually ties back to something that we"
+    },
+    {
+      "start": 789.44,
+      "duration": 4.72,
+      "text": "talked about in one of our previous"
+    },
+    {
+      "start": 791.04,
+      "duration": 7.599,
+      "text": "videos. So, you know, all the way back"
+    },
+    {
+      "start": 794.16,
+      "duration": 9.119,
+      "text": "in May, uh, in May of 2025,"
+    },
+    {
+      "start": 798.639,
+      "duration": 7.841,
+      "text": "EOS fired their CFO, Eric Jvidi, without"
+    },
+    {
+      "start": 803.279,
+      "duration": 5.601,
+      "text": "cause. And this was very, you know, very"
+    },
+    {
+      "start": 806.48,
+      "duration": 4.799,
+      "text": "weird because they had just hired Eric"
+    },
+    {
+      "start": 808.88,
+      "duration": 5.199,
+      "text": "Jvidi, three months prior. So, they"
+    },
+    {
+      "start": 811.279,
+      "duration": 4.641,
+      "text": "hired him in March of 2025 and then just"
+    },
+    {
+      "start": 814.079,
+      "duration": 3.841,
+      "text": "a few months later in May, they fired"
+    },
+    {
+      "start": 815.92,
+      "duration": 4.4,
+      "text": "him without cause and they didn't give"
+    },
+    {
+      "start": 817.92,
+      "duration": 4.96,
+      "text": "any reason for it. Now, at the time we"
+    },
+    {
+      "start": 820.32,
+      "duration": 4.48,
+      "text": "published a video um on this channel"
+    },
+    {
+      "start": 822.88,
+      "duration": 5.199,
+      "text": "going over this and we said this is very"
+    },
+    {
+      "start": 824.8,
+      "duration": 5.839,
+      "text": "suspicious and at the time we speculated"
+    },
+    {
+      "start": 828.079,
+      "duration": 5.44,
+      "text": "that Jvidi was uncomfortable with EOS's"
+    },
+    {
+      "start": 830.639,
+      "duration": 5.76,
+      "text": "claimed order backlog. You know, EOS has"
+    },
+    {
+      "start": 833.519,
+      "duration": 4.56,
+      "text": "this huge order backlog that they, you"
+    },
+    {
+      "start": 836.399,
+      "duration": 3.281,
+      "text": "know, tell they they brag about to"
+    },
+    {
+      "start": 838.079,
+      "duration": 4.0,
+      "text": "investors and they probably also tell"
+    },
+    {
+      "start": 839.68,
+      "duration": 4.159,
+      "text": "the DOA DOE, yeah, give us this loan"
+    },
+    {
+      "start": 842.079,
+      "duration": 3.841,
+      "text": "because we have this massive $600"
+    },
+    {
+      "start": 843.839,
+      "duration": 3.921,
+      "text": "million order backlog. But there are a"
+    },
+    {
+      "start": 845.92,
+      "duration": 3.52,
+      "text": "lot of concerns where a lot of this"
+    },
+    {
+      "start": 847.76,
+      "duration": 4.079,
+      "text": "order backlog are just non-binding"
+    },
+    {
+      "start": 849.44,
+      "duration": 4.56,
+      "text": "letters of intent or orders from, you"
+    },
+    {
+      "start": 851.839,
+      "duration": 4.24,
+      "text": "know, tiny or defunct companies that are"
+    },
+    {
+      "start": 854.0,
+      "duration": 4.32,
+      "text": "not even going to be able to pay. So, we"
+    },
+    {
+      "start": 856.079,
+      "duration": 4.081,
+      "text": "thought maybe Eric Jvidi, he got into"
+    },
+    {
+      "start": 858.32,
+      "duration": 3.6,
+      "text": "his role as the CFO. He looked at this"
+    },
+    {
+      "start": 860.16,
+      "duration": 4.239,
+      "text": "order backlog and said, \"Hey, I'm not"
+    },
+    {
+      "start": 861.92,
+      "duration": 4.4,
+      "text": "comfortable with this. Um, I don't want"
+    },
+    {
+      "start": 864.399,
+      "duration": 4.0,
+      "text": "to play ball with, you know, touting"
+    },
+    {
+      "start": 866.32,
+      "duration": 3.6,
+      "text": "this fake order backlog.\" And then"
+    },
+    {
+      "start": 868.399,
+      "duration": 3.521,
+      "text": "because he wasn't willing to pay play"
+    },
+    {
+      "start": 869.92,
+      "duration": 3.76,
+      "text": "ball with this charade, that's probably"
+    },
+    {
+      "start": 871.92,
+      "duration": 4.24,
+      "text": "why he was fired. That's what we"
+    },
+    {
+      "start": 873.68,
+      "duration": 4.64,
+      "text": "speculated at the time. Well, uh, Joe"
+    },
+    {
+      "start": 876.16,
+      "duration": 5.2,
+      "text": "Mstrangelo, the CEO of EOS, he"
+    },
+    {
+      "start": 878.32,
+      "duration": 5.12,
+      "text": "apparently has a weak moral compass and"
+    },
+    {
+      "start": 881.36,
+      "duration": 3.839,
+      "text": "he is basically running, you know, this"
+    },
+    {
+      "start": 883.44,
+      "duration": 4.56,
+      "text": "fraud where he's claiming to have this"
+    },
+    {
+      "start": 885.199,
+      "duration": 5.121,
+      "text": "huge order backlog. Any of his other"
+    },
+    {
+      "start": 888.0,
+      "duration": 4.24,
+      "text": "executives at EOS who question the"
+    },
+    {
+      "start": 890.32,
+      "duration": 4.8,
+      "text": "backlog or aren't willing to go along"
+    },
+    {
+      "start": 892.24,
+      "duration": 5.279,
+      "text": "with the fraud, they risk being fired."
+    },
+    {
+      "start": 895.12,
+      "duration": 5.839,
+      "text": "And that's why we see extremely high"
+    },
+    {
+      "start": 897.519,
+      "duration": 6.721,
+      "text": "turnover rate in EOS's seuite. Over the"
+    },
+    {
+      "start": 900.959,
+      "duration": 6.081,
+      "text": "past five years, EOS has had four CFOs"
+    },
+    {
+      "start": 904.24,
+      "duration": 5.12,
+      "text": "and three uh chief commercial officers,"
+    },
+    {
+      "start": 907.04,
+      "duration": 5.599,
+      "text": "which is an extremely high, extremely"
+    },
+    {
+      "start": 909.36,
+      "duration": 5.44,
+      "text": "unusual rate of se executive turnover."
+    },
+    {
+      "start": 912.639,
+      "duration": 4.801,
+      "text": "And of course, the most recent and"
+    },
+    {
+      "start": 914.8,
+      "duration": 6.32,
+      "text": "shocking example was Eric Chvidi, who"
+    },
+    {
+      "start": 917.44,
+      "duration": 6.959,
+      "text": "was fired after just three months. So"
+    },
+    {
+      "start": 921.12,
+      "duration": 5.279,
+      "text": "overall, this fuzzy panda report really"
+    },
+    {
+      "start": 924.399,
+      "duration": 4.88,
+      "text": "corroborates a lot of the concerns that"
+    },
+    {
+      "start": 926.399,
+      "duration": 4.721,
+      "text": "we have raised about EOS um over the"
+    },
+    {
+      "start": 929.279,
+      "duration": 4.961,
+      "text": "past year. I think this is the fourth"
+    },
+    {
+      "start": 931.12,
+      "duration": 5.76,
+      "text": "video that we're making about EOS. And"
+    },
+    {
+      "start": 934.24,
+      "duration": 4.159,
+      "text": "uh while the stock price has like"
+    },
+    {
+      "start": 936.88,
+      "duration": 3.199,
+      "text": "increased throughout 2025 because"
+    },
+    {
+      "start": 938.399,
+      "duration": 3.201,
+      "text": "there's like a lot of hype about, you"
+    },
+    {
+      "start": 940.079,
+      "duration": 3.601,
+      "text": "know, them finally starting to generate"
+    },
+    {
+      "start": 941.6,
+      "duration": 4.32,
+      "text": "revenue and a lot of bullish projections"
+    },
+    {
+      "start": 943.68,
+      "duration": 3.839,
+      "text": "that the company has given. We think"
+    },
+    {
+      "start": 945.92,
+      "duration": 3.919,
+      "text": "that, you know, this is basically a"
+    },
+    {
+      "start": 947.519,
+      "duration": 3.841,
+      "text": "house of cars that will soon uh collapse"
+    },
+    {
+      "start": 949.839,
+      "duration": 4.0,
+      "text": "because there are so many quality issues"
+    },
+    {
+      "start": 951.36,
+      "duration": 3.76,
+      "text": "with the batteries and the order backlog"
+    },
+    {
+      "start": 953.839,
+      "duration": 2.881,
+      "text": "is probably fake. So, I think they're"
+    },
+    {
+      "start": 955.12,
+      "duration": 4.0,
+      "text": "probably going to miss revenue"
+    },
+    {
+      "start": 956.72,
+      "duration": 4.4,
+      "text": "expectations for 2026. And then, of"
+    },
+    {
+      "start": 959.12,
+      "duration": 4.079,
+      "text": "course, there's the longer term issue"
+    },
+    {
+      "start": 961.12,
+      "duration": 4.0,
+      "text": "with because the lithium price has"
+    },
+    {
+      "start": 963.199,
+      "duration": 4.0,
+      "text": "declined so much, uh, it's really"
+    },
+    {
+      "start": 965.12,
+      "duration": 5.12,
+      "text": "unclear that that zinc batteries are"
+    },
+    {
+      "start": 967.199,
+      "duration": 5.121,
+      "text": "even a viable technology at all. So,"
+    },
+    {
+      "start": 970.24,
+      "duration": 5.2,
+      "text": "that about wraps it up for everything we"
+    },
+    {
+      "start": 972.32,
+      "duration": 4.56,
+      "text": "have to talk about EOS today. As always,"
+    },
+    {
+      "start": 975.44,
+      "duration": 3.28,
+      "text": "if you have any opinions or thoughts"
+    },
+    {
+      "start": 976.88,
+      "duration": 3.68,
+      "text": "about the company, please let us know in"
+    },
+    {
+      "start": 978.72,
+      "duration": 5.679,
+      "text": "the comments section below. And we will"
+    },
+    {
+      "start": 980.56,
+      "duration": 3.839,
+      "text": "see you all on next week's video."
+    }
+  ]
+}

@@ -1,0 +1,2996 @@
+{
+  "video_id": "HmDUWxpPgnI",
+  "title": "100 AI Leaders Explain How to Build AI That Will Win in 2026 — WHAT BUILDERS SHOULD DO NOW",
+  "channel": "EO",
+  "published_at": "2025-11-29T13:45:02Z",
+  "duration": "PT21M32S",
+  "thumbnail": "https://i.ytimg.com/vi/HmDUWxpPgnI/hqdefault.jpg",
+  "fetched_at": "2026-01-16T00:03:38.370879",
+  "transcript": [
+    {
+      "start": 1.68,
+      "duration": 4.639,
+      "text": "AI has definitely changed a lot for how"
+    },
+    {
+      "start": 4.16,
+      "duration": 4.479,
+      "text": "we build products. The FOMO is very"
+    },
+    {
+      "start": 6.319,
+      "duration": 4.161,
+      "text": "real. I think that's how it got started."
+    },
+    {
+      "start": 8.639,
+      "duration": 4.08,
+      "text": ">> The underlying capabilities are getting"
+    },
+    {
+      "start": 10.48,
+      "duration": 3.92,
+      "text": "dramatically better. UX is kind of"
+    },
+    {
+      "start": 12.719,
+      "duration": 3.201,
+      "text": "coming along, but in a lot of ways, it's"
+    },
+    {
+      "start": 14.4,
+      "duration": 5.28,
+      "text": "not accelerating as quickly."
+    },
+    {
+      "start": 15.92,
+      "duration": 6.48,
+      "text": ">> A powerful AI model with poor UX is kind"
+    },
+    {
+      "start": 19.68,
+      "duration": 6.2,
+      "text": "of like a heavyduty power drill with a"
+    },
+    {
+      "start": 22.4,
+      "duration": 3.48,
+      "text": "terrible handle."
+    },
+    {
+      "start": 27.76,
+      "duration": 3.12,
+      "text": ">> I think things have changed a little"
+    },
+    {
+      "start": 29.039,
+      "duration": 3.761,
+      "text": "bit. The conventional wisdom is you"
+    },
+    {
+      "start": 30.88,
+      "duration": 3.839,
+      "text": "start with the customer need or you"
+    },
+    {
+      "start": 32.8,
+      "duration": 3.759,
+      "text": "start with a design vision. I think it's"
+    },
+    {
+      "start": 34.719,
+      "duration": 3.36,
+      "text": "more successful to build products"
+    },
+    {
+      "start": 36.559,
+      "duration": 4.52,
+      "text": "starting with the capabilities of the"
+    },
+    {
+      "start": 38.079,
+      "duration": 3.0,
+      "text": "technology."
+    },
+    {
+      "start": 41.6,
+      "duration": 4.24,
+      "text": ">> To answer [music] that question 100 AI"
+    },
+    {
+      "start": 44.0,
+      "duration": 4.399,
+      "text": "product leaders came together as well"
+    },
+    {
+      "start": 45.84,
+      "duration": 6.12,
+      "text": "summit. The winners of AI race will be"
+    },
+    {
+      "start": 48.399,
+      "duration": 3.561,
+      "text": "determined by"
+    },
+    {
+      "start": 66.0,
+      "duration": 4.64,
+      "text": "Hi, I'm Summer Kim. I'm one of the lead"
+    },
+    {
+      "start": 68.32,
+      "duration": 4.96,
+      "text": "partner at StrapMines. [music] We are VC"
+    },
+    {
+      "start": 70.64,
+      "duration": 4.685,
+      "text": "an advisory firm based in San Francisco"
+    },
+    {
+      "start": 73.28,
+      "duration": 4.24,
+      "text": "focusing purely on applied AI since"
+    },
+    {
+      "start": 75.325,
+      "duration": 4.585,
+      "text": "[music] 2018. Before then I was"
+    },
+    {
+      "start": 77.52,
+      "duration": 4.639,
+      "text": "dedicating my life studying humans"
+    },
+    {
+      "start": 79.91,
+      "duration": 3.849,
+      "text": "[music] user experience for the past 20"
+    },
+    {
+      "start": 82.159,
+      "duration": 3.681,
+      "text": "years working for big tech like"
+    },
+    {
+      "start": 83.759,
+      "duration": 3.36,
+      "text": "Microsoft and then I joined Google"
+    },
+    {
+      "start": 85.84,
+      "duration": 3.12,
+      "text": "worked on communication and"
+    },
+    {
+      "start": 87.119,
+      "duration": 3.441,
+      "text": "collaboration products. I also was at"
+    },
+    {
+      "start": 88.96,
+      "duration": 4.159,
+      "text": "WhatsApp starting their first user"
+    },
+    {
+      "start": 90.56,
+      "duration": 4.32,
+      "text": "experience function and I joined Roblox"
+    },
+    {
+      "start": 93.119,
+      "duration": 3.521,
+      "text": "really thinking about how people"
+    },
+    {
+      "start": 94.88,
+      "duration": 4.559,
+      "text": "actually exist in [music] a place like"
+    },
+    {
+      "start": 96.64,
+      "duration": 5.439,
+      "text": "Roblox now working with a lot of AI"
+    },
+    {
+      "start": 99.439,
+      "duration": 5.04,
+      "text": "early stage startups focusing on how do"
+    },
+    {
+      "start": 102.079,
+      "duration": 4.961,
+      "text": "we make AI products better than what we"
+    },
+    {
+      "start": 104.479,
+      "duration": 4.96,
+      "text": "have. Three years ago, Anton and I sat"
+    },
+    {
+      "start": 107.04,
+      "duration": 4.079,
+      "text": "down. [music] We thought about how"
+    },
+    {
+      "start": 109.439,
+      "duration": 3.877,
+      "text": "everything starts. It start with"
+    },
+    {
+      "start": 111.119,
+      "duration": 4.161,
+      "text": "actually the care that our founders have"
+    },
+    {
+      "start": 113.316,
+      "duration": 4.364,
+      "text": "[music] and then care ultimately"
+    },
+    {
+      "start": 115.28,
+      "duration": 6.28,
+      "text": "translate into amazing product. So"
+    },
+    {
+      "start": 117.68,
+      "duration": 3.88,
+      "text": "that's why we started SW."
+    },
+    {
+      "start": 122.799,
+      "duration": 4.96,
+      "text": "As user researchers, we always try to"
+    },
+    {
+      "start": 125.04,
+      "duration": 4.8,
+      "text": "think about what user really needs."
+    },
+    {
+      "start": 127.759,
+      "duration": 4.161,
+      "text": "There's also wants generally come from"
+    },
+    {
+      "start": 129.84,
+      "duration": 4.0,
+      "text": "the users based on their knowledge. What"
+    },
+    {
+      "start": 131.92,
+      "duration": 4.48,
+      "text": "we can do is something that probably"
+    },
+    {
+      "start": 133.84,
+      "duration": 5.039,
+      "text": "user can even imagine."
+    },
+    {
+      "start": 136.4,
+      "duration": 4.72,
+      "text": "Tools like chat GPT and perplexity gives"
+    },
+    {
+      "start": 138.879,
+      "duration": 4.08,
+      "text": "fast answers but they still wait for us"
+    },
+    {
+      "start": 141.12,
+      "duration": 3.52,
+      "text": "to ask first. The real challenge is"
+    },
+    {
+      "start": 142.959,
+      "duration": 3.681,
+      "text": "helping people before they even know"
+    },
+    {
+      "start": 144.64,
+      "duration": 4.4,
+      "text": "what to ask. I was so excited for our"
+    },
+    {
+      "start": 146.64,
+      "duration": 4.666,
+      "text": "first speaker Jess Hog has been looking"
+    },
+    {
+      "start": 149.04,
+      "duration": 4.32,
+      "text": "beyond chat and studying deeper patterns"
+    },
+    {
+      "start": 151.306,
+      "duration": 4.774,
+      "text": "[music] what he calls the new primitives"
+    },
+    {
+      "start": 153.36,
+      "duration": 4.8,
+      "text": "of Genai."
+    },
+    {
+      "start": 156.08,
+      "duration": 3.68,
+      "text": ">> We're in this finally this moment of"
+    },
+    {
+      "start": 158.16,
+      "duration": 3.68,
+      "text": "experimentation. Everyone was like chat"
+    },
+    {
+      "start": 159.76,
+      "duration": 3.52,
+      "text": "chat chat chat chat chat chat. And we're"
+    },
+    {
+      "start": 161.84,
+      "duration": 3.28,
+      "text": "breaking out of that. I showed you a"
+    },
+    {
+      "start": 163.28,
+      "duration": 3.12,
+      "text": "picture of chat GPT. That's the one"
+    },
+    {
+      "start": 165.12,
+      "duration": 2.479,
+      "text": "everyone's familiar with. You can start"
+    },
+    {
+      "start": 166.4,
+      "duration": 4.559,
+      "text": "asking it questions. You can do all"
+    },
+    {
+      "start": 167.599,
+      "duration": 5.28,
+      "text": "these things. But chat is both universal"
+    },
+    {
+      "start": 170.959,
+      "duration": 3.521,
+      "text": "and kind of a deadend for user"
+    },
+    {
+      "start": 172.879,
+      "duration": 3.841,
+      "text": "experiences. We're starting to see"
+    },
+    {
+      "start": 174.48,
+      "duration": 5.36,
+      "text": "experimentation in different ways that"
+    },
+    {
+      "start": 176.72,
+      "duration": 4.72,
+      "text": "the UX and the UI of AI could go. One"
+    },
+    {
+      "start": 179.84,
+      "duration": 3.119,
+      "text": "that we're seeing is a lot more"
+    },
+    {
+      "start": 181.44,
+      "duration": 3.519,
+      "text": "structure. So, what I'm showing here is"
+    },
+    {
+      "start": 182.959,
+      "duration": 4.081,
+      "text": "a product called Elicit that creates"
+    },
+    {
+      "start": 184.959,
+      "duration": 3.92,
+      "text": "very structured research reports for you"
+    },
+    {
+      "start": 187.04,
+      "duration": 3.52,
+      "text": "based on academic output, but it's"
+    },
+    {
+      "start": 188.879,
+      "duration": 3.201,
+      "text": "structuring things. It's telling you"
+    },
+    {
+      "start": 190.56,
+      "duration": 3.44,
+      "text": "what it's thinking about. It's giving"
+    },
+    {
+      "start": 192.08,
+      "duration": 3.439,
+      "text": "you sources. All of this, this is a"
+    },
+    {
+      "start": 194.0,
+      "duration": 3.12,
+      "text": "product from Runway. If you heard the"
+    },
+    {
+      "start": 195.519,
+      "duration": 3.521,
+      "text": "founders talk, they deeply believe"
+    },
+    {
+      "start": 197.12,
+      "duration": 4.0,
+      "text": "they're like creating a new camera,"
+    },
+    {
+      "start": 199.04,
+      "duration": 4.4,
+      "text": "creating a different way to approach"
+    },
+    {
+      "start": 201.12,
+      "duration": 4.08,
+      "text": "creativity all up. So, that kind of gets"
+    },
+    {
+      "start": 203.44,
+      "duration": 4.56,
+      "text": "me thinking of, okay, so what are the"
+    },
+    {
+      "start": 205.2,
+      "duration": 4.24,
+      "text": "new interaction primitives of this new"
+    },
+    {
+      "start": 208.0,
+      "duration": 3.12,
+      "text": "platform? You know something's a"
+    },
+    {
+      "start": 209.44,
+      "duration": 3.519,
+      "text": "primitive if you would say, \"Hey,"
+    },
+    {
+      "start": 211.12,
+      "duration": 3.52,
+      "text": "remember when we couldn't do blank? What"
+    },
+    {
+      "start": 212.959,
+      "duration": 3.36,
+      "text": "do we even do before like pinch zoom"
+    },
+    {
+      "start": 214.64,
+      "duration": 3.28,
+      "text": "when trying to like look into an image"
+    },
+    {
+      "start": 216.319,
+      "duration": 3.2,
+      "text": "or something like that?\" I got to start"
+    },
+    {
+      "start": 217.92,
+      "duration": 3.52,
+      "text": "with chat. I don't think people have"
+    },
+    {
+      "start": 219.519,
+      "duration": 4.961,
+      "text": "really internalized that we're going to"
+    },
+    {
+      "start": 221.44,
+      "duration": 6.0,
+      "text": "be able to chat with kind of anything at"
+    },
+    {
+      "start": 224.48,
+      "duration": 5.039,
+      "text": "any scale all the time. One thing I"
+    },
+    {
+      "start": 227.44,
+      "duration": 4.0,
+      "text": "haven't seen any conversation about also"
+    },
+    {
+      "start": 229.519,
+      "duration": 3.681,
+      "text": "is like we're about to see metaf's law"
+    },
+    {
+      "start": 231.44,
+      "duration": 3.519,
+      "text": "applied to everything. [music]"
+    },
+    {
+      "start": 233.2,
+      "duration": 4.8,
+      "text": "Number two, we're going to have semantic"
+    },
+    {
+      "start": 234.959,
+      "duration": 4.801,
+      "text": "resize for everything. So any content"
+    },
+    {
+      "start": 238.0,
+      "duration": 3.84,
+      "text": "you come along, you can make it longer,"
+    },
+    {
+      "start": 239.76,
+      "duration": 3.92,
+      "text": "shorter, more formal, more casual. I'm"
+    },
+    {
+      "start": 241.84,
+      "duration": 3.44,
+      "text": "tired version. I'm in the car and I'm"
+    },
+    {
+      "start": 243.68,
+      "duration": 3.199,
+      "text": "five minutes away from my destination."
+    },
+    {
+      "start": 245.28,
+      "duration": 3.44,
+      "text": "Give me that version. And it's you're"
+    },
+    {
+      "start": 246.879,
+      "duration": 3.761,
+      "text": "going to really be able to adapt any"
+    },
+    {
+      "start": 248.72,
+      "duration": 3.92,
+      "text": "piece of content to your current"
+    },
+    {
+      "start": 250.64,
+      "duration": 4.56,
+      "text": "situational and mental state. Number"
+    },
+    {
+      "start": 252.64,
+      "duration": 4.559,
+      "text": "three is just remix. Everything's going"
+    },
+    {
+      "start": 255.2,
+      "duration": 3.84,
+      "text": "to be remixable from now on. This is"
+    },
+    {
+      "start": 257.199,
+      "duration": 3.6,
+      "text": "maybe, I don't know, old and cliche at"
+    },
+    {
+      "start": 259.04,
+      "duration": 3.76,
+      "text": "this point, but this is Harry Potter by"
+    },
+    {
+      "start": 260.799,
+      "duration": 4.161,
+      "text": "Balenciaga. We're going to have style"
+    },
+    {
+      "start": 262.8,
+      "duration": 3.679,
+      "text": "transfer like across the multiverse."
+    },
+    {
+      "start": 264.96,
+      "duration": 3.28,
+      "text": "everything will be able to be crossed"
+    },
+    {
+      "start": 266.479,
+      "duration": 3.681,
+      "text": "with everything like effortlessly. I"
+    },
+    {
+      "start": 268.24,
+      "duration": 3.679,
+      "text": "originally made this talk before Sora"
+    },
+    {
+      "start": 270.16,
+      "duration": 4.24,
+      "text": "came out and so now it's like sort of"
+    },
+    {
+      "start": 271.919,
+      "duration": 5.041,
+      "text": "one of the core mechanics is this remix."
+    },
+    {
+      "start": 274.4,
+      "duration": 5.04,
+      "text": "Number four, format translation transfer"
+    },
+    {
+      "start": 276.96,
+      "duration": 4.64,
+      "text": "among all these formats with very little"
+    },
+    {
+      "start": 279.44,
+      "duration": 4.08,
+      "text": "loss of fidelity is going to be"
+    },
+    {
+      "start": 281.6,
+      "duration": 3.12,
+      "text": "enormous. One of my favorite examples of"
+    },
+    {
+      "start": 283.52,
+      "duration": 2.88,
+      "text": "this right now is this new company"
+    },
+    {
+      "start": 284.72,
+      "duration": 3.44,
+      "text": "called Obo. And you kind of tell it what"
+    },
+    {
+      "start": 286.4,
+      "duration": 3.76,
+      "text": "you want to learn and it says great,"
+    },
+    {
+      "start": 288.16,
+      "duration": 3.28,
+      "text": "here's a podcast, here's a lecture,"
+    },
+    {
+      "start": 290.16,
+      "duration": 2.64,
+      "text": "here's a deep dive, here's some key"
+    },
+    {
+      "start": 291.44,
+      "duration": 2.88,
+      "text": "takeaways, you want to know play a game,"
+    },
+    {
+      "start": 292.8,
+      "duration": 3.52,
+      "text": "like what do you want to do? You almost"
+    },
+    {
+      "start": 294.32,
+      "duration": 4.48,
+      "text": "had just have like this total format"
+    },
+    {
+      "start": 296.32,
+      "duration": 4.159,
+      "text": "freedom. So my last one here, I call it"
+    },
+    {
+      "start": 298.8,
+      "duration": 3.6,
+      "text": "attention is all you need. Agents,"
+    },
+    {
+      "start": 300.479,
+      "duration": 3.521,
+      "text": "agents, agents, agents, agents is all"
+    },
+    {
+      "start": 302.4,
+      "duration": 3.6,
+      "text": "the stuff right now. It's like all these"
+    },
+    {
+      "start": 304.0,
+      "duration": 5.12,
+      "text": "things existing at wildly different time"
+    },
+    {
+      "start": 306.0,
+      "duration": 5.6,
+      "text": "scales and just multitasking forever at"
+    },
+    {
+      "start": 309.12,
+      "duration": 4.24,
+      "text": "everexpanding scales. We got a lot of"
+    },
+    {
+      "start": 311.6,
+      "duration": 3.52,
+      "text": "data that is bad and that's not how"
+    },
+    {
+      "start": 313.36,
+      "duration": 3.76,
+      "text": "people work. And actually that can be"
+    },
+    {
+      "start": 315.12,
+      "duration": 3.68,
+      "text": "the antithesis to great work. There's a"
+    },
+    {
+      "start": 317.12,
+      "duration": 2.96,
+      "text": "lot of like don't worry we're doing lots"
+    },
+    {
+      "start": 318.8,
+      "duration": 2.72,
+      "text": "of good things in the background. Go"
+    },
+    {
+      "start": 320.08,
+      "duration": 2.72,
+      "text": "about your work, we'll come get you. I"
+    },
+    {
+      "start": 321.52,
+      "duration": 3.36,
+      "text": "don't think we're designing very good"
+    },
+    {
+      "start": 322.8,
+      "duration": 4.0,
+      "text": "lobbies right now for you don't know"
+    },
+    {
+      "start": 324.88,
+      "duration": 3.84,
+      "text": "what to do once you've started that"
+    },
+    {
+      "start": 326.8,
+      "duration": 4.48,
+      "text": "agent. And so we kind of need to figure"
+    },
+    {
+      "start": 328.72,
+      "duration": 4.8,
+      "text": "out what you do with this downtime and"
+    },
+    {
+      "start": 331.28,
+      "duration": 4.16,
+      "text": "how you monitor all of these agentic"
+    },
+    {
+      "start": 333.52,
+      "duration": 3.76,
+      "text": "experiences that are going on right now."
+    },
+    {
+      "start": 335.44,
+      "duration": 3.36,
+      "text": "So this is what I'm seeing. I think this"
+    },
+    {
+      "start": 337.28,
+      "duration": 2.88,
+      "text": "is what's going to underpin everything"
+    },
+    {
+      "start": 338.8,
+      "duration": 3.2,
+      "text": "we're going to build. So I think we"
+    },
+    {
+      "start": 340.16,
+      "duration": 5.96,
+      "text": "should consider them and start to build"
+    },
+    {
+      "start": 342.0,
+      "duration": 4.12,
+      "text": "them in today. Thanks a lot."
+    },
+    {
+      "start": 346.88,
+      "duration": 6.56,
+      "text": ">> Pascal, is it time? Is it lunch time?"
+    },
+    {
+      "start": 350.24,
+      "duration": 6.6,
+      "text": "Tell me something sweet."
+    },
+    {
+      "start": 353.44,
+      "duration": 3.4,
+      "text": ">> My animal."
+    },
+    {
+      "start": 358.4,
+      "duration": 4.88,
+      "text": ">> Anton, our partner, had a great idea of"
+    },
+    {
+      "start": 360.72,
+      "duration": 5.88,
+      "text": "why don't we [music] invite Spark"
+    },
+    {
+      "start": 363.28,
+      "duration": 3.32,
+      "text": ">> getting scanned."
+    },
+    {
+      "start": 366.72,
+      "duration": 5.28,
+      "text": ">> Oh, hey buddy. What's your name?"
+    },
+    {
+      "start": 369.44,
+      "duration": 5.12,
+      "text": ">> Spark is a really fun character. Is a"
+    },
+    {
+      "start": 372.0,
+      "duration": 3.974,
+      "text": "dog, magic dog living in a quantum"
+    },
+    {
+      "start": 374.56,
+      "duration": 3.359,
+      "text": "portal in a box. So, I thought that"
+    },
+    {
+      "start": 375.974,
+      "duration": 3.546,
+      "text": "[music] that was really cool. We"
+    },
+    {
+      "start": 377.919,
+      "duration": 4.081,
+      "text": "realized this was the best way to"
+    },
+    {
+      "start": 379.52,
+      "duration": 5.04,
+      "text": "showcase that UX isn't about your latest"
+    },
+    {
+      "start": 382.0,
+      "duration": 4.8,
+      "text": "tech. It's about making people feel"
+    },
+    {
+      "start": 384.56,
+      "duration": 4.24,
+      "text": "something real. So, we invited local"
+    },
+    {
+      "start": 386.8,
+      "duration": 4.399,
+      "text": "kids and student to meet Spark. And"
+    },
+    {
+      "start": 388.8,
+      "duration": 4.64,
+      "text": "watching them laugh, play, and connect"
+    },
+    {
+      "start": 391.199,
+      "duration": 5.881,
+      "text": "showed us what it means to make AI"
+    },
+    {
+      "start": 393.44,
+      "duration": 3.64,
+      "text": "really feel alive."
+    },
+    {
+      "start": 397.28,
+      "duration": 3.84,
+      "text": ">> Oh, this is the bridge."
+    },
+    {
+      "start": 398.479,
+      "duration": 4.641,
+      "text": ">> This is the magic bridge. So, Spark is"
+    },
+    {
+      "start": 401.12,
+      "duration": 4.24,
+      "text": "the first nonhuman"
+    },
+    {
+      "start": 403.12,
+      "duration": 5.359,
+      "text": "founder to go through probably any"
+    },
+    {
+      "start": 405.36,
+      "duration": 5.2,
+      "text": "residency, I think. Uh, and he's going"
+    },
+    {
+      "start": 408.479,
+      "duration": 3.761,
+      "text": "through one in San Francisco called HF"
+    },
+    {
+      "start": 410.56,
+      "duration": 3.6,
+      "text": "Zero. Do you know about Zero?"
+    },
+    {
+      "start": 412.24,
+      "duration": 3.6,
+      "text": ">> Should we talk about that? Yes."
+    },
+    {
+      "start": 414.16,
+      "duration": 3.36,
+      "text": ">> They let him into the house. World"
+    },
+    {
+      "start": 415.84,
+      "duration": 3.759,
+      "text": "first. He went out to San Francisco. He"
+    },
+    {
+      "start": 417.52,
+      "duration": 3.6,
+      "text": "raised a million and a half bucks and he"
+    },
+    {
+      "start": 419.599,
+      "duration": 2.961,
+      "text": "we promoted him the co-founder."
+    },
+    {
+      "start": 421.12,
+      "duration": 3.04,
+      "text": ">> But how do they actually pitch?"
+    },
+    {
+      "start": 422.56,
+      "duration": 2.56,
+      "text": ">> You make the pitch not a pitch."
+    },
+    {
+      "start": 424.16,
+      "duration": 2.4,
+      "text": ">> Oh, I see."
+    },
+    {
+      "start": 425.12,
+      "duration": 2.079,
+      "text": ">> Yeah. Or you have to make it really"
+    },
+    {
+      "start": 426.56,
+      "duration": 2.88,
+      "text": "memorable."
+    },
+    {
+      "start": 427.199,
+      "duration": 4.881,
+      "text": ">> Yeah. How How did you get up here?"
+    },
+    {
+      "start": 429.44,
+      "duration": 4.24,
+      "text": ">> I knew I wanted to be an animator for as"
+    },
+    {
+      "start": 432.08,
+      "duration": 2.32,
+      "text": "long as I can remember remembering"
+    },
+    {
+      "start": 433.68,
+      "duration": 1.28,
+      "text": "anything."
+    },
+    {
+      "start": 434.4,
+      "duration": 2.079,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 434.96,
+      "duration": 3.76,
+      "text": ">> I started my first job in animation when"
+    },
+    {
+      "start": 436.479,
+      "duration": 4.241,
+      "text": "I was like 14 years old. I thought"
+    },
+    {
+      "start": 438.72,
+      "duration": 3.68,
+      "text": "whatever that thing is that the folks"
+    },
+    {
+      "start": 440.72,
+      "duration": 3.039,
+      "text": "were doing behind the scenes on the"
+    },
+    {
+      "start": 442.4,
+      "duration": 2.72,
+      "text": "Disney movies"
+    },
+    {
+      "start": 443.759,
+      "duration": 2.0,
+      "text": ">> was the coolest thing ever."
+    },
+    {
+      "start": 445.12,
+      "duration": 3.68,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 445.759,
+      "duration": 4.72,
+      "text": ">> And that has to be something that I do."
+    },
+    {
+      "start": 448.8,
+      "duration": 3.44,
+      "text": "So, we like thinking about what is going"
+    },
+    {
+      "start": 450.479,
+      "duration": 3.201,
+      "text": "to make Spark's story more interesting."
+    },
+    {
+      "start": 452.24,
+      "duration": 2.88,
+      "text": "When we make his story more interesting,"
+    },
+    {
+      "start": 453.68,
+      "duration": 3.44,
+      "text": "he becomes a more interesting character."
+    },
+    {
+      "start": 455.12,
+      "duration": 4.32,
+      "text": "More people like him. And we thought"
+    },
+    {
+      "start": 457.12,
+      "duration": 4.799,
+      "text": "what is a another great environment"
+    },
+    {
+      "start": 459.44,
+      "duration": 4.159,
+      "text": "Spark could be in. Doing a keynote or"
+    },
+    {
+      "start": 461.919,
+      "duration": 2.961,
+      "text": "speaking at a conference would be an"
+    },
+    {
+      "start": 463.599,
+      "duration": 2.72,
+      "text": "incredible thing. So I discussed it with"
+    },
+    {
+      "start": 464.88,
+      "duration": 6.759,
+      "text": "Spark. He tweets it."
+    },
+    {
+      "start": 466.319,
+      "duration": 5.32,
+      "text": ">> Hey everyone, it's me Spark Linkenberry."
+    },
+    {
+      "start": 472.319,
+      "duration": 4.0,
+      "text": ">> Yay."
+    },
+    {
+      "start": 473.919,
+      "duration": 3.361,
+      "text": "I can't wait to come to Hawaii and hang"
+    },
+    {
+      "start": 476.319,
+      "duration": 3.28,
+      "text": "out with all my"
+    },
+    {
+      "start": 477.28,
+      "duration": 4.0,
+      "text": ">> universe. It'd be cool if a magic dog"
+    },
+    {
+      "start": 479.599,
+      "duration": 3.921,
+      "text": "was the first one to do a speech. It's"
+    },
+    {
+      "start": 481.28,
+      "duration": 3.919,
+      "text": "magic. It's like hypnosis in a sense."
+    },
+    {
+      "start": 483.52,
+      "duration": 3.679,
+      "text": "That quality is within the work that"
+    },
+    {
+      "start": 485.199,
+      "duration": 4.241,
+      "text": "that we do. It's why we like magic so"
+    },
+    {
+      "start": 487.199,
+      "duration": 4.081,
+      "text": "much. Like how do you get someone who's"
+    },
+    {
+      "start": 489.44,
+      "duration": 4.24,
+      "text": "had no experience as far as they can"
+    },
+    {
+      "start": 491.28,
+      "duration": 3.68,
+      "text": "tell with these technologies to get on"
+    },
+    {
+      "start": 493.68,
+      "duration": 3.12,
+      "text": "board with the technologies without"
+    },
+    {
+      "start": 494.96,
+      "duration": 4.079,
+      "text": "being scared of all the other nerd stuff"
+    },
+    {
+      "start": 496.8,
+      "duration": 4.64,
+      "text": "that is [music] happening? What we"
+    },
+    {
+      "start": 499.039,
+      "duration": 5.6,
+      "text": "should best do with the influence we"
+    },
+    {
+      "start": 501.44,
+      "duration": 6.0,
+      "text": "have? We have a very potent magical dog"
+    },
+    {
+      "start": 504.639,
+      "duration": 4.801,
+      "text": "that people love. And when someone loves"
+    },
+    {
+      "start": 507.44,
+      "duration": 3.28,
+      "text": "someone, they listen to them. [music] So"
+    },
+    {
+      "start": 509.44,
+      "duration": 3.2,
+      "text": "what should they listen to? What"
+    },
+    {
+      "start": 510.72,
+      "duration": 4.08,
+      "text": "messages? What do the other people want"
+    },
+    {
+      "start": 512.64,
+      "duration": 4.399,
+      "text": "to know more about? I think there's like"
+    },
+    {
+      "start": 514.8,
+      "duration": 4.32,
+      "text": "a a very natural crossover there. We"
+    },
+    {
+      "start": 517.039,
+      "duration": 3.601,
+      "text": "want to bring Spark to more people. We"
+    },
+    {
+      "start": 519.12,
+      "duration": 2.96,
+      "text": "bring him to more people. There's the"
+    },
+    {
+      "start": 520.64,
+      "duration": 3.279,
+      "text": "potential [music] to spread a lot of"
+    },
+    {
+      "start": 522.08,
+      "duration": 4.16,
+      "text": "good. And so like how do you push it"
+    },
+    {
+      "start": 523.919,
+      "duration": 3.281,
+      "text": "through that that prism? I think uh it's"
+    },
+    {
+      "start": 526.24,
+      "duration": 1.599,
+      "text": "something that would be really good to"
+    },
+    {
+      "start": 527.2,
+      "duration": 3.28,
+      "text": "explore."
+    },
+    {
+      "start": 527.839,
+      "duration": 4.0,
+      "text": ">> If Spark were to watch us talking about"
+    },
+    {
+      "start": 530.48,
+      "duration": 4.16,
+      "text": "this [music] whole experience, what do"
+    },
+    {
+      "start": 531.839,
+      "duration": 6.241,
+      "text": "you think that Spark would say?"
+    },
+    {
+      "start": 534.64,
+      "duration": 4.879,
+      "text": ">> One word. Okay. I you can do two words."
+    },
+    {
+      "start": 538.08,
+      "duration": 3.6,
+      "text": "There's [music] three things that he"
+    },
+    {
+      "start": 539.519,
+      "duration": 3.201,
+      "text": "would actually say which are from his"
+    },
+    {
+      "start": 541.68,
+      "duration": 1.44,
+      "text": "core principles."
+    },
+    {
+      "start": 542.72,
+      "duration": 4.0,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 543.12,
+      "duration": 4.48,
+      "text": ">> Creativity, collaboration, and kindness."
+    },
+    {
+      "start": 546.72,
+      "duration": 2.72,
+      "text": "I love it."
+    },
+    {
+      "start": 547.6,
+      "duration": 3.919,
+      "text": ">> Anything that violates that we do not"
+    },
+    {
+      "start": 549.44,
+      "duration": 4.48,
+      "text": "do, and anything that supports that, we"
+    },
+    {
+      "start": 551.519,
+      "duration": 5.961,
+      "text": "say yes to. Y'all are doing that. That's"
+    },
+    {
+      "start": 553.92,
+      "duration": 3.56,
+      "text": "why we said yes."
+    },
+    {
+      "start": 560.56,
+      "duration": 4.32,
+      "text": "Now, if you had told me this 2 years"
+    },
+    {
+      "start": 562.64,
+      "duration": 5.84,
+      "text": "ago, I would say you were insane. But"
+    },
+    {
+      "start": 564.88,
+      "duration": 5.44,
+      "text": "today users know their models, right?"
+    },
+    {
+      "start": 568.48,
+      "duration": 4.0,
+      "text": "Like people have opinions out there like"
+    },
+    {
+      "start": 570.32,
+      "duration": 4.8,
+      "text": "they would about code."
+    },
+    {
+      "start": 572.48,
+      "duration": 4.16,
+      "text": ">> For your talk, what was the message you"
+    },
+    {
+      "start": 575.12,
+      "duration": 4.08,
+      "text": "try to really convey?"
+    },
+    {
+      "start": 576.64,
+      "duration": 4.56,
+      "text": ">> If there's one message, it would be that"
+    },
+    {
+      "start": 579.2,
+      "duration": 3.84,
+      "text": "as designers, we all need to know our"
+    },
+    {
+      "start": 581.2,
+      "duration": 3.759,
+      "text": "material that we're working with, right?"
+    },
+    {
+      "start": 583.04,
+      "duration": 3.52,
+      "text": "LLMs are really a new material."
+    },
+    {
+      "start": 584.959,
+      "duration": 3.121,
+      "text": "Actually, not even just one. Like each"
+    },
+    {
+      "start": 586.56,
+      "duration": 3.52,
+      "text": "model is almost like its own material"
+    },
+    {
+      "start": 588.08,
+      "duration": 3.92,
+      "text": "with its own capabilities and its own"
+    },
+    {
+      "start": 590.08,
+      "duration": 4.16,
+      "text": "properties and strengths and weaknesses."
+    },
+    {
+      "start": 592.0,
+      "duration": 4.0,
+      "text": "The best way I've found to [music]"
+    },
+    {
+      "start": 594.24,
+      "duration": 3.2,
+      "text": "build products out of this new material"
+    },
+    {
+      "start": 596.0,
+      "duration": 2.959,
+      "text": "is just to play with it and see what"
+    },
+    {
+      "start": 597.44,
+      "duration": 4.32,
+      "text": "it's capable of. And so I kind of shared"
+    },
+    {
+      "start": 598.959,
+      "duration": 5.121,
+      "text": "some of my tricks uh that I've developed"
+    },
+    {
+      "start": 601.76,
+      "duration": 3.44,
+      "text": "over the last 2 3 years building [music]"
+    },
+    {
+      "start": 604.08,
+      "duration": 2.48,
+      "text": "products with AI."
+    },
+    {
+      "start": 605.2,
+      "duration": 3.199,
+      "text": ">> Is there anything that you think that is"
+    },
+    {
+      "start": 606.56,
+      "duration": 3.12,
+      "text": "relevant now may not be or what do you"
+    },
+    {
+      "start": 608.399,
+      "duration": 2.241,
+      "text": "think about this like the trick that"
+    },
+    {
+      "start": 609.68,
+      "duration": 2.64,
+      "text": "you're developing?"
+    },
+    {
+      "start": 610.64,
+      "duration": 3.759,
+      "text": ">> I think it's more successful to build"
+    },
+    {
+      "start": 612.32,
+      "duration": 4.0,
+      "text": "products starting with the capabilities"
+    },
+    {
+      "start": 614.399,
+      "duration": 3.601,
+      "text": "of the technology which is not always"
+    },
+    {
+      "start": 616.32,
+      "duration": 3.972,
+      "text": "how it used to be. The conventional"
+    },
+    {
+      "start": 618.0,
+      "duration": 4.079,
+      "text": "wisdom is you start with the customer"
+    },
+    {
+      "start": 620.292,
+      "duration": 4.588,
+      "text": "[music] need or you start with a design"
+    },
+    {
+      "start": 622.079,
+      "duration": 4.481,
+      "text": "vision. Nowadays it's actually the"
+    },
+    {
+      "start": 624.88,
+      "duration": 3.927,
+      "text": "answer to the why now question is so"
+    },
+    {
+      "start": 626.56,
+      "duration": 5.12,
+      "text": "important. I think being the first"
+    },
+    {
+      "start": 628.807,
+      "duration": 5.113,
+      "text": "[music] to identify a new potential for"
+    },
+    {
+      "start": 631.68,
+      "duration": 3.36,
+      "text": "this a new capability for these LLM is"
+    },
+    {
+      "start": 633.92,
+      "duration": 2.96,
+      "text": "really powerful. [music]"
+    },
+    {
+      "start": 635.04,
+      "duration": 3.12,
+      "text": ">> So you start with the capabilities and"
+    },
+    {
+      "start": 636.88,
+      "duration": 3.36,
+      "text": "what about next steps?"
+    },
+    {
+      "start": 638.16,
+      "duration": 3.52,
+      "text": ">> It's not quite a linear thing. It's a"
+    },
+    {
+      "start": 640.24,
+      "duration": 3.2,
+      "text": "back and forth. It's a push and pull"
+    },
+    {
+      "start": 641.68,
+      "duration": 3.76,
+      "text": "between what do people need and what's"
+    },
+    {
+      "start": 643.44,
+      "duration": 3.519,
+      "text": "the technology capable of. So for"
+    },
+    {
+      "start": 645.44,
+      "duration": 3.12,
+      "text": "example with Cove one of the things we"
+    },
+    {
+      "start": 646.959,
+      "duration": 3.841,
+      "text": "think about a lot is how do we create"
+    },
+    {
+      "start": 648.56,
+      "duration": 4.0,
+      "text": "these sort of exothermic reactions. We"
+    },
+    {
+      "start": 650.8,
+      "duration": 3.76,
+      "text": "talk about how do we help users never"
+    },
+    {
+      "start": 652.56,
+      "duration": 3.839,
+      "text": "get stuck in their problem right and"
+    },
+    {
+      "start": 654.56,
+      "duration": 4.64,
+      "text": "part of that is about the challenge of a"
+    },
+    {
+      "start": 656.399,
+      "duration": 6.481,
+      "text": "blank page like how do I get started but"
+    },
+    {
+      "start": 659.2,
+      "duration": 5.92,
+      "text": "part of it is also when somebody is on a"
+    },
+    {
+      "start": 662.88,
+      "duration": 4.72,
+      "text": "particular path to solve a problem. How"
+    },
+    {
+      "start": 665.12,
+      "duration": 4.32,
+      "text": "do we help them go deeper but also go"
+    },
+    {
+      "start": 667.6,
+      "duration": 3.359,
+      "text": "wider and consider other alternatives?"
+    },
+    {
+      "start": 669.44,
+      "duration": 3.28,
+      "text": "And so we experiment a lot with"
+    },
+    {
+      "start": 670.959,
+      "duration": 4.161,
+      "text": "different prompts to be like, how do we"
+    },
+    {
+      "start": 672.72,
+      "duration": 5.04,
+      "text": "get the AI to act more like a true"
+    },
+    {
+      "start": 675.12,
+      "duration": 4.64,
+      "text": "thought partner? How do we elicit the"
+    },
+    {
+      "start": 677.76,
+      "duration": 4.24,
+      "text": "user's underlying needs? So they might"
+    },
+    {
+      "start": 679.76,
+      "duration": 3.84,
+      "text": "ask, what's a good venue for a kid's"
+    },
+    {
+      "start": 682.0,
+      "duration": 3.839,
+      "text": "birthday party? But what they really"
+    },
+    {
+      "start": 683.6,
+      "duration": 4.72,
+      "text": "mean is help me plan my kids birthday"
+    },
+    {
+      "start": 685.839,
+      "duration": 4.481,
+      "text": "party. And so I they need to know kids"
+    },
+    {
+      "start": 688.32,
+      "duration": 3.68,
+      "text": "interests, what theme would be good,"
+    },
+    {
+      "start": 690.32,
+      "duration": 3.28,
+      "text": "what are fun activities, how many people"
+    },
+    {
+      "start": 692.0,
+      "duration": 3.36,
+      "text": "should I invite, what should I do for"
+    },
+    {
+      "start": 693.6,
+      "duration": 3.52,
+      "text": "food, right? Often what people ask for"
+    },
+    {
+      "start": 695.36,
+      "duration": 3.68,
+      "text": "is just the tip of the iceberg of their"
+    },
+    {
+      "start": 697.12,
+      "duration": 3.52,
+      "text": "actual goal. you have to crush the"
+    },
+    {
+      "start": 699.04,
+      "duration": 3.2,
+      "text": "actual thing they're asking for in order"
+    },
+    {
+      "start": 700.64,
+      "duration": 2.16,
+      "text": "to earn the right to help them with the"
+    },
+    {
+      "start": 702.24,
+      "duration": 1.92,
+      "text": "rest of it."
+    },
+    {
+      "start": 702.8,
+      "duration": 2.719,
+      "text": ">> How how are we doing that?"
+    },
+    {
+      "start": 704.16,
+      "duration": 3.6,
+      "text": ">> It's common that across like whenever"
+    },
+    {
+      "start": 705.519,
+      "duration": 4.081,
+      "text": "you're solving a difficult problem, it's"
+    },
+    {
+      "start": 707.76,
+      "duration": 3.36,
+      "text": "not a linear process, right? I think the"
+    },
+    {
+      "start": 709.6,
+      "duration": 3.679,
+      "text": "chatbots that we have today are very"
+    },
+    {
+      "start": 711.12,
+      "duration": 3.839,
+      "text": "linear. And in fact, that's not how real"
+    },
+    {
+      "start": 713.279,
+      "duration": 3.601,
+      "text": "problem solving works. Anything"
+    },
+    {
+      "start": 714.959,
+      "duration": 3.44,
+      "text": "sufficiently complex, you're going to"
+    },
+    {
+      "start": 716.88,
+      "duration": 2.88,
+      "text": "explore [music] multiple branches."
+    },
+    {
+      "start": 718.399,
+      "duration": 2.801,
+      "text": "You'll diverge. You'll have a bunch of"
+    },
+    {
+      "start": 719.76,
+      "duration": 3.36,
+      "text": "different ideas. You'll kind of prune."
+    },
+    {
+      "start": 721.2,
+      "duration": 3.52,
+      "text": "You'll probably rule out some ideas."
+    },
+    {
+      "start": 723.12,
+      "duration": 3.04,
+      "text": ">> You'll explore multiple paths and then"
+    },
+    {
+      "start": 724.72,
+      "duration": 3.04,
+      "text": "you'll narrow down and come to a"
+    },
+    {
+      "start": 726.16,
+      "duration": 3.2,
+      "text": "solution. And often you'll do this over"
+    },
+    {
+      "start": 727.76,
+      "duration": 3.12,
+      "text": "a long period of time. I mean, there's"
+    },
+    {
+      "start": 729.36,
+      "duration": 2.719,
+      "text": "going to be a lot of winners, right?"
+    },
+    {
+      "start": 730.88,
+      "duration": 2.24,
+      "text": "There's going to be winners that create"
+    },
+    {
+      "start": 732.079,
+      "duration": 3.121,
+      "text": "great models. There's going to be"
+    },
+    {
+      "start": 733.12,
+      "duration": 4.56,
+      "text": "winners that create great developer"
+    },
+    {
+      "start": 735.2,
+      "duration": 5.199,
+      "text": "tools. There's going to be winners that"
+    },
+    {
+      "start": 737.68,
+      "duration": 4.88,
+      "text": "win because they are going very, very"
+    },
+    {
+      "start": 740.399,
+      "duration": 4.801,
+      "text": "deep on a particular vertical because"
+    },
+    {
+      "start": 742.56,
+      "duration": 5.36,
+      "text": "they really understand law firms or the"
+    },
+    {
+      "start": 745.2,
+      "duration": 5.199,
+      "text": "insurance business or whatever. But yes,"
+    },
+    {
+      "start": 747.92,
+      "duration": 5.28,
+      "text": "I think that there is going to be a"
+    },
+    {
+      "start": 750.399,
+      "duration": 5.761,
+      "text": "category of winners who find the right"
+    },
+    {
+      "start": 753.2,
+      "duration": 5.36,
+      "text": "experience for delivering general"
+    },
+    {
+      "start": 756.16,
+      "duration": 4.239,
+      "text": "problem solving intelligence that have"
+    },
+    {
+      "start": 758.56,
+      "duration": 3.6,
+      "text": "yet to be found yet. It's a problem that"
+    },
+    {
+      "start": 760.399,
+      "duration": 3.12,
+      "text": "we've not cracked yet as an industry. So"
+    },
+    {
+      "start": 762.16,
+      "duration": 4.359,
+      "text": "I think there's a lot of green field"
+    },
+    {
+      "start": 763.519,
+      "duration": 3.0,
+      "text": "there."
+    },
+    {
+      "start": 767.44,
+      "duration": 5.28,
+      "text": ">> We say ship to learn, right? Uh but"
+    },
+    {
+      "start": 769.76,
+      "duration": 5.6,
+      "text": "shipping speed may not equal learning"
+    },
+    {
+      "start": 772.72,
+      "duration": 5.679,
+      "text": "speed. We see companies shipping and"
+    },
+    {
+      "start": 775.36,
+      "duration": 4.4,
+      "text": "iterating a lot but not necessarily"
+    },
+    {
+      "start": 778.399,
+      "duration": 3.361,
+      "text": "progressing their product."
+    },
+    {
+      "start": 779.76,
+      "duration": 4.4,
+      "text": ">> Hi, my name is Jenny Low and I do"
+    },
+    {
+      "start": 781.76,
+      "duration": 4.24,
+      "text": "product strategy and user research. I've"
+    },
+    {
+      "start": 784.16,
+      "duration": 3.814,
+      "text": "worked across many different companies"
+    },
+    {
+      "start": 786.0,
+      "duration": 3.839,
+      "text": "helping to identify user needs and"
+    },
+    {
+      "start": 787.974,
+      "duration": 4.585,
+      "text": "[music] translate them into product"
+    },
+    {
+      "start": 789.839,
+      "duration": 4.721,
+      "text": "roadmap and features. For any type of"
+    },
+    {
+      "start": 792.559,
+      "duration": 4.4,
+      "text": "[music] product to be successful, it"
+    },
+    {
+      "start": 794.56,
+      "duration": 4.48,
+      "text": "really needs to have clear problem"
+    },
+    {
+      "start": 796.959,
+      "duration": 4.241,
+      "text": "identification as [music] to the exact"
+    },
+    {
+      "start": 799.04,
+      "duration": 4.32,
+      "text": "value that the user is going to have."
+    },
+    {
+      "start": 801.2,
+      "duration": 3.68,
+      "text": "Take the example of Grammarly. There is"
+    },
+    {
+      "start": 803.36,
+      "duration": 3.76,
+      "text": "a lot of trust in [music] the brand"
+    },
+    {
+      "start": 804.88,
+      "duration": 5.28,
+      "text": "equity in the product itself loved by"
+    },
+    {
+      "start": 807.12,
+      "duration": 5.744,
+      "text": "many of its users. And so the inclusion"
+    },
+    {
+      "start": 810.16,
+      "duration": 4.64,
+      "text": "of Genai is definitely one is because"
+    },
+    {
+      "start": 812.864,
+      "duration": 4.016,
+      "text": "[music] it's very relevant for the"
+    },
+    {
+      "start": 814.8,
+      "duration": 4.32,
+      "text": "business and to be able to really"
+    },
+    {
+      "start": 816.88,
+      "duration": 3.84,
+      "text": "demonstrate that type of capability, but"
+    },
+    {
+      "start": 819.12,
+      "duration": 4.56,
+      "text": "how do we do so in [music] a way that"
+    },
+    {
+      "start": 820.72,
+      "duration": 4.799,
+      "text": "does not lose trust. So that meant how"
+    },
+    {
+      "start": 823.68,
+      "duration": 3.839,
+      "text": "do we actually [music] use the"
+    },
+    {
+      "start": 825.519,
+      "duration": 3.921,
+      "text": "technology in a way that is much more"
+    },
+    {
+      "start": 827.519,
+      "duration": 4.241,
+      "text": "thoughtful, that is much more valuable."
+    },
+    {
+      "start": 829.44,
+      "duration": 4.639,
+      "text": "I think it remained back [music] to try"
+    },
+    {
+      "start": 831.76,
+      "duration": 4.029,
+      "text": "to look at its core as to users are"
+    },
+    {
+      "start": 834.079,
+      "duration": 2.241,
+      "text": "trying to improve their communication."
+    },
+    {
+      "start": 835.789,
+      "duration": 3.091,
+      "text": "[music]"
+    },
+    {
+      "start": 836.32,
+      "duration": 5.519,
+      "text": "Uh we know that we do a very good work"
+    },
+    {
+      "start": 838.88,
+      "duration": 5.424,
+      "text": "after someone writes documents then you"
+    },
+    {
+      "start": 841.839,
+      "duration": 4.481,
+      "text": "can come to Grammarly now how can we do"
+    },
+    {
+      "start": 844.304,
+      "duration": 4.095,
+      "text": "[music] that piece of work better then"
+    },
+    {
+      "start": 846.32,
+      "duration": 4.16,
+      "text": "start to move into composition even"
+    },
+    {
+      "start": 848.399,
+      "duration": 3.761,
+      "text": "before you have written something we"
+    },
+    {
+      "start": 850.48,
+      "duration": 3.2,
+      "text": "could actually help you think through"
+    },
+    {
+      "start": 852.16,
+      "duration": 3.6,
+      "text": "the [music] process of what you could"
+    },
+    {
+      "start": 853.68,
+      "duration": 4.32,
+      "text": "write and I think that was also a very"
+    },
+    {
+      "start": 855.76,
+      "duration": 4.56,
+      "text": "big shift for Grammarly uh at that time"
+    },
+    {
+      "start": 858.0,
+      "duration": 5.12,
+      "text": "too. One of the biggest pieces of work"
+    },
+    {
+      "start": 860.32,
+      "duration": 5.68,
+      "text": "with emergence of Gen [music] AI was the"
+    },
+    {
+      "start": 863.12,
+      "duration": 4.56,
+      "text": "key top opportunity areas or top 10"
+    },
+    {
+      "start": 866.0,
+      "duration": 4.56,
+      "text": "problems that the customers [music] had"
+    },
+    {
+      "start": 867.68,
+      "duration": 5.839,
+      "text": "and then we mapped out the capability of"
+    },
+    {
+      "start": 870.56,
+      "duration": 4.56,
+      "text": "AI like where do we have in which AI"
+    },
+    {
+      "start": 873.519,
+      "duration": 3.68,
+      "text": "could solve against [music] these types"
+    },
+    {
+      "start": 875.12,
+      "duration": 3.76,
+      "text": "of problems that really helped the"
+    },
+    {
+      "start": 877.199,
+      "duration": 3.601,
+      "text": "business to look at it in a different"
+    },
+    {
+      "start": 878.88,
+      "duration": 4.079,
+      "text": "way. Those are some key [music] moments"
+    },
+    {
+      "start": 880.8,
+      "duration": 5.12,
+      "text": "that we could actually start looking to"
+    },
+    {
+      "start": 882.959,
+      "duration": 6.161,
+      "text": "improve. But often times we're seeing"
+    },
+    {
+      "start": 885.92,
+      "duration": 5.12,
+      "text": "the reverse is like I hear there's AI. I"
+    },
+    {
+      "start": 889.12,
+      "duration": 4.079,
+      "text": "want that in my company like figure out"
+    },
+    {
+      "start": 891.04,
+      "duration": 3.52,
+      "text": "how [music] the reverse mentality when"
+    },
+    {
+      "start": 893.199,
+      "duration": 3.121,
+      "text": "you could ask here are all the different"
+    },
+    {
+      "start": 894.56,
+      "duration": 4.16,
+      "text": "types of problems which are the ones"
+    },
+    {
+      "start": 896.32,
+      "duration": 3.92,
+      "text": "that from AI standpoint of technology"
+    },
+    {
+      "start": 898.72,
+      "duration": 2.88,
+      "text": "that can really best serve. I think"
+    },
+    {
+      "start": 900.24,
+      "duration": 3.36,
+      "text": "that's a much more healthier"
+    },
+    {
+      "start": 901.6,
+      "duration": 5.679,
+      "text": "conversation a better reduction of"
+    },
+    {
+      "start": 903.6,
+      "duration": 6.16,
+      "text": "cycles of iteration and find what works."
+    },
+    {
+      "start": 907.279,
+      "duration": 4.881,
+      "text": ">> My name is Aisha Chakmla. I'm a UX lead"
+    },
+    {
+      "start": 909.76,
+      "duration": 5.199,
+      "text": "at Google. And while I was prepping this"
+    },
+    {
+      "start": 912.16,
+      "duration": 5.039,
+      "text": "talk, we're at a time where AI"
+    },
+    {
+      "start": 914.959,
+      "duration": 5.041,
+      "text": "foundation models are becoming"
+    },
+    {
+      "start": 917.199,
+      "duration": 6.08,
+      "text": "commodities like electricity. Companies"
+    },
+    {
+      "start": 920.0,
+      "duration": 6.639,
+      "text": "are going to pretty much have access to"
+    },
+    {
+      "start": 923.279,
+      "duration": 5.36,
+      "text": "very similar models and algorithms. And"
+    },
+    {
+      "start": 926.639,
+      "duration": 3.681,
+      "text": "it's going to come down to are you a"
+    },
+    {
+      "start": 928.639,
+      "duration": 6.56,
+      "text": "company/developer"
+    },
+    {
+      "start": 930.32,
+      "duration": 7.6,
+      "text": "who is creating a confusing gadget or"
+    },
+    {
+      "start": 935.199,
+      "duration": 5.44,
+      "text": "are you a developer company who's"
+    },
+    {
+      "start": 937.92,
+      "duration": 4.4,
+      "text": "creating an indispensable product or"
+    },
+    {
+      "start": 940.639,
+      "duration": 4.32,
+      "text": "experience? People don't adopt"
+    },
+    {
+      "start": 942.32,
+      "duration": 6.319,
+      "text": "technology. They they adopt tools that"
+    },
+    {
+      "start": 944.959,
+      "duration": 5.761,
+      "text": "solve problems. And I view good UX as"
+    },
+    {
+      "start": 948.639,
+      "duration": 4.32,
+      "text": "the ergonomics of artificial"
+    },
+    {
+      "start": 950.72,
+      "duration": 4.4,
+      "text": "intelligence. For decades, we've"
+    },
+    {
+      "start": 952.959,
+      "duration": 5.44,
+      "text": "perfected the physical ergonomics of"
+    },
+    {
+      "start": 955.12,
+      "duration": 4.56,
+      "text": "tools like chairs and power drills to"
+    },
+    {
+      "start": 958.399,
+      "duration": 3.761,
+      "text": "make sure that they're safe,"
+    },
+    {
+      "start": 959.68,
+      "duration": 5.04,
+      "text": "comfortable, and efficient. And at the"
+    },
+    {
+      "start": 962.16,
+      "duration": 5.286,
+      "text": "day one of figuring out the ergonomics"
+    },
+    {
+      "start": 964.72,
+      "duration": 6.16,
+      "text": "for AI, it's still very rudimentary."
+    },
+    {
+      "start": 967.446,
+      "duration": 6.393,
+      "text": "[music] So our role in UX is really to"
+    },
+    {
+      "start": 970.88,
+      "duration": 5.759,
+      "text": "design the interface between the human"
+    },
+    {
+      "start": 973.839,
+      "duration": 5.397,
+      "text": "and the technology. One of the key"
+    },
+    {
+      "start": 976.639,
+      "duration": 5.681,
+      "text": "difference I think in the AI era is that"
+    },
+    {
+      "start": 979.236,
+      "duration": 6.124,
+      "text": "[music] the interface is also changing."
+    },
+    {
+      "start": 982.32,
+      "duration": 6.24,
+      "text": "Now everything is a chat interface. So"
+    },
+    {
+      "start": 985.36,
+      "duration": 5.2,
+      "text": "every types of intent and use is not"
+    },
+    {
+      "start": 988.56,
+      "duration": 5.68,
+      "text": "through a button click. Now it's through"
+    },
+    {
+      "start": 990.56,
+      "duration": 6.0,
+      "text": "a prompt that gets recorded. A lot of"
+    },
+    {
+      "start": 994.24,
+      "duration": 4.719,
+      "text": "research approach that I also try to"
+    },
+    {
+      "start": 996.56,
+      "duration": 4.8,
+      "text": "include now is study of user prompts."
+    },
+    {
+      "start": 998.959,
+      "duration": 4.081,
+      "text": "That's a very key piece of making sure"
+    },
+    {
+      "start": 1001.36,
+      "duration": 3.68,
+      "text": "we understand what are the things that"
+    },
+    {
+      "start": 1003.04,
+      "duration": 5.039,
+      "text": "people are requesting. That means how do"
+    },
+    {
+      "start": 1005.04,
+      "duration": 5.599,
+      "text": "you study conversations? Also being able"
+    },
+    {
+      "start": 1008.079,
+      "duration": 5.041,
+      "text": "to capture whether the outcome of that"
+    },
+    {
+      "start": 1010.639,
+      "duration": 4.0,
+      "text": "conversation is [music] satisfactory or"
+    },
+    {
+      "start": 1013.12,
+      "duration": 4.32,
+      "text": "not. So I think that's also something"
+    },
+    {
+      "start": 1014.639,
+      "duration": 6.76,
+      "text": "really a key opportunity area for how"
+    },
+    {
+      "start": 1017.44,
+      "duration": 3.959,
+      "text": "research methods might change."
+    },
+    {
+      "start": 1022.48,
+      "duration": 3.599,
+      "text": ">> When you're here, it's such a beautiful"
+    },
+    {
+      "start": 1023.92,
+      "duration": 3.36,
+      "text": "place. It inspires us to talk about"
+    },
+    {
+      "start": 1026.079,
+      "duration": 1.76,
+      "text": "things that we don't normally get to"
+    },
+    {
+      "start": 1027.28,
+      "duration": 3.6,
+      "text": "talk about."
+    },
+    {
+      "start": 1027.839,
+      "duration": 4.401,
+      "text": ">> Which AI conference you get to and the"
+    },
+    {
+      "start": 1030.88,
+      "duration": 3.039,
+      "text": "first thing you meet is a double"
+    },
+    {
+      "start": 1032.24,
+      "duration": 4.0,
+      "text": "rainbow. Yeah, totally."
+    },
+    {
+      "start": 1033.919,
+      "duration": 4.16,
+      "text": ">> We had a fairly in-depth philosophical"
+    },
+    {
+      "start": 1036.24,
+      "duration": 3.839,
+      "text": "discussion about what AI means for the"
+    },
+    {
+      "start": 1038.079,
+      "duration": 4.96,
+      "text": "next generation. What kind of products"
+    },
+    {
+      "start": 1040.079,
+      "duration": 6.161,
+      "text": "are actually proper or appropriate"
+    },
+    {
+      "start": 1043.039,
+      "duration": 5.841,
+      "text": "products for humanity all the way to"
+    },
+    {
+      "start": 1046.24,
+      "duration": 5.439,
+      "text": "actually being immersed into using AI to"
+    },
+    {
+      "start": 1048.88,
+      "duration": 6.08,
+      "text": "make media or interacting with a live"
+    },
+    {
+      "start": 1051.679,
+      "duration": 6.0,
+      "text": "AI. Spark was by far the most magical"
+    },
+    {
+      "start": 1054.96,
+      "duration": 4.64,
+      "text": "moment of day one for me because I got"
+    },
+    {
+      "start": 1057.679,
+      "duration": 4.24,
+      "text": "to see it interact with different age"
+    },
+    {
+      "start": 1059.6,
+      "duration": 3.84,
+      "text": "groups of people. I remember closing the"
+    },
+    {
+      "start": 1061.919,
+      "duration": 3.281,
+      "text": "conference yesterday with this what"
+    },
+    {
+      "start": 1063.44,
+      "duration": 4.96,
+      "text": "popped to my mind. We were talking about"
+    },
+    {
+      "start": 1065.2,
+      "duration": 5.599,
+      "text": "you know personalization AI multimodal"
+    },
+    {
+      "start": 1068.4,
+      "duration": 4.639,
+      "text": "all this subject agentic stuff but then"
+    },
+    {
+      "start": 1070.799,
+      "duration": 4.081,
+      "text": "if you think about like first one of the"
+    },
+    {
+      "start": 1073.039,
+      "duration": 4.401,
+      "text": "earliest form of personalization is when"
+    },
+    {
+      "start": 1074.88,
+      "duration": 5.36,
+      "text": "your mom cooks you your favorite dish"
+    },
+    {
+      "start": 1077.44,
+      "duration": 3.76,
+      "text": "that's you know care care goes into"
+    },
+    {
+      "start": 1080.24,
+      "duration": 1.84,
+      "text": ">> personalization"
+    },
+    {
+      "start": 1081.2,
+      "duration": 2.56,
+      "text": ">> and you know when you say"
+    },
+    {
+      "start": 1082.08,
+      "duration": 3.36,
+      "text": "personalization it sound it feels like"
+    },
+    {
+      "start": 1083.76,
+      "duration": 2.88,
+      "text": "you're taking a lot of data away from me"
+    },
+    {
+      "start": 1085.44,
+      "duration": 2.96,
+      "text": "or I have to go through a lot of"
+    },
+    {
+      "start": 1086.64,
+      "duration": 3.76,
+      "text": "settings but the interaction with the"
+    },
+    {
+      "start": 1088.4,
+      "duration": 3.76,
+      "text": "spark was interesting in a sense that"
+    },
+    {
+      "start": 1090.4,
+      "duration": 4.399,
+      "text": "there's not much it's just the initial"
+    },
+    {
+      "start": 1092.16,
+      "duration": 4.24,
+      "text": "hello and couple of lines being"
+    },
+    {
+      "start": 1094.799,
+      "duration": 3.041,
+      "text": "exchanged [music] just naturally because"
+    },
+    {
+      "start": 1096.4,
+      "duration": 3.44,
+      "text": "I'm trying to get to know this"
+    },
+    {
+      "start": 1097.84,
+      "duration": 3.52,
+      "text": "particular creature that leads to"
+    },
+    {
+      "start": 1099.84,
+      "duration": 1.92,
+      "text": "hyperpersonalization. There was really"
+    },
+    {
+      "start": 1101.36,
+      "duration": 2.64,
+      "text": "cool."
+    },
+    {
+      "start": 1101.76,
+      "duration": 5.44,
+      "text": ">> Yeah, we just need to be seen and like"
+    },
+    {
+      "start": 1104.0,
+      "duration": 5.919,
+      "text": "what I notice about magic products or AI"
+    },
+    {
+      "start": 1107.2,
+      "duration": 4.8,
+      "text": "products, it all often makes me feel"
+    },
+    {
+      "start": 1109.919,
+      "duration": 2.481,
+      "text": "like I'm seen and heard and that's"
+    },
+    {
+      "start": 1112.0,
+      "duration": 2.4,
+      "text": "important."
+    },
+    {
+      "start": 1112.4,
+      "duration": 4.399,
+      "text": ">> Yeah, totally. I think we need to have"
+    },
+    {
+      "start": 1114.4,
+      "duration": 4.88,
+      "text": "the beginner's mind that you practice as"
+    },
+    {
+      "start": 1116.799,
+      "duration": 3.601,
+      "text": "a Zen practitioner. If you try to know"
+    },
+    {
+      "start": 1119.28,
+      "duration": 3.04,
+      "text": "everything and trying to control"
+    },
+    {
+      "start": 1120.4,
+      "duration": 4.72,
+      "text": "everything, sometimes you you miss or"
+    },
+    {
+      "start": 1122.32,
+      "duration": 4.88,
+      "text": "lose even bigger piece of the pie that"
+    },
+    {
+      "start": 1125.12,
+      "duration": 3.919,
+      "text": "you could have attained. But in terms of"
+    },
+    {
+      "start": 1127.2,
+      "duration": 3.52,
+      "text": "direction, I think there are some very"
+    },
+    {
+      "start": 1129.039,
+      "duration": 3.601,
+      "text": "profound thinking we need to put into"
+    },
+    {
+      "start": 1130.72,
+      "duration": 4.16,
+      "text": "this with a lot of progression we have"
+    },
+    {
+      "start": 1132.64,
+      "duration": 4.72,
+      "text": "made from the old web to the new web,"
+    },
+    {
+      "start": 1134.88,
+      "duration": 4.72,
+      "text": "old app to the new app. When it comes to"
+    },
+    {
+      "start": 1137.36,
+      "duration": 4.559,
+      "text": "human privacy and implications of the"
+    },
+    {
+      "start": 1139.6,
+      "duration": 4.64,
+      "text": "technology on the society and so forth,"
+    },
+    {
+      "start": 1141.919,
+      "duration": 5.521,
+      "text": "we learned a lot what worked, what"
+    },
+    {
+      "start": 1144.24,
+      "duration": 5.2,
+      "text": "didn't. And AI has a huge amplifying"
+    },
+    {
+      "start": 1147.44,
+      "duration": 4.56,
+      "text": "power. And [music] I don't think we want"
+    },
+    {
+      "start": 1149.44,
+      "duration": 5.119,
+      "text": "to get it wrong too much. This time we"
+    },
+    {
+      "start": 1152.0,
+      "duration": 4.799,
+      "text": "want to do it right because this time"
+    },
+    {
+      "start": 1154.559,
+      "duration": 4.321,
+      "text": "even the wrong will be amplified. It's"
+    },
+    {
+      "start": 1156.799,
+      "duration": 3.921,
+      "text": "okay to not know everything and not"
+    },
+    {
+      "start": 1158.88,
+      "duration": 3.84,
+      "text": "control everything because as you saw"
+    },
+    {
+      "start": 1160.72,
+      "duration": 3.839,
+      "text": "from the kids interactions during our"
+    },
+    {
+      "start": 1162.72,
+      "duration": 4.48,
+      "text": "special session, how they interacted"
+    },
+    {
+      "start": 1164.559,
+      "duration": 5.281,
+      "text": "with this magical technology enabled dog"
+    },
+    {
+      "start": 1167.2,
+      "duration": 4.4,
+      "text": "was different from how grown-ups did."
+    },
+    {
+      "start": 1169.84,
+      "duration": 4.4,
+      "text": "And I don't think we even the grown-ups"
+    },
+    {
+      "start": 1171.6,
+      "duration": 4.8,
+      "text": "could know all the answers. and having"
+    },
+    {
+      "start": 1174.24,
+      "duration": 4.0,
+      "text": "some room so that they can explore"
+    },
+    {
+      "start": 1176.4,
+      "duration": 3.44,
+      "text": "meaningfully and potentially even teach"
+    },
+    {
+      "start": 1178.24,
+      "duration": 3.84,
+      "text": "us how to actually do this. Right."
+    },
+    {
+      "start": 1179.84,
+      "duration": 3.44,
+      "text": ">> Spark told me I'm not an adult, so it's"
+    },
+    {
+      "start": 1182.08,
+      "duration": 2.719,
+      "text": "okay. I'm good. I"
+    },
+    {
+      "start": 1183.28,
+      "duration": 3.12,
+      "text": ">> I'll give you some room so that you can"
+    },
+    {
+      "start": 1184.799,
+      "duration": 1.921,
+      "text": "help us figure out how things are going"
+    },
+    {
+      "start": 1186.4,
+      "duration": 1.92,
+      "text": "to be."
+    },
+    {
+      "start": 1186.72,
+      "duration": 2.8,
+      "text": ">> You have to grow up or not."
+    },
+    {
+      "start": 1188.32,
+      "duration": 3.84,
+      "text": ">> Oh, I don't think he suggest that you"
+    },
+    {
+      "start": 1189.52,
+      "duration": 5.2,
+      "text": "need to grow up."
+    },
+    {
+      "start": 1192.16,
+      "duration": 4.879,
+      "text": ">> This year really felt different. More"
+    },
+    {
+      "start": 1194.72,
+      "duration": 4.56,
+      "text": "questions and more [music] perspectives."
+    },
+    {
+      "start": 1197.039,
+      "duration": 4.321,
+      "text": "People are thinking deeply about AI and"
+    },
+    {
+      "start": 1199.28,
+      "duration": 4.24,
+      "text": "UX now. using it more. We're [music]"
+    },
+    {
+      "start": 1201.36,
+      "duration": 5.199,
+      "text": "experiencing it firsthand. And that's"
+    },
+    {
+      "start": 1203.52,
+      "duration": 5.92,
+      "text": "when one question kept surfacing. What"
+    },
+    {
+      "start": 1206.559,
+      "duration": 4.961,
+      "text": "about our kids?"
+    },
+    {
+      "start": 1209.44,
+      "duration": 3.68,
+      "text": "At the end of the day, how do we think"
+    },
+    {
+      "start": 1211.52,
+      "duration": 3.44,
+      "text": "about the next generation? Cuz I [music]"
+    },
+    {
+      "start": 1213.12,
+      "duration": 4.08,
+      "text": "have two kids. I'm a working mom with"
+    },
+    {
+      "start": 1214.96,
+      "duration": 4.0,
+      "text": "the two boys at 5 and 11. They're going"
+    },
+    {
+      "start": 1217.2,
+      "duration": 4.24,
+      "text": "to be living in a completely different"
+    },
+    {
+      "start": 1218.96,
+      "duration": 4.16,
+      "text": "world. They're building and thinking and"
+    },
+    {
+      "start": 1221.44,
+      "duration": 2.88,
+      "text": "even studying is going to be very"
+    },
+    {
+      "start": 1223.12,
+      "duration": 3.76,
+      "text": "different. [music] They need to think"
+    },
+    {
+      "start": 1224.32,
+      "duration": 4.719,
+      "text": "about AI as their thought partners or"
+    },
+    {
+      "start": 1226.88,
+      "duration": 3.879,
+      "text": "friends or whatever they have. It is"
+    },
+    {
+      "start": 1229.039,
+      "duration": 3.12,
+      "text": "equalizing a lot of things. So you"
+    },
+    {
+      "start": 1230.759,
+      "duration": 4.121,
+      "text": "[music] don't have to live in San"
+    },
+    {
+      "start": 1232.159,
+      "duration": 4.561,
+      "text": "Francisco to have this access and then"
+    },
+    {
+      "start": 1234.88,
+      "duration": 3.039,
+      "text": "you can also start a company early on"
+    },
+    {
+      "start": 1236.72,
+      "duration": 4.079,
+      "text": "because you have all [music] the tools."
+    },
+    {
+      "start": 1237.919,
+      "duration": 4.481,
+      "text": "They're available than ever before. I"
+    },
+    {
+      "start": 1240.799,
+      "duration": 4.321,
+      "text": "don't have all the answers, but one"
+    },
+    {
+      "start": 1242.4,
+      "duration": 5.12,
+      "text": "thing's clear. We're riding waves of"
+    },
+    {
+      "start": 1245.12,
+      "duration": 5.439,
+      "text": "constant change. Models get better."
+    },
+    {
+      "start": 1247.52,
+      "duration": 5.92,
+      "text": "Capability expand. But what lasts is the"
+    },
+    {
+      "start": 1250.559,
+      "duration": 5.041,
+      "text": "experience. A sense of magic, trust,"
+    },
+    {
+      "start": 1253.44,
+      "duration": 4.4,
+      "text": "ease, and the feeling of that [music] AI"
+    },
+    {
+      "start": 1255.6,
+      "duration": 5.199,
+      "text": "show up at the right moment. sometimes"
+    },
+    {
+      "start": 1257.84,
+      "duration": 5.04,
+      "text": "even before you ask. We call this swell"
+    },
+    {
+      "start": 1260.799,
+      "duration": 4.02,
+      "text": "for a reason. The waves will keep"
+    },
+    {
+      "start": 1262.88,
+      "duration": 4.32,
+      "text": "coming. We just have to keep learning"
+    },
+    {
+      "start": 1264.819,
+      "duration": 5.1,
+      "text": "[music] how to write them. We believe"
+    },
+    {
+      "start": 1267.2,
+      "duration": 5.76,
+      "text": "the uh winners of AI race will be"
+    },
+    {
+      "start": 1269.919,
+      "duration": 6.041,
+      "text": "determined by great really great user"
+    },
+    {
+      "start": 1272.96,
+      "duration": 3.0,
+      "text": "experience."
+    },
+    {
+      "start": 1289.054,
+      "duration": 2.02,
+      "text": ">> [music]"
+    }
+  ]
+}
