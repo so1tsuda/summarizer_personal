@@ -1,0 +1,27 @@
+100 AI leaders across product, engineering, research, and design gathered at StratMinds’ Swell Summit to answer one question: What will actually win in the next era of AI products?
+From new interaction models to experience-first design, this reveals what thoughtful builders are paying attention to and what many teams are still missing.
+There's one particular idea they kept returning to throughout the summit, a critical insight that most of us rarely pause to consider deeply. Watch to discover what it is.
+
+Key Takeaways:
+📌 We need to go beyond basic chat and embrace new interaction primitives like semantic resizing, remixing, and format translation that redefine how people engage with AI.
+📌 Products that feel alive, emotional, and responsive create deeper user connection.
+📌 As models become commodities, intuitive AI ergonomics becomes the true differentiator.
+📌 Start with what the model can uniquely do to uncover solutions users haven’t imagined.
+📌 Real progress comes from solving the right problems, not just shipping fast.
+
+00:00 Intro 
+02:00 The New Building Blocks: Chat is not enough
+03:26 The New Interaction Primitives of Gen AI - Jess Holbrook, Head of UX Research @Microsoft AI
+05:46 Make AI Alive: Craft a Magical Experience
+06:45 Spark, The First Non-Human Resident at the Hacker House - Pasquale D'Silva *Chief Creative Officer(correcting the CEO caption) @Illusion of Life  
+09:16 Don't Chase Users, Build on What the Model Can Do - Andy Szybalski @Cove, ex-Uber, Google
+13:01 How to Design AI the Right Way - Jenny Lo @Global AI Platform, Ex-Grammarly, Uber
+15:09 Don't Build Confusing Gadget - Ayça Cakmakli @Google
+17:01 The Real Moat for Next-Gen AI Products
+
+Learn more about the Swell Summit 👉 https://stratminds.vc/swell 
+
+EO stands for Entrepreneur& Opportunities. As we're looking to feature more inspiring stories of entrepreneurs all over the world, don't hesitate to contact us at partner@eoeoeo.net
+
+LinkedIn | @EO STUDIO 
+X | @eostudi0
