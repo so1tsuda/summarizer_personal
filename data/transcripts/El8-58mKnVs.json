@@ -5,702 +5,702 @@
   "published_at": "2025-12-08T16:00:24Z",
   "duration": "PT12M34S",
   "thumbnail": "https://i.ytimg.com/vi/El8-58mKnVs/hqdefault.jpg",
-  "fetched_at": "2026-01-16T11:14:41.428796",
+  "fetched_at": "2026-01-16T12:20:18.071470",
   "transcript": [
     {
       "start": 0.16,
       "duration": 6.64,
-      "text": "Betterment、Wealthfront、Vanguard、Schwab などのロボアドバイザーは現在、2 兆ドルを超える"
+      "text": "Robo-advisors like Betterment, Wealthfront, \nVanguard, and Schwab now manage over $2 trillion"
     },
     {
       "start": 6.8,
       "duration": 4.08,
-      "text": "資産を運用しています。これらのサービスのいずれかをご利用中で、"
+      "text": "in assets. Maybe you're using one of these \nservices and you're wondering if it's worth paying"
     },
     {
       "start": 10.88,
       "duration": 5.6,
-      "text": "料金を支払う価値があるかどうか疑問に思っている方もいるかもしれません。お金を無駄にしていませんか？どのロボアドバイザーが最適でしょうか？"
+      "text": "for. Are you leaving money on the table? Which \nof these robo-advisors is best? What does robo"
     },
     {
       "start": 16.48,
       "duration": 5.36,
-      "text": "そもそも「ロボ」とはどういう意味ですか？今日のプレゼンテーションには、知っておくべきロボアドバイザーに関する情報が満載です"
+      "text": "mean anyway? Today's presentation is chock full of \ninformation about robo-advisors that you need to"
     },
     {
       "start": 21.84,
       "duration": 5.28,
-      "text": "。私たちは 10 年以上ロボアドバイザーを取り上げてきました。"
+      "text": "know. So, we've been covering robo-advisors now \nfor over a decade. We've even worked with some"
     },
     {
       "start": 27.12,
       "duration": 6.96,
-      "text": "過去にはいくつかのロボアドバイザーと協業したこともあります。ロボアドバイザーという名前には、AI を活用しているイメージがありますが、実際には"
+      "text": "of them in the past. And the name robo-advisor \nimplies some sort of AI usage when that's actually"
     },
     {
       "start": 34.08,
       "duration": 5.6,
-      "text": "そうではありません。ほとんどのロボアドバイザーが採用しているレシピ駆動型のアプローチは非常にシンプルです。"
+      "text": "not really the case. The recipe-driven approach \nthat most robo-advisers take is quite simple. You"
     },
     {
       "start": 39.68,
       "duration": 6.8,
-      "text": "「100 マイナス年齢ルール」をご存知かもしれません。これは、100 マイナス年齢が"
+      "text": "may be familiar with the 100 minus your age rule. \nThat simply says that you take 100 minus your age"
     },
     {
       "start": 46.48,
       "duration": 4.96,
-      "text": "株式に、残りが債券に投資すべき金額であるというシンプルなルールです。当然のことながら、"
+      "text": "and that's how much money you ought to have in \nequities and the rest in bonds. As time goes on,"
     },
     {
       "start": 51.44,
       "duration": 6.4,
-      "text": "年齢を重ねるにつれて、債券への資金配分は増加します。これはしばしば「グライド"
+      "text": "of course, as you age, the ratio of money going \ninto bonds increases. That's often called a glide"
     },
     {
       "start": 57.84,
       "duration": 4.88,
-      "text": "パス」と呼ばれます。つまり、資産配分を"
+      "text": "path. And what you're doing there is you're \ngradually shifting your asset allocation from"
     },
     {
       "start": 62.72,
       "duration": 6.16,
-      "text": "リスクの高い資産からリスクの低い資産、つまり債券へと徐々にシフトしていくということです。退職が近づくにつれて、"
+      "text": "more risky assets to less risky assets, bonds, \nover time. As you get closer to retirement,"
     },
     {
       "start": 68.88,
       "duration": 6.48,
-      "text": "ボラティリティを抑えたいと考えるようになります。ロボアドバイザーもほぼ同じことを行います。"
+      "text": "you want to reduce volatility. So a robo-advisor \nroughly does the same thing. It automatically"
     },
     {
       "start": 75.36,
       "duration": 6.4,
-      "text": "年齢に応じて資産配分を自動的に設定します。ロボアドバイザーの真の価値は、"
+      "text": "configures your allocations as you age. And \nthe real value ad for robo-advisors was that"
     },
     {
       "start": 81.76,
       "duration": 6.24,
-      "text": "人間のアドバイザーよりも手数料が低いという点です。この表は、"
+      "text": "they were going to be a lower fee alternative \nto human advisors. This table here was actually"
     },
     {
       "start": 88.0,
       "duration": 5.36,
-      "text": "私たちが作成した記事から引用したものです。8年前、ロボアドバイザーのAIと"
+      "text": "taken from a piece that we did. I think this was \neight years ago looking at robo-advisors AI and"
     },
     {
       "start": 93.36,
       "duration": 5.2,
-      "text": "資産配分について調査したものです。そこで私たちは、これらはプライベート・ウェルス・マネージャーが使用するツールとほぼ同じ種類のものだと述べましたが、"
+      "text": "asset allocation. And we had made the remark here \nthat these are really the same sort of tools that"
     },
     {
       "start": 98.56,
       "duration": 4.64,
-      "text": "現在はクラウドに集約され、自動化されているため、"
+      "text": "private wealth managers use except now they're \nstuffed into the cloud and automated so that"
     },
     {
       "start": 103.2,
       "duration": 5.68,
-      "text": "誰でもアクセスできるようになっています。ロボアドバイザーが運用している2兆ドルという資産を考えると、"
+      "text": "anybody can access them. And when we think about \nthe $2 trillion that robo-advisers are managing,"
     },
     {
       "start": 108.88,
       "duration": 5.36,
-      "text": "数字を文脈の中で捉えることが常に重要です。非常に大きな数字に聞こえますが、実際にはそうでは"
+      "text": "it's always important to put numbers into context. \nSo whilst that sounds very large, it actually"
     },
     {
       "start": 114.24,
       "duration": 4.96,
-      "text": "ありません。世界の運用資産、つまり 第三者によって運用され"
+      "text": "isn't. So when you look at global assets under \nmanagement, so this would be money that's being"
     },
     {
       "start": 119.2,
       "duration": 8.16,
-      "text": "ている資金を見ると 、その価値は現在150兆ドル近くに達しています。ロボアドバイザーは"
+      "text": "managed by third parties, the value of that is \nnow close to $150 trillion. So robo-advisors"
     },
     {
       "start": 127.36,
       "duration": 4.96,
-      "text": "約2兆ドルを運用しています。これはエドワード・ジョーンズが運用している金額とほぼ同じです。"
+      "text": "manage about 2 trillion. That's about the same \namount of money that Edward Jones manages."
     },
     {
       "start": 132.32,
       "duration": 6.72,
-      "text": "しかし、これは運用資産全体の2%にも満たない額です。しかし、これに"
+      "text": "However, it's less than 2% of total wealth being \nmanaged. However, if you multiply that, let's say,"
     },
     {
       "start": 139.04,
       "duration": 5.12,
-      "text": "ロボアドバイザーが請求する平均手数料である30ベーシスポイントを掛け合わせると、"
+      "text": "by 30 basis points, perhaps the average fee being \ncharged by a robo adviser, you get a run rate of"
     },
     {
       "start": 144.16,
       "duration": 4.72,
-      "text": "約60億ドルのランレートになります。つまり、そこには莫大な利益が眠っているということです。"
+      "text": "about $6 billion. So, there's a lot of money to \nbe made there. And we can look at this report"
     },
     {
       "start": 148.88,
       "duration": 6.64,
-      "text": "モーニングスターが2025年のロボアドバイザーについて分析したレポートをご覧ください。このレポートのエグゼクティブサマリーでは、"
+      "text": "by Morningstar, which looks at robo-advisors in \n2025. The executive summary here talks about how"
     },
     {
       "start": 155.52,
       "duration": 6.32,
-      "text": "ロボアドバイザーによる大きな破壊的変化は実際には起こらなかったと述べられています。つまり、ロボアドバイザーが人間のアドバイザーに取って代わると予想されていましたが"
+      "text": "the great robo-advisor disruption never arrived. \nSo, it was anticipated that robo-advisors would"
     },
     {
       "start": 161.84,
       "duration": 5.28,
-      "text": "、実際にはそうはなりませんでした。これは非常に注目すべき点です。"
+      "text": "replace human advisers. Well, that never really \nworked out. And this is pretty remarkable here."
     },
     {
       "start": 167.12,
       "duration": 6.32,
-      "text": "アルゴリズム による個別相談を提供していない純粋なロボアドバイザーは1社だけ残っているとされています"
+      "text": "It says just one pure robo-advisor remains that \ndoes not offer some person-to-person counsel with"
     },
     {
       "start": 173.44,
       "duration": 5.76,
-      "text": "。しかし、結局 は顧客への個人アドバイザーサービスへのアップセルを目的とした、資産獲得のための"
+      "text": "its algorithmic guidance. What this ended up \nturning into is really just a lead magnet to"
     },
     {
       "start": 179.2,
       "duration": 5.84,
-      "text": "単なるリードマグネットに"
+      "text": "attract assets so that then they can upsell their \nclients personal advisor services. So really,"
     },
     {
       "start": 185.04,
       "duration": 4.8,
-      "text": "なってしまったのです。つまり、まさに一周回って、モーニングスターは、"
+      "text": "we've just gone full circle and Morningstar \nhere talks about how for young investors with"
     },
     {
       "start": 189.84,
       "duration": 5.44,
-      "text": "複雑な財務状況にない若い投資家にとって、ロボアドバイザーが良い出発点になり得ると述べています。しかし、"
+      "text": "uncomplicated financial situations, robo-advisors \ncan be good starting places. Well, not when you"
     },
     {
       "start": 195.28,
       "duration": 5.28,
-      "text": "フィンテックやソーシャルメディアが蔓延し、誰もが"
+      "text": "have an environment now fueled by fintwats and \nsocial media where everybody's pushed towards"
     },
     {
       "start": 200.56,
       "duration": 5.36,
-      "text": "ハイリスクなオプションや予測市場などに流れ込んでいる現状では、そうは言えません。"
+      "text": "high-risk options and prediction markets and \nthings like that. So whilst it may be good for"
     },
     {
       "start": 205.92,
       "duration": 4.0,
-      "text": "若い投資家にとっては良いことかもしれませんが、多くの投資家がこれらのツールを活用しているとは思えません。"
+      "text": "young investors, I don't think a lot of them are \navailing themselves of these tools. And when you"
     },
     {
       "start": 209.92,
       "duration": 4.96,
-      "text": "ベターメントのようなロボアドバイザーを見てみると、彼らが自己管理型投資について語っているのが分かります"
+      "text": "look at a robo-advisor like Betterment here, you \ncan see they're talking about how self-directed"
     },
     {
       "start": 214.88,
       "duration": 4.8,
-      "text": "。これもまた、一周回って話です。自己管理型ではなく、"
+      "text": "investing is here. Again, going full circle. \nThe idea was that it wouldn't be self-directed,"
     },
     {
       "start": 219.68,
       "duration": 4.8,
-      "text": "アルゴリズムに資産配分を任せるという"
+      "text": "that you would let these algorithms dictate your \nasset allocation. And now they're saying, well,"
     },
     {
       "start": 224.48,
       "duration": 4.32,
-      "text": "考え方です 。 そして今、彼らは「"
+      "text": "you can be self-directed. They're really trying \nto be everything to everyone. And that sort of"
     },
     {
       "start": 228.8,
       "duration": 5.84,
-      "text": "自分で管理できる」と言っています。彼らは本当に誰にでも何でも提供しようとしています。これはロボアドバイザーの本来の目的を損なっていると言えるでしょう"
+      "text": "defeats the original purpose of robo-advisors. \nAnd here I've provided a table generated by Grok,"
     },
     {
       "start": 234.64,
       "duration": 5.84,
-      "text": "。Grokが作成した、 運用資産額でトップのロボアドバイザーを示し た表をご用意しました"
+      "text": "which looks at the top robo-advisor by assets \nunder management. And there's a couple takeaways"
     },
     {
       "start": 240.48,
       "duration": 4.32,
-      "text": "。 ここからいくつかポイントがあります。まず、どのロボアドバイザーを見るかによって数字は異なります"
+      "text": "here. So, first of all, you're going to get \ndifferent numbers depending on where you look,"
     },
     {
       "start": 244.8,
       "duration": 7.6,
-      "text": "が、圧倒的なリーダーはVanguardです。これは驚くべき数字です。運用資産額は3,330億ドルです。"
+      "text": "but the leader by far would be Vanguard. \nRather remarkable. $333 billion in assets"
     },
     {
       "start": 252.4,
       "duration": 4.56,
-      "text": "運用資産額も低く、もちろん手数料も業界最低水準です。"
+      "text": "under management. And of course, they offer some \nof the lowest fees out there. You would expect"
     },
     {
       "start": 256.96,
       "duration": 5.36,
-      "text": "バンガードなら当然のことですよね。低手数料で評判ですよね？それからシュワブ。"
+      "text": "that from Vanguard. That's their reputation, \nlow fees, right? Then you have Schwab here. Now,"
     },
     {
       "start": 262.32,
       "duration": 5.28,
-      "text": "シュワブは低手数料の商品を数多く提供してきましたが、ここで「"
+      "text": "Schwab's done a great job of offering a lot \nof low-fee products, but they talk about here,"
     },
     {
       "start": 267.6,
       "duration": 3.6,
-      "text": "アドバイザリー手数料無料」と謳っています。タダ飯なんてないですよね？それでは、"
+      "text": "no advisory fee. Well, there's no \nsuch thing as a free lunch, right? So,"
     },
     {
       "start": 271.2,
       "duration": 3.92,
-      "text": "この点について見ていきましょう。それからウェルスフロント。実はIPOを控えています。"
+      "text": "we're going to look into that. And then there's \nWealthfront, which is actually having an IPO. And"
     },
     {
       "start": 275.12,
       "duration": 5.12,
-      "text": "ロボアドバイザーの仕組みを詳しく見ていく中で、"
+      "text": "that gives us an inside look into the mechanics \nof a robo-advisor, and we're going to talk about"
     },
     {
       "start": 280.24,
       "duration": 3.92,
-      "text": "投資する価値があるかどうかについてお話しします。シュワブの場合、"
+      "text": "whether or not that would be something you'd \nwant to invest in. So, when we look at Schwab,"
     },
     {
       "start": 284.16,
       "duration": 4.96,
-      "text": "アドバイザリー手数料は無料です。他のロボアドバイザーと比較しています。"
+      "text": "you see here, no advisory fee charge. They \ncompare themselves to other robo-advisors."
     },
     {
       "start": 289.12,
       "duration": 4.24,
-      "text": "仕組みを詳しく見ていくと、もちろん、リスク許容度を評価するためのアンケートに答えることになります"
+      "text": "And then when you dig into the mechanics, of \ncourse, you complete these questionnaires so"
     },
     {
       "start": 293.36,
       "duration": 4.64,
-      "text": "。年齢も考慮されます。そして、"
+      "text": "they can assess your risk tolerance. It also takes \ninto account your age. And then you're given a"
     },
     {
       "start": 298.0,
       "duration": 6.32,
-      "text": "ETFの分散投資ポートフォリオが提供されます。もちろん、これらのETFは手数料がかかります。つまり、"
+      "text": "diversified portfolio of ETFs. Well, those ETFs, \nof course, are charging fees. So there is no such"
     },
     {
       "start": 304.32,
       "duration": 6.24,
-      "text": "タダ飯などあり得ません。モーニングスターによるシュワブの投資商品に関する評価を見ると、"
+      "text": "thing as a free lunch. And when you look at the \nassessment of Schwab's offering by Morningstar,"
     },
     {
       "start": 310.56,
       "duration": 6.96,
-      "text": "実に興味深い点があります。技術的には、シュワブは手数料を全く請求せず、"
+      "text": "this is rather interesting. So technically, Schwab \ncould not charge fees at all and simply make money"
     },
     {
       "start": 317.52,
       "duration": 5.44,
-      "text": "保有する現金だけで利益を上げることも可能だったのです。そして、モーニングスターは、シュワブのインテリジェントポートフォリオが過剰な現金配分を行っていると述べています"
+      "text": "on the cash that they're holding. And they talk \nhere about how Schwab's intelligent portfolios"
     },
     {
       "start": 322.96,
       "duration": 4.48,
-      "text": "。 シュワブには現金を保有する"
+      "text": "make excessive cash allocations. You need \nto be careful there because there's a lot"
     },
     {
       "start": 327.44,
       "duration": 4.88,
-      "text": "大きなインセンティブがあるため、この点には注意が必要です"
+      "text": "of incentive for Schwab to hold that cash. And \nwe're going to look at why that is when we take"
     },
     {
       "start": 332.32,
       "duration": 6.32,
-      "text": "。 収益の75%をキャッシュ・マネジメントで実現しているウェルスフロントを詳しく見ていくと、"
+      "text": "a closer look at Wealthfront, which realizes 75% \nof their revenues coming off of cash management."
     },
     {
       "start": 338.64,
       "duration": 6.32,
-      "text": "その理由が分かります。 また、モーニングスターは、現金がリターンの足かせになり得ると述べています。しかし、リターンに関しては、"
+      "text": "And they talk here about how cash can be a drag on \nreturns. Well, really, when it comes to returns,"
     },
     {
       "start": 344.96,
       "duration": 4.4,
-      "text": "これは議論の余地がありません。手数料に焦点を当てるべきです。この資料を見ると、"
+      "text": "this is a moot point. You need to focus on \nfees. So when you look at this collateral here,"
     },
     {
       "start": 349.36,
       "duration": 4.16,
-      "text": "これはベターメント社がコアポートフォリオを立ち上げて以来、"
+      "text": "I think this is from Betterment talking about how \nsince they launched their core portfolio, it's"
     },
     {
       "start": 353.52,
       "duration": 4.56,
-      "text": "9%以上のリターンを上げてきたと説明しているものだと思います。ええ、株式市場が達成してきた成果とほぼ同じです。それが皆さんの期待通りです"
+      "text": "delivered over 9%. Yeah. So roughly what the stock \nmarket has delivered. That's what you expect,"
     },
     {
       "start": 358.08,
       "duration": 5.12,
-      "text": "よね？市場のパフォーマンスを示したからといって、それで何になるというのですか？顧客が期待しているものでしょう。ですから、"
+      "text": "right? You provided market performance. So what? \nThat's what your clients would expect. So, when"
     },
     {
       "start": 363.2,
       "duration": 5.84,
-      "text": "ロボアドバイザーを選ぶ際には、パフォーマンスに関する彼らの主張に惑わされてはいけません"
+      "text": "you're looking to choose a robo-advisor, don't \npay attention to what they say their performance"
     },
     {
       "start": 369.04,
       "duration": 6.0,
-      "text": "。手数料体系に注目してください。手数料体系は口座規模によって異なります。一般的に、"
+      "text": "is. Focus on fee structures, which will differ \nby account sizes. So, typically the larger the"
     },
     {
       "start": 375.04,
       "duration": 4.8,
-      "text": "口座規模が大きいほど、支払う手数料は少なくなります。しかし、最も多くの"
+      "text": "account, the smaller the fees that you're paying. \nBut remember that the company managing the most"
     },
     {
       "start": 379.84,
       "duration": 5.6,
-      "text": "資産を運用している会社が、最も低い手数料を提供する柔軟性を持っていることを覚えておいてください。それが"
+      "text": "assets is going to have the most flexibility when \nit comes to offering the lowest fees. And that's"
     },
     {
       "start": 385.44,
       "duration": 5.92,
-      "text": "バンガードです。彼らは低コストのリーダーであることを基盤としてブランド全体を築き上げてきました。"
+      "text": "Vanguard. They've built their entire brand based \non being the lowcost leader. It's no surprise at"
     },
     {
       "start": 391.36,
       "duration": 4.88,
-      "text": "モーニングスターで最高位にランクされているのも全く驚くことではありません。過去4年間のうち3年間、彼らは最高位にランクされていると思います"
+      "text": "all that they're ranked highest by Morningstar. \nI think three out of the past four years they've"
     },
     {
       "start": 396.24,
       "duration": 4.4,
-      "text": "。しかし、脚注に非常に興味深い点がありました。"
+      "text": "been ranked highest. But I noticed the footnote \nwas quite interesting. They said, compensation"
     },
     {
       "start": 400.64,
       "duration": 4.64,
-      "text": "格付けとマーケティング資料の使用に対して報酬が支払われると書かれていたのです。つまり、モーニングスターが格付けし、"
+      "text": "provided for use of the rating and marketing \nmaterials. So Morningstar rates them and then"
     },
     {
       "start": 405.28,
       "duration": 4.16,
-      "text": "それを市場資料に掲載するためにモーニングスターに手数料を支払う必要があるのです。少し曖昧ですが、"
+      "text": "they have to pay Morningstar to put that in their \nmarket materials. It's rather shifty, but I think"
     },
     {
       "start": 409.44,
       "duration": 5.28,
-      "text": "モーニングスターのレポートを読めば、全て納得できると思います。結局は手数料の問題です。ですから、"
+      "text": "when you read this report by Morningstar, it all \nmakes sense. It comes down to fees. So, what you"
     },
     {
       "start": 414.72,
       "duration": 5.28,
-      "text": "バンガードのウェブサイトでコストを計算するのが良いでしょう 。バンガード"
+      "text": "can do is go over to Vanguard's site and calculate \nthe cost or they don't call it a robo-advisor"
     },
     {
       "start": 420.0,
       "duration": 3.6,
-      "text": "はもはやロボアドバイザーとは呼んでいません。デジタルアドバイザーと呼んでいます。投資する金額を入力する"
+      "text": "anymore. They call it a digital advisor. You \nplug in the amount of money that you're going"
     },
     {
       "start": 423.6,
       "duration": 4.64,
-      "text": "と、手数料が提示されます。ですから、"
+      "text": "to invest in it. It tells you what you're going \nto pay. So, I would say if you're going to pay"
     },
     {
       "start": 428.24,
       "duration": 7.28,
-      "text": "バンガードが提供しているような資産配分グライドパスに20ベーシスポイントも支払うのであれば、"
+      "text": "20 basis points for an asset allocation glide path \nof the type that Vanguard is providing, just do it"
     },
     {
       "start": 435.52,
       "duration": 6.4,
-      "text": "フィデリティ・ゼロの商品を使えば手数料は一切かかりません。人々がファイナンシャル"
+      "text": "yourself with Fidelity Zero products and don't \npay any fees at all. A major reason why people"
     },
     {
       "start": 441.92,
       "duration": 5.6,
-      "text": "アドバイザーを雇う主な理由は、精神的な支えです。これは、ファイナンシャルアドバイザーと人々が彼らを雇う理由について調査した記事から引用したものです"
+      "text": "have financial advisors is for emotional support. \nThis was taken from a piece we did that looked at"
     },
     {
       "start": 447.52,
       "duration": 6.64,
-      "text": "。そして、感情に基づく理由は 、彼らが雇われる理由の"
+      "text": "financial advisors and why people hire them. \nAnd emotion-based reasons make up the majority"
     },
     {
       "start": 454.16,
       "duration": 5.68,
-      "text": "大部分を占めています 。 株式市場が暴落したり"
+      "text": "of reasons why they're being hired. And that's \nbecause when the stock market starts crashing"
     },
     {
       "start": 459.84,
       "duration": 4.32,
-      "text": "、株価が下落し始めると、誰もが疑問を持ち始めるからです。市場の"
+      "text": "or a stock starts falling, that's when everybody \nstarts asking questions. Whenever there's a market"
     },
     {
       "start": 464.16,
       "duration": 4.64,
-      "text": "調整が起こるたびに、安心感を求める人々からのメールが殺到します。彼らは"
+      "text": "correction, we get inundated with emails from \npeople who want assurance. They get that from"
     },
     {
       "start": 468.8,
       "duration": 4.08,
-      "text": "ファイナンシャルアドバイザーから安心感を得ています。そう願うのは当然ですよね？ 現状維持が最善です。ファイナンシャルアドバイザーはたいていそう"
+      "text": "financial advisors. One would hope they do, right? \nYou should stay the course. That's typically what"
     },
     {
       "start": 472.88,
       "duration": 5.2,
-      "text": "言います。ですから、その場合の対策としては、バンガードに少し多めに支払うことです。"
+      "text": "a financial adviser would tell you. So, what you \ncan do then is pay Vanguard a little bit extra"
     },
     {
       "start": 478.08,
       "duration": 5.44,
-      "text": "パーソナルアドバイザーを雇う場合、支払う手数料と"
+      "text": "and get a personal advisor. So, you should always \nbe looking at fees that you're paying, divided by"
     },
     {
       "start": 483.52,
       "duration": 4.72,
-      "text": "預ける金額を常に比較検討する必要があります。単純計算で、パーソナルアドバイザーを雇うには、"
+      "text": "the money that you're giving them. So, simple math \nshows that for a personal adviser, you have to,"
     },
     {
       "start": 488.24,
       "duration": 4.88,
-      "text": "少なくとも5万ドルの資産が必要でしょう。これは35ベーシスポイントになります。妥当な水準です。一方"
+      "text": "I think, have at least 50k. That's going to be \n35 basis points. That's reasonable. Compare that"
     },
     {
       "start": 493.12,
       "duration": 4.56,
-      "text": "、 エドワード・ジョーンズは1%の前払い手数料を請求します。そしてもちろん、"
+      "text": "to Edward Jones, which is going to charge you 1% \nupfront. And then, of course, hefty fees on the"
     },
     {
       "start": 497.68,
       "duration": 4.32,
-      "text": "勧められた商品には高額な手数料がかかります。いいですか？この仕組みの良いところは、"
+      "text": "products that they push you towards. Right? What \nI really like about this is it explains it very"
     },
     {
       "start": 502.0,
       "duration": 3.92,
-      "text": "最高額が明確に説明されていることです。そして、仕組みを見てみると、"
+      "text": "clearly. The most you'll pay. And then when you \nlook at the mechanics here, well, they're saying,"
     },
     {
       "start": 505.92,
       "duration": 5.44,
-      "text": "「勧められた商品に支払っている手数料を返金します"
+      "text": "\"All right, we're going to refund the fees \nthat you're paying for the products we push you"
     },
     {
       "start": 511.36,
       "duration": 5.04,
-      "text": "」と言っているのです。これは手数料に反するものです。つまり、支払うことになる最高額は35ベーシスポイントです。"
+      "text": "towards.\" And that goes against that fee. So the \nmost you're ever going to pay is 35 basis points."
     },
     {
       "start": 516.4,
       "duration": 6.56,
-      "text": "さて、ロボアドバイザーの将来についてですが、正直なところ、それほど明るい見通しは持てません。"
+      "text": "Now, when it comes to the future of robo-advisors, \nit doesn't look all that promising to be honest."
     },
     {
       "start": 522.96,
       "duration": 6.08,
-      "text": "モーニングスターのレポートに掲載されているタイムラインが気に入っています。このタイムラインでは、様々な"
+      "text": "I like this timeline that can be found in that \nMorningstar report and it looks at the various"
     },
     {
       "start": 529.04,
       "duration": 5.12,
-      "text": "大手企業がこの分野に参入してきた様子が描かれています。注目すべきは、"
+      "text": "large firms out there that dabbled. What's \nremarkable is it took less than six years for"
     },
     {
       "start": 534.16,
       "duration": 5.6,
-      "text": "バンガードがこの分野を独占するまでにわずか6年しかかからなかったことです。つまり、私たちがロボアドバイザーに注目し始めた頃は、"
+      "text": "Vanguard to simply dominate this space. So, back \nwhen we first started looking at robo-advisors,"
     },
     {
       "start": 539.76,
       "duration": 4.56,
-      "text": "彼らはまだ参入すらしていなかったのに、今では圧倒的なリーダーとなっているのです。ゴールドマン"
+      "text": "they weren't even playing, and now they're by \nfar the biggest leader. Took Goldman five years,"
     },
     {
       "start": 544.32,
       "duration": 5.6,
-      "text": "・サックスが ロボアドバイザーは自分たちには向いていないと判断するまでに"
+      "text": "less than 5 years, to decide robo-advisors \nweren't for them. JP Morgan also shuttered their"
     },
     {
       "start": 549.92,
       "duration": 6.24,
-      "text": "、5年、いや5年もかかりませんでした。JPモルガンも需要の低迷を受けて、サービス提供を停止しました。そこで、ウェルスフロントのIPOの話に移ります。ウェルスフロントのIPOは"
+      "text": "offering on weak demand. So that brings us to the \nWealthfront IPO. So this was announced, I think,"
     },
     {
       "start": 556.16,
       "duration": 5.28,
-      "text": "9月に発表されたはずですが、S1については最近になってようやく検討するようになりました。大きな情報不足というわけではありません"
+      "text": "in September, and only recently got around to \nlooking at the S1. Not missing a whole lot,"
     },
     {
       "start": 561.44,
       "duration": 5.04,
-      "text": "が、確かに興味深い情報が含まれています。まず、運用資産額が880億ドルとされています"
+      "text": "but certainly some interesting information here. \nSo first of all, they talk about $88 billion in"
     },
     {
       "start": 566.48,
       "duration": 3.92,
-      "text": "。これは先ほど見た数字とは異なりますが、これは"
+      "text": "assets under management. Well, that's different \nfrom the numbers we looked at before, and that's"
     },
     {
       "start": 570.4,
       "duration": 5.68,
-      "text": "キャッシュ・マネジメントと投資顧問手数料を分離しているためです。 彼らが運用している 資金"
+      "text": "because they're breaking out cash management from \ninvestment advisory fees. So, if we take the money"
     },
     {
       "start": 576.08,
       "duration": 7.04,
-      "text": "420億ドルを25ビップスで割ると、1億500万ドルになります。"
+      "text": "they're managing, $42 billion, we multiply that by \n25 bips, we get $105 million. Well, when we look"
     },
     {
       "start": 583.12,
       "duration": 7.28,
-      "text": "実際の収益を見てみると、投資顧問業の収益ははるかに少ないです。しかし、注目すべきは、"
+      "text": "at their actual revenues, investment advisory is \na lot less. But here is what's remarkable. Cash"
     },
     {
       "start": 590.4,
       "duration": 6.48,
-      "text": "収益の75%をキャッシュ・マネジメントが占めていることです。つまり、彼らの収益の大部分は、"
+      "text": "management makes up 75% of their revenues. So, \nthe lion's share of money they're making comes"
     },
     {
       "start": 596.88,
       "duration": 6.8,
-      "text": "顧客のために保有している現金残高から得られる利息によるものです。"
+      "text": "from interest that they're receiving from cash \nbalances that they're holding for their clients."
     },
     {
       "start": 603.68,
       "duration": 7.2,
-      "text": "これは潜在的な問題です。もし彼らがキャッシュ・マネジメントから投資にシフトすれば、"
+      "text": "So this is potentially problematic. So if they \nshift that from cash management to investments,"
     },
     {
       "start": 610.88,
       "duration": 3.92,
-      "text": "おそらく収益は減少するでしょう。しかし、本当に"
+      "text": "presumably they're going to make less. But \nwhat will really have them making less is"
     },
     {
       "start": 614.8,
       "duration": 5.52,
-      "text": "収益が減少するのは、金利が引き続き低下した場合です。つまり、これは彼らのビジネスにとって良い兆候ではありません。"
+      "text": "when interest rates continue to drop. So this \ndoesn't bode well for their business. When we"
     },
     {
       "start": 620.32,
       "duration": 5.44,
-      "text": "ロボアドバイザーの将来について考えると、モーニングスターが最も的確に表現していると思います。デジタル・アドバイザー、"
+      "text": "look at the future of robo-advisors, I think \nMorningstar says it best. Few digital advisers,"
     },
     {
       "start": 625.76,
       "duration": 4.88,
-      "text": "ロボアドバイザー、何と呼ぼうと、コンピューター・アルゴリズムだけに頼っている企業はほとんどありません。"
+      "text": "robo-advisors, whatever you want to call \nthem, rely solely on computer algorithms."
     },
     {
       "start": 630.64,
       "duration": 5.44,
-      "text": "彼らは今、彼らが破壊しようとしていた企業に似たものになり始めています。再び、話が"
+      "text": "They're now starting to look more like the firms \nthat they were trying to disrupt. Again, we're"
     },
     {
       "start": 636.08,
       "duration": 6.32,
-      "text": "一巡します。現在、ほぼすべてのデジタルアドバイザーが人間によるアドバイスを提供していますが、"
+      "text": "coming full circle. Nearly all digital advisers \nnow offer some human counsel, but they continue to"
     },
     {
       "start": 642.4,
       "duration": 5.6,
-      "text": "コストと新機能で競争を続けています。これは顧客にとって良いことです。モーニングスターによると、これらの"
+      "text": "compete on cost and new features. So, that's good \nfor customers. Morningstar says that none of these"
     },
     {
       "start": 648.0,
       "duration": 6.64,
-      "text": "デジタルアドバイザーは、幻覚などのリスクを懸念しているため、AIを使った推奨案の作成をまだ検討していないとのことです"
+      "text": "digital advisers foresee using AI to generate \nrecommendations yet because they're fearful of"
     },
     {
       "start": 654.64,
       "duration": 5.68,
-      "text": "。しかし、これが単なる資産配分の検討に過ぎないと考えると、"
+      "text": "things like hallucinations. But when you consider \nthat this is simply an asset allocation exercise,"
     },
     {
       "start": 660.32,
       "duration": 6.48,
-      "text": "AIは一体どれほどの実質的な価値をもたらすのでしょうか？つまり、デジタルアドバイザー、"
+      "text": "how much real value is AI going to add anyway? So \nthis conclusion, of course, that digital advisers,"
     },
     {
       "start": 666.8,
       "duration": 5.68,
-      "text": "ロボアドバイザーは従来のアドバイザーに取って代わるのではなく、補完しているという結論になります。では、大きな"
+      "text": "robo advisers have supplemented rather than \nsupplanted traditional advisor. So the big"
     },
     {
       "start": 672.48,
       "duration": 5.76,
-      "text": "疑問は、ロボアドバイザーを利用すべきかどうかです。資産配分の"
+      "text": "question, should you use a robo-advisor? Well, if \nyou can't be asked to deal with asset allocation"
     },
     {
       "start": 678.24,
       "duration": 5.84,
-      "text": "決定を自分で行う必要がないのであれば、もちろん利用すべきです。しかし、人間との接触が必要ない場合は、Fidelity Zeroを使って独自のグライド"
+      "text": "decisions yourself, then sure. But if you don't \nneed human contact, just create your own glide"
     },
     {
       "start": 684.08,
       "duration": 6.16,
-      "text": "パスを作成すれば良いのです。そして、人間との接触に費用をかけることについて、じっくりと検討してください。あなたはどれくらいの頻度で人間との接触"
+      "text": "path using Fidelity Zero. And think long and hard \nabout paying for human contact. How often are you"
     },
     {
       "start": 690.24,
       "duration": 4.96,
-      "text": "を利用するつもりでしょうか？ファイナンシャルアドバイザーの記事でも触れましたが"
+      "text": "going to use that, right? So make sure that you're \ngetting, as we talked about in our financial"
     },
     {
       "start": 695.2,
       "duration": 4.4,
-      "text": "、十分な価値が得られていること、そして支払う手数料をすべて理解していることを確認してください。だからこそ、"
+      "text": "advisor piece, you're getting sufficient value and \nyou understand all the fees you're paying. That's"
     },
     {
       "start": 699.6,
       "duration": 4.96,
-      "text": "私たちはバンガードを好んでいるのです。透明性です。彼らは私たちが検討する唯一のロボアドバイザーです。つまり、"
+      "text": "why we like Vanguard, right? Transparency. They're \nthe only robo-adviser we would consider. So they"
     },
     {
       "start": 704.56,
       "duration": 5.92,
-      "text": "価格面で真に競争力のある運用資産を保有しているのです。手数料体系は透明性が高く、"
+      "text": "have the assets under management to truly compete \non price. Their fee structure is transparent with"
     },
     {
       "start": 710.48,
       "duration": 6.0,
-      "text": "「上限額超過なし」"
+      "text": "this will-not-exceed structure. Also, this isn't \na binary decision. You could allocate some of your"
     },
     {
       "start": 716.48,
       "duration": 5.84,
-      "text": "となっています。また、これは二者択一ではありません。資産の一部をロボアドバイザーに割り当て、それをベンチマークとして使うこともできます。さて、Wealthfrontの"
+      "text": "assets to a robo-advisor and then use that as a \nbenchmark. Now, when it comes to Wealthfront's"
     },
     {
       "start": 722.32,
       "duration": 4.8,
-      "text": "IPOへの投資はあまり良い考えではないと思います。株価がどうなるかはまだ分かりませんが"
+      "text": "IPO, I don't think investing in that seems like \na great idea. Remains to be seen what the stock"
     },
     {
       "start": 727.12,
       "duration": 4.96,
-      "text": "、先ほどお話しした理由から、この企業は魅力的ではありません。"
+      "text": "price does, but the company isn't attractive for \nthe reasons that we talked about. What happens"
     },
     {
       "start": 732.08,
       "duration": 5.28,
-      "text": "金利が下がったらどうなるでしょうか？皆さんの中にはファイナンシャルアドバイザーを雇っている方も少なくないと思います。IPO"
+      "text": "when interest rates fall? So, I'm sure a fair \nnumber of you out there have financial advisors."
     },
     {
       "start": 737.36,
       "duration": 4.24,
-      "text": "によって得られる価値を理解することは非常に重要だと思います。それでは、"
+      "text": "I think it's very important that you understand \nthe value that you're getting. So, you ought to"
     },
     {
       "start": 741.6,
       "duration": 5.92,
-      "text": "次にこちらの動画をご覧ください。ファイナンシャル"
+      "text": "watch this piece next. It's probing the sort of \nquestions you ought to be asking your financial"
     },
     {
       "start": 747.52,
       "duration": 4.72,
-      "text": "アドバイザーにどのような質問をすべきかを探っています。ぜひそちらもご覧ください。本日はご覧いただき、ありがとうございました。"
+      "text": "advisor. So, give that a watch next. Thanks so \nmuch for taking the time to watch this today."
     }
   ]
 }

@@ -5,947 +5,947 @@
   "published_at": "2025-11-29T15:00:41Z",
   "duration": "PT17M45S",
   "thumbnail": "https://i.ytimg.com/vi/MK1jTI7lkMs/hqdefault.jpg",
-  "fetched_at": "2026-01-16T11:19:14.378623",
+  "fetched_at": "2026-01-16T12:22:04.277409",
   "transcript": [
     {
       "start": 0.24,
       "duration": 5.44,
-      "text": "私のお気に入りの株が上がるのは、私"
+      "text": "When my favorite stock goes up, it's because \nof my Nostradamus-like investing acumen,"
     },
     {
       "start": 5.68,
       "duration": 6.16,
-      "text": "のノストラダムスのような投資の才覚のおかげであり、下がるのは市場のせいです。さて、IonQは最近大きく下落しており、"
+      "text": "when my favorite stock falls, it's the market's \nfault. Well, IonQ has been falling a lot lately,"
     },
     {
       "start": 11.84,
       "duration": 5.76,
-      "text": "一部の投資家からその理由を尋ねられています。答えは至ってシンプルです。市場のせいです。"
+      "text": "which has some investors asking why. The answer \nis quite simple. It's the market. I'm joking,"
     },
     {
       "start": 17.6,
       "duration": 5.2,
-      "text": "もちろん冗談です。事業価値が現在の株価に見合っていないからです。今日は、"
+      "text": "of course. It's because the value of the business \ndoesn't match the current stock price. Today,"
     },
     {
       "start": 22.8,
       "duration": 4.8,
-      "text": "Ionqのこれまでの取り組みをすべて見ていきます。そして、これを通して、量子コンピューティングへの投資について多くを学ぶことになるでしょう"
+      "text": "we're going to look at everything Ionq has been up \nto. And throughout this, you'll learn a lot about"
     },
     {
       "start": 27.6,
       "duration": 11.04,
-      "text": "。皆さんが絶えず尋ねている1つの質問にも答えます。"
+      "text": "investing in quantum computing. I'll also answer \none question that you all haven't stopped asking."
     },
     {
       "start": 38.64,
       "duration": 6.56,
-      "text": "なぜ量子コンピューティングなのか？量子コンピューターは、従来のコンピューターでは解決できない問題を解決できます。そこで、"
+      "text": "Why quantum computing? Well, quantum computers can \nsolve problems that classical computers can't. So,"
     },
     {
       "start": 45.2,
       "duration": 7.52,
-      "text": "簡単な例を挙げましょう。典型的なUPSのドライバー、UPSマンは、"
+      "text": "here's a simple example. Your typical UPS driver, \nthe UPS man, makes an average of 135 deliveries"
     },
     {
       "start": 52.72,
       "duration": 5.2,
-      "text": "1日平均135件の配達を行います。彼らが取ることができるルートの数は膨大で、"
+      "text": "daily. The number of possible routes they could \ntake is so large that you'd have to describe"
     },
     {
       "start": 57.92,
       "duration": 6.96,
-      "text": "それを227桁で記述する必要があります。 ドライバーにとって真の最適ルートを計算する"
+      "text": "it with 227 digits. It would take a classical \ncomputer longer than the age of the universe to"
     },
     {
       "start": 64.88,
       "duration": 5.6,
-      "text": "には、従来のコンピュータでは宇宙の年齢よりも長い時間がかかります 。いわゆる巡回セールスマン問題です。UPS"
+      "text": "calculate the true optimal route for a driver. \nWhat they call the traveling salesman problem."
     },
     {
       "start": 70.48,
       "duration": 6.32,
-      "text": "は毎日6万6000以上のルートについてこの計算を行う必要があります。つまり、量子コンピュータは"
+      "text": "UPS would need to do this for more than 66,000 \nroutes daily. So basically, a quantum computer"
     },
     {
       "start": 76.8,
       "duration": 4.32,
-      "text": "これらすべてのルート問題を解決し、会社に多大なコスト削減をもたらす可能性があるのです。もちろん、"
+      "text": "could solve all those route problems and save \nthe company a lot of money. And of course,"
     },
     {
       "start": 81.12,
       "duration": 4.96,
-      "text": "この分野はまだ始まったばかりです。マッキンゼーのレポートを参照します。"
+      "text": "this space is only starting out. I'm going \nto refer to this report by McKinsey. It's an"
     },
     {
       "start": 86.08,
       "duration": 6.48,
-      "text": "今日のプレゼンテーション全体を通して非常に参考になるレポートです。最初のスライドは、今年、"
+      "text": "excellent one throughout today's presentation. And \nthis first slide shows how, in the current year,"
     },
     {
       "start": 92.56,
       "duration": 5.04,
-      "text": "量子コンピューティングから生み出される収益総額が約10億ドルになると予測していることを示しています。"
+      "text": "the total amount of revenue generated from quantum \ncomputing is going to be about a billion dollars."
     },
     {
       "start": 97.6,
       "duration": 7.04,
-      "text": "例えば、IonQの今年の収益が1億1000万ドルだとしましょう。彼らの予想では、"
+      "text": "So, let's say IonQ has $110 million this year in \nrevenues. What they're roughly expecting, well,"
     },
     {
       "start": 104.64,
       "duration": 5.76,
-      "text": "約11%の市場シェアを獲得できることになります。そして、獲得できる潜在的な市場シェアについて、壮大な見積もりがいくつもあります"
+      "text": "that would give them about 11% market share. And \nthere are all these grandiose estimates of how"
     },
     {
       "start": 110.4,
       "duration": 5.28,
-      "text": "。それらは信憑性があるように思えます。しかし、公平を期すために言うと、量子コンピューティングは"
+      "text": "much potential market share there is to capture. \nThey seem credible. Though quantum computing,"
     },
     {
       "start": 115.68,
       "duration": 5.84,
-      "text": "私の記憶にある限り、常に5年先の話でした。さて、私たちがIonQを初めて検討したのは"
+      "text": "to be fair, has always been 5 years away for as \nlong as I can remember. Now, we first looked at"
     },
     {
       "start": 121.52,
       "duration": 6.0,
-      "text": "約4年前です。当時、同社には好意的な評価を下していました。創業者たちは"
+      "text": "IonQ about four years ago. We had favorable things \nto say about the company. We found the founders to"
     },
     {
       "start": 127.52,
       "duration": 5.2,
-      "text": "非常に優れた実績を残しており、それは通常、その分野で最高の人材を引き付けることができることを意味します。"
+      "text": "be quite accomplished. That usually means they'll \nbe able to attract the best talent in that space."
     },
     {
       "start": 132.72,
       "duration": 5.6,
-      "text": "彼らは2023年までにラックマウント型量子コンピュータをリリースする予定で、まさに世界最強の"
+      "text": "They expected to deliver a rack-mounted quantum \ncomputer by 2023. Talk of the world's most"
     },
     {
       "start": 138.32,
       "duration": 5.84,
-      "text": "量子コンピュータと言えるでしょう。そして、私たちは収益成長という形での進歩のみを見たいと述べました"
+      "text": "powerful quantum computer. And we said that \nwe only wanted to see progress in the form of"
     },
     {
       "start": 144.16,
       "duration": 5.52,
-      "text": "。しかし、収益成長の種類は様々であるため、少し早計だったかもしれません"
+      "text": "revenue growth. Well, perhaps we spoke a bit too \nsoon because not all types of revenue growth are"
     },
     {
       "start": 149.68,
       "duration": 5.2,
-      "text": "。現在の創業者たちの状況を見ると、彼らは"
+      "text": "created equal. When we look at where the founders \nare today, they seem to have bailed for a career"
     },
     {
       "start": 154.88,
       "duration": 6.96,
-      "text": "学術界でのキャリアを諦めたように見えます。そして、今年2月にはCEOとCFOが交代しました。これは良くありません。"
+      "text": "in Academia. And in February of this year, you \nsaw the CEO and CFO change. That's not good."
     },
     {
       "start": 161.84,
       "duration": 6.08,
-      "text": "当時CEOに就任した人物が、現在は取締役会長を"
+      "text": "and the gentleman who stepped in as CEO at that \ntime is now the Chairman of the Board. And when"
     },
     {
       "start": 167.92,
       "duration": 4.96,
-      "text": "務めています。CEOが取締役会長を兼任することは利益相反であり、"
+      "text": "you have a CEO who is also the chairman of \nthe board, that's a conflict of interest,"
     },
     {
       "start": 172.88,
       "duration": 5.76,
-      "text": "企業のガバナンスを評価する人々から非難されます。しかし、"
+      "text": "it's frowned upon by those who assess governance \nin corporations. But there are really two"
     },
     {
       "start": 178.64,
       "duration": 5.76,
-      "text": "これには実際には2つの解釈があります。一つ目は、以前の経営陣がダメで、彼らが"
+      "text": "interpretations to be had here. The first would be \nthat the old management team sucked, so they were"
     },
     {
       "start": 184.4,
       "duration": 5.84,
-      "text": "解任されたというものです。SPACの目標を大きく下回ったからです。もちろん、新しい"
+      "text": "shown the door. That's because they missed their \nspack deck target so badly. And of course, the new"
     },
     {
       "start": 190.24,
       "duration": 5.76,
-      "text": "経営陣はすべてを正すでしょう。あるいは、創業者が"
+      "text": "management team is going to make everything right. \nOr you might say that the founders bailed because"
     },
     {
       "start": 196.0,
       "duration": 5.44,
-      "text": "会社、少なくとも"
+      "text": "they didn't see the promise in the company, at \nleast the core product offering that they were"
     },
     {
       "start": 201.44,
       "duration": 5.12,
-      "text": "SPAC設立当時に展開していた中核製品に将来性を感じられなかったために会社を辞めたとも言えるでしょう。そして、このような経営陣の入れ替わりは"
+      "text": "showcasing at the time they had their SPAC. And \nall this management churn that we see indicates"
     },
     {
       "start": 206.56,
       "duration": 5.92,
-      "text": "、よくあることですが、 会社の業績が芳しくないことを示しています。実は今日、彼らは最高売上"
+      "text": "a poorly company as typically is the case. Just \ntoday, actually, they lost their Chief Revenue"
     },
     {
       "start": 212.48,
       "duration": 5.76,
-      "text": "責任者（CRO）を失いました。その理由は誰にも分かりません。では、この話は一旦置いておいて、売上高の伸びを見てみましょう。もちろん"
+      "text": "Officer. Who knows why? So let's just move past \nthat and start looking at revenue growth. So, of"
     },
     {
       "start": 218.24,
       "duration": 6.8,
-      "text": "、彼らの華やかなSPACの目標は達成できませんでした。"
+      "text": "course, their glossy spack deck made promises they \ncouldn't keep. They were expecting $237 million"
     },
     {
       "start": 225.04,
       "duration": 6.96,
-      "text": "今年の売上高は2億3,700万ドルと予想されていましたが、現在はガイダンスの中間値で約1億800万ドルと予想しています。"
+      "text": "for this year. They're now expecting instead about \n$108 million at the midpoint of guidance. Now,"
     },
     {
       "start": 232.0,
       "duration": 5.6,
-      "text": "これは依然として非常に力強い売上高成長を示しています。では、私たちはこう問いかけます。「一体どこから来るのでしょうか？」"
+      "text": "this still represents very strong revenue growth. \nAnd we'd ask, well, where is that coming from? Is"
     },
     {
       "start": 237.6,
       "duration": 5.44,
-      "text": "この収益は、SPACで披露したコアプラットフォームからのものなのか、それとも 同社"
+      "text": "this revenue coming from their core platform, \nthe one that they showcased in their SPAC, or"
     },
     {
       "start": 243.04,
       "duration": 5.52,
-      "text": "が最近行っている数々の買収からのものなのか？答えはもちろん、"
+      "text": "is it coming from a lot of acquisitions that the \ncompany has been making lately? Well, the answer,"
     },
     {
       "start": 248.56,
       "duration": 5.44,
-      "text": "2025年中の買収だ。同社は5件の買収を行った。そして、それは貸借対照表を見れば一目瞭然だ"
+      "text": "of course, is acquisitions during 2025. They made \nfive different acquisitions. And it's so apparent"
     },
     {
       "start": 254.0,
       "duration": 6.48,
-      "text": "。無形資産とのれんの急増を見れば一目瞭然だ。"
+      "text": "here in the balance sheet. Just look at the sharp \nincrease in intangible assets and goodwill. So"
     },
     {
       "start": 260.48,
       "duration": 5.6,
-      "text": "基本的に、のれんとは、企業を買収する際に、"
+      "text": "basically, goodwill is when you go to acquire a \ncompany and you can't account for all the money"
     },
     {
       "start": 266.08,
       "duration": 3.6,
-      "text": "受け取るものに対して支払う金額の全てを計上できないことです。ですから、それをバケツに入れて「ああ、"
+      "text": "that you're paying for what you're receiving. \nSo you simply put that in a bucket and say, \"Oh,"
     },
     {
       "start": 269.68,
       "duration": 5.28,
-      "text": "これはのれんだ」と言うのです。これが将来価値です。これは非常に優れた"
+      "text": "that's goodwill.\" That's future value. We're going \nto realize later because this is such a great"
     },
     {
       "start": 274.96,
       "duration": 6.24,
-      "text": "買収なので、後で気づくことになります。これは通常、過剰に支払ったことを意味します。さて、彼らは正当な理由があって過剰に支払ったと主張するでしょう"
+      "text": "acquisition. What it typically means is that you \noverpaid. Now, they're going to argue that they"
     },
     {
       "start": 281.2,
       "duration": 5.76,
-      "text": "。その説明は、マッキンゼーが"
+      "text": "overpaid for good reason. And the explanation \nfor that comes from this diagram that McKinsey"
     },
     {
       "start": 286.96,
       "duration": 5.28,
-      "text": "提示した この図にあります。この図は"
+      "text": "put forth that shows how Quantum technology is \nreally three major components. You have Quantum"
     },
     {
       "start": 292.24,
       "duration": 4.72,
-      "text": "、量子技術が実際には3つの主要な要素で構成されていることを示しています。私たちがよく知っている量子コンピューティングがあります。次に、量子通信と量子センシングがあります。"
+      "text": "Computing, what we're all familiar with. Then you \nhave Quantum Communication and Quantum Sensing."
     },
     {
       "start": 296.96,
       "duration": 5.44,
-      "text": "最近の投資家向け資料にあるIonQのスライドを見てみると、彼らは"
+      "text": "And when you move to IonQ's slide in their \nrecent investor deck, you see here they describe"
     },
     {
       "start": 302.4,
       "duration": 5.52,
-      "text": "自らを世界で唯一の量子プラットフォーム企業と表現しています。そして、彼らはこれらすべての"
+      "text": "themselves as the only quantum platform company \nin the world. And they're touching on all these"
     },
     {
       "start": 307.92,
       "duration": 5.2,
-      "text": "分野に関わっていますよね？彼らが誰を買収したかを見れば、それはある程度納得できます。彼らは"
+      "text": "areas, right? And that sort of makes sense when \nyou look at who they acquired. So they acquired"
     },
     {
       "start": 313.12,
       "duration": 5.68,
-      "text": "ID Quantiqueという会社を買収しました。確か6年前にIonQについて取り上げたことがあります。彼らの"
+      "text": "a company called ID Quantique. We covered them \nI think it was six years ago and looked at their"
     },
     {
       "start": 318.8,
       "duration": 6.08,
-      "text": "ハードウェアを見ると、量子セキュリティと量子通信サービスに手を出す企業があることがわかりました。ですから、"
+      "text": "hardware and they dabbled in Quantum Security \nand Quantum Communication Services. So it would"
     },
     {
       "start": 324.88,
       "duration": 4.8,
-      "text": "IonQが自社の製品ライン"
+      "text": "make sense that IonQ would acquire them to fill \nthose gaps in their offering. And here you can"
     },
     {
       "start": 329.68,
       "duration": 6.24,
-      "text": "の不足を補うために買収するのは理にかなっていると言えるでしょう。こちらは2025年に行われた買収リストです。6つの企業名が挙げられています。"
+      "text": "see a list of the acquisitions that were made in \n2025. It appears to be six different names. And"
     },
     {
       "start": 335.92,
       "duration": 4.8,
-      "text": "私はそのうち3社に焦点を当てたいと思います。ID Quantiqueについては前回の記事で取り上げました。彼らの事業内容について詳しくは、過去の記事をご覧ください"
+      "text": "I wanted to focus on three of these. So we talked \nabout ID Quantique. You can check our past piece"
     },
     {
       "start": 340.72,
       "duration": 6.0,
-      "text": "。次にOxford Ionicsについてです。彼らはイオン"
+      "text": "to learn more about what they do. Then we have \nOxford Ionics. So they're dabbling in trapped"
     },
     {
       "start": 346.72,
       "duration": 5.6,
-      "text": "トラップ技術に手を出しており、これはIonQが手を出す分野です。もちろん、分かりやすい説明"
+      "text": "ion technology, which is what ion dabbles in. \nAnd, of course, the easy-to-understand thesis"
     },
     {
       "start": 352.32,
       "duration": 5.2,
-      "text": "としては、開発を加速させるために競合他社を買収しただけでしょう。"
+      "text": "would be that they've simply acquired a competitor \nso they can accelerate their development efforts."
     },
     {
       "start": 357.52,
       "duration": 4.4,
-      "text": "これは特に重要です。なぜなら、彼らには非常に強力な競合他社がいるからです。これ"
+      "text": "And that's particularly important because they \nhave a very formidable competitor. We're going"
     },
     {
       "start": 361.92,
       "duration": 4.48,
-      "text": "については後ほど詳しく説明します。それから、私が本当によく考え直さなければならなかった買収がありました。"
+      "text": "to talk about a little bit later. And then there \nwas the acquisition that I really had to take a"
     },
     {
       "start": 366.4,
       "duration": 5.44,
-      "text": "全く意味がないように思えたからです。 Capella Space の話です"
+      "text": "second look at because it didn't really seem \nto make sense. So Capella Space and, of course,"
     },
     {
       "start": 371.84,
       "duration": 5.12,
-      "text": "が、もちろん、 Capellaの技術はQuantum Space"
+      "text": "the story is that Capella's technology will \nbe used as a basis for their Quantum Space"
     },
     {
       "start": 376.96,
       "duration": 5.28,
-      "text": "ハードウェアの基盤として使われる予定です。最終的には他の衛星通信企業に販売することになるんですよね？当時の会長は"
+      "text": "hardware. They're ultimately going to sell to \nother satcom firms, right? And their executive"
     },
     {
       "start": 382.24,
       "duration": 4.88,
-      "text": "こう発言しました。「Capellaには現在、収益を生み出すアプリケーションがある"
+      "text": "chairman at the time makes this statement. He \nsays, \"Capella has an application today which"
     },
     {
       "start": 387.12,
       "duration": 4.72,
-      "text": "」と。確かに収益は生み出していますが、これは量子関連の収益ではありません。"
+      "text": "is revenue generating.\" Yeah, it's generating \nrevenues, but these aren't quantum revenues."
     },
     {
       "start": 391.84,
       "duration": 5.44,
-      "text": "これを量子コンピューティング事業に転換する計画は、まだこれからです。彼はさらに、"
+      "text": "their plan for turning this into a quantum play \ncomes down the road. He goes on to talk about a"
     },
     {
       "start": 397.28,
       "duration": 5.04,
-      "text": "宇宙で培われた堅牢な技術を持つプラットフォームについて話しました。覚えておいてください。ここで問題になるのは、"
+      "text": "platform with bulletproof space heritage. Yeah, \nremember that. So, I guess the question here is"
     },
     {
       "start": 402.32,
       "duration": 5.84,
-      "text": "どれくらいの収益の話をしているのでしょうか？もし収益が多ければ、"
+      "text": "how much revenue are we talking about? Because if \nit's a lot, then the pure playness, if you will,"
     },
     {
       "start": 408.16,
       "duration": 6.56,
-      "text": "IonQの純粋な遊び心、いわば「遊び心」が大幅に低下したことになります。LatkaAIという会社に話を移しましょう。彼らは、Capella Spaceが2023年に7,400万ドルの収益を達成したと述べています。"
+      "text": "of IonQ just dropped meaningfully. And we can turn \nto this firm called LatkaAI. They talk about how"
     },
     {
       "start": 414.72,
       "duration": 8.64,
-      "text": "これは、 IonQが今年度に目標としている収益 の約70%に相当します 。"
+      "text": "Capella Space hit $74 million in revenue in \n2023. Well, that would be roughly 70% of the"
     },
     {
       "start": 423.36,
       "duration": 7.6,
-      "text": "しかし、もちろん、その数字は2023年当時のものです。IonQ"
+      "text": "revenues that IonQ is guiding for this year. But, \nof course, that number was back in 2023. And when"
     },
     {
       "start": 430.96,
       "duration": 6.16,
-      "text": "の決算説明会でのコメントを見ると、 量子技術を搭載し"
+      "text": "you look at this comment made in an earnings call \nby IonQ, they talk about how they're now going to"
     },
     {
       "start": 437.12,
       "duration": 5.2,
-      "text": "た低軌道衛星群を多数所有・運用する計画"
+      "text": "own and operate a proliferated constellation \nof low Earth orbit satellites that they plan"
     },
     {
       "start": 442.32,
       "duration": 5.36,
-      "text": "について言及されています 。Payloadの記事を読み進めると、"
+      "text": "to outfit with quantum stuff. Well, when you \ncontinue reading this article by Payload,"
     },
     {
       "start": 447.68,
       "duration": 6.24,
-      "text": "そのことがよく分かります。2023年、つまり7,300万ドルの収益があったとされるその年に、"
+      "text": "it's rather telling. So, in 2023, the same year \nthey had the supposed $73 million in revenues,"
     },
     {
       "start": 453.92,
       "duration": 5.76,
-      "text": "同社は推進力の問題を抱え、衛星の寿命が予想よりも早く尽きてしまいました。"
+      "text": "the company suffered propulsion problems that \nled its satellites to decay faster than expected."
     },
     {
       "start": 459.68,
       "duration": 5.84,
-      "text": "創業者のCEOは同年秋に辞任したようです。そしてこの記事では、 2025年"
+      "text": "Apparently, the founding CEO stepped down that \nfall. And in this story, they talk about how the"
     },
     {
       "start": 465.52,
       "duration": 6.72,
-      "text": "3月と5月の2回の軌道離脱後、現在軌道上にあるカペラ宇宙船の数は4機になると 述べ"
+      "text": "number of Capella spacecraft in orbit right now \nwould be four following two deorbits in March and"
     },
     {
       "start": 472.24,
       "duration": 6.4,
-      "text": "られています。ここで、非常に重要な疑問が浮かび上がります。IonQは実際には何を購入したのでしょうか？もし"
+      "text": "May of 2025. So, there's a really good question \nto ask here. What has IonQ actually purchased? If"
     },
     {
       "start": 478.64,
       "duration": 6.64,
-      "text": "7,300万ドルの収益を目的とした購入であれば、量子技術への投資を大幅に減らしたことになります。彼らは今、"
+      "text": "they purchased $73 million in revenues, they just \ndiluted their quantum exposure a lot. They're now"
     },
     {
       "start": 485.28,
       "duration": 4.72,
-      "text": "量子研究、"
+      "text": "dabbling in something very different from the \nquantum work, the core quantum work that we"
     },
     {
       "start": 490.0,
       "duration": 5.52,
-      "text": "つまりSPACの資料で私たち全員が申し込んだ中核的な量子研究とは全く異なる分野に手を出しています。もし彼らがそうしなかったら、"
+      "text": "all signed up for in that SPAC deck. And if they \ndidn't, if the revenues fell dramatically because"
     },
     {
       "start": 495.52,
       "duration": 4.88,
-      "text": "衛星の半分が空から落ちたせいで収益が劇的に落ちたとしたら、私たちも空から落ちてしまうでしょう。つまり、"
+      "text": "half the satellites fell out of the sky, we're \nfalling right out of the sky. Then it sounds like"
     },
     {
       "start": 500.4,
       "duration": 5.52,
-      "text": "彼らは失敗した事業を買収したことになります。どっちが失敗作ですか？これは典型的なSPACの手法ですよ"
+      "text": "they purchased a failed business. Which is it? \nThis just sounds like a typical SPAC playbook,"
     },
     {
       "start": 505.92,
       "duration": 4.56,
-      "text": "ね？壮大な約束をして大金を調達するのですが、実際には不可能だと分かっているのです。"
+      "text": "right? You raise a bunch of money by making \ngrandiose promises that you realize you can't"
     },
     {
       "start": 510.48,
       "duration": 5.12,
-      "text": "保有する。そして、その臨時収入で企業を買収する。収益成長に乗じて利益を得るのだ 。"
+      "text": "keep. Then you take your cash windfall and start \nbuying companies with it. You're bolting on that"
     },
     {
       "start": 515.6,
       "duration": 6.16,
-      "text": "量子コンピューティングが盛んに宣伝されている時代に、一体 どんな掘り出し物を手に入れようとしているのだろうか"
+      "text": "revenue growth. And exactly what sort of bargains \nare you hoping to acquire when you're operating"
     },
     {
       "start": 521.76,
       "duration": 5.2,
-      "text": "？量子コンピューティング関連企業を売却する投資家"
+      "text": "during a time when there's a lot of quantum hype. \nInvestors who are selling their quantum companies"
     },
     {
       "start": 526.96,
       "duration": 4.8,
-      "text": "はプレミアム価格を求めるだろう。だからこそ、バランス"
+      "text": "are going to want a premium, which is why we see \nsuch a large goodwill balance on their balance"
     },
     {
       "start": 531.76,
       "duration": 6.32,
-      "text": "シートに多額ののれん残高が計上されているのだ。この戦略が計画通りにうまくいくことは滅多にない。うまくいくと考えている投資家は、"
+      "text": "sheet. Rarely does this strategy work out as \nplanned. And for those of you that think it will,"
     },
     {
       "start": 538.08,
       "duration": 5.6,
-      "text": "参加するためにかなりの代償を払うことになる。そこで、評価について話す前に、"
+      "text": "you're going to pay a pretty price to participate. \nSo, before I start talking about valuation,"
     },
     {
       "start": 543.68,
       "duration": 4.88,
-      "text": "最近よく聞かれる「知られざる事実」について触れておきたい"
+      "text": "I wanted to address a question that we've been \ngetting a lot lately about the elephant in the"
     },
     {
       "start": 548.56,
       "duration": 5.2,
-      "text": "。なぜ日本の山奥にある古代寺院の動画を撮影しているのか？いや、"
+      "text": "room. Why have I been shooting videos from an \nancient temple in the Japanese mountains? Okay,"
     },
     {
       "start": 553.76,
       "duration": 5.36,
-      "text": "誰も聞いていない。ただ話してみたかっただけだ。ご存知の通り、ルーマニア人の占い師が"
+      "text": "nobody asked. I just wanted to talk about it. So, \nas you might know, our Romanian fortune teller"
     },
     {
       "start": 559.12,
       "duration": 6.0,
-      "text": "最近辞表を提出した。つまり、私たちはアルファの代替源を急いで探しているのだ"
+      "text": "recently submitted her resignation letter, which \nmeans we're scrambling to find alternative sources"
     },
     {
       "start": 565.12,
       "duration": 6.4,
-      "text": "。その一つの可能​​性は、ご想像の通り、仏教だ。日本の人口は"
+      "text": "of alpha. One possible source, you guessed \nit, Buddhism. And the population of Japan is"
     },
     {
       "start": 571.52,
       "duration": 8.0,
-      "text": "減少傾向にあります。ですから、投資額に応じて得られるものは増えるということですね。そこで、"
+      "text": "declining. So, you get more karma for your dollar. \nSo, I'd like to extend a big Arigato Gozaimas to"
     },
     {
       "start": 579.52,
       "duration": 5.6,
-      "text": "最近カスタマーフォーカス調査にご参加いただいたプレミアム会員の皆様に、心からの「ありがとう」を申し上げます。"
+      "text": "every premium subscriber who recently participated \nin our customer focus survey. We're going to be"
     },
     {
       "start": 585.12,
       "duration": 5.6,
-      "text": "近々、非常に優れた機能強化を発表する予定ですので、どうぞお楽しみに。さて、"
+      "text": "debuting a very cool enhancement soon, so stay \ntuned for that. Anywho, back to talking about"
     },
     {
       "start": 590.72,
       "duration": 5.52,
-      "text": "IonQの話に戻りましょう。この会社の現在の評価額は約150"
+      "text": "IonQ. So, when we look at the current valuation \nof this company, it's somewhere around $15"
     },
     {
       "start": 596.24,
       "duration": 7.12,
-      "text": "億ドルです。これらの企業は利益を出していないので、株価売上高倍率（PSR）を使用することができます。つまり、"
+      "text": "billion. We can then use a price-to-sales ratio \nbecause these companies don't have profit. So,"
     },
     {
       "start": 603.36,
       "duration": 5.52,
-      "text": "一般的な株価収益率（PER）は使えないということですよね？そこで、2025年の予想売上高は1億"
+      "text": "you can't use your typical price-to-earnings \nratio, right? So, we have expected sales for 2025"
     },
     {
       "start": 608.88,
       "duration": 7.28,
-      "text": "800万ドルなので、この数字を使うと137という値が得られます。そこで、"
+      "text": "of $108 million and we'll just use that number, \nand we get a value of 137. So we need something"
     },
     {
       "start": 616.16,
       "duration": 5.04,
-      "text": "これをベンチマークするものが必要です。ここでハイテク株カタログを開き、"
+      "text": "to benchmark that against. I've pulled up our \ntech stock catalog here and I simply filtered"
     },
     {
       "start": 621.2,
       "duration": 5.52,
-      "text": "いわゆる単純評価倍率（SBR）が最も高い企業を絞り込みました。 時価 総額を予測売上高ではなく年間売上"
+      "text": "on the companies with the highest what we call \nsimple valuation ratio. So we take market cap and"
     },
     {
       "start": 626.72,
       "duration": 5.6,
-      "text": "高で割ります。ここで、"
+      "text": "divide it by annualized revenues, not forecasted \nrevenues. And here you can see that, what we call,"
     },
     {
       "start": 632.32,
       "duration": 5.84,
-      "text": "単純評価比率（SVR）と呼ばれるものを確認できます。これは、過去1年間の平均と合わせて計算されています"
+      "text": "the simple valuation ratio or SVR. You can see \nthat calculated along with their average over"
     },
     {
       "start": 638.16,
       "duration": 4.24,
-      "text": "。そして、プレミアムまたはディスカウントが表示されます。面白いと思いませんか？"
+      "text": "the past year. And then we have a premium or a \ndiscount. Kind of cool, right? So you can see well"
     },
     {
       "start": 642.4,
       "duration": 5.6,
-      "text": "Robinhoodの評価額が急上昇していることが わかります 。Rocket Labと"
+      "text": "Robinhood has just gone through the roof in terms \nof their valuation. Same thing for Rocket Lab and,"
     },
     {
       "start": 648.0,
       "duration": 5.44,
-      "text": "Palantirも同様です。この計算を行っているすべての企業の平均を取ると、"
+      "text": "of course, Palantir. Now, if you took the average \nof all the companies that we calculate this for,"
     },
     {
       "start": 653.44,
       "duration": 4.96,
-      "text": "約7.5になります。カットオフはその3倍です。つまり、約22です。私たちは"
+      "text": "it's somewhere around 7.5. Our cutoff is \nthree times that. So let's say around 22. We"
     },
     {
       "start": 658.4,
       "duration": 4.8,
-      "text": "それよりも高い企業は買いません。そして、これらの他の企業と比較して、"
+      "text": "just don't buy companies that are richer than \nthat. And compared to these other companies,"
     },
     {
       "start": 663.2,
       "duration": 3.84,
-      "text": "IonQは非常に過大評価されています。そこで、面白いことができるのですが、"
+      "text": "IonQ is extremely overvalued. So what \nyou can then do, this is rather fun,"
     },
     {
       "start": 667.04,
       "duration": 6.72,
-      "text": "株価がどの程度のバリュエーションで取引されるべきかに基づいて、株価を逆算することができます。仮に"
+      "text": "is you can back out the share price based on what \nsorts of valuations it ought to trade at. So let's"
     },
     {
       "start": 673.76,
       "duration": 5.6,
-      "text": "パランティアと同じ評価額で取引されていたとしたら、1株あたり約31ドルになります。"
+      "text": "say it traded at the same valuation Palantir did, \nwell that would be about $31 a share. If it traded"
     },
     {
       "start": 679.36,
       "duration": 6.24,
-      "text": "ロケットラボと同じ評価額で取引されていたら、1株あたり14ドルになります。そして、もしカットオフで"
+      "text": "at the same valuation as Rocket Lab, that would \nbe $14 a share. And if it traded at our cutoff,"
     },
     {
       "start": 685.6,
       "duration": 8.56,
-      "text": "ある約22ドルで取引されていたら、1株あたり7ドル弱になります。つまり、この企業は極めて過大評価されており"
+      "text": "roughly around 22, that would be just under $7 \na share. So this firm is extremely overvalued"
     },
     {
       "start": 694.16,
       "duration": 5.84,
-      "text": "、IonQも同意見です。彼らのSPAC資料を見てみると、評価額について語る際には、"
+      "text": "and even IonQ agrees. You go back to their SPAC \ndeck, when they're talking about valuation here,"
     },
     {
       "start": 700.0,
       "duration": 6.56,
-      "text": "売上高の10倍から15倍の倍率を使っています。彼らは売上高の100倍は使わないことを知っていました。"
+      "text": "they use a 10 times to 15 times revenue multiple. \nThey knew not to use a 100 times revenue multiple"
     },
     {
       "start": 706.56,
       "duration": 6.56,
-      "text": "なぜなら、ジョー・リテール、いや、DGenジョー・リテールではないかもしれませんが、少しでも"
+      "text": "because even Joe Retail, well maybe not DGen Joe \nRetail, but even a retail investor with a small"
     },
     {
       "start": 713.12,
       "duration": 5.12,
-      "text": "投資の才覚のある個人投資家でさえ、そんなのは全く馬鹿げていると分かるからです。そして、これが彼らの"
+      "text": "amount of investing acumen would realize that's \nabsolutely ridiculous. And here you can see their"
     },
     {
       "start": 718.24,
       "duration": 6.16,
-      "text": "馬鹿げた評価額の推移です。これは約1年半の推移をグラフ化したものです。"
+      "text": "ridiculous valuation over time. We've plotted this \nover about a year and a half. You can see how it"
     },
     {
       "start": 724.4,
       "duration": 5.6,
-      "text": "30ドル台から200ドル近くまで上昇したのが お分かりいただけると思います。"
+      "text": "went from floating around the 30s to, sort of, \ngetting up there close to 200. But right now it's,"
     },
     {
       "start": 730.0,
       "duration": 6.96,
-      "text": "しかし今は 、先ほど申し上げたように、130ドル台半ばで推移しています。投資家の皆様によくお伝えするのは、"
+      "text": "as I said, floating around the mid-130s mark. \nSo what we usually say to investors is if you're"
     },
     {
       "start": 736.96,
       "duration": 4.08,
-      "text": "バリュエーションの目標を設定するなら、必ず目標を設定するべきだということです。"
+      "text": "going to set a valuation target, you should always \nhave one. If you're dabbling in the volatile world"
     },
     {
       "start": 741.04,
       "duration": 4.88,
-      "text": "ハイテク株のような変動の激しい世界に投資するのであれば、過去4つの数値の平均値を目標 値として設定する"
+      "text": "of tech stocks, what you can do is take the last \nfour values, average them, and set that as your"
     },
     {
       "start": 745.92,
       "duration": 4.72,
-      "text": "のが良いでしょう。しかし、この銘柄ではそううまくはいかないでしょう。なぜなら、この銘柄は"
+      "text": "target. Well, that's not going to work so well \nhere, right? Because this is persistently traded"
     },
     {
       "start": 750.64,
       "duration": 5.12,
-      "text": "長期間、非常に割高なバリュエーションで取引され続けているからです。2つのことが起こります。ファンダメンタルズが"
+      "text": "at such a rich valuation for such a long period \nof time. Two things will happen. Fundamentals"
     },
     {
       "start": 755.76,
       "duration": 5.36,
-      "text": "追いつくか、バリュエーションが平均値に戻るかです。これは議論の余地がありません。単純に"
+      "text": "will catch up or the valuation will revert to the \nmean. This isn't controversial. This is simply"
     },
     {
       "start": 761.12,
       "duration": 5.36,
-      "text": "市場の仕組み。彼らが使う華美な言葉遣いには注意が必要です。もちろん、"
+      "text": "how markets work. You have to be careful about a \nlot of the flowery language they use. Of course,"
     },
     {
       "start": 766.48,
       "duration": 3.92,
-      "text": "ここでは世界最強の量子コンピュータの実現について語られています。私は 、"
+      "text": "here they're talking about delivering the \nworld's most powerful quantum computer. I"
     },
     {
       "start": 770.4,
       "duration": 5.44,
-      "text": "彼らは既にそれを実現していると思っていました。もしかしたら、2030年までに200万キュービットの特別なコンピュータかもしれません。皆さん、"
+      "text": "thought they already had that. Maybe it's this \nspecial one with 2 million cubits by 2030. Folks,"
     },
     {
       "start": 775.84,
       "duration": 4.48,
-      "text": "量子コンピュータ実現は いつでも5年先の話ですよね？今回は違うかもしれません。"
+      "text": "it's always five years away, right? Well, maybe \nthis time it's different. Could very well be,"
     },
     {
       "start": 780.32,
       "duration": 5.2,
-      "text": "量子コンピュータに注ぎ込まれている資金を考えると、そうなる可能性は十分にあります。しかし、私が話を聞いたある専門家は、"
+      "text": "with all the money being poured into quantum \ncomputing. But one expert I spoke with said"
     },
     {
       "start": 785.52,
       "duration": 6.08,
-      "text": "企業がキュービットの話を始めると、それは 走行距離がわからない"
+      "text": "that when companies start talking about cubits, \nthat's like a car being advertised with a price"
     },
     {
       "start": 791.6,
       "duration": 5.6,
-      "text": "値札付きの車の広告のようなものだと 言いました。つまり、重要な追加情報がなければ、"
+      "text": "tag where you can't see what the mileage is, \nright? So without key additional information,"
     },
     {
       "start": 797.2,
       "duration": 5.36,
-      "text": "ほとんど意味がありません。ジョー・リテールは、量子コンピュータとは、毎日月に向かって打ち上げられる4トンのロケットのようなものだと考えがちです"
+      "text": "that means next to nothing. I think Joe Retail \nhas a tendency to think that quantum computing"
     },
     {
       "start": 802.56,
       "duration": 5.6,
-      "text": "。しかし、IBMが 昨年夏に発表したプレスリリースを ご覧ください"
+      "text": "is simply the four stonks that he sees shooting \nto the moon every day. But you see here IBM's"
     },
     {
       "start": 808.16,
       "duration": 6.0,
-      "text": "。彼らは、世界初の大規模フォールトトレラントを発表する予定です。 これは、"
+      "text": "press release this past summer. They expect to \ndebut the first largecale fault tolerant. That's"
     },
     {
       "start": 814.16,
       "duration": 4.56,
-      "text": "この分野で直面している問題を理解している人にとって非常に重要です。世界"
+      "text": "very important for anybody that understands the \nproblems that they're facing in this space. The"
     },
     {
       "start": 818.72,
       "duration": 6.08,
-      "text": "初のフォールトトレラント量子コンピュータです。これは、"
+      "text": "first fault-tolerant quantum computer. It's \nprojected to run 20,000 times more operations"
     },
     {
       "start": 824.8,
       "duration": 4.88,
-      "text": "現在の量子コンピュータの2万倍の演算処理能力を持つと予測されています。ここで注目すべき点は、"
+      "text": "than today's quantum computers. The one thing \nnoticeable here is the approach they're taking"
     },
     {
       "start": 829.68,
       "duration": 4.96,
-      "text": "物理キュービット上に構築された論理キュービットを用いるというアプローチです。これにより、"
+      "text": "where they use logical cubits which are built \non top of physical cubits, and that's supposed"
     },
     {
       "start": 834.64,
       "duration": 4.96,
-      "text": "エラー訂正の問題が解決されるはずです。"
+      "text": "to solve the error correction problems. And you \nsee other firms are taking this approach as well,"
     },
     {
       "start": 839.6,
       "duration": 4.88,
-      "text": "マッキンゼーのレポートによると、他の企業もこのアプローチを採用していることがわかります。世界最大級のテクノロジー企業のいくつかが、この分野に参入しています。Google"
+      "text": "from the McKinsey report. Some of the world's \nbiggest tech companies are dabbling here. You've"
     },
     {
       "start": 844.48,
       "duration": 5.84,
-      "text": "、Amazon、Microsoft、IBMなどです。次のスライドは非常に分かりやすく、様々な企業のアプローチを詳しく説明しています"
+      "text": "got Google, Amazon, Microsoft, right? IBM. And \nthis next slide is very nice. It breaks down"
     },
     {
       "start": 850.32,
       "duration": 4.56,
-      "text": "。右側をご覧ください。トラップイオンがあります。IonQ"
+      "text": "the approaches taken by various companies. And \nlook here to the right. You have trapped ions."
     },
     {
       "start": 854.88,
       "duration": 6.16,
-      "text": "があります。AQTという会社もあります。スイスの会社だと思います。Continuumは"
+      "text": "There's IonQ. There's another company called AQT. \nI think they're out of Switzerland and Continuum."
     },
     {
       "start": 861.04,
       "duration": 5.68,
-      "text": "Honeywellのスピンオフ企業です。これは本当に注目すべき企業です。"
+      "text": "So that's the Honeywell spin-off. That's one you \nshould really be watching closely. And then you"
     },
     {
       "start": 866.72,
       "duration": 5.68,
-      "text": "左側のグラフを見ていくと、他にも様々なアプローチが見られます。資金調達について見てみると 、"
+      "text": "go over here through the left and then you can see \nthe other various approaches being taken. But when"
     },
     {
       "start": 872.4,
       "duration": 5.28,
-      "text": "量子スタートアップへの資金投入が非常に多いことがわかります。このグラフは"
+      "text": "you look at funding, and there's a lot of it going \ninto quantum startups. And this chart, of course,"
     },
     {
       "start": 877.68,
       "duration": 6.56,
-      "text": "マッキンゼーのレポートから引用したものですが、少し補足しておく必要があります。Continuumは、"
+      "text": "taken from the McKinsey report needs to be updated \nwith this little factoid. So, Continuum has now a"
     },
     {
       "start": 884.24,
       "duration": 6.72,
-      "text": "数か月前に6億ドルの資金調達を行い、評価額が100億ドルに達しました。これは 、"
+      "text": "valuation of $10 billion following a $600 million \nraise they did just several months ago. That"
     },
     {
       "start": 890.96,
       "duration": 6.48,
-      "text": "昨年初めの50億ドルから倍増したことになります。そしてもちろん、NVIDIAも"
+      "text": "doubled their valuation from the $5 billion it \nwas earlier last year. And, of course, NVIDIA's"
     },
     {
       "start": 897.44,
       "duration": 4.4,
-      "text": "投資しています。NVIDIAが投資していないものは何でしょうか？大したことはないですよね？彼らは多額の"
+      "text": "invested. Well, what isn't NVIDIA invested in? \nDoesn't mean a whole lot, right? They have so much"
     },
     {
       "start": 901.84,
       "duration": 4.48,
-      "text": "資金を持っていますから。しかし、他にも注目すべき企業がいくつかあります。もちろん、ハネウェル、JPモルガン、チェース、"
+      "text": "cash. But some of these other names are notable. \nOf course, Honeywell, you have JP Morgan, Chase,"
     },
     {
       "start": 906.32,
       "duration": 6.72,
-      "text": "三井物産などです。これらの投資家は、IonQの直接の競合であるContinuumに非常に有望な点を見出している可能性が高いでしょう"
+      "text": "and Mitsui. So it's likely that these investors \nsee something very promising with Continuum which"
     },
     {
       "start": 913.04,
       "duration": 7.04,
-      "text": "。ですから、IonQの発言はここでは無視しましょう。"
+      "text": "is a direct competitor to IonQ. So let's sort \nof ignore statements that IonQ says here. I"
     },
     {
       "start": 920.08,
       "duration": 5.52,
-      "text": "特に私が注目したのは1つです。 「IonQを除くほぼすべてのケースは、単なるブランディングの試みだと自信を持って言えます"
+      "text": "noted one in particular. \"We can confidently state \nthat in almost every case beyond IonQ, it's just"
     },
     {
       "start": 925.6,
       "duration": 5.52,
-      "text": "。」本当ですか？つまり、270社もの量子コンピューティング系スタートアップは、すべてブランディングの"
+      "text": "a branding attempt.\" Really? So all 270 quantum \ncomputing startups out there, they're all branding"
     },
     {
       "start": 931.12,
       "duration": 4.64,
-      "text": "試みということですか？どれもまともなことをしていませんよね？確かに、"
+      "text": "attempts, right? None of them are doing anything \nlegitimate? Certainly, it's a red flag when you"
     },
     {
       "start": 935.76,
       "duration": 7.2,
-      "text": "経営幹部が馬鹿げたことを言っているのは危険信号です。IonQも馬鹿げた"
+      "text": "have C-suite types saying ridiculous things, and \nIonQ seems to be saying no shortage of ridiculous"
     },
     {
       "start": 942.96,
       "duration": 6.08,
-      "text": "ことを山ほど言っているようです。とはいえ、もちろん、彼らが主張する強気な理論は、理論上は説得力があり、"
+      "text": "things. Though, of course, the bull thesis that \nthey're proposing, right, is compelling on paper,"
     },
     {
       "start": 949.04,
       "duration": 5.76,
-      "text": "彼らは今や潤沢な資金を持っています。今年、彼らは30億ドルを調達したと思います。"
+      "text": "and they now have a whole bunch of cash. So this \nyear they raised, I guess, $3 billion. They have"
     },
     {
       "start": 954.8,
       "duration": 5.12,
-      "text": "バランスシートには35億ドルあります。そして、その資金の使い道について話すとき"
+      "text": "$3.5 billion in their balance sheet now. And when \nthey talk about what they're going to use it for"
     },
     {
       "start": 959.92,
       "duration": 4.32,
-      "text": "、彼らは研究開発への投資について語っています。ええ、彼らは研究開発にかなりの資金を費やしてきました。"
+      "text": "now, they talk about investing in R&D. Well, \nthey've spent an awful lot of money on R&D. I"
     },
     {
       "start": 964.24,
       "duration": 4.64,
-      "text": "今年の最初の9ヶ月で2億ドルだと思います。すべてを買収しなければならないとしたら、一体何を作っているのでしょうか"
+      "text": "think $200 million for the first 9 months of this \nyear. What exactly are they building if they're"
     },
     {
       "start": 968.88,
       "duration": 4.08,
-      "text": "？例えば、すべてを統合するとしましょう。わかりました。では、"
+      "text": "having to acquire everything? Let's say, well, \nwe're integrating everything together. Okay. So,"
     },
     {
       "start": 972.96,
       "duration": 5.04,
-      "text": "これらの買収をすべて終えた後、成長率はどうなるのでしょうか？これは"
+      "text": "once you get done with all these purchases, what's \nthe growth rate going to look like then? That's"
     },
     {
       "start": 978.0,
       "duration": 4.56,
-      "text": "非常に重要な情報です。ここで起こり得るのは、35"
+      "text": "very key piece of information. Well, what might \nhappen here is they're going to take this $3.5"
     },
     {
       "start": 982.56,
       "duration": 5.2,
-      "text": "億ドルを手にした彼らは、そのまま買収を続けるということです。これは必ずしも良いことではありません。"
+      "text": "billion and they're just going to keep acquiring, \nright? It's not necessarily a good thing at all."
     },
     {
       "start": 987.76,
       "duration": 6.64,
-      "text": "ですから、私たちの分析に批判的な反応のほぼすべてには、何らかの批判が含まれているでしょう。"
+      "text": "So nearly every response that's going to be \ncritical of our analysis will have some sort of"
     },
     {
       "start": 994.4,
       "duration": 5.76,
-      "text": "FOMO（取り残されることへの不安）のバリエーションですね。今回は評価額に関して言えば、違います。いいえ、違います。"
+      "text": "FOMO variation to it. This time it's different in \nreference to the valuation. No, it's not. There is"
     },
     {
       "start": 1000.16,
       "duration": 8.16,
-      "text": "全く急ぐ必要はありません。そして、この表は気に入っています。では、宇宙核関連株と量子コンピューティング関連"
+      "text": "no rush at all here. And I like this table here. \nSo what do Space Nuclear and Quantum Computing"
     },
     {
       "start": 1008.32,
       "duration": 6.08,
-      "text": "株の共通点は何でしょうか？答えはDGENです。この"
+      "text": "stocks have in common? Well, the answer is DGEN. \nSo all of the stocks that you see here on this"
     },
     {
       "start": 1014.4,
       "duration": 6.64,
-      "text": "リストに載っている銘柄はすべて過大評価されており、非常に過大評価されています。そして、それらが連動して動いているのを見てください。"
+      "text": "list are overvalued and being hyped very heavily. \nAnd look how they move in unison. There almost"
     },
     {
       "start": 1021.04,
       "duration": 5.84,
-      "text": "まるで相関関係があるように見えます。そして、その相関関係とは、もちろんDGENの動向です。"
+      "text": "seems to be a sort of correlation happening here. \nAnd that correlation, of course, is DGEN behavior."
     },
     {
       "start": 1026.88,
       "duration": 5.84,
-      "text": "非常に注意が必要です。1年後に再度確認し、評価額がより妥当なものになっているか"
+      "text": "Be very careful out there. So we're going to check \nback in a year to see if the valuation is more"
     },
     {
       "start": 1032.72,
       "duration": 5.84,
-      "text": "、そしてこれらの買収が停止しているかどうかを確認します。そうすれば、この 企業集団が今後"
+      "text": "reasonable and if these acquisitions have stopped. \nSo then we can get an idea of what this collective"
     },
     {
       "start": 1038.56,
       "duration": 4.96,
-      "text": "どのようになり、彼らが構築したこの新しい壮大なプラットフォームに関してどのようなガイダンスを提供しているかを把握できるでしょう"
+      "text": "company looks like going forward and what sort of \nguidance they're giving on this new grand platform"
     },
     {
       "start": 1043.52,
       "duration": 4.8,
-      "text": "。その間、他の企業は、"
+      "text": "that they've built. And in the meantime, other \ncompanies might see all this money being thrown"
     },
     {
       "start": 1048.32,
       "duration": 4.4,
-      "text": "上場している量子コンピューティング企業に投じられている資金を見て、この動きに乗ろうとするかもしれません。そしてもちろん、それは起こっています。"
+      "text": "at publicly traded Quantum firms and want to get \nin on the action. And of course, that's happening."
     },
     {
       "start": 1052.72,
       "duration": 5.68,
-      "text": "量子コンピューティング関連の新たなIPOが近づいています。先日の"
+      "text": "There's a new Quantum Computing IPO that's \ncoming. We analyzed that for you in this recent"
     },
     {
       "start": 1058.4,
       "duration": 5.04,
-      "text": "記事でその分析を行いましたので、ぜひご覧ください。本日はこの動画をご覧いただき、誠にありがとうございます。"
+      "text": "piece. Give that a watch next. Thanks so much \nfor taking the time to watch this video today."
     }
   ]
 }
