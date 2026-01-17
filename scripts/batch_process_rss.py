@@ -271,28 +271,30 @@ def main():
     
     # 目標数に達するか、キューが空になるまでループ
     while processed_count < target_count and queue:
-        video = queue[0]  # 常に先頭から取得
+        video = queue[0]
         
-        print(f"\n{'='*60}")
-        print(f"[{processed_count+1}/{target_count}] {video['title']}")
-        print(f"{'='*60}")
-        
-        # 処理前の待機 (IPバン対策: 10〜40秒)
-        # スキップや失敗が連続しても必ず間隔を空けるために、ループの最初で実行
-        if processed_count > 0 or skipped_count > 0 or failed_count > 0:
-            import random
-            delay = random.randint(10, 40)
-            print(f"\n⏳ IPバン対策のため {delay}秒待機します...")
-            time.sleep(delay)
-
-        # 処理済みチェック
+        # 1. 処理済みチェック (自前JSONチェックなのでネットワーク負荷なし)
+        # 待機なしで即座にスキップしてバックログを掃除する
         processed_ids = set(state.get('processed_videos', {}).keys())
         if video['video_id'] in processed_ids:
+            print(f"[{processed_count+1}/{target_count}] {video['title']}")
             print(f"  ✓ スキップ (既に処理済みです)")
             queue.pop(0)
             if not args.dry_run:
                 save_backlog(backlog_path, backlog)
             continue
+
+        print(f"\n{'='*60}")
+        print(f"[{processed_count+1}/{target_count}] {video['title']}")
+        print(f"{'='*60}")
+        
+        # 2. ネットワークアクセスの前に必ず待機 (IPバン対策: 10〜40秒)
+        # これ以降は YouTube API や Google API を叩く可能性があるため強制待機
+        if not args.dry_run:
+            import random
+            delay = random.randint(10, 40)
+            print(f"⏳ IPバン対策のため {delay}秒待機してから開始します...")
+            time.sleep(delay)
         
         # 動画の長さチェック
         if not filter_by_duration(youtube, video, min_duration_seconds=args.min_duration * 60):

@@ -95,6 +95,11 @@ process_file() {
     if [[ ! -f "$desc_file" ]]; then
         echo "  ⚠️ 概要欄ファイルが存在しません。取得を試みます..."
         
+        # IPバン対策：10〜40秒のランダムな待機（YouTubeへのアクセスが発生するため）
+        local delay=$((RANDOM % 31 + 10))
+        echo "  ⏳ IPバン対策のため ${delay}秒待機します..."
+        sleep "$delay"
+
         # IDがハイフンで始まる場合でも正しく渡すために -- を使用
         if uv run python3 scripts/process_video.py --provider kilocode -- "$video_id" > /dev/null 2>&1; then
             echo "  ✅ 概要欄を取得しました。"
@@ -153,13 +158,6 @@ else
             output_file="${SUMMARY_DIR}/${video_id}.md"
             
             if [[ ! -f "$output_file" ]]; then
-                # IPバン対策：10〜40秒のランダムな待機（ネットワークアクセスの可能性があるため）
-                if [[ $processed_count -gt 0 ]] && ! $DRY_RUN; then
-                    local delay=$((RANDOM % 31 + 10))
-                    echo "⏳ IPバン対策のため ${delay}秒待機します..."
-                    sleep "$delay"
-                fi
-
                 process_file "$transcript_file"
                 processed_count=$((processed_count + 1))
                 

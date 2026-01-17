@@ -103,10 +103,19 @@ def fetch_all_rss_videos(
     new_videos = []
     processed_ids = set(state.get('processed_videos', {}).keys())
     
-    for channel in channels:
+    for i, channel in enumerate(channels):
         channel_id = channel['channel_id']
         channel_name = channel.get('channel_name', channel_id)
         channel_lang = channel.get('lang', 'ja')
+        
+        # IPバン対策: チャンネルごとに 2〜5秒のランダム待機 (最初のチャンネル以外)
+        if i > 0:
+            import time
+            import random
+            delay = random.uniform(2, 5)
+            print(f"  ⏳ 次のチャンネルまで待機中... ({delay:.1f}s)")
+            time.sleep(delay)
+
         print(f"チャンネルをチェック中 (RSS): {channel_name} (言語: {channel_lang})")
         
         videos = fetch_rss_videos(channel_id, channel_name, days_back, lang=channel_lang)
