@@ -16,11 +16,14 @@
 set -e
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
+#PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
+PROJECT_ROOT="~/apps/summarizer_personal/"
 
 TRANSCRIPT_DIR="${PROJECT_ROOT}/data/transcripts"
 SUMMARY_DIR="${PROJECT_ROOT}/data/summaries"
 SYSTEM_PROMPT="${PROJECT_ROOT}/blog_article_system.txt"
+
+
 
 # 出力ディレクトリがなければ作成
 mkdir -p "$SUMMARY_DIR"
@@ -50,12 +53,23 @@ while [[ $# -gt 0 ]]; do
             SLEEP_SECONDS="$2"
             shift 2
             ;;
+        --limit)
+            LIMIT_VAL="$2"
+            shift 2
+            ;;
         *)
             echo "不明なオプション: $1"
             exit 1
             ;;
     esac
 done
+
+# 引数で指定された制限を適用
+if [[ -n "$LIMIT_VAL" ]]; then
+    LIMIT="$LIMIT_VAL"
+else
+    LIMIT=3
+fi
 
 # ファイル処理関数
 process_file() {
@@ -64,15 +78,27 @@ process_file() {
     video_id=$(basename "$transcript_file" | sed 's/_cleaned.txt//')
     
     local desc_file="${TRANSCRIPT_DIR}/${video_id}_description.txt"
-    local output_file="${SUMMARY_DIR}/${video_id}_summary.md"
+    local output_file="${SUMMARY_DIR}/${video_id}.md"
     
     echo "=== 処理中: $video_id ==="
     
     # 概要欄ファイルの存在確認
     if [[ ! -f "$desc_file" ]]; then
-        echo "  ⚠️ 概要欄ファイルが存在しません: $desc_file"
-        echo "  → process_video.py --provider kilocode で概要欄を取得してください"
-        return 1
+        echo "  ⚠️ 概要欄ファイルが存在しません。取得を試みます..."
+        
+        # IDがハイフンで始まる場合でも正しく渡すために -- を使用
+        if uv run python3 scripts/process_video.py --provider kilocode -- "$video_id" > /dev/null 2>&1; then
+            echo "  ✅ 概要欄を取得しました。"
+        else
+            echo "  ❌ 概要欄の取得に失敗しました。video_id: $video_id"
+            return 1
+        fi
+        
+        # 再チェック
+        if [[ ! -f "$desc_file" ]]; then
+            echo "  ❌ 概要欄ファイルの生成が確認できませんでした: $desc_file"
+            return 1
+        fi
     fi
     
     # 既存の要約をスキップするかどうか確認
@@ -105,30 +131,37 @@ if [[ -n "$SINGLE_FILE" ]]; then
         exit 1
     fi
     process_file "$SINGLE_FILE"
-elif $PROCESS_ALL; then
-    # すべてのファイルを処理
+else
+    # ファイルを処理（デフォルトは3つまで、--allなら無制限）
     count=0
-    for transcript_file in "$TRANSCRIPT_DIR"/*_cleaned.txt; do
+    processed_count=0
+    
+    # ls -t で更新日時が新しい順に処理
+    for transcript_file in $(ls -t "$TRANSCRIPT_DIR"/*_cleaned.txt 2>/dev/null); do
         if [[ -f "$transcript_file" ]]; then
-            process_file "$transcript_file"
-            count=$((count + 1))
+            # すでに要約があるかチェック（カウント対象外にするため）
+            video_id=$(basename "$transcript_file" | sed 's/_cleaned.txt//')
+            output_file="${SUMMARY_DIR}/${video_id}.md"
             
-            # 最後のファイル以外はスリープ
-            if ! $DRY_RUN; then
-                echo "  ⏳ ${SLEEP_SECONDS}秒待機..."
-                sleep "$SLEEP_SECONDS"
+            if [[ ! -f "$output_file" ]]; then
+                process_file "$transcript_file"
+                processed_count=$((processed_count + 1))
+                
+                if [[ $processed_count -ge $LIMIT ]]; then
+                    echo "目標処理数（$LIMIT件）に達したため終了します。"
+                    break
+                fi
+                
+                # 最後のファイル以外はスリープ
+                if ! $DRY_RUN; then
+                    echo "  ⏳ ${SLEEP_SECONDS}秒待機..."
+                    sleep "$SLEEP_SECONDS"
+                fi
             fi
+            count=$((count + 1))
         fi
     done
     echo ""
     echo "=== 完了 ==="
-    echo "処理したファイル数: $count"
-else
-    echo "使用方法:"
-    echo "  $0 --all              すべてのファイルを処理"
-    echo "  $0 --file FILE        特定のファイルを処理"
-    echo "  $0 --dry-run --all    ドライラン（コマンド確認のみ）"
-    echo ""
-    echo "利用可能なファイル:"
-    ls -1 "$TRANSCRIPT_DIR"/*_cleaned.txt 2>/dev/null | head -10 || echo "  ファイルがありません"
+    echo "新規処理したファイル数: $processed_count"
 fi

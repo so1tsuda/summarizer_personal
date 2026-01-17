@@ -40,7 +40,7 @@ EXIT_CODE=$?
 # Kilocodeプロバイダーの場合、文字起こし後に一括要約を実行
 if [ $EXIT_CODE -eq 0 ] && [ "$PROVIDER" == "kilocode" ]; then
     echo "--- 🤖 Kilocode CLIによる要約を開始 ---" | tee -a "$LOG_FILE"
-    bash scripts/kilocode_summarize.sh --all 2>&1 | tee -a "$LOG_FILE"
+    bash scripts/kilocode_summarize.sh 2>&1 | tee -a "$LOG_FILE"
     KILO_EXIT_CODE=$?
     if [ $KILO_EXIT_CODE -ne 0 ]; then
         echo "❌ Kilocode要約に失敗しました" | tee -a "$LOG_FILE"

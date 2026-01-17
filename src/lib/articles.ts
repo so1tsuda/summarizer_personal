@@ -139,29 +139,37 @@ export function getAllChannels(): string[] {
  * Convert channel name to URL-safe slug
  */
 export function channelToSlug(channel: string): string {
-    return channel
-        .toLowerCase()
-        .replace(/\s+/g, '-')
-        .replace(/[^\w\-]+/g, '')
-        .replace(/\-\-+/g, '-')
-        .replace(/^-+/, '')
-        .replace(/-+$/, '');
+    return encodeURIComponent(channel.toLowerCase().replace(/\s+/g, '-'));
 }
 
 /**
- * Convert slug back to channel name
+ * Convert slug back to channel name by searching existing channels
  */
 export function slugToChannel(slug: string): string | null {
     const channels = getAllChannels();
-    return channels.find((channel) => channelToSlug(channel) === slug) || null;
+    const decodedSlug = decodeURIComponent(slug);
+
+    for (const channel of channels) {
+        if (channelToSlug(channel) === slug) {
+            return channel;
+        }
+    }
+
+    // Fallback: try case-insensitive match
+    for (const channel of channels) {
+        if (channel.toLowerCase().replace(/\s+/g, '-') === decodedSlug) {
+            return channel;
+        }
+    }
+
+    return null;
 }
 
 /**
  * Get all channel slugs for static generation
  */
 export function getAllChannelSlugs(): string[] {
-    const channels = getAllChannels();
-    return channels.map((channel) => channelToSlug(channel));
+    return getAllChannels().map(channelToSlug);
 }
 
 /**

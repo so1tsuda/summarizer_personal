@@ -312,8 +312,8 @@ def main():
             
             # レート制限対策（10 RPM = 6秒間隔）
             if processed_count < target_count and queue:
-                print("\n⏳ レート制限対策のため60秒待機...")
-                time.sleep(60)
+                print("\n⏳ レート制限対策のため15秒待機...")
+                time.sleep(15)
         
         except Exception as e:
             print(f"❌ 処理失敗: {e}")

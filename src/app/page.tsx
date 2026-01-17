@@ -1,4 +1,5 @@
 import { getAllArticles } from '@/lib/articles';
+import ChannelNav from '@/components/ChannelNav';
 import ArticleList from '@/components/ArticleList';
 
 export default async function HomePage() {
@@ -15,6 +16,9 @@ export default async function HomePage() {
                     長いYouTube動画を、読みやすいブログ形式に要約しています。
                 </p>
             </section>
+
+            {/* Channel Navigation */}
+            <ChannelNav />
 
             {/* Articles List (Client Side Pagination) */}
             <ArticleList articles={allArticles} />

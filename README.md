@@ -145,8 +145,14 @@ python scripts/process_video.py --provider kilocode -- -VIDEO_ID
 保存されたデータを元に、Kilo Code CLI を呼び出して要約を生成します。
 
 ```bash
+# 未要約のファイルを直近3件まで処理（デフォルト）
+bash scripts/kilocode_summarize.sh
+
 # 未要約の全ファイルを一括処理
 bash scripts/kilocode_summarize.sh --all
+
+# 処理件数を指定して実行
+bash scripts/kilocode_summarize.sh --limit 5
 
 # 特定のファイルのみ処理
 bash scripts/kilocode_summarize.sh --file data/transcripts/VIDEO_ID_cleaned.txt
@@ -155,6 +161,7 @@ bash scripts/kilocode_summarize.sh --file data/transcripts/VIDEO_ID_cleaned.txt
 **このスクリプトがやっていること:**
 - `blog_article_system.txt` をシステムプロンプトとして読み込みます。
 - `data/transcripts/` 内の `_cleaned.txt`（文字起こし）と `_description.txt`（概要欄）を Kilo Code に渡します。
+- 更新日時が新しい順に処理し、デフォルトでは最大3件まで処理を継続します。
 - 生成された要約を `data/summaries/VIDEO_ID.md` として書き出します。
 
 ### 自動更新（Cron）での利用
