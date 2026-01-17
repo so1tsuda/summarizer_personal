@@ -11,7 +11,7 @@ __pycache__/
 venv/
 
 # Data files (optional - may want to commit summaries)
-data/transcripts/
+
 
 # Next.js
 .next/

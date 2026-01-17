@@ -67,6 +67,13 @@ python scripts/process_video.py VIDEO_ID_OR_URL
 python scripts/process_video.py VIDEO_ID --provider openrouter --model anthropic/claude-3.5-sonnet
 ```
 
+> [!TIP]
+> 動画IDがハイフン（`-`）で始まる場合（例: `-NFqv6mTiPM`）、コマンドライン引数として正しく認識させるために `--` を使用してください：
+> ```bash
+> python scripts/process_video.py --provider kilocode -- -NFqv6mTiPM
+> ```
+
+
 > [!NOTE]
 > 文字起こしだけでなく、動画の**概要欄**も自動的に取得し、正確な人名（漢字）・企業名・番組情報の把握に活用しています。
 
@@ -80,7 +87,14 @@ python scripts/batch_process_rss.py --days 7 --min-duration 10 --process-count 3
 
 # OpenRouter経由の無料Geminiモデルを使用する場合
 python scripts/batch_process_rss.py --provider openrouter --model google/gemini-2.0-flash-lite:free --process-count 3
+
+# Kilo Code CLI を使用する場合（APIキー不要、ローカルプロンプト連携）
+# 詳細は「🤖 Kilo Code CLI ワークフロー」セクションを参照
+python scripts/batch_process_rss.py --provider kilocode --process-count 3
 ```
+
+**Kilo Code CLI 連携について:**
+`--provider kilocode` を指定すると、文字起こしの取得と概要欄の保存のみを行い、LLMによる要約生成をスキップします。これにより、APIコストを抑えつつ、後述のワークフローで高品質な要約を生成できます。
 
 **動作:**
 1. RSSから新着動画を取得 → `data/backlog.json` のキューに追加
@@ -112,15 +126,56 @@ python scripts/manage_backlog.py --add VIDEO_ID
 python scripts/manage_backlog.py --retry-failed
 ```
 
+## 🤖 Kilo Code CLI ワークフロー
+
+Gemini API や OpenRouter API の代わりに、**[Kilo Code CLI](https://kilocode.com/)** を使用して要約を生成するワークフローです。APIキーを消費せず、プロジェクト内のシステムプロンプト（`blog_article_system.txt`）を最大限に活用した高品質な要約が可能です。
+
+### ステップ 1: 動画情報と文字起こしの取得
+まず、APIプロバイダーに `kilocode` を指定して、文字起こし（JSON）と概要欄（テキスト）を取得・保存します。この段階ではLLMによる要約は行われません。
+
+```bash
+# RSS経由で新着を取得する場合
+python scripts/batch_process_rss.py --provider kilocode --process-count 3
+
+# 特定の動画を1本取得する場合（IDがハイフンで始まる場合は -- を使用）
+python scripts/process_video.py --provider kilocode -- -VIDEO_ID
+```
+
+### ステップ 2: Kilo Code による要約生成
+保存されたデータを元に、Kilo Code CLI を呼び出して要約を生成します。
+
+```bash
+# 未要約の全ファイルを一括処理
+bash scripts/kilocode_summarize.sh --all
+
+# 特定のファイルのみ処理
+bash scripts/kilocode_summarize.sh --file data/transcripts/VIDEO_ID_cleaned.txt
+```
+
+**このスクリプトがやっていること:**
+- `blog_article_system.txt` をシステムプロンプトとして読み込みます。
+- `data/transcripts/` 内の `_cleaned.txt`（文字起こし）と `_description.txt`（概要欄）を Kilo Code に渡します。
+- 生成された要約を `data/summaries/VIDEO_ID.md` として書き出します。
+
+### 自動更新（Cron）での利用
+`cron_update.sh` の引数に `kilocode` を渡すと、上記のステップ1とステップ2が連続して自動実行されます。詳細は「Cron自動実行」セクションを参照してください。
+
+
 ### Cron自動実行（3時間ごと）
 
 ```bash
 # crontabを編集
 crontab -e
 
-# 以下を追加（3時間ごとに実行）
-0 */3 * * * /path/to/summarizer_personal/scripts/cron_update.sh >> /var/log/summarizer.log 2>&1
+# 以下を追加（3時間ごとに実行、標準: Gemini）
+0 */3 * * * /home/so1/apps/summarizer_personal/scripts/cron_update.sh >> /home/so1/apps/summarizer_personal/logs/summarizer.log 2>&1
+
+# Kilo Code CLI を使用して自動更新する場合
+0 */3 * * * /home/so1/apps/summarizer_personal/scripts/cron_update.sh kilocode >> /home/so1/apps/summarizer_personal/logs/summarizer.log 2>&1
 ```
+
+> [!TIP]
+> `cron_update.sh` の引数に `kilocode` を渡すと、動画の取得・文字起こし保存に続いて、`kilocode_summarize.sh --all` が自動的に実行され、未要約の全ファイルが処理されます。
 
 ## 🎨 フロントエンド
 

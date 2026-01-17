@@ -134,3 +134,40 @@ export function getAllChannels(): string[] {
     const channels = [...new Set(articles.map((a) => a.channel))];
     return channels.sort();
 }
+
+/**
+ * Convert channel name to URL-safe slug
+ */
+export function channelToSlug(channel: string): string {
+    return channel
+        .toLowerCase()
+        .replace(/\s+/g, '-')
+        .replace(/[^\w\-]+/g, '')
+        .replace(/\-\-+/g, '-')
+        .replace(/^-+/, '')
+        .replace(/-+$/, '');
+}
+
+/**
+ * Convert slug back to channel name
+ */
+export function slugToChannel(slug: string): string | null {
+    const channels = getAllChannels();
+    return channels.find((channel) => channelToSlug(channel) === slug) || null;
+}
+
+/**
+ * Get all channel slugs for static generation
+ */
+export function getAllChannelSlugs(): string[] {
+    const channels = getAllChannels();
+    return channels.map((channel) => channelToSlug(channel));
+}
+
+/**
+ * Get articles filtered by channel
+ */
+export function getArticlesByChannel(channel: string): ArticleMeta[] {
+    const allArticles = getAllArticles();
+    return allArticles.filter((article) => article.channel === channel);
+}

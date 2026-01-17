@@ -19,7 +19,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
 TRANSCRIPT_DIR="${PROJECT_ROOT}/data/transcripts"
-SUMMARY_DIR="${PROJECT_ROOT}/data/summary"
+SUMMARY_DIR="${PROJECT_ROOT}/data/summaries"
 SYSTEM_PROMPT="${PROJECT_ROOT}/blog_article_system.txt"
 
 # 出力ディレクトリがなければ作成

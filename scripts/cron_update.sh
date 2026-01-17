@@ -16,8 +16,19 @@ mkdir -p logs
 
 echo "=== Cron Update Started: $(date) ===" | tee -a "$LOG_FILE"
 
-# RSS経由で新着動画を処理
-python3 scripts/batch_process_rss.py \
+# 環境変数を読み込む (.envが存在する場合)
+if [ -f .env ]; then
+    echo "--- .envファイルを読み込み中 ---" | tee -a "$LOG_FILE"
+    export $(grep -v '^#' .env | xargs)
+fi
+
+# プロバイダー設定 (引数があればそれを使い、なければgemini)
+PROVIDER=${1:-"gemini"}
+echo "Using provider: $PROVIDER" | tee -a "$LOG_FILE"
+
+# RSS経由で新着動画を処理 (uv環境を使用)
+uv run python3 scripts/batch_process_rss.py \
+    --provider "$PROVIDER" \
     --days 3 \
     --min-duration 10 \
     --process-count 3 \
@@ -25,6 +36,17 @@ python3 scripts/batch_process_rss.py \
     2>&1 | tee -a "$LOG_FILE"
 
 EXIT_CODE=$?
+
+# Kilocodeプロバイダーの場合、文字起こし後に一括要約を実行
+if [ $EXIT_CODE -eq 0 ] && [ "$PROVIDER" == "kilocode" ]; then
+    echo "--- 🤖 Kilocode CLIによる要約を開始 ---" | tee -a "$LOG_FILE"
+    bash scripts/kilocode_summarize.sh --all 2>&1 | tee -a "$LOG_FILE"
+    KILO_EXIT_CODE=$?
+    if [ $KILO_EXIT_CODE -ne 0 ]; then
+        echo "❌ Kilocode要約に失敗しました" | tee -a "$LOG_FILE"
+        EXIT_CODE=$KILO_EXIT_CODE
+    fi
+fi
 
 # 成功した場合、Cloudflare Pagesにデプロイ
 if [ $EXIT_CODE -eq 0 ]; then

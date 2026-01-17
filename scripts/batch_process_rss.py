@@ -18,7 +18,7 @@ project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
 
 from scripts.rss_fetch import load_channels_from_csv, load_state, fetch_all_rss_videos
-from scripts.process_video_gemini import (
+from scripts.process_video import (
     load_api_keys, get_video_info, get_transcript, process_video,
     GeminiSummarizer
 )
@@ -180,6 +180,7 @@ def main():
     parser.add_argument("--days", type=int, default=7, help="何日前までの動画を取得するか")
     parser.add_argument("--min-duration", type=int, default=10, help="最小動画長（分）")
     parser.add_argument("--model", default="gemini-2.5-flash", help="使用するGeminiモデル")
+    parser.add_argument("--provider", default="gemini", choices=["gemini", "kilocode"], help="使用するAIプロバイダー (kilocodeは文字起こし保存のみ)")
     parser.add_argument("--prompt-template", default="blog_article", help="プロンプトテンプレート")
     parser.add_argument("--auto-commit", action="store_true", help="処理後に自動的にGit commit & push")
     parser.add_argument("--dry-run", action="store_true", help="実際に保存せずテスト実行")
@@ -197,23 +198,35 @@ def main():
     # APIキー読み込み
     api_keys = load_api_keys()
     youtube_api_key = api_keys.get("youtube_api_key")
-    google_ai_api_key = api_keys.get("google_ai_api_key")
     
     if not youtube_api_key:
         print("エラー: YouTube API キーが設定されていません")
         return 1
+
+    # Summarizer 初期化 (kilocode モードではスキップ)
+    summarizer = None
+    skip_summarization = False
     
-    if not google_ai_api_key:
-        print("エラー: Google AI API キーが設定されていません")
-        return 1
+    if args.provider == "kilocode":
+        skip_summarization = True
+        print(f"プロバイダー: {args.provider}")
+        print("モード: 文字起こし・概要欄保存のみ（LLM要約はKilo Code CLIで別途処理）\n")
+    else:
+        google_ai_api_key = api_keys.get("google_ai_api_key")
+        if not google_ai_api_key:
+            print("エラー: Google AI API キーが設定されていません")
+            return 1
+            
+        # クライアント初期化
+        youtube = build('youtube', 'v3', developerKey=youtube_api_key)
+        summarizer = GeminiSummarizer(
+            api_key=google_ai_api_key,
+            model_name=args.model,
+            prompt_template=args.prompt_template,
+        )
     
-    # クライアント初期化
+    # YouTubeクライアントは常に必要
     youtube = build('youtube', 'v3', developerKey=youtube_api_key)
-    summarizer = GeminiSummarizer(
-        api_key=google_ai_api_key,
-        model_name=args.model,
-        prompt_template=args.prompt_template,
-    )
     
     # データ読み込み
     channels = load_channels_from_csv(config_path)
@@ -287,7 +300,7 @@ def main():
                 summaries_dir,
                 state_path,
                 dry_run=args.dry_run,
-                preferred_lang=video_lang
+                skip_summarization=skip_summarization
             )
             
             # 成功したらキューから削除
@@ -299,8 +312,8 @@ def main():
             
             # レート制限対策（10 RPM = 6秒間隔）
             if processed_count < target_count and queue:
-                print("\n⏳ レート制限対策のため15秒待機...")
-                time.sleep(15)
+                print("\n⏳ レート制限対策のため60秒待機...")
+                time.sleep(60)
         
         except Exception as e:
             print(f"❌ 処理失敗: {e}")

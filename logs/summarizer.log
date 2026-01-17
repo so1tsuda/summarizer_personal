@@ -1,372 +1,525 @@
-=== Cron Update Started: 2026年  1月 11日 日曜日 17:15:09 JST ===
+=== Cron Update Started: 2026年  1月 17日 土曜日 00:48:49 JST ===
+Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
 === RSS経由 バックログ処理 ===
-チャンネル数: 5
-モデル: gemini-2.5-flash-lite
+チャンネル数: 21
+モデル: gemini-2.5-flash
 テンプレート: blog_article
 
 📡 RSSフィードから新着動画を取得中...
-チャンネルをチェック中 (RSS): PIVOT 公式チャンネル
-  ✓ 新着: 【資産が増える方程式】インフレ時代の投資術／日本人が稼げない理由／収入・資産レベル別の資産形成戦略／お金持ちに共通する特徴とリスク／仕事選びの3要素／市場のブームに乗る条件／己の条件で生きる真の「富」
-  ✓ 新着: 【普通の人の死のリアル】検視官という仕事／変死体は多い／死因トップ10／不慮の事故死は交通事故の2倍／風呂のリスク／死体の臭い／孤独死を防ぐために／自殺のリアル／防げたかもしれない死
-  ✓ 新着: 【疲れやすい・太りやすいをなくす】菊池雄星投手らプロアスリートの体を変えた超革新トレーニング／スクワット／レッグプレス／ランジ／下半身強化の理由【BODY SKILL SET】
-  ✓ 新着: 【2026年 転職バブル終焉】量から質へ／女性転職に追い風／コンサル人気はなぜ起きた／AI時代に必要な推進力／転職がゴールではない／スキルの棚卸と言語化
-  ✓ 新着: 【2026年超予測：AIと経営】日本のDXはうまくいってない／大企業が有利に／ゴールドラッシュの到来／AIがもたらす「新しい職業カースト」／生成AIは産業革命／企業に求められること
-  ✓ 新着: 【資産1億円はもはや富裕層ではない】1000人の富裕層から学んだ実態／杉村太蔵も驚く“新富裕層”お金の価値観／あなたはどの富裕層タイプ？4象限マトリクスで診断【PIVOT TALK SPECIAL】
-チャンネルをチェック中 (RSS): TBS CROSS DIG with Bloomberg
-  ✓ 新着: 【フランスは“明日の日本”か】増大する年金負担／公的支出の60％は「高齢者」のため／首相が2年で5人も交代／利払いだけで11兆円／財政悪化は政治停滞の“代償”／フランスがEUの“アキレス腱”に？
-  ✓ 新着: 【愛されたチャベス、嫌われたマドゥロ】現地で暮らし研究していた坂口安紀／「もう連絡しないで」いまだに国民はスマホ検閲／世界一の埋蔵量でも扱いにくいベネズエラの石油の行方【CROSSDIG1on1】
-  ✓ 新着: 【横綱・大の里】友達は不要／唯一無二になるための孤独と覚悟／効率を捨てて「心」で勝つ逆転の思考法／強さと感動の本質／人的資本から「心的資本」へ／トリドールホールディングス社長【1on1 VISION】
-  ✓ 新着: 【タンパク質“ルビコン”を除去する実験で寿命が1.2倍になり病気にかかりにくくなった】オートファジー研究の世界的権威・吉森保／賞金1億ドルの「10歳若返らせる」競争に挑む【ULTRA SCIENCE】
-  ✓ 新着: スウェーデンの小さな村が「ゲーム王国」に？| #ゲーム #ゲーム開発 #steam #goatsimulator #crossdig
-  ✓ 新着: 【ChatGPTの爆食いでメモリが“枯渇”】「2026年はPC・スマホ高騰続く」半導体市場のプロ・安生健一朗／値段が“待てば下がる”常識は崩壊／一般のメモリはAI優先で後回し【1on1 Tech】
-  ✓ 新着: YouTubeが世界最大の「テレビ局」になる？｜#youtube #テレビ #テレビ番組 #アカデミー賞 #crossdig
-チャンネルをチェック中 (RSS): 楽待 RAKUMACHI
-  ✓ 新着: 【集中力爆上がり】美容室EARTH取締役の朝活術
-  ✓ 新着: 【食品添加物】コンビニのおにぎりは健康？
-  ✓ 新着: 【新築ではなく中古を選べ】家賃年収5500万円・歴13年の大家が今から不動産投資を始めるなら？
-  ✓ 新着: 【厳格化は賛成】外国人政策&日中関係をニック&デミル&岸谷蘭丸が本音で議論！／高市総理の発言「撤回すべきでない」／歌舞伎町の客引きの実態／日本の警察はもっと取り締まりを《岸谷蘭丸×ニック×デミル②》
-  ✓ 新着: 【ベネズエラ攻撃】モンロー主義復活で西半球はアメリカのもの？
-  ✓ 新着: 【石油大国ベネズエラ】トランプの本音は中国経済の崩壊？
-  ✓ 新着: 【外国人問題】”エリート”は日本に来ない？
-  ✓ 新着: 【ベネズエラ攻撃】中国には入ってきてほしくない？
-  ✓ 新着: 【国際法なんて存在しない】やりたい放題の米国
-  ✓ 新着: 【対日レアアース輸出禁止】中国の経済圧力「屈する必要ない」、高市首相の謝罪「必要ない」／中韓首脳会談、思惑は／日本に危機、経済的自立が最優先／台湾に”親中派”が増加中?《真田幸光が徹底解説》
-  ✓ 新着: 【2026年の米国株】AI企業の「勢力変更」気にしない／NVIDIAもフィジカルAIへ／次に来るのは「メガネ」／金融・テクノロジー株に注目／どうなる雇用統計／CES2026最新リポート【岡元兵八郎】
-  ✓ 新着: 【ベネズエラ攻撃】中国にとっては「大恥」？
-  ✓ 新着: 【転売ヤー】マンション価格高騰の犯人は？
-チャンネルをチェック中 (RSS): NewsPicks /ニューズピックス
-  ✓ 新着: 【生解説】領土、石油…トランプ政権の「真の狙い」を理解する（ベネズエラ/ルビオ/マドゥーロ/ドンロー主義/グリーンランド/解説：森川潤、後藤直義）
-  ✓ 新着: 【婚活】高収入男性の意外な落とし穴  #newspicks
-  ✓ 新着: 「コンプレックスを武器にしろ」“無難”が評価されない理由とは？面接で刺さる人の共通点【岸谷蘭丸、坂井風太、トイアンナ】TheUPDATE
-  ✓ 新着: 【平野啓一郎】NYの過酷な現実　#田内学  #平野啓一郎 #投資 #金融 #お金 #経済 #資本主義 #文学 #金利 #インフレ #資産
-  ✓ 新着: 「20億円も子どもに残したくない」相続を嫌がる“資産家たちの本音”と理想の相続対策【河村真木子×国際弁護士 吉田大×田中渓】/MONEY&MATE（マネーメイト）
-  ✓ 新着: 【インリン】セクシーな格好でも無礼は許さない  #newspicks
-  ✓ 新着: 【ホリエモン×竹中平蔵 】「税調インナー」とは？　#堀江貴文 #ホリエモン #horieone #竹中平蔵 #経済政策  #補正予算  #高市早苗  #高市内閣 #インフレ  #税制改革 #税金
-  ✓ 新着: 【痴漢対策】歩きスマホもNG  #newspicks
-  ✓ 新着: 【石丸伸二×平川理恵】学校内に感謝の人間関係を作る　#TheBOOSTERS #石丸伸二 #平川理恵 #教育 #学校 #公立 #私立 #子育て
-  ✓ 新着: 【受験】テストの順位張り出すべき？  #newspicks
-チャンネルをチェック中 (RSS): 田端大学　投資学部
-  ✓ 新着: なぜ解散なら株価は上がるのか？高市総理の狙いも解説
-  ✓ 新着: 欧米で絶好調！ユニクロ上方修正！日経上げるか？
-  未処理の動画: 38件
-  ✓ バックログに追加: 0件
+チャンネルをチェック中 (RSS): PIVOT 公式チャンネル (言語: ja)
+  ✓ 新着: 【木野内栄治×ヤーマン】日経平均は6万8000円へ／解散総選挙と株価／高市自民勝利で株高／年前半に注目の最強日本株39選／注目のレアアース関連株17選／ヤーマンに学ぶ銘柄選びの秘訣【マーケット超分析】
+  ✓ 新着: 【財政健全化の指標】政府債務残高対GDP比という視点／20年間忘れられてきた目標／プライマリーバランスとの違い／財政健全化か経済成長か／上智大・中里透氏【PIVOT TALK ECONOMY】
+  ✓ 新着: 【私が50年ローンを推す2つの理由】金利上昇でも“あえて長く借りる”が正解に？／フラット35との違いは...メリット&デメリット徹底比較／住宅ローン借りるならどこが得？【PIVOT MONEY】
+  ✓ 新着: 【推薦入試の合格法】評定平均値を上げるズルい技術／英語資格はIELTS一択の理由／志望理由書は塾に任せるな／活動実績はゼロでいい【教育新常識】
+  ✓ 新着: 【2026年 セールスに起こる大変化】AI時代の花形職「エンタープライズセールス」／これからは製造業の時代　AI導入によるビジネスインパクト／エンプラセールスはなぜ大企業を変えられるのか？
+  ✓ 新着: 【解散総選挙と株価：日経平均は年内6万円へ】なぜ「選挙は買い」なのか？／高市勝利後に株高が加速／積極財政の是非／円安と長期金利高騰のリスク／来年以降も上昇が続く／最大のリスクは？
+  ✓ 新着: 【徹底解説：日本の防衛産業】三菱重工／IHI /川崎重工業／三菱電機／NEC／防衛株が伸びる理由／日本と欧州の企業が上位／日独韓が成長率トップ３／高いPER／パランティアは別格／フェイスブック創業者
+  ✓ 新着: 【DIGEST】AI時代に稼げる仕事・消える仕事／デスクワーク大量消滅／50代のリストラ／コンサル・商社の未来まで徹底解説
+  ✓ 新着: 【1000人の富裕層に学んだマインドセット】資産3億円以上の“新富裕層”が投資する最新医療と教育／杉村太蔵も納得...富裕層の共通点が「怒らない」理由とは？【PIVOT TALK SPECIAL】
+  ✓ 新着: 【脱・経理の属人化にはAIエージェントを使うべし】自社流に育つAIの仕組み／属人化はコンビニのポイント問題／3500枚の請求書確認が1週間で完了する
+  ✓ 新着: 【最新解説】イラン物価高騰から反体制デモが全土へ／要因は米経済制裁と失策／リーダーなき運動と旧王政復権の可能性／米・イスラエル軍事介入はあるか／今後の3つのシナリオ
+  ✓ 新着: 【速報予測：高市首相は選挙に勝てるのか？】1月解散予測が的中した理由／高市首相の思惑／勝敗ラインは？／カギ握る公明党／参政と国民は躍進？／寒さの影響／高市総理の選挙戦略／選挙後の勢力地図と株価
+チャンネルをチェック中 (RSS): TBS CROSS DIG with Bloomberg (言語: en)
+  ✓ 新着: 【iPhoneユーザー“十数億人”がGeminiに染まる】「OpenAIに勝ち目ない」今井翔太が語る“2026年覇権シナリオ”／Apple自社開発断念でAI勢力図の最終形が決定【1on1 Tech】
+  ✓ 新着: 【ベネズエラの石油利権を独占？】約25%を生産する米シェブロン／事実上の「競合なし」　トランプ政権の要請に他社は難色／シェブロンの“危険な賭け”　爆益か巨額損失か
+  ✓ 新着: Grokが性的画像を大量生成｜#イーロンマスク #grok #性的ディープフェイク #生成AI #crossdig
+  ✓ 新着: 【英国翻訳ベスト50に日本文学23作品】村上春樹だけじゃない“爆売れ”の正体／次は「ポスト村田沙耶香」を探せ／翻訳家・鴻巣友季子が語る出版市場の“地殻変動”／文豪ではなく“推し”を売り込め【1on1】
+  ✓ 新着: 【立憲・公明「新党」が描く“中道政治”の全貌】高市総理の“解散戦略”に誤算は？／新党の次の狙いは“自民議員の囲い込み”／国民民主・玉木氏の動きで選挙構図が変わる／政治ジャーナリスト星浩【1on1】
+  ✓ 新着: 会社の懇親会が「筋トレ」の時代に？｜#新年会 #懇親会 #筋トレ #ワークアウト #チームビルディング #crossdig
+  ✓ 新着: 【イランの支配者は“山場を越えた”と思っている】中東研究センター長・坂梨祥／死者2500人超「デモ勢い失ったか」／トランプ氏の狙いは“イランの孤立無援”／米国軍事行動で解決する問題ではない【1on1】
+  ✓ 新着: 【嫌われない30代リーダー】部下の心が離れる「1on1」の落とし穴／「帰って大丈夫だよ」は部下を苦しめる／脱・管理職の罰ゲーム化／部下との距離の縮め方／タイプで見抜くソーシャルスタイル診断【1on1】
+  ✓ 新着: Bloombergが予測「2026年 10のサプライズ」｜#人工知能 #ai #ロボタクシー #無人運転 #金融 #経済 #crossdig
+チャンネルをチェック中 (RSS): 楽待 RAKUMACHI (言語: ja)
+  ✓ 新着: 【危険な薬物No. 1】アルコールが一番深刻⁉︎
+  ✓ 新着: 【石丸伸二×田端信太郎×ちょる子】衆院選を見据えた投資戦略／自民党勝利なら日経平均6万8000円？／防衛・半導体・レアアース関連…今から買いか？／「円安」に対する国民感情の変化
+  ✓ 新着: 【新党結成】伊佐進一が乗るはずない!?
+  ✓ 新着: 【高市首相の台湾発言】アメリカは守ってくれない？
+  ✓ 新着: 【"中道改革連合"結成の真相】公明党幹部が新党結成の裏側＆心中激白／衆院選、自民党の票数に影響も／新党で「立憲民主党の再教育」!?／新党でリベラル弱体化か《伊佐進一×宮崎謙介×須田慎一郎》
+  ✓ 新着: 【日中対立】中国との関係は改善すべきか？
+  ✓ 新着: 【強制執行の実態】東京・杉並区で執行官ら2人刺される、「刃傷沙汰は珍しくない」関係者が明かす実態 #楽待NEWS
+  ✓ 新着: 【日経平均】2026年は7万円突破？
+  ✓ 新着: 【AI相場に変化】NVIDIA一強時代が過ぎたいま、ETFに注目すべき理由／AIは景気サイクルを超越する／2026年も波乱続き？いまこそ知りたい投資のロジック【田中泰輔×松尾英里子】
+  ✓ 新着: 【高市首相、衆院解散へ】自民は「勝敗ライン」単独過半数届く？野党は対応急ぐ！急展開の政局を、国民民主・足立康史＆宮崎謙介＆山本期日前が激論！
+  ✓ 新着: 【衆院解散へ】日経平均株価5万4000円突破／高市首相の本当の思惑／小泉政権・郵政解散と似ている／ドル円一時159円台割れ／個人投資家がとるべき戦略【石丸伸二×田端信太郎×ちょる子】
+  ✓ 新着: 【ベネズエラ攻撃】アメリカ激怒の要因は？
+  ✓ 新着: 【日中関係】最適解は「放っておく」？
+  ✓ 新着: 【トランプの野望】グリーンランドはいずれ米国のもの？
+チャンネルをチェック中 (RSS): NewsPicks /ニューズピックス (言語: ja)
+  ✓ 新着: 25億円で再現した「ビルの心臓部」が凄すぎた。社会インフラを救う最前線に潜入【NewsPicks/日本空調サービス/安田雅彦/ビルメンテナンス/人的資本経営/技術・研修センター】
+  ✓ 新着: スタートアップ転職が吉、Nstock宮田氏が描く新しい株の常識
+  ✓ 新着: オンボーディングの大鉄則／「好きに使わせてよ」系顧客との正しい向き合い方／カスタマーサクセス実行戦略（講師：山田ひさのり）NewSchool Movie
+  ✓ 新着: 【性の乱れの要因？】親は子の意思を尊重しろ  #newspicks
+  ✓ 新着: 【Z家族の実態】若者の幸福度は伸びている？　#2sides #加藤浩次 #内田伸子 #酒井崇匤 #Z家族 #親子 #家族 #教育 #若者 #子供
+  ✓ 新着: 【年収の14倍】家探しが辛いワケ  #newspicks
+  ✓ 新着: 【石丸伸二×平川理恵】学校が大事にすべきこととは？　#TheBOOSTERS #石丸伸二 #平川理恵 #教育 #学校 #公立 #私立 #子育て
+  ✓ 新着: 「働かずに幸せを勝ち取る」AI時代の生存戦略「自然×テクノロジー」で実現する“風の谷”構想とは？ 【安宅和人、落合陽一】
+  ✓ 新着: 【推薦入試】親が介入するほど落ちる？ #newspicks
+  ✓ 新着: 水産の常識が変わる、リージョナルフィッシュ梅川代表の夢
+  ✓ 新着: 【多様性疲れ】日本は10年遅れてる #newspicks
+  ✓ 新着: 【カジサック】イライラするときの対処法は？　#エデュパ #成田修造 #宮村優子  #カジサック #教育 #子育て #育児 #叱り方 #怒り方 #子供
+  ✓ 新着: 「2026年の日本株はどこまで伸びる？」強気相場の根拠はPERと政局...日経6万円が“当たり前“になる前提とは？（馬渕磨理子、伊井哲朗、kenmo、篠田尚子）The UPDATE
+  ✓ 新着: 【受験】失敗しやすい子供とは #newspicks
+  ✓ 新着: 「試合を見るだけじゃない」ジャパネット社長に聞く 長崎スタジアムシティ建設に込めた思いとは/THE HIGHLIGHT
+チャンネルをチェック中 (RSS): 田端大学　投資学部 (言語: ja)
+  ✓ 新着: 立憲と公明の新党で自民ピンチ？でも株価は無反応〜表参道moomoo証券ストアより生公開ライブ！
+  ✓ 新着: 高市総理、解散を来週月曜に記者会見で表明へ〜会見内容に注目〜注目株としてアコム、メタプラなどにコメント
+  ✓ 新着: 「いま助けにいく！」トランプがイランへの介入を予告で相場はどうなる？
+チャンネルをチェック中 (RSS): Bloomberg Originals (言語: en)
+  ✓ 新着: Why Japan’s Economy Is at a Tipping Point
+  ✓ 新着: Christine Lagarde on Why Consensus Isn’t Always the Right Approach
+  ✓ 新着: How Christine Lagarde Can Tell If Someone Is Genuine
+チャンネルをチェック中 (RSS): Bg2 Pod (言語: en)
+チャンネルをチェック中 (RSS): Broken Business Models (言語: en)
+チャンネルをチェック中 (RSS): EO Global (言語: en)
+  ✓ 新着: How to Build a Product that Hits PMF on Day 1 | Granola, Christopher Pedregal
+チャンネルをチェック中 (RSS): Lenny's Podcast (言語: en)
+  ✓ 新着: Why leaders need to rebuild their intuition
+  ✓ 新着: How to show up in any room with a low heart rate: Silicon Valley’s missing etiquette playbook
+  ✓ 新着: The multi-agent system trap
+  ✓ 新着: Why everyone’s confused about evals
+チャンネルをチェック中 (RSS): Nanalyze (言語: en)
+チャンネルをチェック中 (RSS): The Economist (言語: en)
+  ✓ 新着: The battle to stop clever people betting
+  ✓ 新着: The former crown prince of Iran on its path to democracy
+  ✓ 新着: Are America’s tariffs here to stay?
+  ✓ 新着: How Netanyahu’s rival would end Israel’s war in Gaza
+  ✓ 新着: How Netanyahu’s rival would end the war in Gaza
+  ✓ 新着: Trump’s plan if the Supreme Court blocks tariffs
+  ✓ 新着: Could Donald Trump end Iran's internet blackout?
+  ✓ 新着: How Trump’s Venezuela raid is helping China's Taiwan battle plans
+チャンネルをチェック中 (RSS): The Prof G Pod – Scott Galloway (言語: en)
+  ✓ 新着: Your Brain is the Worst Investor in the Room — ft. Scott Nations | Prof G Markets
+  ✓ 新着: The Crisis of Truth in American Politics — with Sam Harris | Prof G Conversations
+  ✓ 新着: Credit card lenders issue warning
+  ✓ 新着: Why Big Banks Are Selling-Off | Prof G Markets
+  ✓ 新着: The Iran protests
+  ✓ 新着: Trump’s 25% Iran Tariffs Explained | Prof G Markets
+  ✓ 新着: Inside China’s Voluntary "Fat Prisons"
+  ✓ 新着: Trump vs. the Fed
+  ✓ 新着: Is the U.S. Losing Its “Backyard” to China?
+  ✓ 新着: Why 2026 is Already a NIGHTMARE for China | China Decode
+チャンネルをチェック中 (RSS): 文藝春秋PLUS (言語: ja)
+  ✓ 新着: 【緊急配信】新党「中道改革連合」どうなる｜立憲・原口一博は「政党政治の死」｜公明党が新党結成を選んだ？｜主導したのは岡田－安住ライン｜立憲民主党がハイジャックされた｜離脱組による“ゆうこく連合”とは
+  ✓ 新着: 東浩紀さんが考える 〝平和〟とは
+  ✓ 新着: 【東浩紀／世界戦争の時代に平和を哲学する】トランプが生んだ「国際法なき世界秩序」｜戦時下のウクライナで見た光景｜2020年代は“政治について語りすぎている”時代｜なぜ平和は訂正可能性から生まれる？
+  ✓ 新着: 【イランにアメリカは軍事介入するのか】ベネズエラほど甘くない理由｜軍事介入で起きる国内分裂｜中国の石油20％が止まる｜アブラハム合意の狙い｜MAGA内でも「米は帝国主義」発言が【前嶋和弘×加藤喜之】
+  ✓ 新着: 【ベネズエラ攻撃でトランプ支持率上昇のワケ】攻撃も短期ならOK？｜MAGA＆福音派の反応は｜軍事作戦としては大成功｜中南米が中国から離れる契機に？｜キューバ、コロンビアはどうなる【前嶋和弘×加藤喜之】
+  ✓ 新着: 【「まるでアウトレット」カンボジア詐欺パークと中国マフィアの実態】 #文藝春秋 #文藝春秋plus #安田峰俊 #特殊詐欺 #中国マフィア #習近平 #トクリュウ
+  ✓ 新着: 【「まるでアウトレット」カンボジア詐欺パークと中国マフィアの実態】中国マフィアが目の前で頭を撃ち抜いて…日本人実行犯に直接取材｜「詐欺に必要なのは人間力」？｜日本国内被害額は1000億円超【安田峰俊】
+チャンネルをチェック中 (RSS): ダイヤモンド社 THE BOOKS (言語: ja)
+  ✓ 新着: 【組織を壊す"集団浅慮"】フジテレビ問題は他人事ではない／リーダーはどうチームをまとめるべきか／「優秀だった社員」が愚かな判断を下すメカニズム【古賀史健・安達裕哉】
+チャンネルをチェック中 (RSS): テレ東BIZ ダイジェスト (言語: ja)
+  ✓ 新着: ガイアの夜明け【野生と共に生きる！～駆除に頼らない観光地～】予告
+  ✓ 新着: 【傑作選】カンブリア宮殿　客に幸せをもたらす　スターバックスジャパンの戦略＜番組リニューアル＞
+  ✓ 新着: 「選挙は買い」を検証！例外は“あの人”…今回はさらに上がる？ #shorts #bullbear #選挙 #マーケット #日経平均
+  ✓ 新着: 香港大火災　政府に不満続々…影響強める中国　100兆円超える本土マネーが市場席巻！？【特派員ヤマグチの看看チャイナ】
+  ✓ 新着: 都心でも新鮮な食材が購入できる！都会で拡大する新たな産直プラットフォーム“わくわく広場”【カンブリア宮殿】
+  ✓ 新着: 木原官房長官 定例会見【2026年1月16日午後】
+  ✓ 新着: 日本最大級の“釣りの祭典”「釣りフェス」開催　初の“釣り業界”への就職支援も
+  ✓ 新着: 中国の習近平国家主席　カナダとの関係改善に意欲
+  ✓ 新着: 高市総理　イタリアのメローニ首相と首脳会談　「特別な戦略的パートナーシップ」に格上げし多分野で協力関係発展へ
+  ✓ 新着: プルデンシャル生命社員ら100人超が31億円詐取 社長が引責辞任へ
+  ✓ 新着: 立憲・公明新党「中道改革連合」発表 綱領・政策は19日発表へ
+  ✓ 新着: 山手線と京浜東北線が運転再開　遅れ残り混乱続く　約67万3000人に影響To github.com:so1tsuda/summarizer_personal.git
+   6102bfb..e16c8bf  master -> master
 
-📋 現在のバックログ: 58件
-  今回処理: 3件
+  ✓ 新着: 【同志国まとめる旗頭に】元内閣総理大臣　岸田 文雄【日曜サロン】
+  ✓ 新着: 2026年ダボス会議の現場からライブ配信～“欧米”世界は終焉するか【豊島晋作のテレ東ワールドポリティクス】
+  ✓ 新着: SOX指数最高値更新・／ブルベア歌会始2026【金曜3時半のマーケットライブ～BullとBear～】
+チャンネルをチェック中 (RSS): 安野貴博の自由研究 (言語: ja)
+  ✓ 新着: 【AI×政治】AIは中立？政治的バイアス研究をゆる解説／GPT、Gemini、DeepSeek、Grokは左派寄り？それとも右派寄り？／何語で話すかによっても変わる？
+チャンネルをチェック中 (RSS): フェルミ漫画大学 (言語: ja)
+  ✓ 新着: 【要約】人望が集まる人の考え方【レス・ギブリン】
+チャンネルをチェック中 (RSS): AIでゆっくり本要約チャンネル (言語: ja)
+チャンネルをチェック中 (RSS): flier 公式チャンネル (言語: ja)
+  ✓ 新着: 【松村邦洋が選ぶ歴代No.1信長は？】大河ドラマは染谷将太時代がやってくる?!／日本人は徳川家康が大好き／秀長をキャスティングするならあの芸人（第2回／全2回）
+  ✓ 新着: 【松村邦洋が考察する『豊臣兄弟！』】大河ドラマ×ものまねの歴史／秀長は豊臣家の総合演出／徳川家が爪を噛む理由／竹中直人さんの秀吉ハプニングとは（第1回／全2回）
+チャンネルをチェック中 (RSS): Zeihan on Geopolitics (言語: en)
+  ✓ 新着: Colombia Avoids War with the US || Peter Zeihan
+  ✓ 新着: Venezuela’s End: Was a Deal Struck? || Peter Zeihan
+  ✓ 新着: Venezuela Offers Trump an Oil Bribe || Peter Zeihan
+  未処理の動画: 109件
+  ✓ バックログに追加: 19件
+
+📋 現在のバックログ: 226件
+  目標処理数: 3件
 
 
 ============================================================
-[1/3] 心臓・血管強化法／突然死 6分に1人／心臓・血管の病気で5人に1人死亡／健診オールAでも20代でも起きる／突然死 危険度チェックリスト／血管が詰まる原因／ゴルフ・サウナのリスク／冬に注意【健康新常識】
+[1/3] 【2026年は耐える投資】米株ブームに変化の兆し？マネックス証券・執行役員に学ぶ資産運用の論点／期待から実力への転換期／EXITりんたろー。も戦々恐々...オルカン一本のリスク【マネースキルセット】
 ============================================================
-処理開始: xIkP7wj94PI
+  字幕優先言語: ja
+処理開始: o1ESFzo7SB0
   動画情報を取得中...
-  タイトル: 心臓・血管強化法／突然死 6分に1人／心臓・血管の病気で5人に1人死亡／健診オールAでも20代でも起きる／突然死 危険度チェックリスト／血管が詰まる原因／ゴルフ・サウナのリスク／冬に注意【健康新常識】The following paths are ignored by one of your .gitignore files:
-data/transcripts
-hint: Use -f if you really want to add them.
-hint: Turn this message off by running
-hint: "git config advice.addIgnoredFile false"
-
+  タイトル: 【2026年は耐える投資】米株ブームに変化の兆し？マネックス証券・執行役員に学ぶ資産運用の論点／期待から実力への転換期／EXITりんたろー。も戦々恐々...オルカン一本のリスク【マネースキルセット】
   チャンネル: PIVOT 公式チャンネル
   文字起こしを取得中...
-字幕を取得中 (ID: xIkP7wj94PI)...
+字幕を取得中 (ID: o1ESFzo7SB0, 優先言語: ja)...
   自動字幕が見つかりました: Japanese (auto-generated)
-  文字起こし完了: 887行
-  文字起こし保存: /home/so1/apps/summarizer_personal/data/transcripts/xIkP7wj94PI.json
-  要約を生成中 (Gemini gemini-2.5-flash-lite)...
-  ✓ クリーンアップ済みテキスト保存: /home/so1/apps/summarizer_personal/data/transcripts/xIkP7wj94PI_cleaned.txt
-  [Gemini gemini-2.5-flash-lite] 要約生成中... (試行 1/3)
-  要約完了: 1641文字
-  要約完了: 1641文字
-  要約保存: /home/so1/apps/summarizer_personal/data/summaries/xIkP7wj94PI.md
+  文字起こし完了: 761行
+  文字起こし保存: /home/so1/apps/summarizer_personal/data/transcripts/o1ESFzo7SB0.json
+  要約を生成中 (Gemini gemini-2.5-flash)...
+  ✓ クリーンアップ済みテキスト保存: /home/so1/apps/summarizer_personal/data/transcripts/o1ESFzo7SB0_cleaned.txt
+  ✓ 概要欄保存: /home/so1/apps/summarizer_personal/data/transcripts/o1ESFzo7SB0_description.txt
+  [Gemini gemini-2.5-flash] 要約生成中... (試行 1/3)
+  ✅ 要約完了: 2553文字
+  要約完了: 2553文字
+  要約保存: /home/so1/apps/summarizer_personal/data/summaries/o1ESFzo7SB0.md
   状態更新完了
 
-⏳ レート制限対策のため6秒待機...
+⏳ レート制限対策のため60秒待機...
 
 ============================================================
-[2/3] 【2026年アメリカ経済予測】関税で止まらぬ物価高／AI需要でエネルギー不足／牛肉価格高騰の衝撃／関税は限界点／米中蜜月で日本は苦境に？
+[2/3] 【台湾有事】2035年は可能性あり？
 ============================================================
-処理開始: PYUTWUml628
+  ✗ スキップ (短い動画) → 次の動画を探します
+
+============================================================
+[2/3] 【日中関係×不動産】台湾有事で不動産への影響は？／政治家の“規制”が遅すぎる問題／中国人の不動産爆買いは続くのか？／数字で見る外国人のマンション購入の実態《牧野知弘の不動産インサイト 牧野知弘×柯隆》
+============================================================
+  字幕優先言語: ja
+処理開始: HjqKoDYNgQg
   動画情報を取得中...
-  タイトル: 【2026年アメリカ経済予測】関税で止まらぬ物価高／AI需要でエネルギー不足／牛肉価格高騰の衝撃／関税は限界点／米中蜜月で日本は苦境に？
-  チャンネル: PIVOT 公式チャンネル
+  タイトル: 【日中関係×不動産】台湾有事で不動産への影響は？／政治家の“規制”が遅すぎる問題／中国人の不動産爆買いは続くのか？／数字で見る外国人のマンション購入の実態《牧野知弘の不動産インサイト 牧野知弘×柯隆》
+  チャンネル: 楽待 RAKUMACHI
   文字起こしを取得中...
-字幕を取得中 (ID: PYUTWUml628)...
+字幕を取得中 (ID: HjqKoDYNgQg, 優先言語: ja)...
   自動字幕が見つかりました: Japanese (auto-generated)
-  文字起こし完了: 385行
-  文字起こし保存: /home/so1/apps/summarizer_personal/data/transcripts/PYUTWUml628.json
-  要約を生成中 (Gemini gemini-2.5-flash-lite)...
-  ✓ クリーンアップ済みテキスト保存: /home/so1/apps/summarizer_personal/data/transcripts/PYUTWUml628_cleaned.txt
-  [Gemini gemini-2.5-flash-lite] 要約生成中... (試行 1/3)
-  要約完了: 2239文字
-  要約完了: 2239文字
-  要約保存: /home/so1/apps/summarizer_personal/data/summaries/PYUTWUml628.md
+  文字起こし完了: 832行
+  文字起こし保存: /home/so1/apps/summarizer_personal/data/transcripts/HjqKoDYNgQg.json
+  要約を生成中 (Gemini gemini-2.5-flash)...
+  ✓ クリーンアップ済みテキスト保存: /home/so1/apps/summarizer_personal/data/transcripts/HjqKoDYNgQg_cleaned.txt
+  ✓ 概要欄保存: /home/so1/apps/summarizer_personal/data/transcripts/HjqKoDYNgQg_description.txt
+  [Gemini gemini-2.5-flash] 要約生成中... (試行 1/3)
+  ✅ 要約完了: 2922文字
+  要約完了: 2922文字
+  要約保存: /home/so1/apps/summarizer_personal/data/summaries/HjqKoDYNgQg.md
   状態更新完了
 
-⏳ レート制限対策のため6秒待機...
+⏳ レート制限対策のため60秒待機...
 
 ============================================================
-[3/3] 【フランスは“明日の日本”か】増大する年金負担／公的支出の60％は「高齢者」のため／首相が2年で5人も交代／利払いだけで11兆円／財政悪化は政治停滞の“代償”／フランスがEUの“アキレス腱”に？
+[3/3] 「学力と精神年齢が大事」中学受験の適正を見抜く方法とは？子どものタイプ別で徹底解説【成田修造/西村創/安浪京子/新井紀子】EduPassion
 ============================================================
-処理開始: K97NrPQb4sk
+  字幕優先言語: ja
+処理開始: f6UnxmGkGLI
   動画情報を取得中...
-  タイトル: 【フランスは“明日の日本”か】増大する年金負担／公的支出の60％は「高齢者」のため／首相が2年で5人も交代／利払いだけで11兆円／財政悪化は政治停滞の“代償”／フランスがEUの“アキレス腱”に？
-  チャンネル: TBS CROSS DIG with Bloomberg
+  タイトル: 「学力と精神年齢が大事」中学受験の適正を見抜く方法とは？子どものタイプ別で徹底解説【成田修造/西村創/安浪京子/新井紀子】EduPassion
+  チャンネル: NewsPicks /ニューズピックス
   文字起こしを取得中...
-字幕を取得中 (ID: K97NrPQb4sk)...
-  自動字幕が見つかりました: English (auto-generated)
-  文字起こし完了: 284行
-  文字起こし保存: /home/so1/apps/summarizer_personal/data/transcripts/K97NrPQb4sk.json
-  要約を生成中 (Gemini gemini-2.5-flash-lite)...
-  ✓ クリーンアップ済みテキスト保存: /home/so1/apps/summarizer_personal/data/transcripts/K97NrPQb4sk_cleaned.txt
-  [Gemini gemini-2.5-flash-lite] 要約生成中... (試行 1/3)
-  要約完了: 1678文字
-  要約完了: 1678文字
-  要約保存: /home/so1/apps/summarizer_personal/data/summaries/K97NrPQb4sk.md
+字幕を取得中 (ID: f6UnxmGkGLI, 優先言語: ja)...
+  自動字幕が見つかりました: Japanese (auto-generated)
+  文字起こし完了: 205行
+  文字起こし保存: /home/so1/apps/summarizer_personal/data/transcripts/f6UnxmGkGLI.json
+  要約を生成中 (Gemini gemini-2.5-flash)...
+  ✓ クリーンアップ済みテキスト保存: /home/so1/apps/summarizer_personal/data/transcripts/f6UnxmGkGLI_cleaned.txt
+  ✓ 概要欄保存: /home/so1/apps/summarizer_personal/data/transcripts/f6UnxmGkGLI_description.txt
+  [Gemini gemini-2.5-flash] 要約生成中... (試行 1/3)
+  ✅ 要約完了: 2283文字
+  要約完了: 2283文字
+  要約保存: /home/so1/apps/summarizer_personal/data/summaries/f6UnxmGkGLI.md
   状態更新完了
+
+📌 スキップした短い動画: 1件
 
 ============================================================
 ✅ 処理完了: 3件
 ❌ 失敗: 0件
-📋 残りのバックログ: 55件
-============================================================
-
-📤 Gitにコミット&プッシュ中...
-  ✗ Git操作失敗: Command '['git', 'add', 'data/summaries/', 'data/transcripts/', 'data/state.json', 'data/backlog.json']' returned non-zero exit status 1.
-=== Cron Update Finished: 2026年  1月 11日 日曜日 17:15:54 JST (Exit: 0) ===
-=== Cron Update Started: 2026年  1月 11日 日曜日 17:24:54 JST ===
-=== RSS経由 バックログ処理 ===
-チャンネル数: 5
-モデル: gemini-2.5-flash-lite
-テンプレート: blog_article
-
-📡 RSSフィードから新着動画を取得中...
-チャンネルをチェック中 (RSS): PIVOT 公式チャンネル
-  ✓ 新着: 【資産が増える方程式】インフレ時代の投資術／日本人が稼げない理由／収入・資産レベル別の資産形成戦略／お金持ちに共通する特徴とリスク／仕事選びの3要素／市場のブームに乗る条件／己の条件で生きる真の「富」
-  ✓ 新着: 【普通の人の死のリアル】検視官という仕事／変死体は多い／死因トップ10／不慮の事故死は交通事故の2倍／風呂のリスク／死体の臭い／孤独死を防ぐために／自殺のリアル／防げたかもしれない死
-  ✓ 新着: 【疲れやすい・太りやすいをなくす】菊池雄星投手らプロアスリートの体を変えた超革新トレーニング／スクワット／レッグプレス／ランジ／下半身強化の理由【BODY SKILL SET】
-  ✓ 新着: 【2026年 転職バブル終焉】量から質へ／女性転職に追い風／コンサル人気はなぜ起きた／AI時代に必要な推進力／転職がゴールではない／スキルの棚卸と言語化
-  ✓ 新着: 【2026年超予測：AIと経営】日本のDXはうまくいってない／大企業が有利に／ゴールドラッシュの到来／AIがもたらす「新しい職業カースト」／生成AIは産業革命／企業に求められること
-  ✓ 新着: 【資産1億円はもはや富裕層ではない】1000人の富裕層から学んだ実態／杉村太蔵も驚く“新富裕層”お金の価値観／あなたはどの富裕層タイプ？4象限マトリクスで診断【PIVOT TALK SPECIAL】
-チャンネルをチェック中 (RSS): TBS CROSS DIG with Bloomberg
-  ✓ 新着: 【愛されたチャベス、嫌われたマドゥロ】現地で暮らし研究していた坂口安紀／「もう連絡しないで」いまだに国民はスマホ検閲／世界一の埋蔵量でも扱いにくいベネズエラの石油の行方【CROSSDIG1on1】
-  ✓ 新着: 【横綱・大の里】友達は不要／唯一無二になるための孤独と覚悟／効率を捨てて「心」で勝つ逆転の思考法／強さと感動の本質／人的資本から「心的資本」へ／トリドールホールディングス社長【1on1 VISION】
-  ✓ 新着: 【タンパク質“ルビコン”を除去する実験で寿命が1.2倍になり病気にかかりにくくなった】オートファジー研究の世界的権威・吉森保／賞金1億ドルの「10歳若返らせる」競争に挑む【ULTRA SCIENCE】
-  ✓ 新着: スウェーデンの小さな村が「ゲーム王国」に？| #ゲーム #ゲーム開発 #steam #goatsimulator #crossdig
-  ✓ 新着: 【ChatGPTの爆食いでメモリが“枯渇”】「2026年はPC・スマホ高騰続く」半導体市場のプロ・安生健一朗／値段が“待てば下がる”常識は崩壊／一般のメモリはAI優先で後回し【1on1 Tech】
-  ✓ 新着: YouTubeが世界最大の「テレビ局」になる？｜#youtube #テレビ #テレビ番組 #アカデミー賞 #crossdig
-チャンネルをチェック中 (RSS): 楽待 RAKUMACHI
-  ✓ 新着: 【集中力爆上がり】美容室EARTH取締役の朝活術
-  ✓ 新着: 【食品添加物】コンビニのおにぎりは健康？
-  ✓ 新着: 【新築ではなく中古を選べ】家賃年収5500万円・歴13年の大家が今から不動産投資を始めるなら？
-  ✓ 新着: 【厳格化は賛成】外国人政策&日中関係をニック&デミル&岸谷蘭丸が本音で議論！／高市総理の発言「撤回すべきでない」／歌舞伎町の客引きの実態／日本の警察はもっと取り締まりを《岸谷蘭丸×ニック×デミル②》
-  ✓ 新着: 【ベネズエラ攻撃】モンロー主義復活で西半球はアメリカのもの？
-  ✓ 新着: 【石油大国ベネズエラ】トランプの本音は中国経済の崩壊？
-  ✓ 新着: 【外国人問題】”エリート”は日本に来ない？
-  ✓ 新着: 【ベネズエラ攻撃】中国には入ってきてほしくない？
-  ✓ 新着: 【国際法なんて存在しない】やりたい放題の米国
-  ✓ 新着: 【対日レアアース輸出禁止】中国の経済圧力「屈する必要ない」、高市首相の謝罪「必要ない」／中韓首脳会談、思惑は／日本に危機、経済的自立が最優先／台湾に”親中派”が増加中?《真田幸光が徹底解説》
-  ✓ 新着: 【2026年の米国株】AI企業の「勢力変更」気にしない／NVIDIAもフィジカルAIへ／次に来るのは「メガネ」／金融・テクノロジー株に注目／どうなる雇用統計／CES2026最新リポート【岡元兵八郎】
-  ✓ 新着: 【ベネズエラ攻撃】中国にとっては「大恥」？
-  ✓ 新着: 【転売ヤー】マンション価格高騰の犯人は？
-チャンネルをチェック中 (RSS): NewsPicks /ニューズピックス
-  ✓ 新着: 【生解説】領土、石油…トランプ政権の「真の狙い」を理解する（ベネズエラ/ルビオ/マドゥーロ/ドンロー主義/グリーンランド/解説：森川潤、後藤直義）
-  ✓ 新着: 【婚活】高収入男性の意外な落とし穴  #newspicks
-  ✓ 新着: 「コンプレックスを武器にしろ」“無難”が評価されない理由とは？面接で刺さる人の共通点【岸谷蘭丸、坂井風太、トイアンナ】TheUPDATE
-  ✓ 新着: 【平野啓一郎】NYの過酷な現実　#田内学  #平野啓一郎 #投資 #金融 #お金 #経済 #資本主義 #文学 #金利 #インフレ #資産
-  ✓ 新着: 「20億円も子どもに残したくない」相続を嫌がる“資産家たちの本音”と理想の相続対策【河村真木子×国際弁護士 吉田大×田中渓】/MONEY&MATE（マネーメイト）
-  ✓ 新着: 【インリン】セクシーな格好でも無礼は許さない  #newspicks
-  ✓ 新着: 【ホリエモン×竹中平蔵 】「税調インナー」とは？　#堀江貴文 #ホリエモン #horieone #竹中平蔵 #経済政策  #補正予算  #高市早苗  #高市内閣 #インフレ  #税制改革 #税金
-  ✓ 新着: 【痴漢対策】歩きスマホもNG  #newspicks
-  ✓ 新着: 【石丸伸二×平川理恵】学校内に感謝の人間関係を作る　#TheBOOSTERS #石丸伸二 #平川理恵 #教育 #学校 #公立 #私立 #子育て
-  ✓ 新着: 【受験】テストの順位張り出すべき？  #newspicks
-チャンネルをチェック中 (RSS): 田端大学　投資学部
-  ✓ 新着: なぜ解散なら株価は上がるのか？高市総理の狙いも解説
-  ✓ 新着: 欧米で絶好調！ユニクロ上方修正！日経上げるか？
-  未処理の動画: 37件
-  ✓ バックログに追加: 0件
-
-📋 現在のバックログ: 55件
-  今回処理: 3件
-
-
-============================================================
-[1/3] 【愛されたチャベス、嫌われたマドゥロ】現地で暮らし研究していた坂口安紀／「もう連絡しないで」いまだに国民はスマホ検閲／世界一の埋蔵量でも扱いにくいベネズエラの石油の行方【CROSSDIG1on1】
-============================================================
-処理開始: mjWVaM1PAc4
-  動画情報を取得中...
-  タイトル: 【愛されたチャベス、嫌われたマドゥロ】現地で暮らし研究していた坂口安紀／「もう連絡しないで」いまだに国民はスマホ検閲／世界一の埋蔵量でも扱いにくいベネズエラの石油の行方【CROSSDIG1on1】
-  チャンネル: TBS CROSS DIG with Bloomberg
-  文字起こしを取得中...
-字幕を取得中 (ID: mjWVaM1PAc4)...
-  自動字幕が見つかりました: Japanese (auto-generated)
-  文字起こし完了: 490行
-  文字起こし保存: /home/so1/apps/summarizer_personal/data/transcripts/mjWVaM1PAc4.jsonThe following paths are ignored by one of your .gitignore files:
-data/transcripts
-hint: Use -f if you really want to add them.
-hint: Turn this message off by running
-hint: "git config advice.addIgnoredFile false"
-
-  要約を生成中 (Gemini gemini-2.5-flash-lite)...
-  ✓ クリーンアップ済みテキスト保存: /home/so1/apps/summarizer_personal/data/transcripts/mjWVaM1PAc4_cleaned.txt
-  [Gemini gemini-2.5-flash-lite] 要約生成中... (試行 1/3)
-  要約完了: 2228文字
-  要約完了: 2228文字
-  要約保存: /home/so1/apps/summarizer_personal/data/summaries/mjWVaM1PAc4.md
-  状態更新完了
-
-⏳ レート制限対策のため6秒待機...
-
-============================================================
-[2/3] 【横綱・大の里】友達は不要／唯一無二になるための孤独と覚悟／効率を捨てて「心」で勝つ逆転の思考法／強さと感動の本質／人的資本から「心的資本」へ／トリドールホールディングス社長【1on1 VISION】
-============================================================
-処理開始: BotxhxQanrg
-  動画情報を取得中...
-  タイトル: 【横綱・大の里】友達は不要／唯一無二になるための孤独と覚悟／効率を捨てて「心」で勝つ逆転の思考法／強さと感動の本質／人的資本から「心的資本」へ／トリドールホールディングス社長【1on1 VISION】
-  チャンネル: TBS CROSS DIG with Bloomberg
-  文字起こしを取得中...
-字幕を取得中 (ID: BotxhxQanrg)...
-  自動字幕が見つかりました: Japanese (auto-generated)
-  文字起こし完了: 431行
-  文字起こし保存: /home/so1/apps/summarizer_personal/data/transcripts/BotxhxQanrg.json
-  要約を生成中 (Gemini gemini-2.5-flash-lite)...
-  ✓ クリーンアップ済みテキスト保存: /home/so1/apps/summarizer_personal/data/transcripts/BotxhxQanrg_cleaned.txt
-  [Gemini gemini-2.5-flash-lite] 要約生成中... (試行 1/3)
-  要約完了: 1620文字
-  要約完了: 1620文字
-  要約保存: /home/so1/apps/summarizer_personal/data/summaries/BotxhxQanrg.md
-  状態更新完了
-
-⏳ レート制限対策のため6秒待機...
-
-============================================================
-[3/3] 【タンパク質“ルビコン”を除去する実験で寿命が1.2倍になり病気にかかりにくくなった】オートファジー研究の世界的権威・吉森保／賞金1億ドルの「10歳若返らせる」競争に挑む【ULTRA SCIENCE】
-============================================================
-処理開始: DiTcdTc9eds
-  動画情報を取得中...
-  タイトル: 【タンパク質“ルビコン”を除去する実験で寿命が1.2倍になり病気にかかりにくくなった】オートファジー研究の世界的権威・吉森保／賞金1億ドルの「10歳若返らせる」競争に挑む【ULTRA SCIENCE】
-  チャンネル: TBS CROSS DIG with Bloomberg
-  文字起こしを取得中...
-字幕を取得中 (ID: DiTcdTc9eds)...
-  自動字幕が見つかりました: Japanese (auto-generated)
-  文字起こし完了: 1010行
-  文字起こし保存: /home/so1/apps/summarizer_personal/data/transcripts/DiTcdTc9eds.json
-  要約を生成中 (Gemini gemini-2.5-flash-lite)...
-  ✓ クリーンアップ済みテキスト保存: /home/so1/apps/summarizer_personal/data/transcripts/DiTcdTc9eds_cleaned.txt
-  [Gemini gemini-2.5-flash-lite] 要約生成中... (試行 1/3)
-  要約完了: 2550文字
-  要約完了: 2550文字
-  要約保存: /home/so1/apps/summarizer_personal/data/summaries/DiTcdTc9eds.md
-  状態更新完了
-
-============================================================
-✅ 処理完了: 3件
-❌ 失敗: 0件
-📋 残りのバックログ: 52件
-============================================================
-
-📤 Gitにコミット&プッシュ中...
-  ✗ Git操作失敗: Command '['git', 'add', 'data/summaries/', 'data/transcripts/', 'data/state.json', 'data/backlog.json']' returned non-zero exit status 1.
-=== Cron Update Finished: 2026年  1月 11日 日曜日 17:25:36 JST (Exit: 0) ===
-=== Cron Update Started: 2026年  1月 11日 日曜日 17:49:12 JST ===
-=== RSS経由 バックログ処理 ===
-チャンネル数: 5
-モデル: gemini-2.5-flash-lite
-テンプレート: blog_article
-
-📡 RSSフィードから新着動画を取得中...
-チャンネルをチェック中 (RSS): PIVOT 公式チャンネル
-  ✓ 新着: 【資産が増える方程式】インフレ時代の投資術／日本人が稼げない理由／収入・資産レベル別の資産形成戦略／お金持ちに共通する特徴とリスク／仕事選びの3要素／市場のブームに乗る条件／己の条件で生きる真の「富」
-  ✓ 新着: 【普通の人の死のリアル】検視官という仕事／変死体は多い／死因トップ10／不慮の事故死は交通事故の2倍／風呂のリスク／死体の臭い／孤独死を防ぐために／自殺のリアル／防げたかもしれない死
-  ✓ 新着: 【疲れやすい・太りやすいをなくす】菊池雄星投手らプロアスリートの体を変えた超革新トレーニング／スクワット／レッグプレス／ランジ／下半身強化の理由【BODY SKILL SET】
-  ✓ 新着: 【2026年 転職バブル終焉】量から質へ／女性転職に追い風／コンサル人気はなぜ起きた／AI時代に必要な推進力／転職がゴールではない／スキルの棚卸と言語化
-  ✓ 新着: 【2026年超予測：AIと経営】日本のDXはうまくいってない／大企業が有利に／ゴールドラッシュの到来／AIがもたらす「新しい職業カースト」／生成AIは産業革命／企業に求められること
-  ✓ 新着: 【資産1億円はもはや富裕層ではない】1000人の富裕層から学んだ実態／杉村太蔵も驚く“新富裕層”お金の価値観／あなたはどの富裕層タイプ？4象限マトリクスで診断【PIVOT TALK SPECIAL】
-チャンネルをチェック中 (RSS): TBS CROSS DIG with Bloomberg
-  ✓ 新着: スウェーデンの小さな村が「ゲーム王国」に？| #ゲーム #ゲーム開発 #steam #goatsimulator #crossdig
-  ✓ 新着: 【ChatGPTの爆食いでメモリが“枯渇”】「2026年はPC・スマホ高騰続く」半導体市場のプロ・安生健一朗／値段が“待てば下がる”常識は崩壊／一般のメモリはAI優先で後回し【1on1 Tech】
-チャンネルをチェック中 (RSS): 楽待 RAKUMACHI
-  ✓ 新着: 【集中力爆上がり】美容室EARTH取締役の朝活術
-  ✓ 新着: 【食品添加物】コンビニのおにぎりは健康？
-  ✓ 新着: 【新築ではなく中古を選べ】家賃年収5500万円・歴13年の大家が今から不動産投資を始めるなら？
-  ✓ 新着: 【厳格化は賛成】外国人政策&日中関係をニック&デミル&岸谷蘭丸が本音で議論！／高市総理の発言「撤回すべきでない」／歌舞伎町の客引きの実態／日本の警察はもっと取り締まりを《岸谷蘭丸×ニック×デミル②》
-  ✓ 新着: 【ベネズエラ攻撃】モンロー主義復活で西半球はアメリカのもの？
-  ✓ 新着: 【石油大国ベネズエラ】トランプの本音は中国経済の崩壊？
-  ✓ 新着: 【外国人問題】”エリート”は日本に来ない？
-  ✓ 新着: 【ベネズエラ攻撃】中国には入ってきてほしくない？
-  ✓ 新着: 【国際法なんて存在しない】やりたい放題の米国
-  ✓ 新着: 【対日レアアース輸出禁止】中国の経済圧力「屈する必要ない」、高市首相の謝罪「必要ない」／中韓首脳会談、思惑は／日本に危機、経済的自立が最優先／台湾に”親中派”が増加中?《真田幸光が徹底解説》
-  ✓ 新着: 【2026年の米国株】AI企業の「勢力変更」気にしない／NVIDIAもフィジカルAIへ／次に来るのは「メガネ」／金融・テクノロジー株に注目／どうなる雇用統計／CES2026最新リポート【岡元兵八郎】
-  ✓ 新着: 【ベネズエラ攻撃】中国にとっては「大恥」？
-  ✓ 新着: 【転売ヤー】マンション価格高騰の犯人は？
-チャンネルをチェック中 (RSS): NewsPicks /ニューズピックス
-  ✓ 新着: 【生解説】領土、石油…トランプ政権の「真の狙い」を理解する（ベネズエラ/ルビオ/マドゥーロ/ドンロー主義/グリーンランド/解説：森川潤、後藤直義）
-  ✓ 新着: 【婚活】高収入男性の意外な落とし穴  #newspicks
-  ✓ 新着: 「コンプレックスを武器にしろ」“無難”が評価されない理由とは？面接で刺さる人の共通点【岸谷蘭丸、坂井風太、トイアンナ】TheUPDATE
-  ✓ 新着: 【平野啓一郎】NYの過酷な現実　#田内学  #平野啓一郎 #投資 #金融 #お金 #経済 #資本主義 #文学 #金利 #インフレ #資産
-  ✓ 新着: 「20億円も子どもに残したくない」相続を嫌がる“資産家たちの本音”と理想の相続対策【河村真木子×国際弁護士 吉田大×田中渓】/MONEY&MATE（マネーメイト）
-  ✓ 新着: 【インリン】セクシーな格好でも無礼は許さない  #newspicks
-  ✓ 新着: 【ホリエモン×竹中平蔵 】「税調インナー」とは？　#堀江貴文 #ホリエモン #horieone #竹中平蔵 #経済政策  #補正予算  #高市早苗  #高市内閣 #インフレ  #税制改革 #税金
-  ✓ 新着: 【痴漢対策】歩きスマホもNG  #newspicks
-  ✓ 新着: 【石丸伸二×平川理恵】学校内に感謝の人間関係を作る　#TheBOOSTERS #石丸伸二 #平川理恵 #教育 #学校 #公立 #私立 #子育て
-  ✓ 新着: 【受験】テストの順位張り出すべき？  #newspicks
-チャンネルをチェック中 (RSS): 田端大学　投資学部
-  ✓ 新着: なぜ解散なら株価は上がるのか？高市総理の狙いも解説
-  ✓ 新着: 欧米で絶好調！ユニクロ上方修正！日経上げるか？
-  未処理の動画: 33件
-  ✓ バックログに追加: 0件
-
-📋 現在のバックログ: 52件
-  今回処理: 3件
-
-
-============================================================
-[1/3] スウェーデンの小さな村が「ゲーム王国」に？| #ゲーム #ゲーム開発 #steam #goatsimulator #crossdig
-============================================================
-  ✗ スキップ (短い動画)
-
-============================================================
-[2/3] 【ChatGPTの爆食いでメモリが“枯渇”】「2026年はPC・スマホ高騰続く」半導体市場のプロ・安生健一朗／値段が“待てば下がる”常識は崩壊／一般のメモリはAI優先で後回し【1on1 Tech】
-============================================================
-処理開始: 0iaS70iP5y4
-  動画情報を取得中...
-  タイトル: 【ChatGPTの爆食いでメモリが“枯渇”】「2026年はPC・スマホ高騰続く」半導体市場のプロ・安生健一朗／値段が“待てば下がる”常識は崩壊／一般のメモリはAI優先で後回し【1on1 Tech】
-  チャンネル: TBS CROSS DIG with Bloomberg
-  文字起こしを取得中...
-字幕を取得中 (ID: 0iaS70iP5y4)...
-  自動字幕が見つかりました: Japanese (auto-generated)
-  文字起こし完了: 701行
-  文字起こし保存: /home/so1/apps/summarizer_personal/data/transcripts/0iaS70iP5y4.json
-  要約を生成中 (Gemini gemini-2.5-flash-lite)...
-  ✓ クリーンアップ済みテキスト保存: /home/so1/apps/summarizer_personal/data/transcripts/0iaS70iP5y4_cleaned.txt
-  [Gemini gemini-2.5-flash-lite] 要約生成中... (試行 1/3)
-  要約完了: 2510文字
-  要約完了: 2510文字
-  要約保存: /home/so1/apps/summarizer_personal/data/summaries/0iaS70iP5y4.md
-  状態更新完了
-
-⏳ レート制限対策のため6秒待機...
-
-============================================================
-[3/3] YouTubeが世界最大の「テレビ局」になる？｜#youtube #テレビ #テレビ番組 #アカデミー賞 #crossdig
-============================================================
-  ✗ スキップ (短い動画)
-
-============================================================To github.com:so1tsuda/summarizer_personal.git
-   125fd34..4948d22  master -> master
-
-✅ 処理完了: 1件
-❌ 失敗: 0件
-📋 残りのバックログ: 49件
+📋 残りのバックログ: 222件
 ============================================================
 
 📤 Gitにコミット&プッシュ中...
   ✓ Git push 完了
-=== Cron Update Finished: 2026年  1月 11日 日曜日 17:49:34 JST (Exit: 0) ===
-=== Cron Update Started: 2026年  1月 11日 日曜日 18:00:01 JST ===
+--- 🚀 Cloudflare Pagesへの自動デプロイを開始 ---
+--- 🛠️  Next.js Build 開始 ---
+
+> summarizer-personal@0.1.0 build
+> next build
+
+ ⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of /home/so1/package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * /home/so1/apps/summarizer_personal/package-lock.json
+
+   ▲ Next.js 15.5.9
+   - Environments: .env
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 3.5s
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/157) ...
+   Generating static pages (39/157) 
+   Generating static pages (78/157) 
+   Generating static pages (117/157) 
+ ✓ Generating static pages (157/157)
+   Finalizing page optimization ...
+   Collecting build traces ...
+   Exporting (0/2) ...
+ ✓ Exporting (2/2)
+
+Route (app)                                 Size  First Load JS
+┌ ○ /                                    1.38 kB         107 kB
+├ ○ /_not-found                            990 B         103 kB
+├ ● /article/[slug]                        742 B         103 kB
+├   ├ /article/-NFqv6mTiPM
+├   ├ /article/-NsJVdk4_ik
+├   ├ /article/-gjnrMg9iSo
+├   └ [+135 more paths]
+└ ● /channel/[slug]                      1.38 kB         107 kB
+    ├ /channel/bg2-pod
+    ├ /channel/bloomberg-originals
+    ├ /channel/broken-business-models
+    └ [+12 more paths]
++ First Load JS shared by all             102 kB
+  ├ chunks/255-bc8b3b9a93d25a64.js         46 kB
+  ├ chunks/4bd1b696-c023c6e3521b1417.js  54.2 kB
+  └ other shared chunks (total)          1.93 kB
+
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses generateStaticParams)
+
+--- 🚀 Cloudflare Pagesへデプロイ ---
+
+ ⛅️ wrangler 4.59.2
+───────────────────
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mWarning: Your working directory is a git repo and has uncommitted changes[0m
+
+  To silence this warning, pass in --commit-dirty=true
+
+
+Uploading... (18/328)
+Uploading... (121/328)
+Uploading... (224/328)
+Uploading... (328/328)
+✨ Success! Uploaded 310 files (18 already uploaded) (79.81 sec)
+
+🌎 Deploying...
+✨ Deployment complete! Take a peek over at https://5da79fca.summarizer-personal.pages.dev
+--- ✅ デプロイ完了 ---
+=== Cron Update Finished: 2026年  1月 17日 土曜日 00:54:07 JST (Exit: 0) ===
+=== Cron Update Started: 2026年  1月 17日 土曜日 06:00:01 JST ===
 Traceback (most recent call last):
   File "/home/so1/apps/summarizer_personal/scripts/batch_process_rss.py", line 20, in <module>
     from scripts.rss_fetch import load_channels_from_csv, load_state, fetch_all_rss_videos
   File "/home/so1/apps/summarizer_personal/scripts/rss_fetch.py", line 12, in <module>
     import feedparser
 ModuleNotFoundError: No module named 'feedparser'
-=== Cron Update Finished: 2026年  1月 11日 日曜日 18:00:02 JST (Exit: 0) ===
+--- 🚀 Cloudflare Pagesへの自動デプロイを開始 ---
+--- 🛠️  Next.js Build 開始 ---
+
+> summarizer-personal@0.1.0 build
+> next build
+
+ ⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of /home/so1/package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * /home/so1/apps/summarizer_personal/package-lock.json
+
+   ▲ Next.js 15.5.9
+   - Environments: .env
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 3.7s
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/157) ...
+   Generating static pages (39/157) 
+   Generating static pages (78/157) 
+   Generating static pages (117/157) 
+ ✓ Generating static pages (157/157)
+   Finalizing page optimization ...
+   Collecting build traces ...
+   Exporting (0/2) ...
+ ✓ Exporting (2/2)
+
+Route (app)                                 Size  First Load JS
+┌ ○ /                                    1.38 kB         107 kB
+├ ○ /_not-found                            990 B         103 kB
+├ ● /article/[slug]                        742 B         103 kB
+├   ├ /article/-NFqv6mTiPM
+├   ├ /article/-NsJVdk4_ik
+├   ├ /article/-gjnrMg9iSo
+├   └ [+135 more paths]
+└ ● /channel/[slug]                      1.38 kB         107 kB
+    ├ /channel/bg2-pod
+    ├ /channel/bloomberg-originals
+    ├ /channel/broken-business-models
+    └ [+12 more paths]
++ First Load JS shared by all             102 kB
+  ├ chunks/255-bc8b3b9a93d25a64.js         46 kB
+  ├ chunks/4bd1b696-c023c6e3521b1417.js  54.2 kB
+  └ other shared chunks (total)          1.93 kB
+
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses generateStaticParams)
+
+--- 🚀 Cloudflare Pagesへデプロイ ---
+
+ ⛅️ wrangler 4.59.2
+───────────────────
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mWarning: Your working directory is a git repo and has uncommitted changes[0m
+
+  To silence this warning, pass in --commit-dirty=true
+
+
+Uploading... (18/328)
+Uploading... (121/328)
+Uploading... (224/328)
+Uploading... (328/328)
+✨ Success! Uploaded 310 files (18 already uploaded) (47.86 sec)
+
+🌎 Deploying...
+✨ Deployment complete! Take a peek over at https://10d8d156.summarizer-personal.pages.dev
+--- ✅ デプロイ完了 ---
+=== Cron Update Finished: 2026年  1月 17日 土曜日 06:01:27 JST (Exit: 0) ===
+=== Cron Update Started: 2026年  1月 17日 土曜日 12:00:01 JST ===
+Traceback (most recent call last):
+  File "/home/so1/apps/summarizer_personal/scripts/batch_process_rss.py", line 20, in <module>
+    from scripts.rss_fetch import load_channels_from_csv, load_state, fetch_all_rss_videos
+  File "/home/so1/apps/summarizer_personal/scripts/rss_fetch.py", line 12, in <module>
+    import feedparser
+ModuleNotFoundError: No module named 'feedparser'
+--- 🚀 Cloudflare Pagesへの自動デプロイを開始 ---
+--- 🛠️  Next.js Build 開始 ---
+
+> summarizer-personal@0.1.0 build
+> next build
+
+ ⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of /home/so1/package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * /home/so1/apps/summarizer_personal/package-lock.json
+
+   ▲ Next.js 15.5.9
+   - Environments: .env
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 3.7s
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/157) ...
+   Generating static pages (39/157) 
+   Generating static pages (78/157) 
+   Generating static pages (117/157) 
+ ✓ Generating static pages (157/157)
+   Finalizing page optimization ...
+   Collecting build traces ...
+   Exporting (0/2) ...
+ ✓ Exporting (2/2)
+
+Route (app)                                 Size  First Load JS
+┌ ○ /                                    1.38 kB         107 kB
+├ ○ /_not-found                            990 B         103 kB
+├ ● /article/[slug]                        742 B         103 kB
+├   ├ /article/-NFqv6mTiPM
+├   ├ /article/-NsJVdk4_ik
+├   ├ /article/-gjnrMg9iSo
+├   └ [+135 more paths]
+└ ● /channel/[slug]                      1.38 kB         107 kB
+    ├ /channel/bg2-pod
+    ├ /channel/bloomberg-originals
+    ├ /channel/broken-business-models
+    └ [+12 more paths]
++ First Load JS shared by all             102 kB
+  ├ chunks/255-bc8b3b9a93d25a64.js         46 kB
+  ├ chunks/4bd1b696-c023c6e3521b1417.js  54.2 kB
+  └ other shared chunks (total)          1.93 kB
+
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses generateStaticParams)
+
+--- 🚀 Cloudflare Pagesへデプロイ ---
+
+ ⛅️ wrangler 4.59.2
+───────────────────
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mFailed to fetch auth token: 400 Bad Request[0m
+
+
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mIn a non-interactive environment, it's necessary to set a CLOUDFLARE_API_TOKEN environment variable for wrangler to work. Please go to https://developers.cloudflare.com/fundamentals/api/get-started/create-token/ for instructions on how to create an api token, and assign its value to CLOUDFLARE_API_TOKEN.[0m
+
+
+🪵  Logs were written to "/home/so1/.config/.wrangler/logs/wrangler-2026-01-17_03-00-26_734.log"
+=== Cron Update Finished: 2026年  1月 17日 土曜日 12:00:30 JST (Exit: 0) ===
+=== Cron Update Started: 2026年  1月 17日 土曜日 18:00:01 JST ===
+Traceback (most recent call last):
+  File "/home/so1/apps/summarizer_personal/scripts/batch_process_rss.py", line 20, in <module>
+    from scripts.rss_fetch import load_channels_from_csv, load_state, fetch_all_rss_videos
+  File "/home/so1/apps/summarizer_personal/scripts/rss_fetch.py", line 12, in <module>
+    import feedparser
+ModuleNotFoundError: No module named 'feedparser'
+--- 🚀 Cloudflare Pagesへの自動デプロイを開始 ---
+--- 🛠️  Next.js Build 開始 ---
+
+> summarizer-personal@0.1.0 build
+> next build
+
+ ⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of /home/so1/package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * /home/so1/apps/summarizer_personal/package-lock.json
+
+   ▲ Next.js 15.5.9
+   - Environments: .env
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 3.7s
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/157) ...
+   Generating static pages (39/157) 
+   Generating static pages (78/157) 
+   Generating static pages (117/157) 
+ ✓ Generating static pages (157/157)
+   Finalizing page optimization ...
+   Collecting build traces ...
+   Exporting (0/2) ...
+ ✓ Exporting (2/2)
+
+Route (app)                                 Size  First Load JS
+┌ ○ /                                    1.38 kB         107 kB
+├ ○ /_not-found                            990 B         103 kB
+├ ● /article/[slug]                        742 B         103 kB
+├   ├ /article/-NFqv6mTiPM
+├   ├ /article/-NsJVdk4_ik
+├   ├ /article/-gjnrMg9iSo
+├   └ [+135 more paths]
+└ ● /channel/[slug]                      1.38 kB         107 kB
+    ├ /channel/bg2-pod
+    ├ /channel/bloomberg-originals
+    ├ /channel/broken-business-models
+    └ [+12 more paths]
++ First Load JS shared by all             102 kB
+  ├ chunks/255-bc8b3b9a93d25a64.js         46 kB
+  ├ chunks/4bd1b696-c023c6e3521b1417.js  54.2 kB
+  └ other shared chunks (total)          1.93 kB
+
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses generateStaticParams)
+
+--- 🚀 Cloudflare Pagesへデプロイ ---
+
+ ⛅️ wrangler 4.59.2
+───────────────────
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mFailed to fetch auth token: 400 Bad Request[0m
+
+
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mIn a non-interactive environment, it's necessary to set a CLOUDFLARE_API_TOKEN environment variable for wrangler to work. Please go to https://developers.cloudflare.com/fundamentals/api/get-started/create-token/ for instructions on how to create an api token, and assign its value to CLOUDFLARE_API_TOKEN.[0m
+
+
+🪵  Logs were written to "/home/so1/.config/.wrangler/logs/wrangler-2026-01-17_09-00-26_306.log"
+=== Cron Update Finished: 2026年  1月 17日 土曜日 18:00:30 JST (Exit: 0) ===

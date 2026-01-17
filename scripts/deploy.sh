@@ -8,6 +8,11 @@ set -e
 # プロジェクトディレクトリに移動
 cd "$(dirname "$0")/.."
 
+# 環境変数を読み込む (.envが存在する場合)
+if [ -f .env ]; then
+    export $(grep -v '^#' .env | xargs)
+fi
+
 echo "--- 🛠️  Next.js Build 開始 ---"
 npm run build
 
