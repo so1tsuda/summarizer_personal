@@ -277,6 +277,14 @@ def main():
         print(f"[{processed_count+1}/{target_count}] {video['title']}")
         print(f"{'='*60}")
         
+        # 処理前の待機 (IPバン対策: 10〜40秒)
+        # スキップや失敗が連続しても必ず間隔を空けるために、ループの最初で実行
+        if processed_count > 0 or skipped_count > 0 or failed_count > 0:
+            import random
+            delay = random.randint(10, 40)
+            print(f"\n⏳ IPバン対策のため {delay}秒待機します...")
+            time.sleep(delay)
+
         # 処理済みチェック
         processed_ids = set(state.get('processed_videos', {}).keys())
         if video['video_id'] in processed_ids:
@@ -321,13 +329,6 @@ def main():
             
             # 状態を再読み込み（process_videoで更新されるため）
             state = load_state(state_path)
-            
-            # レート制限対策（10 RPM = 6秒間隔）
-            if processed_count < target_count and queue:
-                import random
-                delay = random.randint(5, 30)
-                print(f"\n⏳ IPバン対策のため {delay}秒待機...")
-                time.sleep(delay)
         
         except Exception as e:
             print(f"❌ 処理失敗: {e}")

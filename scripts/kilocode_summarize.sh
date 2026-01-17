@@ -95,11 +95,6 @@ process_file() {
     if [[ ! -f "$desc_file" ]]; then
         echo "  ⚠️ 概要欄ファイルが存在しません。取得を試みます..."
         
-        # IPバン対策：5〜30秒のランダムな待機を入れる
-        local delay=$((RANDOM % 26 + 5))
-        echo "  ⏳ IPバン対策のため ${delay}秒待機します..."
-        sleep "$delay"
-
         # IDがハイフンで始まる場合でも正しく渡すために -- を使用
         if uv run python3 scripts/process_video.py --provider kilocode -- "$video_id" > /dev/null 2>&1; then
             echo "  ✅ 概要欄を取得しました。"
@@ -158,6 +153,13 @@ else
             output_file="${SUMMARY_DIR}/${video_id}.md"
             
             if [[ ! -f "$output_file" ]]; then
+                # IPバン対策：10〜40秒のランダムな待機（ネットワークアクセスの可能性があるため）
+                if [[ $processed_count -gt 0 ]] && ! $DRY_RUN; then
+                    local delay=$((RANDOM % 31 + 10))
+                    echo "⏳ IPバン対策のため ${delay}秒待機します..."
+                    sleep "$delay"
+                fi
+
                 process_file "$transcript_file"
                 processed_count=$((processed_count + 1))
                 
@@ -166,10 +168,10 @@ else
                     break
                 fi
                 
-                # 最後のファイル以外はスリープ
                 if ! $DRY_RUN; then
-                    echo "  ⏳ ${SLEEP_SECONDS}秒待機..."
-                    sleep "$SLEEP_SECONDS"
+                    # ループの最後ではなく、各処理の冒頭で待機するように設計変更（失敗時も待機するため）
+                    # ここでは何もしない
+                    :
                 fi
             fi
             count=$((count + 1))
