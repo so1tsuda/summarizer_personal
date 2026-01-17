@@ -1,0 +1,2441 @@
+{
+  "video_id": "hbGQaAXZ5UU",
+  "title": "How to Build a Product that Hits PMF on Day 1 | Granola, Christopher Pedregal",
+  "channel": "EO",
+  "published_at": "2026-01-14T14:31:48Z",
+  "duration": "PT16M2S",
+  "thumbnail": "https://i.ytimg.com/vi/hbGQaAXZ5UU/hqdefault.jpg",
+  "fetched_at": "2026-01-17T22:22:17.056393",
+  "transcript": [
+    {
+      "start": 0.08,
+      "duration": 3.68,
+      "text": "We had product market fit and we had it"
+    },
+    {
+      "start": 1.68,
+      "duration": 4.0,
+      "text": "on day one of launch. I think the first"
+    },
+    {
+      "start": 3.76,
+      "duration": 4.159,
+      "text": "lesson is like talking to users is the"
+    },
+    {
+      "start": 5.68,
+      "duration": 3.68,
+      "text": "lifeblood of the built-in product. This"
+    },
+    {
+      "start": 7.919,
+      "duration": 2.561,
+      "text": "happens all the time. You're building"
+    },
+    {
+      "start": 9.36,
+      "duration": 2.64,
+      "text": "something, you're like, \"This is great.\""
+    },
+    {
+      "start": 10.48,
+      "duration": 3.36,
+      "text": "And then you put it in front of users"
+    },
+    {
+      "start": 12.0,
+      "duration": 4.48,
+      "text": "and then they don't understand it. For"
+    },
+    {
+      "start": 13.84,
+      "duration": 4.64,
+      "text": "example, there's this amazing video on"
+    },
+    {
+      "start": 16.48,
+      "duration": 3.6,
+      "text": "YouTube, a product designer doing a user"
+    },
+    {
+      "start": 18.48,
+      "duration": 4.08,
+      "text": "test and you see the user grab the"
+    },
+    {
+      "start": 20.08,
+      "duration": 4.0,
+      "text": "square and put it into the square hole."
+    },
+    {
+      "start": 22.56,
+      "duration": 3.52,
+      "text": "The designer's like, \"Yes.\" And then you"
+    },
+    {
+      "start": 24.08,
+      "duration": 3.6,
+      "text": "see the user grab the circle and put it"
+    },
+    {
+      "start": 26.08,
+      "duration": 3.199,
+      "text": "in the square hole and the user's like,"
+    },
+    {
+      "start": 27.68,
+      "duration": 3.359,
+      "text": "\"What?\" And then you just see like"
+    },
+    {
+      "start": 29.279,
+      "duration": 3.681,
+      "text": "basically completely misunderstanding"
+    },
+    {
+      "start": 31.039,
+      "duration": 3.761,
+      "text": "the product in front of them. If it"
+    },
+    {
+      "start": 32.96,
+      "duration": 4.4,
+      "text": "takes a month to to get feedback on it,"
+    },
+    {
+      "start": 34.8,
+      "duration": 4.0,
+      "text": "it almost not worth doing because the"
+    },
+    {
+      "start": 37.36,
+      "duration": 3.12,
+      "text": "thinking you had when you made the"
+    },
+    {
+      "start": 38.8,
+      "duration": 3.439,
+      "text": "original decisions, you don't even"
+    },
+    {
+      "start": 40.48,
+      "duration": 3.28,
+      "text": "remember. So I think the short cycle"
+    },
+    {
+      "start": 42.239,
+      "duration": 2.881,
+      "text": "there is super important. What I don't"
+    },
+    {
+      "start": 43.76,
+      "duration": 3.119,
+      "text": "believe is that you should talk to users"
+    },
+    {
+      "start": 45.12,
+      "duration": 3.919,
+      "text": "and then just do whatever they ask you"
+    },
+    {
+      "start": 46.879,
+      "duration": 4.16,
+      "text": "to do, right? Cuz users are going to say"
+    },
+    {
+      "start": 49.039,
+      "duration": 4.241,
+      "text": "a whole lot of things and sometimes"
+    },
+    {
+      "start": 51.039,
+      "duration": 3.761,
+      "text": "they'll contradict. Sometimes what users"
+    },
+    {
+      "start": 53.28,
+      "duration": 2.959,
+      "text": "think they want and what they actually"
+    },
+    {
+      "start": 54.8,
+      "duration": 3.12,
+      "text": "want or what they actually need are"
+    },
+    {
+      "start": 56.239,
+      "duration": 3.681,
+      "text": "different. I think if you just make a"
+    },
+    {
+      "start": 57.92,
+      "duration": 6.2,
+      "text": "prioritized list of user needs and build"
+    },
+    {
+      "start": 59.92,
+      "duration": 4.2,
+      "text": "those, that doesn't work very well."
+    },
+    {
+      "start": 71.68,
+      "duration": 4.96,
+      "text": "Hi, I'm Chris Pedrick. I'm the"
+    },
+    {
+      "start": 74.0,
+      "duration": 5.119,
+      "text": "co-founder and CEO of Granola. Granola"
+    },
+    {
+      "start": 76.64,
+      "duration": 4.96,
+      "text": "is an AI notepad for meetings. Uh, think"
+    },
+    {
+      "start": 79.119,
+      "duration": 4.161,
+      "text": "of it like Apple Notes except it will"
+    },
+    {
+      "start": 81.6,
+      "duration": 3.76,
+      "text": "listen in the background and when your"
+    },
+    {
+      "start": 83.28,
+      "duration": 3.92,
+      "text": "meeting ends, it'll take whatever crappy"
+    },
+    {
+      "start": 85.36,
+      "duration": 3.6,
+      "text": "or raw notes you've written and flesh"
+    },
+    {
+      "start": 87.2,
+      "duration": 4.0,
+      "text": "them out into great notes. We launched"
+    },
+    {
+      "start": 88.96,
+      "duration": 5.839,
+      "text": "Granola a year and a half ago. We were"
+    },
+    {
+      "start": 91.2,
+      "duration": 7.36,
+      "text": "four people at the time. We're now 35"
+    },
+    {
+      "start": 94.799,
+      "duration": 6.64,
+      "text": "people. We raised our series B at a $250"
+    },
+    {
+      "start": 98.56,
+      "duration": 6.199,
+      "text": "million valuation and we're growing"
+    },
+    {
+      "start": 101.439,
+      "duration": 3.32,
+      "text": "super quickly."
+    },
+    {
+      "start": 106.32,
+      "duration": 4.0,
+      "text": "I really love building tools that let"
+    },
+    {
+      "start": 108.32,
+      "duration": 3.68,
+      "text": "people do things. This idea of oh, if I"
+    },
+    {
+      "start": 110.32,
+      "duration": 3.28,
+      "text": "make this product great and people use"
+    },
+    {
+      "start": 112.0,
+      "duration": 3.04,
+      "text": "it, it means they get value out of it"
+    },
+    {
+      "start": 113.6,
+      "duration": 2.799,
+      "text": "and their lives are perhaps a little bit"
+    },
+    {
+      "start": 115.04,
+      "duration": 2.719,
+      "text": "better as a result. Like that's"
+    },
+    {
+      "start": 116.399,
+      "duration": 4.32,
+      "text": "something that I've always uh found"
+    },
+    {
+      "start": 117.759,
+      "duration": 4.4,
+      "text": "really motivating. I was born in '86 and"
+    },
+    {
+      "start": 120.719,
+      "duration": 4.0,
+      "text": "Google like the search engine launched"
+    },
+    {
+      "start": 122.159,
+      "duration": 4.801,
+      "text": "in '98. So I was 12 years old when"
+    },
+    {
+      "start": 124.719,
+      "duration": 4.641,
+      "text": "Google launched. I was just fascinated."
+    },
+    {
+      "start": 126.96,
+      "duration": 4.56,
+      "text": "I lived in a small town in the middle of"
+    },
+    {
+      "start": 129.36,
+      "duration": 3.92,
+      "text": "the woods in upstate New York. So the"
+    },
+    {
+      "start": 131.52,
+      "duration": 3.92,
+      "text": "internet was like this window onto the"
+    },
+    {
+      "start": 133.28,
+      "duration": 4.4,
+      "text": "world. I kind of looked at California"
+    },
+    {
+      "start": 135.44,
+      "duration": 3.68,
+      "text": "and Silicon Valley and Stanford and"
+    },
+    {
+      "start": 137.68,
+      "duration": 3.12,
+      "text": "Google and all those company. I looked"
+    },
+    {
+      "start": 139.12,
+      "duration": 3.92,
+      "text": "at them as like a you know up on an"
+    },
+    {
+      "start": 140.8,
+      "duration": 3.76,
+      "text": "altar. How do they do this? So when I"
+    },
+    {
+      "start": 143.04,
+      "duration": 2.96,
+      "text": "went to university, I kind of studied I"
+    },
+    {
+      "start": 144.56,
+      "duration": 2.8,
+      "text": "want to understand how do computers"
+    },
+    {
+      "start": 146.0,
+      "duration": 2.56,
+      "text": "work? How does the internet work? How do"
+    },
+    {
+      "start": 147.36,
+      "duration": 2.4,
+      "text": "you build things for the internet? So I"
+    },
+    {
+      "start": 148.56,
+      "duration": 2.72,
+      "text": "studed computer science. Like there are"
+    },
+    {
+      "start": 149.76,
+      "duration": 2.72,
+      "text": "these very key moments that happened to"
+    },
+    {
+      "start": 151.28,
+      "duration": 2.72,
+      "text": "me in college where I was like oh"
+    },
+    {
+      "start": 152.48,
+      "duration": 4.8,
+      "text": "interesting that that speaks to me. And"
+    },
+    {
+      "start": 154.0,
+      "duration": 5.599,
+      "text": "like one I was um in a security class"
+    },
+    {
+      "start": 157.28,
+      "duration": 4.48,
+      "text": "and I learned that hey cryptography is"
+    },
+    {
+      "start": 159.599,
+      "duration": 3.841,
+      "text": "basically magic but most almost all"
+    },
+    {
+      "start": 161.76,
+      "duration": 3.68,
+      "text": "security vulnerabilities come from"
+    },
+    {
+      "start": 163.44,
+      "duration": 3.439,
+      "text": "people doing the wrong thing or systems"
+    },
+    {
+      "start": 165.44,
+      "duration": 2.96,
+      "text": "not being designed in a way that makes"
+    },
+    {
+      "start": 166.879,
+      "duration": 3.041,
+      "text": "sense to people and I was like oh"
+    },
+    {
+      "start": 168.4,
+      "duration": 3.36,
+      "text": "interesting even something as technical"
+    },
+    {
+      "start": 169.92,
+      "duration": 3.92,
+      "text": "as security the human interaction"
+    },
+    {
+      "start": 171.76,
+      "duration": 3.839,
+      "text": "element is huge and then later in my"
+    },
+    {
+      "start": 173.84,
+      "duration": 3.52,
+      "text": "journey I discovered this field called"
+    },
+    {
+      "start": 175.599,
+      "duration": 4.401,
+      "text": "human computer interaction and it's"
+    },
+    {
+      "start": 177.36,
+      "duration": 3.92,
+      "text": "basically the study of how do people use"
+    },
+    {
+      "start": 180.0,
+      "duration": 3.12,
+      "text": "technology and how do you design"
+    },
+    {
+      "start": 181.28,
+      "duration": 3.92,
+      "text": "technology for people like if you want"
+    },
+    {
+      "start": 183.12,
+      "duration": 4.24,
+      "text": "to build a really really fantastic"
+    },
+    {
+      "start": 185.2,
+      "duration": 4.48,
+      "text": "product, you really really need to"
+    },
+    {
+      "start": 187.36,
+      "duration": 3.599,
+      "text": "understand your user in that moment."
+    },
+    {
+      "start": 189.68,
+      "duration": 3.6,
+      "text": "This is something I talk about a lot"
+    },
+    {
+      "start": 190.959,
+      "duration": 3.841,
+      "text": "internally at Granola that Granola as a"
+    },
+    {
+      "start": 193.28,
+      "duration": 3.92,
+      "text": "product, the product should feel like it"
+    },
+    {
+      "start": 194.8,
+      "duration": 4.32,
+      "text": "has soul. When we interact with a"
+    },
+    {
+      "start": 197.2,
+      "duration": 4.24,
+      "text": "product, like if I pick up this mug and"
+    },
+    {
+      "start": 199.12,
+      "duration": 3.6,
+      "text": "I hold it and I interact with it, it's a"
+    },
+    {
+      "start": 201.44,
+      "duration": 3.28,
+      "text": "little bit like interacting with a"
+    },
+    {
+      "start": 202.72,
+      "duration": 4.32,
+      "text": "person. What I mean by building a"
+    },
+    {
+      "start": 204.72,
+      "duration": 4.48,
+      "text": "product with soul is that that whole"
+    },
+    {
+      "start": 207.04,
+      "duration": 3.839,
+      "text": "product should feel coherent,"
+    },
+    {
+      "start": 209.2,
+      "duration": 4.0,
+      "text": "consistent, like it's coming from the"
+    },
+    {
+      "start": 210.879,
+      "duration": 5.36,
+      "text": "same place. It's coming from the same"
+    },
+    {
+      "start": 213.2,
+      "duration": 6.0,
+      "text": "set of values. And I think it's very"
+    },
+    {
+      "start": 216.239,
+      "duration": 4.881,
+      "text": "easy to tell if a product has that and"
+    },
+    {
+      "start": 219.2,
+      "duration": 4.48,
+      "text": "it's very hard to build. The reason it's"
+    },
+    {
+      "start": 221.12,
+      "duration": 4.56,
+      "text": "hard to build is because the bigger the"
+    },
+    {
+      "start": 223.68,
+      "duration": 3.919,
+      "text": "more complex a product gets, the more"
+    },
+    {
+      "start": 225.68,
+      "duration": 3.919,
+      "text": "people are involved in the making of the"
+    },
+    {
+      "start": 227.599,
+      "duration": 3.761,
+      "text": "product. And when lots of people are"
+    },
+    {
+      "start": 229.599,
+      "duration": 3.121,
+      "text": "involved in making it, they're all going"
+    },
+    {
+      "start": 231.36,
+      "duration": 3.12,
+      "text": "to have different values, different"
+    },
+    {
+      "start": 232.72,
+      "duration": 4.719,
+      "text": "viewpoints for different ideas. If"
+    },
+    {
+      "start": 234.48,
+      "duration": 4.479,
+      "text": "they're not aligned in a very deep way,"
+    },
+    {
+      "start": 237.439,
+      "duration": 2.8,
+      "text": "every screen of the app is going to feel"
+    },
+    {
+      "start": 238.959,
+      "duration": 3.121,
+      "text": "very different. You know, there's that"
+    },
+    {
+      "start": 240.239,
+      "duration": 3.28,
+      "text": "that famous thing which is if you look"
+    },
+    {
+      "start": 242.08,
+      "duration": 3.2,
+      "text": "at a product and you can tell the"
+    },
+    {
+      "start": 243.519,
+      "duration": 4.161,
+      "text": "organizational structure of the company"
+    },
+    {
+      "start": 245.28,
+      "duration": 4.159,
+      "text": "that built it by the design of the"
+    },
+    {
+      "start": 247.68,
+      "duration": 3.36,
+      "text": "product and that's really really bad."
+    },
+    {
+      "start": 249.439,
+      "duration": 3.44,
+      "text": "Take your your best friend. Imagine your"
+    },
+    {
+      "start": 251.04,
+      "duration": 4.08,
+      "text": "best friend, right? You can kind of"
+    },
+    {
+      "start": 252.879,
+      "duration": 4.32,
+      "text": "imagine what your best friend is going"
+    },
+    {
+      "start": 255.12,
+      "duration": 4.16,
+      "text": "to do in most circumstances. If you make"
+    },
+    {
+      "start": 257.199,
+      "duration": 3.681,
+      "text": "fun of them or you make a joke or you"
+    },
+    {
+      "start": 259.28,
+      "duration": 3.12,
+      "text": "praise them, you're kind of going to"
+    },
+    {
+      "start": 260.88,
+      "duration": 3.68,
+      "text": "know if they're going to be graceful or"
+    },
+    {
+      "start": 262.4,
+      "duration": 3.84,
+      "text": "blush or make fun of you back or start"
+    },
+    {
+      "start": 264.56,
+      "duration": 3.12,
+      "text": "crying. You kind of understand what they"
+    },
+    {
+      "start": 266.24,
+      "duration": 3.28,
+      "text": "stand for, what they like, what their"
+    },
+    {
+      "start": 267.68,
+      "duration": 3.68,
+      "text": "values are. We build these mental"
+    },
+    {
+      "start": 269.52,
+      "duration": 3.119,
+      "text": "pictures of people. If you start talking"
+    },
+    {
+      "start": 271.36,
+      "duration": 3.2,
+      "text": "to your best friend and all of a sudden"
+    },
+    {
+      "start": 272.639,
+      "duration": 3.84,
+      "text": "they start acting like your principal,"
+    },
+    {
+      "start": 274.56,
+      "duration": 3.199,
+      "text": "you know, or your boss, it's like you're"
+    },
+    {
+      "start": 276.479,
+      "duration": 2.481,
+      "text": "you don't really know what to do with"
+    },
+    {
+      "start": 277.759,
+      "duration": 3.121,
+      "text": "that. And we do the same thing with"
+    },
+    {
+      "start": 278.96,
+      "duration": 3.6,
+      "text": "products. What I mean is like a product"
+    },
+    {
+      "start": 280.88,
+      "duration": 3.44,
+      "text": "with soul is the exact opposite. It's"
+    },
+    {
+      "start": 282.56,
+      "duration": 4.24,
+      "text": "not about the company structure. It's"
+    },
+    {
+      "start": 284.32,
+      "duration": 6.56,
+      "text": "coming from a much deeper place in terms"
+    },
+    {
+      "start": 286.8,
+      "duration": 6.08,
+      "text": "of of values and personality."
+    },
+    {
+      "start": 290.88,
+      "duration": 4.319,
+      "text": ">> I'm Taylor Rottwell, the founder and CEO"
+    },
+    {
+      "start": 292.88,
+      "duration": 4.48,
+      "text": "of Laravel. Our mission is to help"
+    },
+    {
+      "start": 295.199,
+      "duration": 3.761,
+      "text": "developers build, deploy, and monitor"
+    },
+    {
+      "start": 297.36,
+      "duration": 3.2,
+      "text": "applications consistently and"
+    },
+    {
+      "start": 298.96,
+      "duration": 3.28,
+      "text": "beautifully."
+    },
+    {
+      "start": 300.56,
+      "duration": 3.28,
+      "text": "Starting projects is great, but more"
+    },
+    {
+      "start": 302.24,
+      "duration": 3.36,
+      "text": "importantly, you need to ship them."
+    },
+    {
+      "start": 303.84,
+      "duration": 3.52,
+      "text": "Great ideas mean nothing until they"
+    },
+    {
+      "start": 305.6,
+      "duration": 4.0,
+      "text": "ship."
+    },
+    {
+      "start": 307.36,
+      "duration": 4.08,
+      "text": "That's exactly why I built Laravel, to"
+    },
+    {
+      "start": 309.6,
+      "duration": 4.96,
+      "text": "bring your entire journey from idea to"
+    },
+    {
+      "start": 311.44,
+      "duration": 5.28,
+      "text": "production into one seamless flow."
+    },
+    {
+      "start": 314.56,
+      "duration": 4.24,
+      "text": "It's more than a PHP framework. It's a"
+    },
+    {
+      "start": 316.72,
+      "duration": 4.8,
+      "text": "complete connected ecosystem built for"
+    },
+    {
+      "start": 318.8,
+      "duration": 4.56,
+      "text": "speed and confidence. We provide"
+    },
+    {
+      "start": 321.52,
+      "duration": 4.32,
+      "text": "elegant, opinionated solutions for"
+    },
+    {
+      "start": 323.36,
+      "duration": 4.08,
+      "text": "everything your modern web app needs."
+    },
+    {
+      "start": 325.84,
+      "duration": 3.919,
+      "text": "And you can deploy in under a minute"
+    },
+    {
+      "start": 327.44,
+      "duration": 5.599,
+      "text": "with Laravel cloud straight from Git."
+    },
+    {
+      "start": 329.759,
+      "duration": 5.921,
+      "text": "Zero config needed. Laravel now powers"
+    },
+    {
+      "start": 333.039,
+      "duration": 4.561,
+      "text": "nearly 600,000 live websites, helping"
+    },
+    {
+      "start": 335.68,
+      "duration": 3.68,
+      "text": "developers worldwide ship their ideas"
+    },
+    {
+      "start": 337.6,
+      "duration": 3.599,
+      "text": "faster."
+    },
+    {
+      "start": 339.36,
+      "duration": 4.72,
+      "text": "Build with elegance. Deploy with"
+    },
+    {
+      "start": 341.199,
+      "duration": 5.28,
+      "text": "confidence. Monitor with precision."
+    },
+    {
+      "start": 344.08,
+      "duration": 6.36,
+      "text": "Stop configuring. Start shipping. Visit"
+    },
+    {
+      "start": 346.479,
+      "duration": 3.961,
+      "text": "laravel.com today."
+    },
+    {
+      "start": 354.639,
+      "duration": 4.321,
+      "text": "My whole philosophy is that there's a"
+    },
+    {
+      "start": 356.16,
+      "duration": 4.16,
+      "text": "explore and exploit. I think a huge"
+    },
+    {
+      "start": 358.96,
+      "duration": 3.12,
+      "text": "advantage for us when we started"
+    },
+    {
+      "start": 360.32,
+      "duration": 3.92,
+      "text": "building Granola is that we didn't"
+    },
+    {
+      "start": 362.08,
+      "duration": 4.08,
+      "text": "launch it for a year. And what that"
+    },
+    {
+      "start": 364.24,
+      "duration": 3.44,
+      "text": "meant is that during that year as we"
+    },
+    {
+      "start": 366.16,
+      "duration": 4.159,
+      "text": "were exploring things and trying new"
+    },
+    {
+      "start": 367.68,
+      "duration": 4.799,
+      "text": "things, we had a lot more freedom to"
+    },
+    {
+      "start": 370.319,
+      "duration": 4.88,
+      "text": "change the product drastically. I'd say"
+    },
+    {
+      "start": 372.479,
+      "duration": 4.961,
+      "text": "for the first 9 months, 10 months, we"
+    },
+    {
+      "start": 375.199,
+      "duration": 4.481,
+      "text": "were mostly adding things, adding new"
+    },
+    {
+      "start": 377.44,
+      "duration": 4.24,
+      "text": "features, trying to improve them, adding"
+    },
+    {
+      "start": 379.68,
+      "duration": 3.92,
+      "text": "new like screens, what have you. And"
+    },
+    {
+      "start": 381.68,
+      "duration": 3.68,
+      "text": "then at one point, we kind of realized,"
+    },
+    {
+      "start": 383.6,
+      "duration": 4.0,
+      "text": "okay, here's the thing that's going to"
+    },
+    {
+      "start": 385.36,
+      "duration": 4.48,
+      "text": "be most important, most useful to users."
+    },
+    {
+      "start": 387.6,
+      "duration": 3.84,
+      "text": "And we went and we cut about 50% of what"
+    },
+    {
+      "start": 389.84,
+      "duration": 3.68,
+      "text": "we had built. That would have been"
+    },
+    {
+      "start": 391.44,
+      "duration": 3.84,
+      "text": "really hard to do if we had been"
+    },
+    {
+      "start": 393.52,
+      "duration": 3.679,
+      "text": "launched and we had lots of users. Like,"
+    },
+    {
+      "start": 395.28,
+      "duration": 4.0,
+      "text": "it'd be very hard for us today in one"
+    },
+    {
+      "start": 397.199,
+      "duration": 4.161,
+      "text": "fell swoop cut half of the product. I"
+    },
+    {
+      "start": 399.28,
+      "duration": 3.6,
+      "text": "think our users would really yell at us."
+    },
+    {
+      "start": 401.36,
+      "duration": 3.36,
+      "text": "That's a big part of the the way we"
+    },
+    {
+      "start": 402.88,
+      "duration": 3.2,
+      "text": "build. So for any product that you're"
+    },
+    {
+      "start": 404.72,
+      "duration": 3.12,
+      "text": "building, first you have to go through"
+    },
+    {
+      "start": 406.08,
+      "duration": 4.08,
+      "text": "this explore phase where you're figuring"
+    },
+    {
+      "start": 407.84,
+      "duration": 3.68,
+      "text": "out what's the shape of the solution."
+    },
+    {
+      "start": 410.16,
+      "duration": 3.52,
+      "text": "And there you want to try as many"
+    },
+    {
+      "start": 411.52,
+      "duration": 4.239,
+      "text": "different things as possible. And once"
+    },
+    {
+      "start": 413.68,
+      "duration": 4.079,
+      "text": "you kind of know what the shape is, then"
+    },
+    {
+      "start": 415.759,
+      "duration": 3.681,
+      "text": "you go into a different mode. We call it"
+    },
+    {
+      "start": 417.759,
+      "duration": 3.201,
+      "text": "exploit internally where you just"
+    },
+    {
+      "start": 419.44,
+      "duration": 3.36,
+      "text": "polish, right? You take the rough shape"
+    },
+    {
+      "start": 420.96,
+      "duration": 3.6,
+      "text": "and you polish, polish, polish, polish."
+    },
+    {
+      "start": 422.8,
+      "duration": 2.88,
+      "text": "And here's where the details matter. But"
+    },
+    {
+      "start": 424.56,
+      "duration": 2.32,
+      "text": "you need to make sure you're polishing"
+    },
+    {
+      "start": 425.68,
+      "duration": 2.56,
+      "text": "the right shape because if you're"
+    },
+    {
+      "start": 426.88,
+      "duration": 2.96,
+      "text": "polishing the wrong shape, then all of"
+    },
+    {
+      "start": 428.24,
+      "duration": 3.12,
+      "text": "that is throwing. The question is kind"
+    },
+    {
+      "start": 429.84,
+      "duration": 3.28,
+      "text": "of like do we hit something that's"
+    },
+    {
+      "start": 431.36,
+      "duration": 3.2,
+      "text": "valuable and now it's time to polish or"
+    },
+    {
+      "start": 433.12,
+      "duration": 4.16,
+      "text": "do we should we still be looking for a"
+    },
+    {
+      "start": 434.56,
+      "duration": 6.72,
+      "text": "new shape, right? The answer is like it"
+    },
+    {
+      "start": 437.28,
+      "duration": 6.24,
+      "text": "is really hard to know if you have the"
+    },
+    {
+      "start": 441.28,
+      "duration": 5.28,
+      "text": "right shape of a product. It's really"
+    },
+    {
+      "start": 443.52,
+      "duration": 4.799,
+      "text": "hard. When we launched Granola, I didn't"
+    },
+    {
+      "start": 446.56,
+      "duration": 3.28,
+      "text": "think we had it at that point. I was"
+    },
+    {
+      "start": 448.319,
+      "duration": 3.28,
+      "text": "like, I think this is good enough where"
+    },
+    {
+      "start": 449.84,
+      "duration": 3.199,
+      "text": "we'll learn more by giving it to more"
+    },
+    {
+      "start": 451.599,
+      "duration": 2.801,
+      "text": "people. That's why we decided to launch"
+    },
+    {
+      "start": 453.039,
+      "duration": 3.841,
+      "text": "when we did cuz we said like, are we"
+    },
+    {
+      "start": 454.4,
+      "duration": 3.84,
+      "text": "going to learn faster by continuing to"
+    },
+    {
+      "start": 456.88,
+      "duration": 3.039,
+      "text": "do this? are going to learn faster by"
+    },
+    {
+      "start": 458.24,
+      "duration": 3.519,
+      "text": "launching it and getting feedback from"
+    },
+    {
+      "start": 459.919,
+      "duration": 3.68,
+      "text": "lots of users. And up until that point,"
+    },
+    {
+      "start": 461.759,
+      "duration": 4.0,
+      "text": "it was really clear to me that we would"
+    },
+    {
+      "start": 463.599,
+      "duration": 3.361,
+      "text": "learn faster by just onboarding two,"
+    },
+    {
+      "start": 465.759,
+      "duration": 2.56,
+      "text": "three people every day and getting"
+    },
+    {
+      "start": 466.96,
+      "duration": 2.4,
+      "text": "feedback. And at some point once we"
+    },
+    {
+      "start": 468.319,
+      "duration": 2.801,
+      "text": "started doing that and we started"
+    },
+    {
+      "start": 469.36,
+      "duration": 3.279,
+      "text": "hearing the same things over and over"
+    },
+    {
+      "start": 471.12,
+      "duration": 2.799,
+      "text": "and we kind of understood those users,"
+    },
+    {
+      "start": 472.639,
+      "duration": 3.28,
+      "text": "we said, \"Okay, now let's give it to"
+    },
+    {
+      "start": 473.919,
+      "duration": 3.441,
+      "text": "lots of people because maybe there are"
+    },
+    {
+      "start": 475.919,
+      "duration": 3.521,
+      "text": "people who want to use it for use case"
+    },
+    {
+      "start": 477.36,
+      "duration": 3.76,
+      "text": "we've never thought of.\" And the fact is"
+    },
+    {
+      "start": 479.44,
+      "duration": 3.199,
+      "text": "we had product market fit on day one and"
+    },
+    {
+      "start": 481.12,
+      "duration": 3.68,
+      "text": "we didn't realize it. And one of my"
+    },
+    {
+      "start": 482.639,
+      "duration": 3.521,
+      "text": "biggest mistakes was not noticing it. It"
+    },
+    {
+      "start": 484.8,
+      "duration": 3.04,
+      "text": "took me six months to realize that we"
+    },
+    {
+      "start": 486.16,
+      "duration": 3.92,
+      "text": "had product market fit and we had it on"
+    },
+    {
+      "start": 487.84,
+      "duration": 4.0,
+      "text": "day one of launch. The first lesson is"
+    },
+    {
+      "start": 490.08,
+      "duration": 3.839,
+      "text": "like it is really hard to know when you"
+    },
+    {
+      "start": 491.84,
+      "duration": 4.079,
+      "text": "have it. I heard the story that the"
+    },
+    {
+      "start": 493.919,
+      "duration": 4.081,
+      "text": "Facebook team they had this other idea"
+    },
+    {
+      "start": 495.919,
+      "duration": 4.081,
+      "text": "which is kind of like Dropbox for music"
+    },
+    {
+      "start": 498.0,
+      "duration": 3.52,
+      "text": "some kind of file sharing thing and they"
+    },
+    {
+      "start": 500.0,
+      "duration": 3.12,
+      "text": "worked on it I think for the first 6"
+    },
+    {
+      "start": 501.52,
+      "duration": 3.679,
+      "text": "months or 9 months after they launched"
+    },
+    {
+      "start": 503.12,
+      "duration": 3.359,
+      "text": "Facebook because they were like oh I"
+    },
+    {
+      "start": 505.199,
+      "duration": 2.56,
+      "text": "don't know if there's a there there you"
+    },
+    {
+      "start": 506.479,
+      "duration": 3.041,
+      "text": "know we might want to work on this other"
+    },
+    {
+      "start": 507.759,
+      "duration": 3.601,
+      "text": "thing more and that's Facebook right"
+    },
+    {
+      "start": 509.52,
+      "duration": 3.92,
+      "text": "that's like the generational company of"
+    },
+    {
+      "start": 511.36,
+      "duration": 3.84,
+      "text": "the decade and they still didn't know"
+    },
+    {
+      "start": 513.44,
+      "duration": 4.24,
+      "text": "necessarily if they were on to something"
+    },
+    {
+      "start": 515.2,
+      "duration": 4.399,
+      "text": "huge so what I got wrong I think a lot"
+    },
+    {
+      "start": 517.68,
+      "duration": 3.359,
+      "text": "of early founders get wrong a lot of"
+    },
+    {
+      "start": 519.599,
+      "duration": 2.8,
+      "text": "people will sit down and say I'm going"
+    },
+    {
+      "start": 521.039,
+      "duration": 2.8,
+      "text": "to build a product here's the painoint"
+    },
+    {
+      "start": 522.399,
+      "duration": 3.201,
+      "text": "I'm going to solve. I want to build a"
+    },
+    {
+      "start": 523.839,
+      "duration": 3.12,
+      "text": "great solution and it's all about can I"
+    },
+    {
+      "start": 525.6,
+      "duration": 4.0,
+      "text": "execute on that. Have you ever played"
+    },
+    {
+      "start": 526.959,
+      "duration": 4.32,
+      "text": "those video games where you land on a"
+    },
+    {
+      "start": 529.6,
+      "duration": 3.679,
+      "text": "new level and there's like a little map"
+    },
+    {
+      "start": 531.279,
+      "duration": 3.761,
+      "text": "in the corner and it's all gray and then"
+    },
+    {
+      "start": 533.279,
+      "duration": 4.24,
+      "text": "you need to kind of go and walk around"
+    },
+    {
+      "start": 535.04,
+      "duration": 4.239,
+      "text": "and then the map kind of unblur. But"
+    },
+    {
+      "start": 537.519,
+      "duration": 3.281,
+      "text": "when you start off basically you have no"
+    },
+    {
+      "start": 539.279,
+      "duration": 3.041,
+      "text": "idea of what the terrain around you"
+    },
+    {
+      "start": 540.8,
+      "duration": 3.36,
+      "text": "looks like. I think that's the right"
+    },
+    {
+      "start": 542.32,
+      "duration": 4.88,
+      "text": "metaphor. The right solution is"
+    },
+    {
+      "start": 544.16,
+      "duration": 4.96,
+      "text": "unknowable until you go out and you try"
+    },
+    {
+      "start": 547.2,
+      "duration": 3.6,
+      "text": "it and it gets contact with the world."
+    },
+    {
+      "start": 549.12,
+      "duration": 3.68,
+      "text": "You can't sit and design the perfect"
+    },
+    {
+      "start": 550.8,
+      "duration": 3.84,
+      "text": "thing. You need to like put stuff out"
+    },
+    {
+      "start": 552.8,
+      "duration": 5.64,
+      "text": "there, probe the system, and see how the"
+    },
+    {
+      "start": 554.64,
+      "duration": 3.8,
+      "text": "system probes back."
+    },
+    {
+      "start": 560.0,
+      "duration": 4.56,
+      "text": "I very much believe that talking to"
+    },
+    {
+      "start": 562.32,
+      "duration": 3.68,
+      "text": "users is the lifeblood of building"
+    },
+    {
+      "start": 564.56,
+      "duration": 2.64,
+      "text": "product. I think if you're not"
+    },
+    {
+      "start": 566.0,
+      "duration": 2.72,
+      "text": "constantly talking to users, not"
+    },
+    {
+      "start": 567.2,
+      "duration": 2.639,
+      "text": "constantly getting feedback, you're just"
+    },
+    {
+      "start": 568.72,
+      "duration": 3.52,
+      "text": "not going to build something really"
+    },
+    {
+      "start": 569.839,
+      "duration": 5.041,
+      "text": "good. You need to systematize your"
+    },
+    {
+      "start": 572.24,
+      "duration": 5.44,
+      "text": "ability to talk to users. If the"
+    },
+    {
+      "start": 574.88,
+      "duration": 5.68,
+      "text": "activation energy for you to go and talk"
+    },
+    {
+      "start": 577.68,
+      "duration": 4.719,
+      "text": "to your user is high, then you're just"
+    },
+    {
+      "start": 580.56,
+      "duration": 4.08,
+      "text": "not going to do it very often. And if"
+    },
+    {
+      "start": 582.399,
+      "duration": 4.641,
+      "text": "you can lower that activation energy"
+    },
+    {
+      "start": 584.64,
+      "duration": 3.92,
+      "text": "necessary to go talk to a user, and if"
+    },
+    {
+      "start": 587.04,
+      "duration": 3.84,
+      "text": "you can do that for your whole company,"
+    },
+    {
+      "start": 588.56,
+      "duration": 5.92,
+      "text": "great things are going to happen. So"
+    },
+    {
+      "start": 590.88,
+      "duration": 5.84,
+      "text": "this was 2013. I started edtech company,"
+    },
+    {
+      "start": 594.48,
+      "duration": 4.799,
+      "text": "an AI tutor for high school kids called"
+    },
+    {
+      "start": 596.72,
+      "duration": 5.6,
+      "text": "Socratic in New York City. And I uh I"
+    },
+    {
+      "start": 599.279,
+      "duration": 4.801,
+      "text": "ran that for 5 years. And then Google"
+    },
+    {
+      "start": 602.32,
+      "duration": 4.0,
+      "text": "acquired that company. It was really"
+    },
+    {
+      "start": 604.08,
+      "duration": 3.68,
+      "text": "hard for us to actually go and talk to"
+    },
+    {
+      "start": 606.32,
+      "duration": 3.199,
+      "text": "high school students. I remember we'd"
+    },
+    {
+      "start": 607.76,
+      "duration": 3.68,
+      "text": "know that there were a few colleges and"
+    },
+    {
+      "start": 609.519,
+      "duration": 4.88,
+      "text": "a few high schools around our office in"
+    },
+    {
+      "start": 611.44,
+      "duration": 4.72,
+      "text": "New York and I would sometimes go after"
+    },
+    {
+      "start": 614.399,
+      "duration": 3.12,
+      "text": "school and be like, \"Hey, do you want to"
+    },
+    {
+      "start": 616.16,
+      "duration": 3.679,
+      "text": "answer some questions?\" And it felt"
+    },
+    {
+      "start": 617.519,
+      "duration": 3.521,
+      "text": "super creepy. Eventually, it took us a"
+    },
+    {
+      "start": 619.839,
+      "duration": 3.68,
+      "text": "while to get there, but we figured out"
+    },
+    {
+      "start": 621.04,
+      "duration": 5.2,
+      "text": "this system where on every Tuesday and"
+    },
+    {
+      "start": 623.519,
+      "duration": 4.721,
+      "text": "Thursday, we would have I think it was"
+    },
+    {
+      "start": 626.24,
+      "duration": 4.24,
+      "text": "like five to eight high school students"
+    },
+    {
+      "start": 628.24,
+      "duration": 3.52,
+      "text": "come into the Socratic office and spend"
+    },
+    {
+      "start": 630.48,
+      "duration": 2.96,
+      "text": "the afternoon. We didn't have anything"
+    },
+    {
+      "start": 631.76,
+      "duration": 2.88,
+      "text": "to talk to them about. that's fine. They"
+    },
+    {
+      "start": 633.44,
+      "duration": 2.48,
+      "text": "would just sit there, do their homework,"
+    },
+    {
+      "start": 634.64,
+      "duration": 3.28,
+      "text": "and leave, and they would get paid for"
+    },
+    {
+      "start": 635.92,
+      "duration": 3.84,
+      "text": "it, and they were super happy. But if we"
+    },
+    {
+      "start": 637.92,
+      "duration": 3.84,
+      "text": "were working on a new feature or if we"
+    },
+    {
+      "start": 639.76,
+      "duration": 3.84,
+      "text": "were working on messaging or whatever it"
+    },
+    {
+      "start": 641.76,
+      "duration": 3.84,
+      "text": "was, they would be there, and we could"
+    },
+    {
+      "start": 643.6,
+      "duration": 4.479,
+      "text": "show them whatever we were doing. And"
+    },
+    {
+      "start": 645.6,
+      "duration": 4.4,
+      "text": "the moment we had that, our ability to"
+    },
+    {
+      "start": 648.079,
+      "duration": 3.921,
+      "text": "improve our product and make it better"
+    },
+    {
+      "start": 650.0,
+      "duration": 4.32,
+      "text": "sped up dramatically. A big difference"
+    },
+    {
+      "start": 652.0,
+      "duration": 4.24,
+      "text": "at Granola versus Socratic is that um we"
+    },
+    {
+      "start": 654.32,
+      "duration": 3.44,
+      "text": "can talk to users remotely, like over"
+    },
+    {
+      "start": 656.24,
+      "duration": 3.36,
+      "text": "Zoom. And that actually makes a lot of"
+    },
+    {
+      "start": 657.76,
+      "duration": 3.44,
+      "text": "sense because our product's meant to be"
+    },
+    {
+      "start": 659.6,
+      "duration": 3.76,
+      "text": "used during meetings, right? So we'll do"
+    },
+    {
+      "start": 661.2,
+      "duration": 3.759,
+      "text": "a lot of video calls with with users. So"
+    },
+    {
+      "start": 663.36,
+      "duration": 3.599,
+      "text": "we we usually have standing user"
+    },
+    {
+      "start": 664.959,
+      "duration": 3.521,
+      "text": "interviews 4 days a week that anybody at"
+    },
+    {
+      "start": 666.959,
+      "duration": 2.961,
+      "text": "the company can join and whoever is"
+    },
+    {
+      "start": 668.48,
+      "duration": 3.039,
+      "text": "working on stuff can ask for"
+    },
+    {
+      "start": 669.92,
+      "duration": 3.28,
+      "text": "information. So that's something that"
+    },
+    {
+      "start": 671.519,
+      "duration": 3.201,
+      "text": "I've taken away from the Socratic"
+    },
+    {
+      "start": 673.2,
+      "duration": 4.16,
+      "text": "experience and have kind of carried with"
+    },
+    {
+      "start": 674.72,
+      "duration": 4.0,
+      "text": "me since. The second thing is in my"
+    },
+    {
+      "start": 677.36,
+      "duration": 3.52,
+      "text": "opinion like the secret with user"
+    },
+    {
+      "start": 678.72,
+      "duration": 4.08,
+      "text": "interviews is you don't need to hear the"
+    },
+    {
+      "start": 680.88,
+      "duration": 4.32,
+      "text": "same thing from 10 people. If I put a"
+    },
+    {
+      "start": 682.8,
+      "duration": 4.24,
+      "text": "prototype in front of you and you say"
+    },
+    {
+      "start": 685.2,
+      "duration": 3.28,
+      "text": "this button's super confusing and I look"
+    },
+    {
+      "start": 687.04,
+      "duration": 3.28,
+      "text": "at it and I'm like oh I totally"
+    },
+    {
+      "start": 688.48,
+      "duration": 3.28,
+      "text": "understand why you're confused. I don't"
+    },
+    {
+      "start": 690.32,
+      "duration": 2.639,
+      "text": "need 10 other people to tell me that. I"
+    },
+    {
+      "start": 691.76,
+      "duration": 3.92,
+      "text": "should go and I should change that"
+    },
+    {
+      "start": 692.959,
+      "duration": 4.32,
+      "text": "button immediately so that next time I"
+    },
+    {
+      "start": 695.68,
+      "duration": 3.52,
+      "text": "show it to somebody I learn what the"
+    },
+    {
+      "start": 697.279,
+      "duration": 2.881,
+      "text": "next problem is. And I think this is"
+    },
+    {
+      "start": 699.2,
+      "duration": 3.12,
+      "text": "something that especially in big"
+    },
+    {
+      "start": 700.16,
+      "duration": 5.52,
+      "text": "companies that's unheard of. It's very"
+    },
+    {
+      "start": 702.32,
+      "duration": 6.8,
+      "text": "easy to delude yourself. Be very very"
+    },
+    {
+      "start": 705.68,
+      "duration": 5.2,
+      "text": "skeptical and critical and honest about"
+    },
+    {
+      "start": 709.12,
+      "duration": 3.04,
+      "text": "if what you've built is actually"
+    },
+    {
+      "start": 710.88,
+      "duration": 3.28,
+      "text": "something people want and they're"
+    },
+    {
+      "start": 712.16,
+      "duration": 4.32,
+      "text": "actually going to use. So like in a user"
+    },
+    {
+      "start": 714.16,
+      "duration": 3.919,
+      "text": "interview, never ever ask someone if"
+    },
+    {
+      "start": 716.48,
+      "duration": 3.039,
+      "text": "they would use something. Or you can ask"
+    },
+    {
+      "start": 718.079,
+      "duration": 2.88,
+      "text": "it but then completely ignore the"
+    },
+    {
+      "start": 719.519,
+      "duration": 2.88,
+      "text": "answer. If you're putting them in front"
+    },
+    {
+      "start": 720.959,
+      "duration": 3.281,
+      "text": "of a prototype, ask them like what would"
+    },
+    {
+      "start": 722.399,
+      "duration": 3.361,
+      "text": "you do next? And then if they say"
+    },
+    {
+      "start": 724.24,
+      "duration": 3.279,
+      "text": "something, say, \"Is that true?\" Or like,"
+    },
+    {
+      "start": 725.76,
+      "duration": 3.68,
+      "text": "\"Don't you think you'd be tired?\" Or,"
+    },
+    {
+      "start": 727.519,
+      "duration": 3.361,
+      "text": "you know, like really probe on it from a"
+    },
+    {
+      "start": 729.44,
+      "duration": 3.6,
+      "text": "negative perspective because that'll I"
+    },
+    {
+      "start": 730.88,
+      "duration": 3.44,
+      "text": "think get you to the reality faster."
+    },
+    {
+      "start": 733.04,
+      "duration": 2.32,
+      "text": "That's just human nature. In a user"
+    },
+    {
+      "start": 734.32,
+      "duration": 3.519,
+      "text": "interview, you're going to try to say"
+    },
+    {
+      "start": 735.36,
+      "duration": 4.96,
+      "text": "nice things. So I categorically ignore"
+    },
+    {
+      "start": 737.839,
+      "duration": 5.521,
+      "text": "all positive things that people say and"
+    },
+    {
+      "start": 740.32,
+      "duration": 5.759,
+      "text": "use really conservative"
+    },
+    {
+      "start": 743.36,
+      "duration": 5.599,
+      "text": "metrics of engagement. Internally, when"
+    },
+    {
+      "start": 746.079,
+      "duration": 5.44,
+      "text": "we say a user, it's only a user who's"
+    },
+    {
+      "start": 748.959,
+      "duration": 4.401,
+      "text": "done at least one meeting, new meeting"
+    },
+    {
+      "start": 751.519,
+      "duration": 3.841,
+      "text": "on this day, and that meeting has to"
+    },
+    {
+      "start": 753.36,
+      "duration": 3.919,
+      "text": "have over 5 minutes of transcription."
+    },
+    {
+      "start": 755.36,
+      "duration": 3.919,
+      "text": "Otherwise, we don't count you as a user."
+    },
+    {
+      "start": 757.279,
+      "duration": 4.161,
+      "text": "So, if you use Granola yesterday, we"
+    },
+    {
+      "start": 759.279,
+      "duration": 3.68,
+      "text": "don't count you as a user today. If you"
+    },
+    {
+      "start": 761.44,
+      "duration": 2.639,
+      "text": "open up Granola and looked at 10"
+    },
+    {
+      "start": 762.959,
+      "duration": 2.961,
+      "text": "meetings, but you didn't do a new"
+    },
+    {
+      "start": 764.079,
+      "duration": 3.681,
+      "text": "meeting, we don't count you as a user."
+    },
+    {
+      "start": 765.92,
+      "duration": 4.0,
+      "text": "And we basically from the get-go, we've"
+    },
+    {
+      "start": 767.76,
+      "duration": 4.879,
+      "text": "always had very conservative metrics for"
+    },
+    {
+      "start": 769.92,
+      "duration": 4.96,
+      "text": "what's activity, so that we kind of we"
+    },
+    {
+      "start": 772.639,
+      "duration": 4.081,
+      "text": "don't kid ourselves. It's so so easy to"
+    },
+    {
+      "start": 774.88,
+      "duration": 3.36,
+      "text": "come up with excuses or say like, \"Oh,"
+    },
+    {
+      "start": 776.72,
+      "duration": 2.48,
+      "text": "you know, it's actually because of this"
+    },
+    {
+      "start": 778.24,
+      "duration": 2.08,
+      "text": "other thing that we're going to fix."
+    },
+    {
+      "start": 779.2,
+      "duration": 2.72,
+      "text": "It'll be fine. Like, the product's"
+    },
+    {
+      "start": 780.32,
+      "duration": 2.88,
+      "text": "actually good enough.\" What I don't"
+    },
+    {
+      "start": 781.92,
+      "duration": 3.039,
+      "text": "believe is that you should talk to users"
+    },
+    {
+      "start": 783.2,
+      "duration": 3.6,
+      "text": "and then just do whatever they ask you"
+    },
+    {
+      "start": 784.959,
+      "duration": 3.921,
+      "text": "to do. Because users are going to say a"
+    },
+    {
+      "start": 786.8,
+      "duration": 4.64,
+      "text": "whole lot of things and sometimes"
+    },
+    {
+      "start": 788.88,
+      "duration": 4.079,
+      "text": "they'll contradict. Sometimes what users"
+    },
+    {
+      "start": 791.44,
+      "duration": 2.959,
+      "text": "think they want and what they actually"
+    },
+    {
+      "start": 792.959,
+      "duration": 5.281,
+      "text": "want or what they actually need are"
+    },
+    {
+      "start": 794.399,
+      "duration": 6.081,
+      "text": "different. So, my philosophy is to talk"
+    },
+    {
+      "start": 798.24,
+      "duration": 3.52,
+      "text": "to users so you can really get their"
+    },
+    {
+      "start": 800.48,
+      "duration": 4.72,
+      "text": "context. you can hold that in your"
+    },
+    {
+      "start": 801.76,
+      "duration": 4.96,
+      "text": "brain, but then use your intuition and"
+    },
+    {
+      "start": 805.2,
+      "duration": 3.92,
+      "text": "your vision of what the product should"
+    },
+    {
+      "start": 806.72,
+      "duration": 4.799,
+      "text": "do. So, from the get- go, I think we've"
+    },
+    {
+      "start": 809.12,
+      "duration": 5.68,
+      "text": "always known that we wanted Granola to"
+    },
+    {
+      "start": 811.519,
+      "duration": 5.601,
+      "text": "be a very simple, minimal design product"
+    },
+    {
+      "start": 814.8,
+      "duration": 4.32,
+      "text": "where it feels nice to spend time in."
+    },
+    {
+      "start": 817.12,
+      "duration": 3.92,
+      "text": "It's not distracting. It's not vying for"
+    },
+    {
+      "start": 819.12,
+      "duration": 3.92,
+      "text": "your attention. That's been rooted on"
+    },
+    {
+      "start": 821.04,
+      "duration": 3.44,
+      "text": "what we wanted in a product, right? Cuz"
+    },
+    {
+      "start": 823.04,
+      "duration": 3.76,
+      "text": "we use Granola and we've always wanted"
+    },
+    {
+      "start": 824.48,
+      "duration": 4.479,
+      "text": "to use Granola. But as we try to build"
+    },
+    {
+      "start": 826.8,
+      "duration": 3.76,
+      "text": "that out, we have hundreds and hundreds"
+    },
+    {
+      "start": 828.959,
+      "duration": 2.641,
+      "text": "of users kind of in our heads that we"
+    },
+    {
+      "start": 830.56,
+      "duration": 2.719,
+      "text": "can kind of close our eyes and be like,"
+    },
+    {
+      "start": 831.6,
+      "duration": 3.039,
+      "text": "\"Oh, what would Nancy think of this?\" We"
+    },
+    {
+      "start": 833.279,
+      "duration": 2.641,
+      "text": "can kind of visualize the response"
+    },
+    {
+      "start": 834.639,
+      "duration": 3.2,
+      "text": "pretty well. And I think that's super"
+    },
+    {
+      "start": 835.92,
+      "duration": 3.919,
+      "text": "important. I think if you just make a"
+    },
+    {
+      "start": 837.839,
+      "duration": 3.841,
+      "text": "prioritized list of user needs and build"
+    },
+    {
+      "start": 839.839,
+      "duration": 3.44,
+      "text": "those, that doesn't work very well. Like"
+    },
+    {
+      "start": 841.68,
+      "duration": 3.68,
+      "text": "whenever we've done that, users never"
+    },
+    {
+      "start": 843.279,
+      "duration": 3.92,
+      "text": "ended up using those features very much."
+    },
+    {
+      "start": 845.36,
+      "duration": 2.719,
+      "text": "Like this happens all the time where"
+    },
+    {
+      "start": 847.199,
+      "duration": 2.721,
+      "text": "you're building something, you're like,"
+    },
+    {
+      "start": 848.079,
+      "duration": 3.681,
+      "text": "\"This is great.\" And then you put it in"
+    },
+    {
+      "start": 849.92,
+      "duration": 3.44,
+      "text": "front of users and then they don't"
+    },
+    {
+      "start": 851.76,
+      "duration": 4.24,
+      "text": "understand it, they hate it, they don't"
+    },
+    {
+      "start": 853.36,
+      "duration": 4.719,
+      "text": "get it. There's this amazing video on"
+    },
+    {
+      "start": 856.0,
+      "duration": 3.68,
+      "text": "YouTube, a product designer doing a user"
+    },
+    {
+      "start": 858.079,
+      "duration": 4.081,
+      "text": "test, and you see the user grab the"
+    },
+    {
+      "start": 859.68,
+      "duration": 4.0,
+      "text": "square and put it into the square hole."
+    },
+    {
+      "start": 862.16,
+      "duration": 3.44,
+      "text": "The designer's like, \"Yes.\" And then you"
+    },
+    {
+      "start": 863.68,
+      "duration": 3.519,
+      "text": "see the user grab the circle and put it"
+    },
+    {
+      "start": 865.6,
+      "duration": 3.2,
+      "text": "in the square hole, and the user's like,"
+    },
+    {
+      "start": 867.199,
+      "duration": 3.44,
+      "text": "\"What?\" And then you just see like"
+    },
+    {
+      "start": 868.8,
+      "duration": 3.76,
+      "text": "basically completely misunderstanding"
+    },
+    {
+      "start": 870.639,
+      "duration": 4.88,
+      "text": "the product in front of them. I think"
+    },
+    {
+      "start": 872.56,
+      "duration": 5.36,
+      "text": "the only way you can build an intuition"
+    },
+    {
+      "start": 875.519,
+      "duration": 4.401,
+      "text": "is by putting stuff in front of people"
+    },
+    {
+      "start": 877.92,
+      "duration": 3.76,
+      "text": "and getting feedback on it quickly. If"
+    },
+    {
+      "start": 879.92,
+      "duration": 4.32,
+      "text": "it takes a month to to get feedback on"
+    },
+    {
+      "start": 881.68,
+      "duration": 4.24,
+      "text": "it, it almost not worth doing because"
+    },
+    {
+      "start": 884.24,
+      "duration": 3.36,
+      "text": "the thinking you had when you made the"
+    },
+    {
+      "start": 885.92,
+      "duration": 3.52,
+      "text": "original decisions, you don't even"
+    },
+    {
+      "start": 887.6,
+      "duration": 3.28,
+      "text": "remember. So I think the short cycle"
+    },
+    {
+      "start": 889.44,
+      "duration": 3.68,
+      "text": "there is super important. When we"
+    },
+    {
+      "start": 890.88,
+      "duration": 5.12,
+      "text": "started building Granola, we took a very"
+    },
+    {
+      "start": 893.12,
+      "duration": 4.88,
+      "text": "very iterative approach. Like we built"
+    },
+    {
+      "start": 896.0,
+      "duration": 4.56,
+      "text": "the bare minimum thing and then we tried"
+    },
+    {
+      "start": 898.0,
+      "duration": 3.76,
+      "text": "to get people to use it and see all the"
+    },
+    {
+      "start": 900.56,
+      "duration": 2.56,
+      "text": "reasons why it didn't work and then we"
+    },
+    {
+      "start": 901.76,
+      "duration": 3.199,
+      "text": "try to fix those and then we try to"
+    },
+    {
+      "start": 903.12,
+      "duration": 4.24,
+      "text": "change it. And I think your intuitions"
+    },
+    {
+      "start": 904.959,
+      "duration": 3.841,
+      "text": "do get better but you can never stop"
+    },
+    {
+      "start": 907.36,
+      "duration": 2.64,
+      "text": "doing it. That's the other It's like"
+    },
+    {
+      "start": 908.8,
+      "duration": 2.56,
+      "text": "their intuitions get better and then you"
+    },
+    {
+      "start": 910.0,
+      "duration": 2.88,
+      "text": "stop talking to users and your"
+    },
+    {
+      "start": 911.36,
+      "duration": 2.96,
+      "text": "confidence level still stays high. So"
+    },
+    {
+      "start": 912.88,
+      "duration": 2.639,
+      "text": "you're like, \"Oh, I understand users. I"
+    },
+    {
+      "start": 914.32,
+      "duration": 2.639,
+      "text": "know what I can what what I need to"
+    },
+    {
+      "start": 915.519,
+      "duration": 2.641,
+      "text": "build.\" And then when you start user"
+    },
+    {
+      "start": 916.959,
+      "duration": 3.68,
+      "text": "testing again, you realize you're"
+    },
+    {
+      "start": 918.16,
+      "duration": 3.84,
+      "text": "totally off pieced. And I think two"
+    },
+    {
+      "start": 920.639,
+      "duration": 2.961,
+      "text": "different paths you can take when you're"
+    },
+    {
+      "start": 922.0,
+      "duration": 2.8,
+      "text": "building products on top of AI. You can"
+    },
+    {
+      "start": 923.6,
+      "duration": 3.84,
+      "text": "build a product that will basically"
+    },
+    {
+      "start": 924.8,
+      "duration": 5.12,
+      "text": "replace the human or you can try to"
+    },
+    {
+      "start": 927.44,
+      "duration": 5.12,
+      "text": "build a product that's going to augment"
+    },
+    {
+      "start": 929.92,
+      "duration": 3.84,
+      "text": "or enhance what the human does. That's"
+    },
+    {
+      "start": 932.56,
+      "duration": 2.399,
+      "text": "basically where we're going with"
+    },
+    {
+      "start": 933.76,
+      "duration": 2.639,
+      "text": "Granola. So we're starting with meaning"
+    },
+    {
+      "start": 934.959,
+      "duration": 3.521,
+      "text": "notes. We're going to help you with all"
+    },
+    {
+      "start": 936.399,
+      "duration": 3.521,
+      "text": "the work you do after a meeting. Whether"
+    },
+    {
+      "start": 938.48,
+      "duration": 2.799,
+      "text": "that is writing follow-up emails,"
+    },
+    {
+      "start": 939.92,
+      "duration": 2.56,
+      "text": "whether that's drafting memo, we're"
+    },
+    {
+      "start": 941.279,
+      "duration": 2.56,
+      "text": "going to help you prepare for your"
+    },
+    {
+      "start": 942.48,
+      "duration": 3.28,
+      "text": "previous meetings. We're going to help"
+    },
+    {
+      "start": 943.839,
+      "duration": 3.281,
+      "text": "you do analysis across all your"
+    },
+    {
+      "start": 945.76,
+      "duration": 3.04,
+      "text": "meetings. We're going to help you do"
+    },
+    {
+      "start": 947.12,
+      "duration": 3.2,
+      "text": "more and more and more and hopefully"
+    },
+    {
+      "start": 948.8,
+      "duration": 4.76,
+      "text": "make make your life a little bit better"
+    },
+    {
+      "start": 950.32,
+      "duration": 3.24,
+      "text": "every day."
+    }
+  ]
+}
