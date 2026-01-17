@@ -277,6 +277,15 @@ def main():
         print(f"[{processed_count+1}/{target_count}] {video['title']}")
         print(f"{'='*60}")
         
+        # 処理済みチェック
+        processed_ids = set(state.get('processed_videos', {}).keys())
+        if video['video_id'] in processed_ids:
+            print(f"  ✓ スキップ (既に処理済みです)")
+            queue.pop(0)
+            if not args.dry_run:
+                save_backlog(backlog_path, backlog)
+            continue
+        
         # 動画の長さチェック
         if not filter_by_duration(youtube, video, min_duration_seconds=args.min_duration * 60):
             print(f"  ✗ スキップ (短い動画) → 次の動画を探します")
@@ -303,9 +312,12 @@ def main():
                 skip_summarization=skip_summarization
             )
             
-            # 成功したらキューから削除
+            # 成功したらキューから削除して保存
             queue.pop(0)
             processed_count += 1
+            
+            if not args.dry_run:
+                save_backlog(backlog_path, backlog)
             
             # 状態を再読み込み（process_videoで更新されるため）
             state = load_state(state_path)
@@ -324,6 +336,10 @@ def main():
             failed_video = queue.pop(0)
             backlog['failed'].append(failed_video)
             failed_count += 1
+            
+            # 失敗時もバックログを保存
+            if not args.dry_run:
+                save_backlog(backlog_path, backlog)
             continue
     
     if skipped_count > 0:
