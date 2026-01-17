@@ -15,13 +15,22 @@
 
 set -e
 
+# 本スクリプトのディレクトリを取得
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-#PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
-PROJECT_ROOT="~/apps/summarizer_personal/"
+PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
-TRANSCRIPT_DIR="${PROJECT_ROOT}/data/transcripts"
-SUMMARY_DIR="${PROJECT_ROOT}/data/summaries"
-SYSTEM_PROMPT="${PROJECT_ROOT}/blog_article_system.txt"
+# 環境変数の読み込み (.envが存在する場合)
+if [ -f "${PROJECT_ROOT}/.env" ]; then
+    export $(grep -v '^#' "${PROJECT_ROOT}/.env" | xargs)
+fi
+
+# プロジェクトルートへ移動（相対パス指定のため）
+cd "$PROJECT_ROOT"
+
+# パス設定（PROJECT_ROOTへのcd後なので相対パスでOK）
+TRANSCRIPT_DIR="data/transcripts"
+SUMMARY_DIR="data/summaries"
+SYSTEM_PROMPT="blog_article_system.txt"
 
 
 
@@ -86,6 +95,11 @@ process_file() {
     if [[ ! -f "$desc_file" ]]; then
         echo "  ⚠️ 概要欄ファイルが存在しません。取得を試みます..."
         
+        # IPバン対策：5〜30秒のランダムな待機を入れる
+        local delay=$((RANDOM % 26 + 5))
+        echo "  ⏳ IPバン対策のため ${delay}秒待機します..."
+        sleep "$delay"
+
         # IDがハイフンで始まる場合でも正しく渡すために -- を使用
         if uv run python3 scripts/process_video.py --provider kilocode -- "$video_id" > /dev/null 2>&1; then
             echo "  ✅ 概要欄を取得しました。"
@@ -108,7 +122,7 @@ process_file() {
         return 0
     fi
     
-    # Kilo Code CLI コマンドを構築
+    # Kilo Code CLI コマンドを構築（パスは相対パスで指定）
     local cmd="kilocode --auto \"システムプロンプト@${SYSTEM_PROMPT} に従い、動画概要欄 @${desc_file} と 文字起こし @${transcript_file} を日本語で要約し、@${output_file} として書き出してください。\""
     
     if $DRY_RUN; then

@@ -523,3 +523,84 @@ Route (app)                                 Size  First Load JS
 
 🪵  Logs were written to "/home/so1/.config/.wrangler/logs/wrangler-2026-01-17_09-00-26_306.log"
 === Cron Update Finished: 2026年  1月 17日 土曜日 18:00:30 JST (Exit: 0) ===
+=== Cron Update Started: 2026年  1月 18日 日曜日 00:00:01 JST ===
+--- .envファイルを読み込み中 ---
+Using provider: gemini
+/home/so1/apps/summarizer_personal/scripts/cron_update.sh: line 30: uv: command not found
+--- 🚀 Cloudflare Pagesへの自動デプロイを開始 ---
+--- 🛠️  Next.js Build 開始 ---
+
+> summarizer-personal@0.1.0 build
+> next build
+
+ ⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of /home/so1/package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * /home/so1/apps/summarizer_personal/package-lock.json
+
+   ▲ Next.js 15.5.9
+   - Environments: .env
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 5.1s
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/222) ...
+   Generating static pages (55/222) 
+   Generating static pages (110/222) 
+   Generating static pages (166/222) 
+ ✓ Generating static pages (222/222)
+   Finalizing page optimization ...
+   Collecting build traces ...
+   Exporting (0/2) ...
+ ✓ Exporting (2/2)
+
+Route (app)                                 Size  First Load JS
+┌ ○ /                                    1.38 kB         107 kB
+├ ○ /_not-found                            990 B         103 kB
+├ ● /article/[slug]                        742 B         103 kB
+├   ├ /article/-7nfZN2Gl_Q
+├   ├ /article/-DosO8fO6_s
+├   ├ /article/-NFqv6mTiPM
+├   └ [+196 more paths]
+└ ● /channel/[slug]                      1.38 kB         107 kB
+    ├ /channel/bg2-pod
+    ├ /channel/bloomberg-originals
+    ├ /channel/broken-business-models
+    └ [+16 more paths]
++ First Load JS shared by all             102 kB
+  ├ chunks/255-bc8b3b9a93d25a64.js         46 kB
+  ├ chunks/4bd1b696-c023c6e3521b1417.js  54.2 kB
+  └ other shared chunks (total)          1.93 kB
+
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses generateStaticParams)
+
+--- 🚀 Cloudflare Pagesへデプロイ ---
+
+ ⛅️ wrangler 4.59.2
+───────────────────
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mWarning: Your working directory is a git repo and has uncommitted changes[0m
+
+  To silence this warning, pass in --commit-dirty=true
+
+
+Uploading... (17/458)
+Uploading... (104/458)
+Uploading... (187/458)
+Uploading... (276/458)
+Uploading... (458/458)
+✨ Success! Uploaded 441 files (17 already uploaded) (59.82 sec)
+
+🌎 Deploying...
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mDeployment failed![0m
+
+  	Failed to publish your Function. Got error: Unknown internal error occurred.
+
+
+🪵  Logs were written to "/home/so1/.config/.wrangler/logs/wrangler-2026-01-17_15-00-31_862.log"
+=== Cron Update Finished: 2026年  1月 18日 日曜日 00:01:49 JST (Exit: 0) ===
