@@ -184,6 +184,7 @@ def main():
     parser.add_argument("--prompt-template", default="blog_article", help="プロンプトテンプレート")
     parser.add_argument("--auto-commit", action="store_true", help="処理後に自動的にGit commit & push")
     parser.add_argument("--dry-run", action="store_true", help="実際に保存せずテスト実行")
+    parser.add_argument("--skip-rss", action="store_true", help="RSSフィードからの新着動画取得をスキップ")
     parser.add_argument("--process-count", type=int, default=1, help="一度に処理する動画数")
     
     args = parser.parse_args()
@@ -243,15 +244,18 @@ def main():
     print(f"テンプレート: {args.prompt_template}\n")
     
     # 1. RSSから新着動画を取得してバックログに追加
-    print("📡 RSSフィードから新着動画を取得中...")
-    new_videos = fetch_all_rss_videos(channels, state, days_back=args.days)
-    print(f"  未処理の動画: {len(new_videos)}件")
-    
-    if new_videos:
-        added_count = add_to_backlog(backlog, new_videos, state)
-        print(f"  ✓ バックログに追加: {added_count}件")
-        if not args.dry_run:
-            save_backlog(backlog_path, backlog)
+    if not args.skip_rss:
+        print("📡 RSSフィードから新着動画を取得中...")
+        new_videos = fetch_all_rss_videos(channels, state, days_back=args.days)
+        print(f"  未処理の動画: {len(new_videos)}件")
+        
+        if new_videos:
+            added_count = add_to_backlog(backlog, new_videos, state)
+            print(f"  ✓ バックログに追加: {added_count}件")
+            if not args.dry_run:
+                save_backlog(backlog_path, backlog)
+    else:
+        print("⏭️ RSSフィードの取得をスキップします")
     
     # 2. バックログから処理
     queue = backlog.get('queue', [])

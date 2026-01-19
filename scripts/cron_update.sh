@@ -14,6 +14,9 @@ cd "$(dirname "$0")/.."
 LOG_FILE="logs/cron_$(date +%Y%m%d_%H%M%S).log"
 mkdir -p logs
 
+# Cron環境用のPATH設定 (Node.jsやuvを確実に見つけられるようにする)
+export PATH="$HOME/.nvm/versions/node/v24.11.1/bin:$HOME/.local/bin:$PATH"
+
 echo "=== Cron Update Started: $(date) ===" | tee -a "$LOG_FILE"
 
 # 環境変数を読み込む (.envが存在する場合)
