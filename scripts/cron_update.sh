@@ -34,7 +34,7 @@ uv run python3 scripts/batch_process_rss.py \
     --provider "$PROVIDER" \
     --days 3 \
     --min-duration 10 \
-    --process-count 3 \
+    --process-count 10 \
     --auto-commit \
     2>&1 | tee -a "$LOG_FILE"
 
