@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/zsh
 # Cron用自動更新スクリプト
 # 3時間ごとに実行し、新着動画を処理してGitにプッシュ
 
@@ -20,9 +20,13 @@ export PATH="$HOME/.nvm/versions/node/v24.11.1/bin:$HOME/.local/bin:$PATH"
 echo "=== Cron Update Started: $(date) ===" | tee -a "$LOG_FILE"
 
 # 環境変数を読み込む (.envが存在する場合)
-if [ -f .env ]; then
+if [[ -f .env ]]; then
     echo "--- .envファイルを読み込み中 ---" | tee -a "$LOG_FILE"
-    export $(grep -v '^#' .env | xargs)
+    # grepでコメントを除去し、空行も除去してから読み込む
+    while IFS= read -r line || [[ -n "$line" ]]; do
+        [[ "$line" =~ ^#.*$ || -z "$line" ]] && continue
+        export "$line"
+    done < .env
 fi
 
 # プロバイダー設定 (引数があればそれを使い、なければgemini)
@@ -41,9 +45,9 @@ uv run python3 scripts/batch_process_rss.py \
 EXIT_CODE=$?
 
 # Kilocodeプロバイダーの場合、文字起こし後に一括要約を実行
-if [ $EXIT_CODE -eq 0 ] && [ "$PROVIDER" == "kilocode" ]; then
+if [[ $EXIT_CODE -eq 0 && "$PROVIDER" == "kilocode" ]]; then
     echo "--- 🤖 Kilocode CLIによる要約を開始 ---" | tee -a "$LOG_FILE"
-    bash scripts/kilocode_summarize.sh 2>&1 | tee -a "$LOG_FILE"
+    zsh scripts/kilocode_summarize.sh --limit 10 2>&1 | tee -a "$LOG_FILE"
     KILO_EXIT_CODE=$?
     if [ $KILO_EXIT_CODE -ne 0 ]; then
         echo "❌ Kilocode要約に失敗しました" | tee -a "$LOG_FILE"
@@ -52,7 +56,7 @@ if [ $EXIT_CODE -eq 0 ] && [ "$PROVIDER" == "kilocode" ]; then
 fi
 
 # 成功した場合、Cloudflare Pagesにデプロイ
-if [ $EXIT_CODE -eq 0 ]; then
+if [[ $EXIT_CODE -eq 0 ]]; then
     echo "--- 🚀 Cloudflare Pagesへの自動デプロイを開始 ---" | tee -a "$LOG_FILE"
     ./scripts/deploy.sh 2>&1 | tee -a "$LOG_FILE"
     DEPLOY_EXIT_CODE=$?

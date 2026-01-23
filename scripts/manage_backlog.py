@@ -151,10 +151,42 @@ def retry_failed(backlog: Dict) -> int:
     return count
 
 
+def remove_from_backlog(backlog: Dict, video_id: str) -> bool:
+    """キューまたは失敗リストから動画を削除"""
+    q_len = len(backlog['queue'])
+    f_len = len(backlog['failed'])
+    
+    backlog['queue'] = [v for v in backlog['queue'] if v['video_id'] != video_id]
+    backlog['failed'] = [v for v in backlog['failed'] if v['video_id'] != video_id]
+    
+    return len(backlog['queue']) < q_len or len(backlog['failed']) < f_len
+
+
+def clean_backlog(backlog: Dict, state: Dict, summaries_dir: Path) -> int:
+    """処理済み動画（state入り、または要約ファイル存在）をバックログから削除"""
+    processed_ids = set(state.get('processed_videos', {}).keys())
+    
+    # 要約ファイルの存在をチェックして追加
+    if summaries_dir.exists():
+        for f in summaries_dir.glob("*.md"):
+            processed_ids.add(f.stem)
+            
+    original_count = len(backlog['queue'])
+    backlog['queue'] = [v for v in backlog['queue'] if v['video_id'] not in processed_ids]
+    
+    # 失敗リストもクリーンアップ
+    backlog['failed'] = [v for v in backlog['failed'] if v['video_id'] not in processed_ids]
+    
+    removed_count = original_count - len(backlog['queue'])
+    return removed_count
+
+
 def main():
     parser = argparse.ArgumentParser(description="バックログ管理ツール")
     parser.add_argument("--list", action="store_true", help="キュー一覧を表示")
     parser.add_argument("--add", metavar="VIDEO_ID", help="動画を手動で追加")
+    parser.add_argument("--remove", metavar="VIDEO_ID", help="動画をバックログから削除")
+    parser.add_argument("--clean", action="store_true", help="処理済み動画をバックログから一括削除")
     parser.add_argument("--import-channel", metavar="CHANNEL_ID", help="チャンネルの過去動画をインポート")
     parser.add_argument("--days", type=int, default=30, help="インポート期間（日）")
     parser.add_argument("--retry-failed", action="store_true", help="失敗リストをキューに戻す")
@@ -180,6 +212,21 @@ def main():
         save_backlog(backlog_path, backlog)
         return 0
     
+    elif args.remove:
+        if remove_from_backlog(backlog, args.remove):
+            print(f"✓ 削除しました: {args.remove}")
+            save_backlog(backlog_path, backlog)
+        else:
+            print(f"見つかりませんでした: {args.remove}")
+        return 0
+    
+    elif args.clean:
+        summaries_dir = project_root / "data" / "summaries"
+        removed = clean_backlog(backlog, state, summaries_dir)
+        print(f"✓ {removed}件の処理済み動画をバックログから削除しました")
+        save_backlog(backlog_path, backlog)
+        return 0
+
     elif args.add:
         # YouTube APIで動画情報を取得
         try:

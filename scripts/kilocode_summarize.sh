@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/zsh
 # Kilo Code CLI を使った要約バッチ処理スクリプト
 # 
 # 使用方法:
@@ -11,13 +11,14 @@
 #
 # 前提条件:
 #   - Kilo Code CLIがインストール済みであること
-#   - data/transcripts/ に _cleaned.txt と _description.txt が存在すること
+#   - jqがインストール済みであること (backlog処理用)
+#   - data/transcripts/ に _cleaned.txt と _description.txt が存在すること (backlog以外の場合)
 
 set -e
 
 # 本スクリプトのディレクトリを取得
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
+SCRIPT_DIR=${0:A:h}
+PROJECT_ROOT=${SCRIPT_DIR:h}
 
 # 環境変数の読み込み (.envが存在する場合)
 if [ -f "${PROJECT_ROOT}/.env" ]; then
@@ -40,14 +41,21 @@ mkdir -p "$SUMMARY_DIR"
 # デフォルト設定
 DRY_RUN=false
 PROCESS_ALL=false
+PROCESS_BACKLOG=false
 SINGLE_FILE=""
 SLEEP_SECONDS=5
+LIMIT_VAL=""
+BACKLOG_FILE="data/backlog.json"
 
 # 引数解析
 while [[ $# -gt 0 ]]; do
     case $1 in
         --all)
             PROCESS_ALL=true
+            shift
+            ;;
+        --backlog)
+            PROCESS_BACKLOG=true
             shift
             ;;
         --file)
@@ -114,6 +122,24 @@ process_file() {
             return 1
         fi
     fi
+
+    # 文字起こしファイルの存在確認 (backlog経由の場合は transcription が必要)
+    if [[ ! -f "$transcript_file" ]]; then
+        echo "  ⚠️ 文字起こしファイルが存在しません。動画処理を実行します..."
+        
+        # IPバン対策：待機は process_video.py --provider kilocode 内部でも行われるが、念のため
+        # process_video.py が すでに transcript を生成しているはず
+        if [[ ! -f "$transcript_file" ]]; then
+             # ここに来る場合は process_video.py --provider kilocode を再度呼ぶ
+             # (概要欄取得時に呼ばれているはずだが、transcriptがない場合)
+             uv run python3 scripts/process_video.py --provider kilocode -- "$video_id" > /dev/null 2>&1
+        fi
+
+        if [[ ! -f "$transcript_file" ]]; then
+            echo "  ❌ 文字起こしファイルの取得に失敗しました: $transcript_file"
+            return 1
+        fi
+    fi
     
     # 既存の要約をスキップするかどうか確認
     if [[ -f "$output_file" ]]; then
@@ -145,6 +171,48 @@ if [[ -n "$SINGLE_FILE" ]]; then
         exit 1
     fi
     process_file "$SINGLE_FILE"
+elif $PROCESS_BACKLOG; then
+    # backlog.json から未処理の動画を処理
+    if [[ ! -f "$BACKLOG_FILE" ]]; then
+        echo "エラー: バックログファイルが見つかりません: $BACKLOG_FILE"
+        exit 1
+    fi
+
+    echo "=== バックログから動画を取得中 (制限: $LIMIT) ==="
+    
+    # 処理済み動画を一度クリーンアップ
+    python3 scripts/manage_backlog.py --clean > /dev/null 2>&1
+
+    # jq を使って video_id を取得。
+    video_ids=($(jq -r ".queue[0:$LIMIT] | .[].video_id" "$BACKLOG_FILE"))
+    
+    if [[ ${#video_ids[@]} -eq 0 ]]; then
+        echo "バックログに処理待ちの動画はありません。"
+        exit 0
+    fi
+
+    processed_count=0
+    for video_id in "${video_ids[@]}"; do
+        transcript_file="${TRANSCRIPT_DIR}/${video_id}_cleaned.txt"
+        if process_file "$transcript_file"; then
+            processed_count=$((processed_count + 1))
+            # バックログから削除
+            python3 scripts/manage_backlog.py --remove "$video_id" > /dev/null 2>&1
+        elif [[ $? -eq 0 ]]; then
+            # すでに存在してスキップされた場合なども削除
+            python3 scripts/manage_backlog.py --remove "$video_id" > /dev/null 2>&1
+        fi
+        
+        # 連続処理時の短い待機
+        if [[ $processed_count -lt ${#video_ids[@]} ]]; then
+            sleep 2
+        fi
+    done
+
+    echo ""
+    echo "=== 完了 ==="
+    echo "処理を試みた動画数: ${#video_ids[@]}"
+    echo "新規処理した動画数: $processed_count"
 else
     # ファイルを処理（デフォルトは3つまで、--allなら無制限）
     count=0
@@ -158,8 +226,9 @@ else
             output_file="${SUMMARY_DIR}/${video_id}.md"
             
             if [[ ! -f "$output_file" ]]; then
-                process_file "$transcript_file"
-                processed_count=$((processed_count + 1))
+                if process_file "$transcript_file"; then
+                    processed_count=$((processed_count + 1))
+                fi
                 
                 if [[ $processed_count -ge $LIMIT ]]; then
                     echo "目標処理数（$LIMIT件）に達したため終了します。"

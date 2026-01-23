@@ -150,14 +150,18 @@ export function slugToChannel(slug: string): string | null {
     const decodedSlug = decodeURIComponent(slug);
 
     for (const channel of channels) {
-        if (channelToSlug(channel) === slug) {
+        // Compare decoded versions
+        const channelSlug = decodeURIComponent(channelToSlug(channel));
+        if (channelSlug === decodedSlug) {
             return channel;
         }
     }
 
-    // Fallback: try case-insensitive match
+    // Fallback: try case-insensitive match on decoded strings
+    const normalizedDecodedSlug = decodedSlug.toLowerCase().replace(/\s+/g, '-');
     for (const channel of channels) {
-        if (channel.toLowerCase().replace(/\s+/g, '-') === decodedSlug) {
+        const normalizedChannel = channel.toLowerCase().replace(/\s+/g, '-');
+        if (normalizedChannel === normalizedDecodedSlug) {
             return channel;
         }
     }
