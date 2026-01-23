@@ -1,0 +1,76 @@
+https://youtube.com/@tbs_bloomberg
+👆チャンネル登録・高評価をよろしくお願いします
+
+最先端のテックストーリーをわかりやすくお届けする番組「1on1 Tech」。
+
+今回のテーマは「2026年もGoogleの年になるか？」です。
+年が明けOpenAI、Google、Anthropicなど各社から、様々な発表が相次いでいます。
+
+そんな中、Googleの親会社Alphabetが史上4社目となる時価総額4兆ドルを突破しました。
+今年の“主役”はやはりGoogleなのか。それともOpenAIが盛り返すのか。
+
+AI研究者の今井翔太さんと一緒に考えます。
+
+◆チャプター◆
+00:00 番組開始【2026年もGoogleの年になるか？】
+00:41 2026年予想「エコシステムを活かした戦いが始まる」
+01:51 ③つのトークテーマ
+02:44 ①Appleが「Gemini」に白旗を上げた
+03:50 Appleは事実上AIの自社開発を諦めた 
+04:24 秘密主義すぎて“隠し玉”あると思われてた
+06:57 ChatGPTからGeminiに乗り換えた
+08:17 “10億台超”のiPhoneがGeminiに染まる
+09:23 Googleが新機能「パーソナル・インテリジェンス」を発表
+14:00 動画生成AI「Veo 3.1」が示す“基盤モデル”の置き換え
+16:20 中川・今井の写真を「Veo 3.1」で動かしてみた
+17:34 ②OpenAI・DeepSeekも黙ってない
+17:54 OpenAIが脳とコンピュータを繋ぐ技術に出資
+21:31 「ChatGPT Health」発表、AI各社も続々と“ヘルスケアAI”発表
+24:49 2026年はヘルスケア領域での競争が激しい
+25:49 OpenAIが新モデルを数週間以内にリリースか
+27:48 「DeepSeek-V4」発表は2月か
+28:28 実はDeepSeekが科学分野において人類に最も貢献したAI
+29:19 2025年の“最重要論文”は「DeepSeek-R1」
+33:35 「R」シリーズと「V」シリーズの違い
+34:30 「DeepSeekは情報抜かれる」の真相
+36:48 DeepSeekがAIの“基盤”を変える未来
+41:21 ③2026年注目の研究「継続学習」
+43:28 AIの弱点「破壊的忘却」を防げる
+46:19 Googleも類似の研究手法を提唱
+48:51 「スケーリング」と「継続学習」は別モノ
+
+◆動画内で紹介した論文やブログ◆
+▼『Joint statement from Google and Apple』
+https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/
+▼『Investing in Merge Labs』
+https://openai.com/index/investing-in-merge-labs/
+▼『mHC: Manifold-Constrained Hyper-Connections』
+https://arxiv.org/pdf/2512.24880
+▼『Nested Learning: The Illusion of Deep Learning Architecture』
+https://arxiv.org/pdf/2512.24695
+
+◆出演◆
+▼今井 翔太
+1994年生まれ。2024年、東京大学大学院松尾研究室におけるAIの研究で博士（工学）を取得。
+人工知能分野における強化学習の研究、特にマルチエージェント強化学習の研究に従事。
+現在は大規模言語モデル等の生成AIにおける強化学習の活用の研究を行う。
+2024年7月に株式会社GenesisAIを創業し、同社代表取締役社長/CEO。
+2025年より北陸先端科学技術大学院大学（JAIST）客員教授。
+著書に『生成AIで世界はこう変わる』（SBクリエイティブ）。
+
+▼中川 雅博
+TBS CROSS DIG with Bloomberg ビジネスエディター
+東洋経済新報社で『週刊東洋経済』『会社四季報』の記者・編集者として、自動車、航空、IT業界などを担当。その後NewsPicks編集部に移り、テクノロジー業界を取材。副編集長としてチームを統括。2025年1月にTBSテレビ入社、TBS CROSS DIGで企業・産業コンテンツを担当
+X: https://x.com/mshrnakagawa
+Mail: nakagawa.masahiro@tbs.co.jp
+
+◆収録日◆
+2026年1月16日
+
+▼TBS CROSS DIG with Bloomberg
+https://newsdig.tbs.co.jp/list/withbloomberg
+
+▼公式Xアカウント
+https://x.com/tbs_bloomberg 
+
+#tbs #crossdig #tcdb #nvidia #deepseek #apple #iphone
