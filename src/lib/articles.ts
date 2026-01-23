@@ -136,10 +136,18 @@ export function getAllChannels(): string[] {
 }
 
 /**
+ * Normalize whitespace (including full-width spaces) to hyphens
+ */
+function normalizeWhitespace(str: string): string {
+    // Replace all types of whitespace (including full-width space \u3000) with hyphen
+    return str.replace(/[\s\u3000]+/g, '-');
+}
+
+/**
  * Convert channel name to URL-safe slug
  */
 export function channelToSlug(channel: string): string {
-    return encodeURIComponent(channel.toLowerCase().replace(/\s+/g, '-'));
+    return encodeURIComponent(normalizeWhitespace(channel.toLowerCase()));
 }
 
 /**
@@ -150,17 +158,17 @@ export function slugToChannel(slug: string): string | null {
     const decodedSlug = decodeURIComponent(slug);
 
     for (const channel of channels) {
-        // Compare decoded versions
+        // Compare normalized versions
         const channelSlug = decodeURIComponent(channelToSlug(channel));
         if (channelSlug === decodedSlug) {
             return channel;
         }
     }
 
-    // Fallback: try case-insensitive match on decoded strings
-    const normalizedDecodedSlug = decodedSlug.toLowerCase().replace(/\s+/g, '-');
+    // Fallback: try case-insensitive match on normalized strings
+    const normalizedDecodedSlug = normalizeWhitespace(decodedSlug.toLowerCase());
     for (const channel of channels) {
-        const normalizedChannel = channel.toLowerCase().replace(/\s+/g, '-');
+        const normalizedChannel = normalizeWhitespace(channel.toLowerCase());
         if (normalizedChannel === normalizedDecodedSlug) {
             return channel;
         }
