@@ -1,3 +1,4 @@
+import { Suspense } from 'react';
 import { getAllArticles } from '@/lib/articles';
 import ChannelNav from '@/components/ChannelNav';
 import ArticleList from '@/components/ArticleList';
@@ -21,7 +22,9 @@ export default async function HomePage() {
             <ChannelNav />
 
             {/* Articles List (Client Side Pagination) */}
-            <ArticleList articles={allArticles} />
+            <Suspense fallback={<div className="text-center py-8">読み込み中...</div>}>
+                <ArticleList articles={allArticles} />
+            </Suspense>
         </div>
     );
 }

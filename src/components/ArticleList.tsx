@@ -1,22 +1,27 @@
 'use client';
 
-import { useState } from 'react';
+import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { ArticleMeta } from '@/lib/articles';
 
 interface ArticleListProps {
     articles: ArticleMeta[];
+    basePath?: string; // For channel pages: /channel/slug
 }
 
-export default function ArticleList({ articles }: ArticleListProps) {
-    const [currentPage, setCurrentPage] = useState(1);
+export default function ArticleList({ articles, basePath = '' }: ArticleListProps) {
+    const searchParams = useSearchParams();
+    const currentPage = Number(searchParams.get('page')) || 1;
     const articlesPerPage = 20;
 
     const totalArticles = articles.length;
     const totalPages = Math.ceil(totalArticles / articlesPerPage);
 
+    // Ensure currentPage is within valid range
+    const validPage = Math.max(1, Math.min(currentPage, totalPages || 1));
+
     // Get current page articles
-    const startIndex = (currentPage - 1) * articlesPerPage;
+    const startIndex = (validPage - 1) * articlesPerPage;
     const paginatedArticles = articles.slice(startIndex, startIndex + articlesPerPage);
 
     // Group articles by date
@@ -45,9 +50,11 @@ export default function ArticleList({ articles }: ArticleListProps) {
         }
     };
 
-    const handlePageChange = (page: number) => {
-        setCurrentPage(page);
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+    const getPageUrl = (page: number) => {
+        if (page === 1) {
+            return basePath || '/';
+        }
+        return `${basePath || '/'}?page=${page}`;
     };
 
     if (totalArticles === 0) {
@@ -107,35 +114,35 @@ export default function ArticleList({ articles }: ArticleListProps) {
             {/* Pagination */}
             {totalPages > 1 && (
                 <nav className="flex justify-center gap-2 mt-8">
-                    {currentPage > 1 && (
-                        <button
-                            onClick={() => handlePageChange(currentPage - 1)}
+                    {validPage > 1 && (
+                        <Link
+                            href={getPageUrl(validPage - 1)}
                             className="px-4 py-2 bg-white border border-gray-300 rounded-md text-sm font-medium text-gray-700 hover:bg-gray-50"
                         >
                             前のページ
-                        </button>
+                        </Link>
                     )}
                     <div className="flex items-center gap-1">
                         {[...Array(totalPages)].map((_, i) => (
-                            <button
+                            <Link
                                 key={i + 1}
-                                onClick={() => handlePageChange(i + 1)}
-                                className={`px-4 py-2 text-sm font-medium rounded-md ${currentPage === i + 1
+                                href={getPageUrl(i + 1)}
+                                className={`px-4 py-2 text-sm font-medium rounded-md ${validPage === i + 1
                                     ? 'bg-coral text-white'
                                     : 'bg-white border border-gray-300 text-gray-700 hover:bg-gray-50'
                                     }`}
                             >
                                 {i + 1}
-                            </button>
+                            </Link>
                         ))}
                     </div>
-                    {currentPage < totalPages && (
-                        <button
-                            onClick={() => handlePageChange(currentPage + 1)}
+                    {validPage < totalPages && (
+                        <Link
+                            href={getPageUrl(validPage + 1)}
                             className="px-4 py-2 bg-white border border-gray-300 rounded-md text-sm font-medium text-gray-700 hover:bg-gray-50"
                         >
                             次のページ
-                        </button>
+                        </Link>
                     )}
                 </nav>
             )}

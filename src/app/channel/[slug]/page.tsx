@@ -1,3 +1,4 @@
+import { Suspense } from 'react';
 import { notFound } from 'next/navigation';
 import {
     getAllChannelSlugs,
@@ -40,6 +41,7 @@ export default async function ChannelPage({ params }: ChannelPageProps) {
     }
 
     const articles = getArticlesByChannel(channel);
+    const basePath = `/channel/${slug}`;
 
     return (
         <div className="max-w-5xl mx-auto px-4 pb-12">
@@ -61,7 +63,9 @@ export default async function ChannelPage({ params }: ChannelPageProps) {
             </section>
 
             {/* Articles List */}
-            <ArticleList articles={articles} />
+            <Suspense fallback={<div className="text-center py-8">読み込み中...</div>}>
+                <ArticleList articles={articles} basePath={basePath} />
+            </Suspense>
         </div>
     );
 }
