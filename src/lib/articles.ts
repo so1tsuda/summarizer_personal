@@ -136,40 +136,92 @@ export function getAllChannels(): string[] {
 }
 
 /**
- * Normalize whitespace (including full-width spaces) to hyphens
+ * Channel ID mapping loaded from config/channels.csv
  */
-function normalizeWhitespace(str: string): string {
-    // Replace all types of whitespace (including full-width space \u3000) with hyphen
-    return str.replace(/[\s\u3000]+/g, '-');
+interface ChannelMapping {
+    channelId: string;
+    channelName: string;
 }
 
-/**
- * Convert channel name to URL-safe slug
- */
-export function channelToSlug(channel: string): string {
-    return encodeURIComponent(normalizeWhitespace(channel.toLowerCase()));
-}
+let channelMappingCache: ChannelMapping[] | null = null;
 
-/**
- * Convert slug back to channel name by searching existing channels
- */
-export function slugToChannel(slug: string): string | null {
-    const channels = getAllChannels();
-    const decodedSlug = decodeURIComponent(slug);
-
-    for (const channel of channels) {
-        // Compare normalized versions
-        const channelSlug = decodeURIComponent(channelToSlug(channel));
-        if (channelSlug === decodedSlug) {
-            return channel;
-        }
+function loadChannelMapping(): ChannelMapping[] {
+    if (channelMappingCache) {
+        return channelMappingCache;
     }
 
-    // Fallback: try case-insensitive match on normalized strings
-    const normalizedDecodedSlug = normalizeWhitespace(decodedSlug.toLowerCase());
+    try {
+        const csvPath = path.join(process.cwd(), 'config/channels.csv');
+        const csvContent = fs.readFileSync(csvPath, 'utf8');
+        const lines = csvContent.trim().split('\n');
+
+        // Skip header line
+        channelMappingCache = lines.slice(1)
+            .filter(line => line.trim())
+            .map(line => {
+                const [channelId, channelName] = line.split(',');
+                return { channelId: channelId.trim(), channelName: channelName.trim() };
+            });
+
+        return channelMappingCache;
+    } catch (error) {
+        console.error('Error loading channel mapping:', error);
+        return [];
+    }
+}
+
+/**
+ * Normalize channel name for matching (handle full-width spaces, case)
+ */
+function normalizeChannelName(name: string): string {
+    return name.toLowerCase().replace(/[\s\u3000]+/g, ' ').trim();
+}
+
+/**
+ * Convert channel name to channel ID (for URLs)
+ */
+export function channelToSlug(channel: string): string {
+    const mapping = loadChannelMapping();
+    const normalizedChannel = normalizeChannelName(channel);
+
+    const found = mapping.find(m => normalizeChannelName(m.channelName) === normalizedChannel);
+    if (found) {
+        return found.channelId;
+    }
+
+    // Fallback: use lowercase name with hyphens for unknown channels
+    return channel.toLowerCase().replace(/[\s\u3000]+/g, '-');
+}
+
+/**
+ * Convert channel ID (slug) back to channel name
+ */
+export function slugToChannel(slug: string): string | null {
+    const mapping = loadChannelMapping();
+
+    // First try to find by channel ID
+    const found = mapping.find(m => m.channelId === slug);
+    if (found) {
+        // Return the actual channel name from articles (may differ slightly from CSV)
+        const channels = getAllChannels();
+        const normalizedCsvName = normalizeChannelName(found.channelName);
+
+        for (const channel of channels) {
+            if (normalizeChannelName(channel) === normalizedCsvName) {
+                return channel;
+            }
+        }
+
+        // If not found in articles, return CSV name
+        return found.channelName;
+    }
+
+    // Fallback: try to match by normalized name (for backward compatibility)
+    const channels = getAllChannels();
+    const normalizedSlug = slug.toLowerCase().replace(/-/g, ' ');
+
     for (const channel of channels) {
-        const normalizedChannel = normalizeWhitespace(channel.toLowerCase());
-        if (normalizedChannel === normalizedDecodedSlug) {
+        if (normalizeChannelName(channel) === normalizedSlug) {
             return channel;
         }
     }
@@ -178,10 +230,11 @@ export function slugToChannel(slug: string): string | null {
 }
 
 /**
- * Get all channel slugs for static generation
+ * Get all channel slugs (IDs) for static generation
  */
 export function getAllChannelSlugs(): string[] {
-    return getAllChannels().map(channelToSlug);
+    const channels = getAllChannels();
+    return channels.map(channelToSlug);
 }
 
 /**
