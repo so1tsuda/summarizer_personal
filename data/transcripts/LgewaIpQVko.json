@@ -1,0 +1,1626 @@
+{
+  "video_id": "LgewaIpQVko",
+  "title": "How Prompt Engineering Inventor Built $1.5B in 3 Years | You.com, Richard Socher",
+  "channel": "EO",
+  "published_at": "2026-01-22T14:30:29Z",
+  "duration": "PT12M4S",
+  "thumbnail": "https://i.ytimg.com/vi/LgewaIpQVko/hqdefault.jpg",
+  "fetched_at": "2026-01-24T11:15:26.472743",
+  "transcript": [
+    {
+      "start": 0.08,
+      "duration": 4.4,
+      "text": "had the crazy idea in 2010 to use neural"
+    },
+    {
+      "start": 2.8,
+      "duration": 3.44,
+      "text": "networks for natural language processing"
+    },
+    {
+      "start": 4.48,
+      "duration": 3.279,
+      "text": "which was a very controversial idea at"
+    },
+    {
+      "start": 6.24,
+      "duration": 3.2,
+      "text": "the time. A lot of people in the field"
+    },
+    {
+      "start": 7.759,
+      "duration": 3.681,
+      "text": "said, \"Oh, neural networks, they never"
+    },
+    {
+      "start": 9.44,
+      "duration": 4.0,
+      "text": "work. They won't ever work.\" Most of my"
+    },
+    {
+      "start": 11.44,
+      "duration": 4.64,
+      "text": "papers got rejected cuz people hated"
+    },
+    {
+      "start": 13.44,
+      "duration": 4.24,
+      "text": "neural nets for NLP. MIT and especially"
+    },
+    {
+      "start": 16.08,
+      "duration": 3.279,
+      "text": "Berkeley here in the Bay Area, they"
+    },
+    {
+      "start": 17.68,
+      "duration": 3.439,
+      "text": "hated neural networks for natural"
+    },
+    {
+      "start": 19.359,
+      "duration": 3.441,
+      "text": "language processing too. We had invented"
+    },
+    {
+      "start": 21.119,
+      "duration": 3.441,
+      "text": "prompt engineering and so we thought"
+    },
+    {
+      "start": 22.8,
+      "duration": 3.2,
+      "text": "people should get access to this. We"
+    },
+    {
+      "start": 24.56,
+      "duration": 3.6,
+      "text": "felt like well someone's got to do it."
+    },
+    {
+      "start": 26.0,
+      "duration": 4.0,
+      "text": "In 2020 when we started.com a lot of"
+    },
+    {
+      "start": 28.16,
+      "duration": 3.359,
+      "text": "people said search is dead. nothing you"
+    },
+    {
+      "start": 30.0,
+      "duration": 3.36,
+      "text": "can do. But I don't really generally"
+    },
+    {
+      "start": 31.519,
+      "duration": 4.081,
+      "text": "care about what's popular. I just care"
+    },
+    {
+      "start": 33.36,
+      "duration": 4.16,
+      "text": "about what's meaningful. When you once"
+    },
+    {
+      "start": 35.6,
+      "duration": 3.44,
+      "text": "you really love an idea and you feel"
+    },
+    {
+      "start": 37.52,
+      "duration": 3.039,
+      "text": "like that idea makes sense from first"
+    },
+    {
+      "start": 39.04,
+      "duration": 3.76,
+      "text": "principles, you have to have a little"
+    },
+    {
+      "start": 40.559,
+      "duration": 4.16,
+      "text": "bit of that belief inside of you that"
+    },
+    {
+      "start": 42.8,
+      "duration": 4.8,
+      "text": "you can make it prevail through a lot of"
+    },
+    {
+      "start": 44.719,
+      "duration": 4.881,
+      "text": "rejection and still keep on going. Hi"
+    },
+    {
+      "start": 47.6,
+      "duration": 4.24,
+      "text": "everyone, I'm Richard Ser. I'm the"
+    },
+    {
+      "start": 49.6,
+      "duration": 6.16,
+      "text": "founder and CEO of.com and the founder"
+    },
+    {
+      "start": 51.84,
+      "duration": 6.08,
+      "text": "and partner at AI Accentur. U.com is AI"
+    },
+    {
+      "start": 55.76,
+      "duration": 4.639,
+      "text": "search infrastructure. In order to make"
+    },
+    {
+      "start": 57.92,
+      "duration": 5.439,
+      "text": "an LM not hallucinate, you actually need"
+    },
+    {
+      "start": 60.399,
+      "duration": 5.521,
+      "text": "to have a good search infrastructure to"
+    },
+    {
+      "start": 63.359,
+      "duration": 5.76,
+      "text": "inform that LM. People searched on"
+    },
+    {
+      "start": 65.92,
+      "duration": 6.08,
+      "text": "Google AI and LMS and agents search on"
+    },
+    {
+      "start": 69.119,
+      "duration": 7.601,
+      "text": "you.com. Companies like OpenAI, Amazon,"
+    },
+    {
+      "start": 72.0,
+      "duration": 8.4,
+      "text": "Alibaba, Telegraph, Windsurf, Harvey use"
+    },
+    {
+      "start": 76.72,
+      "duration": 6.24,
+      "text": "our API infrastructure to make their LMS"
+    },
+    {
+      "start": 80.4,
+      "duration": 4.64,
+      "text": "upto-date, accurate, and have citations."
+    },
+    {
+      "start": 82.96,
+      "duration": 3.92,
+      "text": "So you can actually verify that the"
+    },
+    {
+      "start": 85.04,
+      "duration": 4.0,
+      "text": "facts are correct. It's amazing to"
+    },
+    {
+      "start": 86.88,
+      "duration": 4.8,
+      "text": "become a unicorn. And in many ways, it"
+    },
+    {
+      "start": 89.04,
+      "duration": 6.759,
+      "text": "also just feels like okay, it's what's"
+    },
+    {
+      "start": 91.68,
+      "duration": 4.119,
+      "text": "next? What's the next step?"
+    },
+    {
+      "start": 103.28,
+      "duration": 4.479,
+      "text": "I originally from Germany. I thought a"
+    },
+    {
+      "start": 105.759,
+      "duration": 3.601,
+      "text": "lot about sort of the meaning of life"
+    },
+    {
+      "start": 107.759,
+      "duration": 4.241,
+      "text": "when I was younger. In high school"
+    },
+    {
+      "start": 109.36,
+      "duration": 4.399,
+      "text": "already, I love natural languages. You"
+    },
+    {
+      "start": 112.0,
+      "duration": 4.32,
+      "text": "know, I studied English. I'm originally"
+    },
+    {
+      "start": 113.759,
+      "duration": 5.68,
+      "text": "from Germany and French and Chinese and"
+    },
+    {
+      "start": 116.32,
+      "duration": 5.36,
+      "text": "but I also love math. And so math and"
+    },
+    {
+      "start": 119.439,
+      "duration": 4.481,
+      "text": "languages don't intersect often, right?"
+    },
+    {
+      "start": 121.68,
+      "duration": 4.479,
+      "text": "It's very different fields of study, but"
+    },
+    {
+      "start": 123.92,
+      "duration": 4.399,
+      "text": "they do intersect in a computer where"
+    },
+    {
+      "start": 126.159,
+      "duration": 5.041,
+      "text": "you try to use math to understand"
+    },
+    {
+      "start": 128.319,
+      "duration": 5.201,
+      "text": "language. And so I ended up deciding"
+    },
+    {
+      "start": 131.2,
+      "duration": 5.28,
+      "text": "study linguistic computer science in"
+    },
+    {
+      "start": 133.52,
+      "duration": 5.2,
+      "text": "2003. It was definitely not famous or or"
+    },
+    {
+      "start": 136.48,
+      "duration": 4.8,
+      "text": "popular in Germany. Linguistic computer"
+    },
+    {
+      "start": 138.72,
+      "duration": 5.2,
+      "text": "science as it was called then was very"
+    },
+    {
+      "start": 141.28,
+      "duration": 4.48,
+      "text": "much a niche orchid type of subject that"
+    },
+    {
+      "start": 143.92,
+      "duration": 4.48,
+      "text": "very few people were studying. Still"
+    },
+    {
+      "start": 145.76,
+      "duration": 4.0,
+      "text": "remember my my dad thinkingh what what"
+    },
+    {
+      "start": 148.4,
+      "duration": 2.64,
+      "text": "will become of my son cuz this"
+    },
+    {
+      "start": 149.76,
+      "duration": 3.28,
+      "text": "linguistic computer science thing"
+    },
+    {
+      "start": 151.04,
+      "duration": 4.4,
+      "text": "doesn't sound like anything useful for"
+    },
+    {
+      "start": 153.04,
+      "duration": 4.0,
+      "text": "ever like uh for a long time and but I"
+    },
+    {
+      "start": 155.44,
+      "duration": 3.28,
+      "text": "don't really generally care about what's"
+    },
+    {
+      "start": 157.04,
+      "duration": 3.76,
+      "text": "popular. I just care about what's"
+    },
+    {
+      "start": 158.72,
+      "duration": 4.72,
+      "text": "meaningful. And then it felt to me like"
+    },
+    {
+      "start": 160.8,
+      "duration": 4.48,
+      "text": "if we could really get that to work uh"
+    },
+    {
+      "start": 163.44,
+      "duration": 4.4,
+      "text": "on the research side, it would have an"
+    },
+    {
+      "start": 165.28,
+      "duration": 4.239,
+      "text": "amazing impact. Ultimately, language is"
+    },
+    {
+      "start": 167.84,
+      "duration": 3.039,
+      "text": "the most interesting manifestation of"
+    },
+    {
+      "start": 169.519,
+      "duration": 3.36,
+      "text": "human intelligence. Several"
+    },
+    {
+      "start": 170.879,
+      "duration": 3.841,
+      "text": "civilizations were able to create"
+    },
+    {
+      "start": 172.879,
+      "duration": 3.121,
+      "text": "written language to not all of them,"
+    },
+    {
+      "start": 174.72,
+      "duration": 3.2,
+      "text": "right? And the ones that didn't were"
+    },
+    {
+      "start": 176.0,
+      "duration": 3.84,
+      "text": "falling behind and we're saying similar"
+    },
+    {
+      "start": 177.92,
+      "duration": 4.0,
+      "text": "things. Civilizations that don't use AI"
+    },
+    {
+      "start": 179.84,
+      "duration": 3.84,
+      "text": "now are falling behind. And so"
+    },
+    {
+      "start": 181.92,
+      "duration": 4.56,
+      "text": "ultimately I think it's very meaningful"
+    },
+    {
+      "start": 183.68,
+      "duration": 4.639,
+      "text": "to help us understand language because"
+    },
+    {
+      "start": 186.48,
+      "duration": 5.039,
+      "text": "it helps us understand who we are as"
+    },
+    {
+      "start": 188.319,
+      "duration": 6.241,
+      "text": "humans. And then it uh also uh actually"
+    },
+    {
+      "start": 191.519,
+      "duration": 4.64,
+      "text": "helps in on the journey to understanding"
+    },
+    {
+      "start": 194.56,
+      "duration": 3.36,
+      "text": "intelligence. It helps to create it"
+    },
+    {
+      "start": 196.159,
+      "duration": 3.761,
+      "text": "because anything we can create we can"
+    },
+    {
+      "start": 197.92,
+      "duration": 3.039,
+      "text": "engineer we understand a lot better"
+    },
+    {
+      "start": 199.92,
+      "duration": 2.88,
+      "text": "afterward."
+    },
+    {
+      "start": 200.959,
+      "duration": 3.761,
+      "text": ">> Your brain and mine are jam-packed full"
+    },
+    {
+      "start": 202.8,
+      "duration": 3.92,
+      "text": "of neurons that are tightly connected to"
+    },
+    {
+      "start": 204.72,
+      "duration": 3.92,
+      "text": "and they talk to each other. in a"
+    },
+    {
+      "start": 206.72,
+      "duration": 4.079,
+      "text": "computer. We can therefore build what's"
+    },
+    {
+      "start": 208.64,
+      "duration": 4.08,
+      "text": "called an artificial neuronet network or"
+    },
+    {
+      "start": 210.799,
+      "duration": 3.761,
+      "text": "the the other technical term is a sponse"
+    },
+    {
+      "start": 212.72,
+      "duration": 3.68,
+      "text": "learning algorithm. But we can build a"
+    },
+    {
+      "start": 214.56,
+      "duration": 3.599,
+      "text": "neuronet network that simulates all of"
+    },
+    {
+      "start": 216.4,
+      "duration": 4.399,
+      "text": "these neurons being connected to and"
+    },
+    {
+      "start": 218.159,
+      "duration": 5.201,
+      "text": "talking to each other. And then I was"
+    },
+    {
+      "start": 220.799,
+      "duration": 5.121,
+      "text": "very fortunate uh at Stanford to hear"
+    },
+    {
+      "start": 223.36,
+      "duration": 5.12,
+      "text": "Andrew talk about deep learning and"
+    },
+    {
+      "start": 225.92,
+      "duration": 4.48,
+      "text": "neural nets for computer vision. It made"
+    },
+    {
+      "start": 228.48,
+      "duration": 4.319,
+      "text": "sense to me from first principles that"
+    },
+    {
+      "start": 230.4,
+      "duration": 4.16,
+      "text": "neural networks would be right because a"
+    },
+    {
+      "start": 232.799,
+      "duration": 3.36,
+      "text": "lot of the research actually was about"
+    },
+    {
+      "start": 234.56,
+      "duration": 3.36,
+      "text": "feature engineering that were people"
+    },
+    {
+      "start": 236.159,
+      "duration": 3.36,
+      "text": "were doing at the time like in sentiment"
+    },
+    {
+      "start": 237.92,
+      "duration": 3.28,
+      "text": "analysis you might say oh these are"
+    },
+    {
+      "start": 239.519,
+      "duration": 3.601,
+      "text": "positive words and this is how negation"
+    },
+    {
+      "start": 241.2,
+      "duration": 3.759,
+      "text": "works and here's like all these like"
+    },
+    {
+      "start": 243.12,
+      "duration": 4.0,
+      "text": "linguists would come up with features"
+    },
+    {
+      "start": 244.959,
+      "duration": 4.64,
+      "text": "and that clearly wouldn't scale to more"
+    },
+    {
+      "start": 247.12,
+      "duration": 5.199,
+      "text": "complex things like translation and I"
+    },
+    {
+      "start": 249.599,
+      "duration": 4.081,
+      "text": "wanted to unify also uh the field and"
+    },
+    {
+      "start": 252.319,
+      "duration": 3.12,
+      "text": "that eventually led us to prompt"
+    },
+    {
+      "start": 253.68,
+      "duration": 3.76,
+      "text": "engineering and inventing that but then"
+    },
+    {
+      "start": 255.439,
+      "duration": 3.76,
+      "text": "after the PhD I was like now we have the"
+    },
+    {
+      "start": 257.44,
+      "duration": 3.919,
+      "text": "main ingredients. We know how to make it"
+    },
+    {
+      "start": 259.199,
+      "duration": 3.761,
+      "text": "work. We need large neural networks. We"
+    },
+    {
+      "start": 261.359,
+      "duration": 3.521,
+      "text": "need a lot of data. And I showed that in"
+    },
+    {
+      "start": 262.96,
+      "duration": 3.679,
+      "text": "all my research papers. And now we need"
+    },
+    {
+      "start": 264.88,
+      "duration": 3.68,
+      "text": "to actually scale it up. We need to like"
+    },
+    {
+      "start": 266.639,
+      "duration": 4.401,
+      "text": "take those ideas and apply them into"
+    },
+    {
+      "start": 268.56,
+      "duration": 4.16,
+      "text": "real applications for real people. And I"
+    },
+    {
+      "start": 271.04,
+      "duration": 3.12,
+      "text": "think a lot of the papers that came out"
+    },
+    {
+      "start": 272.72,
+      "duration": 3.039,
+      "text": "in the last couple of years, they made"
+    },
+    {
+      "start": 274.16,
+      "duration": 4.479,
+      "text": "everything a little bit better. But"
+    },
+    {
+      "start": 275.759,
+      "duration": 5.601,
+      "text": "those main ideas of endtoend trainable"
+    },
+    {
+      "start": 278.639,
+      "duration": 5.041,
+      "text": "neural networks on large data sets, that"
+    },
+    {
+      "start": 281.36,
+      "duration": 4.32,
+      "text": "is the main idea. That's those those"
+    },
+    {
+      "start": 283.68,
+      "duration": 4.32,
+      "text": "ingredients are the main ideas that push"
+    },
+    {
+      "start": 285.68,
+      "duration": 4.88,
+      "text": "the field forward. And I felt like it"
+    },
+    {
+      "start": 288.0,
+      "duration": 4.4,
+      "text": "made more sense now to majorly scale"
+    },
+    {
+      "start": 290.56,
+      "duration": 3.28,
+      "text": "that. And then in academia, you just"
+    },
+    {
+      "start": 292.4,
+      "duration": 3.2,
+      "text": "don't have the resources to really"
+    },
+    {
+      "start": 293.84,
+      "duration": 3.04,
+      "text": "scale. And then while I was excited"
+    },
+    {
+      "start": 295.6,
+      "duration": 3.039,
+      "text": "about scaling it, I should have scaled"
+    },
+    {
+      "start": 296.88,
+      "duration": 4.24,
+      "text": "it even more. You know, I thought, oh, I"
+    },
+    {
+      "start": 298.639,
+      "duration": 4.161,
+      "text": "raised like 1020 million, but I should"
+    },
+    {
+      "start": 301.12,
+      "duration": 4.24,
+      "text": "have raised $200 million or a billion"
+    },
+    {
+      "start": 302.8,
+      "duration": 4.32,
+      "text": "dollars to really scale it more. So it"
+    },
+    {
+      "start": 305.36,
+      "duration": 3.36,
+      "text": "was clear to me that to really scale it,"
+    },
+    {
+      "start": 307.12,
+      "duration": 4.4,
+      "text": "you had to do it in industry. And that"
+    },
+    {
+      "start": 308.72,
+      "duration": 5.039,
+      "text": "the technology was ready now to move out"
+    },
+    {
+      "start": 311.52,
+      "duration": 3.84,
+      "text": "of academic research into the real"
+    },
+    {
+      "start": 313.759,
+      "duration": 3.521,
+      "text": "world. And then when you maximize impact"
+    },
+    {
+      "start": 315.36,
+      "duration": 3.44,
+      "text": "and you realize well the main ideas have"
+    },
+    {
+      "start": 317.28,
+      "duration": 3.44,
+      "text": "we've been researched now it's time to"
+    },
+    {
+      "start": 318.8,
+      "duration": 7.08,
+      "text": "really apply them in the real world and"
+    },
+    {
+      "start": 320.72,
+      "duration": 5.16,
+      "text": "so startup uh felt like it made sense."
+    },
+    {
+      "start": 329.12,
+      "duration": 4.96,
+      "text": "So I graduated in 2014 then started"
+    },
+    {
+      "start": 331.44,
+      "duration": 4.4,
+      "text": "Metammind. Metammind uh was basically an"
+    },
+    {
+      "start": 334.08,
+      "duration": 4.08,
+      "text": "AI platform that made it very easy to"
+    },
+    {
+      "start": 335.84,
+      "duration": 4.48,
+      "text": "train neural networks. we had uh started"
+    },
+    {
+      "start": 338.16,
+      "duration": 4.4,
+      "text": "selling it to but for selling you had to"
+    },
+    {
+      "start": 340.32,
+      "duration": 3.84,
+      "text": "be very very focused on one small niche"
+    },
+    {
+      "start": 342.56,
+      "duration": 3.68,
+      "text": "but we had built this very powerful"
+    },
+    {
+      "start": 344.16,
+      "duration": 4.64,
+      "text": "platform and so felt like in the hands"
+    },
+    {
+      "start": 346.24,
+      "duration": 4.399,
+      "text": "of a no pun intended sales force that is"
+    },
+    {
+      "start": 348.8,
+      "duration": 3.76,
+      "text": "very large we could actually have much"
+    },
+    {
+      "start": 350.639,
+      "duration": 4.321,
+      "text": "much more impact and the impact within"
+    },
+    {
+      "start": 352.56,
+      "duration": 4.8,
+      "text": "Salesforce was much much larger for the"
+    },
+    {
+      "start": 354.96,
+      "duration": 3.92,
+      "text": "way we had built that company and then I"
+    },
+    {
+      "start": 357.36,
+      "duration": 3.6,
+      "text": "thought for a long time like I'll just"
+    },
+    {
+      "start": 358.88,
+      "duration": 4.319,
+      "text": "be very happy cuz uh Salesforce and do"
+    },
+    {
+      "start": 360.96,
+      "duration": 4.0,
+      "text": "amazing research and improve a lot of"
+    },
+    {
+      "start": 363.199,
+      "duration": 3.44,
+      "text": "the products we did not just prompt"
+    },
+    {
+      "start": 364.96,
+      "duration": 3.44,
+      "text": "engineering but we also built the are"
+    },
+    {
+      "start": 366.639,
+      "duration": 3.68,
+      "text": "just language model for proteins for"
+    },
+    {
+      "start": 368.4,
+      "duration": 4.16,
+      "text": "instance and biology. And then we had"
+    },
+    {
+      "start": 370.319,
+      "duration": 4.481,
+      "text": "invented prompt engineering. And so we"
+    },
+    {
+      "start": 372.56,
+      "duration": 4.32,
+      "text": "trained this one neural network that can"
+    },
+    {
+      "start": 374.8,
+      "duration": 4.32,
+      "text": "give you all different kinds of answers."
+    },
+    {
+      "start": 376.88,
+      "duration": 4.24,
+      "text": "And so we thought clearly people should"
+    },
+    {
+      "start": 379.12,
+      "duration": 3.6,
+      "text": "get access to this. and we published a"
+    },
+    {
+      "start": 381.12,
+      "duration": 3.76,
+      "text": "paper and you know the paper got cited"
+    },
+    {
+      "start": 382.72,
+      "duration": 4.16,
+      "text": "by other people at OpenAI and Alec"
+    },
+    {
+      "start": 384.88,
+      "duration": 3.92,
+      "text": "Ratford and Ilia and they said oh this"
+    },
+    {
+      "start": 386.88,
+      "duration": 3.68,
+      "text": "is an interesting idea and they extended"
+    },
+    {
+      "start": 388.8,
+      "duration": 3.44,
+      "text": "it and and so on but we felt like well"
+    },
+    {
+      "start": 390.56,
+      "duration": 3.68,
+      "text": "they're also a research lab so we needed"
+    },
+    {
+      "start": 392.24,
+      "duration": 3.36,
+      "text": "to bring this to real people and Google"
+    },
+    {
+      "start": 394.24,
+      "duration": 3.679,
+      "text": "was just not doing anything cuz they're"
+    },
+    {
+      "start": 395.6,
+      "duration": 4.24,
+      "text": "a monopoly they're making money and more"
+    },
+    {
+      "start": 397.919,
+      "duration": 4.081,
+      "text": "and more money just selling"
+    },
+    {
+      "start": 399.84,
+      "duration": 4.56,
+      "text": "advertisement and so they didn't see a"
+    },
+    {
+      "start": 402.0,
+      "duration": 4.8,
+      "text": "need reason and weren't making any"
+    },
+    {
+      "start": 404.4,
+      "duration": 4.639,
+      "text": "interesting sort of modifications to"
+    },
+    {
+      "start": 406.8,
+      "duration": 3.519,
+      "text": "fundamentally how we search and so we"
+    },
+    {
+      "start": 409.039,
+      "duration": 3.841,
+      "text": "felt like well someone's has got to do"
+    },
+    {
+      "start": 410.319,
+      "duration": 4.801,
+      "text": "it. And so we we started you.com and we"
+    },
+    {
+      "start": 412.88,
+      "duration": 4.4,
+      "text": "felt like it had to be a new company to"
+    },
+    {
+      "start": 415.12,
+      "duration": 4.24,
+      "text": "have the impact to really become a"
+    },
+    {
+      "start": 417.28,
+      "duration": 4.16,
+      "text": "better way of finding information"
+    },
+    {
+      "start": 419.36,
+      "duration": 5.44,
+      "text": "online. And eventually we became the"
+    },
+    {
+      "start": 421.44,
+      "duration": 5.44,
+      "text": "first to put an LM into a search engine."
+    },
+    {
+      "start": 424.8,
+      "duration": 4.239,
+      "text": "Imagine you know Google Gemini like"
+    },
+    {
+      "start": 426.88,
+      "duration": 4.96,
+      "text": "people also ask and you get like answers"
+    },
+    {
+      "start": 429.039,
+      "duration": 5.681,
+      "text": "from AI. We did those kinds of things"
+    },
+    {
+      "start": 431.84,
+      "duration": 6.16,
+      "text": "but in 2021. So it is different because"
+    },
+    {
+      "start": 434.72,
+      "duration": 5.36,
+      "text": "it was no no one that didn't exist you"
+    },
+    {
+      "start": 438.0,
+      "duration": 4.72,
+      "text": "know a research background where you the"
+    },
+    {
+      "start": 440.08,
+      "duration": 4.48,
+      "text": "whole idea of being a PhD is to do"
+    },
+    {
+      "start": 442.72,
+      "duration": 5.28,
+      "text": "things that don't exist right to create"
+    },
+    {
+      "start": 444.56,
+      "duration": 4.96,
+      "text": "new ideas and and new models uh and and"
+    },
+    {
+      "start": 448.0,
+      "duration": 3.599,
+      "text": "then you can often think about what"
+    },
+    {
+      "start": 449.52,
+      "duration": 3.6,
+      "text": "kinds of new ideas and models should you"
+    },
+    {
+      "start": 451.599,
+      "duration": 3.921,
+      "text": "build the kinds of things that are"
+    },
+    {
+      "start": 453.12,
+      "duration": 5.04,
+      "text": "useful for people and when you ask like"
+    },
+    {
+      "start": 455.52,
+      "duration": 4.72,
+      "text": "oh how do I write a Fibonacci function"
+    },
+    {
+      "start": 458.16,
+      "duration": 3.759,
+      "text": "or how do I write an HTML page that does"
+    },
+    {
+      "start": 460.24,
+      "duration": 4.079,
+      "text": "something it's just obvious that it's"
+    },
+    {
+      "start": 461.919,
+      "duration": 4.241,
+      "text": "better to just get an answer from an LM"
+    },
+    {
+      "start": 464.319,
+      "duration": 3.921,
+      "text": "than to guess get a list of blue links"
+    },
+    {
+      "start": 466.16,
+      "duration": 5.2,
+      "text": "where you then have to click on 10 open"
+    },
+    {
+      "start": 468.24,
+      "duration": 5.6,
+      "text": "tabs and open them up and then kind of"
+    },
+    {
+      "start": 471.36,
+      "duration": 4.559,
+      "text": "uh find the answer somewhere else. Uh"
+    },
+    {
+      "start": 473.84,
+      "duration": 3.68,
+      "text": "and so that just seems like from first"
+    },
+    {
+      "start": 475.919,
+      "duration": 4.0,
+      "text": "principles it's better to get an answer"
+    },
+    {
+      "start": 477.52,
+      "duration": 4.72,
+      "text": "than lists of links that may have the"
+    },
+    {
+      "start": 479.919,
+      "duration": 5.56,
+      "text": "answer or not. So that's how we invented"
+    },
+    {
+      "start": 482.24,
+      "duration": 3.239,
+      "text": "that one."
+    },
+    {
+      "start": 488.4,
+      "duration": 4.079,
+      "text": "I think the biggest thing for us was the"
+    },
+    {
+      "start": 490.16,
+      "duration": 5.12,
+      "text": "pivot into enterprise. That was a really"
+    },
+    {
+      "start": 492.479,
+      "duration": 5.681,
+      "text": "good focus. A lot of folks now realize"
+    },
+    {
+      "start": 495.28,
+      "duration": 4.88,
+      "text": "they need AI, but only the experts"
+    },
+    {
+      "start": 498.16,
+      "duration": 4.56,
+      "text": "realize that in order to make AI"
+    },
+    {
+      "start": 500.16,
+      "duration": 5.439,
+      "text": "accurate, in order to make an LM not"
+    },
+    {
+      "start": 502.72,
+      "duration": 5.44,
+      "text": "hallucinate, you actually need to have a"
+    },
+    {
+      "start": 505.599,
+      "duration": 4.481,
+      "text": "good search infrastructure to inform"
+    },
+    {
+      "start": 508.16,
+      "duration": 3.439,
+      "text": "that LM. So, we built that"
+    },
+    {
+      "start": 510.08,
+      "duration": 4.72,
+      "text": "infrastructure layer cuz we've been at"
+    },
+    {
+      "start": 511.599,
+      "duration": 6.56,
+      "text": "it since 2022. What we found is more and"
+    },
+    {
+      "start": 514.8,
+      "duration": 6.08,
+      "text": "more companies actually want to use the"
+    },
+    {
+      "start": 518.159,
+      "duration": 4.721,
+      "text": "underlying infrastructure for their own"
+    },
+    {
+      "start": 520.88,
+      "duration": 3.84,
+      "text": "solutions inside their own products. I"
+    },
+    {
+      "start": 522.88,
+      "duration": 3.84,
+      "text": "guess you know there's sort of different"
+    },
+    {
+      "start": 524.72,
+      "duration": 4.559,
+      "text": "pivots in the world right you can say oh"
+    },
+    {
+      "start": 526.72,
+      "duration": 5.52,
+      "text": "we're make cameras and now we sell soft"
+    },
+    {
+      "start": 529.279,
+      "duration": 4.801,
+      "text": "drinks right that's a big pivot but we"
+    },
+    {
+      "start": 532.24,
+      "duration": 4.159,
+      "text": "gave people answers and now we give"
+    },
+    {
+      "start": 534.08,
+      "duration": 4.56,
+      "text": "people answers but how we're selling"
+    },
+    {
+      "start": 536.399,
+      "duration": 4.56,
+      "text": "those answers is different and it's good"
+    },
+    {
+      "start": 538.64,
+      "duration": 3.759,
+      "text": "to follow the revenue here are a bunch"
+    },
+    {
+      "start": 540.959,
+      "duration": 3.121,
+      "text": "of people who want to use the product"
+    },
+    {
+      "start": 542.399,
+      "duration": 3.681,
+      "text": "for free and then here a bunch of people"
+    },
+    {
+      "start": 544.08,
+      "duration": 4.72,
+      "text": "who want to use and get really good"
+    },
+    {
+      "start": 546.08,
+      "duration": 4.4,
+      "text": "answers over their own custom data sets"
+    },
+    {
+      "start": 548.8,
+      "duration": 4.64,
+      "text": "and they're willing to pay you follow"
+    },
+    {
+      "start": 550.48,
+      "duration": 4.88,
+      "text": "the people that pay follow real revenue,"
+    },
+    {
+      "start": 553.44,
+      "duration": 3.36,
+      "text": "not like, okay, hype. Some people say,"
+    },
+    {
+      "start": 555.36,
+      "duration": 3.36,
+      "text": "oh, I want to use this product for free,"
+    },
+    {
+      "start": 556.8,
+      "duration": 4.159,
+      "text": "and you're like, okay, that's great. But"
+    },
+    {
+      "start": 558.72,
+      "duration": 4.32,
+      "text": "if you build something that uh companies"
+    },
+    {
+      "start": 560.959,
+      "duration": 5.961,
+      "text": "are willing to pay for, you know, you've"
+    },
+    {
+      "start": 563.04,
+      "duration": 3.88,
+      "text": "built something of value."
+    },
+    {
+      "start": 569.279,
+      "duration": 4.0,
+      "text": "Some people think we should like slow"
+    },
+    {
+      "start": 571.36,
+      "duration": 3.76,
+      "text": "down. I think we should accelerate more."
+    },
+    {
+      "start": 573.279,
+      "duration": 3.12,
+      "text": "I think we should accelerate everything"
+    },
+    {
+      "start": 575.12,
+      "duration": 4.08,
+      "text": "a lot more. It's kind of interesting."
+    },
+    {
+      "start": 576.399,
+      "duration": 5.281,
+      "text": "It's hard to navigate AI because on the"
+    },
+    {
+      "start": 579.2,
+      "duration": 5.36,
+      "text": "one hand there's real impact, right? Our"
+    },
+    {
+      "start": 581.68,
+      "duration": 5.12,
+      "text": "customers have built over 100,000 agents"
+    },
+    {
+      "start": 584.56,
+      "duration": 3.76,
+      "text": "that are automating real tasks for their"
+    },
+    {
+      "start": 586.8,
+      "duration": 3.039,
+      "text": "work, right? And they're telling us and"
+    },
+    {
+      "start": 588.32,
+      "duration": 3.76,
+      "text": "they're paying us for it because it's"
+    },
+    {
+      "start": 589.839,
+      "duration": 4.801,
+      "text": "valuable and it's it works. At the same"
+    },
+    {
+      "start": 592.08,
+      "duration": 5.759,
+      "text": "time, there's a lot of hype and around"
+    },
+    {
+      "start": 594.64,
+      "duration": 5.52,
+      "text": "AI like how quickly and how far are we"
+    },
+    {
+      "start": 597.839,
+      "duration": 4.961,
+      "text": "on super intelligence? Uh are we on the"
+    },
+    {
+      "start": 600.16,
+      "duration": 4.799,
+      "text": "right track for that? How much could uh"
+    },
+    {
+      "start": 602.8,
+      "duration": 4.08,
+      "text": "a browser automate complete tasks"
+    },
+    {
+      "start": 604.959,
+      "duration": 3.841,
+      "text": "without knowing enough about me and"
+    },
+    {
+      "start": 606.88,
+      "duration": 3.44,
+      "text": "things like that? And sometimes the"
+    },
+    {
+      "start": 608.8,
+      "duration": 3.039,
+      "text": "timelines are a little bit off. You"
+    },
+    {
+      "start": 610.32,
+      "duration": 3.68,
+      "text": "know, maybe it will take a little bit"
+    },
+    {
+      "start": 611.839,
+      "duration": 5.041,
+      "text": "longer, but the field moves so quickly,"
+    },
+    {
+      "start": 614.0,
+      "duration": 5.92,
+      "text": "you have to mostly think of like 2 to 4"
+    },
+    {
+      "start": 616.88,
+      "duration": 4.56,
+      "text": "week cycles to try to move quickly."
+    },
+    {
+      "start": 619.92,
+      "duration": 3.84,
+      "text": "Okay. And so it's important to think"
+    },
+    {
+      "start": 621.44,
+      "duration": 4.399,
+      "text": "about what are the right applications"
+    },
+    {
+      "start": 623.76,
+      "duration": 4.319,
+      "text": "where you can create ideally virtuous"
+    },
+    {
+      "start": 625.839,
+      "duration": 5.281,
+      "text": "data cycles where you do something"
+    },
+    {
+      "start": 628.079,
+      "duration": 4.88,
+      "text": "manually. You collect data and then you"
+    },
+    {
+      "start": 631.12,
+      "duration": 4.0,
+      "text": "make that decision process a little bit"
+    },
+    {
+      "start": 632.959,
+      "duration": 3.281,
+      "text": "better and then at some point you've"
+    },
+    {
+      "start": 635.12,
+      "duration": 3.2,
+      "text": "made it good enough that you can"
+    },
+    {
+      "start": 636.24,
+      "duration": 4.159,
+      "text": "automate it. And so I for instance"
+    },
+    {
+      "start": 638.32,
+      "duration": 3.84,
+      "text": "didn't want to invest in a bunch of"
+    },
+    {
+      "start": 640.399,
+      "duration": 3.521,
+      "text": "self-driving car companies that said we"
+    },
+    {
+      "start": 642.16,
+      "duration": 3.76,
+      "text": "don't even need a steering wheel. We"
+    },
+    {
+      "start": 643.92,
+      "duration": 3.599,
+      "text": "just need to like have a full"
+    },
+    {
+      "start": 645.92,
+      "duration": 3.599,
+      "text": "self-driving car. And I was like, \"Oh"
+    },
+    {
+      "start": 647.519,
+      "duration": 3.361,
+      "text": "man, you can't sell that car until"
+    },
+    {
+      "start": 649.519,
+      "duration": 3.44,
+      "text": "you're perfect.\" And so that's not"
+    },
+    {
+      "start": 650.88,
+      "duration": 3.519,
+      "text": "generally good. AI is not right away"
+    },
+    {
+      "start": 652.959,
+      "duration": 3.201,
+      "text": "perfect. Humans aren't perfect, right?"
+    },
+    {
+      "start": 654.399,
+      "duration": 3.201,
+      "text": "Humans still make driving mistakes and"
+    },
+    {
+      "start": 656.16,
+      "duration": 3.04,
+      "text": "so on. AI will make some driving"
+    },
+    {
+      "start": 657.6,
+      "duration": 4.16,
+      "text": "mistakes, too. And so it's good to have"
+    },
+    {
+      "start": 659.2,
+      "duration": 4.48,
+      "text": "a steering wheel. And so the companies"
+    },
+    {
+      "start": 661.76,
+      "duration": 4.0,
+      "text": "that were able to eventually get to full"
+    },
+    {
+      "start": 663.68,
+      "duration": 4.48,
+      "text": "self-driving were either the really"
+    },
+    {
+      "start": 665.76,
+      "duration": 4.16,
+      "text": "clever ones like Tesla. You buy the car,"
+    },
+    {
+      "start": 668.16,
+      "duration": 4.16,
+      "text": "you pay for the product, you use the"
+    },
+    {
+      "start": 669.92,
+      "duration": 4.8,
+      "text": "product, you're now creating training"
+    },
+    {
+      "start": 672.32,
+      "duration": 4.079,
+      "text": "data by using the product. And then the"
+    },
+    {
+      "start": 674.72,
+      "duration": 6.08,
+      "text": "eye can use that training data and"
+    },
+    {
+      "start": 676.399,
+      "duration": 7.44,
+      "text": "eventually automate uh the process."
+    },
+    {
+      "start": 680.8,
+      "duration": 5.68,
+      "text": "When you see small but continuous"
+    },
+    {
+      "start": 683.839,
+      "duration": 4.721,
+      "text": "improvements, that's when you you can,"
+    },
+    {
+      "start": 686.48,
+      "duration": 3.44,
+      "text": "you know, be very motivated too. So"
+    },
+    {
+      "start": 688.56,
+      "duration": 2.88,
+      "text": "that's one of my mottos is better,"
+    },
+    {
+      "start": 689.92,
+      "duration": 3.919,
+      "text": "better, never done, right? You can"
+    },
+    {
+      "start": 691.44,
+      "duration": 4.88,
+      "text": "always improve uh yourself, your"
+    },
+    {
+      "start": 693.839,
+      "duration": 4.401,
+      "text": "company, your processes. Overall, I"
+    },
+    {
+      "start": 696.32,
+      "duration": 4.56,
+      "text": "would summarize it as excitement. I love"
+    },
+    {
+      "start": 698.24,
+      "duration": 4.56,
+      "text": "AI. I love AI in all of its facets from"
+    },
+    {
+      "start": 700.88,
+      "duration": 4.24,
+      "text": "foundational research and thinking about"
+    },
+    {
+      "start": 702.8,
+      "duration": 3.92,
+      "text": "the upper bounds of super intelligence"
+    },
+    {
+      "start": 705.12,
+      "duration": 3.52,
+      "text": "uh all the way down to like how do we"
+    },
+    {
+      "start": 706.72,
+      "duration": 3.76,
+      "text": "make it really work now and get it into"
+    },
+    {
+      "start": 708.64,
+      "duration": 6.84,
+      "text": "the hands of more companies and people"
+    },
+    {
+      "start": 710.48,
+      "duration": 5.0,
+      "text": "to like to make their lives better."
+    }
+  ]
+}

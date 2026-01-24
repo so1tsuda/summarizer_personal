@@ -1,0 +1,4446 @@
+{
+  "video_id": "1em64iUFt3U",
+  "title": "How a Meta PM ships products without ever writing code | Zevi Arnovitz",
+  "channel": "Lenny's Podcast",
+  "published_at": "2026-01-18T13:30:02Z",
+  "duration": "PT1H15M13S",
+  "thumbnail": "https://i.ytimg.com/vi/1em64iUFt3U/hqdefault.jpg",
+  "fetched_at": "2026-01-24T09:35:50.096054",
+  "transcript": [
+    {
+      "start": 0.08,
+      "duration": 2.72,
+      "text": "You are a product manager shipping product"
+    },
+    {
+      "start": 2.8,
+      "duration": 3.28,
+      "text": "without knowing how to write code, \nbarely knowing how to review code."
+    },
+    {
+      "start": 6.08,
+      "duration": 4.0,
+      "text": "I have zero technical background, did \nmusic in high school ... when Sonnet"
+    },
+    {
+      "start": 10.08,
+      "duration": 5.76,
+      "text": "3.5 came out. I remember watching a YouTube \nvideo building apps using Bolt or Lovable."
+    },
+    {
+      "start": 15.84,
+      "duration": 3.52,
+      "text": "It basically felt like someone came up to \nme and said, \"You have superpowers now.\""
+    },
+    {
+      "start": 19.36,
+      "duration": 2.8,
+      "text": "These days, you're using Cursor with Claude Code."
+    },
+    {
+      "start": 22.16,
+      "duration": 4.24,
+      "text": "If you're non-technical like me, code \nis terrifying, but AI just makes it so"
+    },
+    {
+      "start": 26.4,
+      "duration": 3.2,
+      "text": "much possible. In the next coming years, I \nthink everyone's going to become a builder."
+    },
+    {
+      "start": 29.6,
+      "duration": 3.52,
+      "text": "Titles are going to collapse and \nresponsibilities are going to collapse."
+    },
+    {
+      "start": 33.12,
+      "duration": 3.28,
+      "text": "The main challenge people have is \nreviewing the code that AI has written."
+    },
+    {
+      "start": 36.4,
+      "duration": 4.64,
+      "text": "It's very difficult for me to catch \nmistakes. What I'll do is basically"
+    },
+    {
+      "start": 41.04,
+      "duration": 6.08,
+      "text": "/review. This tells Claude to start reviewing \nits own code, but what's even cooler is I have"
+    },
+    {
+      "start": 47.12,
+      "duration": 5.04,
+      "text": "Codex as well as Cursor open. I will \nhave each of them review the code."
+    },
+    {
+      "start": 52.16,
+      "duration": 2.72,
+      "text": "This comes back to this quote. I think \neveryone's always hearing. It's not that"
+    },
+    {
+      "start": 54.88,
+      "duration": 4.96,
+      "text": "you will be replaced by AI. You'll be replaced \nby someone who's better at using AI than you."
+    },
+    {
+      "start": 59.84,
+      "duration": 2.96,
+      "text": "It's the best time to be a junior, contrary \nto what a lot of people are saying,"
+    },
+    {
+      "start": 62.8,
+      "duration": 2.96,
+      "text": "how there's no more junior roles \nout there. Yeah, that's true,"
+    },
+    {
+      "start": 65.76,
+      "duration": 6.08,
+      "text": "but also when else in history could you get out \nof school and just build a startup on your own?"
+    },
+    {
+      "start": 71.84,
+      "duration": 5.68,
+      "text": "Today, my guest is Zevi Arnovitz. Zevi is a \nPM at Meta. Prior to that, he was a PM at Wix,"
+    },
+    {
+      "start": 77.52,
+      "duration": 6.0,
+      "text": "and this is a truly remarkable conversation that \nevery non-technical product person needs to hear."
+    },
+    {
+      "start": 83.52,
+      "duration": 4.8,
+      "text": "Zevi is super young and has no technical \nbackground, but as a smart, young,"
+    },
+    {
+      "start": 88.32,
+      "duration": 4.4,
+      "text": "ambitious person, has learned how to use \nCursor and Claude Code to build significant"
+    },
+    {
+      "start": 92.72,
+      "duration": 5.6,
+      "text": "and real products completely on his own, and he's \ncreated his own very clever and effective workflow"
+    },
+    {
+      "start": 98.32,
+      "duration": 3.76,
+      "text": "that everyone listening can copy.\nTo make that copying even easier,"
+    },
+    {
+      "start": 102.08,
+      "duration": 3.92,
+      "text": "at the top of the show notes of this episode, you \ncan download all of the prompts and /commands and"
+    },
+    {
+      "start": 106.0,
+      "duration": 5.92,
+      "text": "start doing all of this yourself. Zevi shows you \nhow to work with cursor to quickly add your ideas"
+    },
+    {
+      "start": 111.92,
+      "duration": 6.08,
+      "text": "to Linear to explore your idea with AI, how to \ndevelop your plan, how to then build the thing,"
+    },
+    {
+      "start": 118.0,
+      "duration": 4.0,
+      "text": "and then have different LLMs review \nyour code and update your documentation,"
+    },
+    {
+      "start": 122.0,
+      "duration": 4.96,
+      "text": "and then use all of this as a learning opportunity \nto develop your own sense of how things work."
+    },
+    {
+      "start": 126.96,
+      "duration": 3.52,
+      "text": "I haven't stopped thinking about \nthis conversation since we had it,"
+    },
+    {
+      "start": 130.48,
+      "duration": 4.88,
+      "text": "and everyone needs to pay attention to what \nAI is unlocking for non-technical people."
+    },
+    {
+      "start": 135.36,
+      "duration": 4.32,
+      "text": "A huge thank you to Tal Raviv for encouraging \nme to meet Zevi. If you enjoy this podcast,"
+    },
+    {
+      "start": 139.68,
+      "duration": 3.68,
+      "text": "don't forget to subscribe and follow it in \nyour favorite podcasting app or YouTube."
+    },
+    {
+      "start": 143.36,
+      "duration": 4.24,
+      "text": "It helps tremendously. And if you become \nan annual subscriber of my newsletter,"
+    },
+    {
+      "start": 147.6,
+      "duration": 6.48,
+      "text": "you get 19 premium products for free for \nan entire year including Lovable, Replit,"
+    },
+    {
+      "start": 154.08,
+      "duration": 4.64,
+      "text": "Bolt, Gamma, n8n, Linear, Devin, PostHog, \nSuperhuman, Descript, Wispr Flow, Perplexity,"
+    },
+    {
+      "start": 158.72,
+      "duration": 3.84,
+      "text": "Warp, Granola, Magic Patterns, Raycast, \nChatPRD, Mobbin, and Stripe Atlas. Head"
+    },
+    {
+      "start": 162.56,
+      "duration": 4.48,
+      "text": "on over to lennysnewsletter.com and click \nproduct pass. With that, I bring you Zevi"
+    },
+    {
+      "start": 167.04,
+      "duration": 5.92,
+      "text": "Arnovitz after a short word from our sponsors.\nThis episode is brought to you by 10Web,"
+    },
+    {
+      "start": 172.96,
+      "duration": 6.0,
+      "text": "the company that pioneered AI website building \nbefore ChatGPT. In the last three years, over two"
+    },
+    {
+      "start": 178.96,
+      "duration": 5.2,
+      "text": "million websites have been generated with 10Web's \nvibe coding platform. 10Web's vibe coding platform"
+    },
+    {
+      "start": 184.16,
+      "duration": 6.48,
+      "text": "is a powerful way to build websites. Think of it \nas lovable for WordPress, front end and backend."
+    },
+    {
+      "start": 190.64,
+      "duration": 6.32,
+      "text": "Users can build any website at any complexity, \ne-commerce, portfolios, information websites,"
+    },
+    {
+      "start": 196.96,
+      "duration": 4.96,
+      "text": "blogs, and it comes with the WordPress admin \npanel and thousands of ready to use plugins."
+    },
+    {
+      "start": 201.92,
+      "duration": 5.76,
+      "text": "10Web also offers website generation as an API \nas a service for SaaS companies, marketplaces,"
+    },
+    {
+      "start": 207.68,
+      "duration": 5.84,
+      "text": "hosting providers, MSPs and agencies. SaaS \ncompanies can embed it via API so that users"
+    },
+    {
+      "start": 213.52,
+      "duration": 5.28,
+      "text": "can launch AI generated sites directly inside \nof their platform, connected to their own data."
+    },
+    {
+      "start": 218.8,
+      "duration": 5.28,
+      "text": "Agencies and MSPs can get a white label \ndashboard to manage clients and resell under"
+    },
+    {
+      "start": 224.08,
+      "duration": 5.28,
+      "text": "their brand. Hosting providers can self-host \nthe API builder on their own infrastructure."
+    },
+    {
+      "start": 229.36,
+      "duration": 7.52,
+      "text": "Check it out at 10web.io/lenny and use code \nLenny for exclusive free credits and 30% off"
+    },
+    {
+      "start": 236.88,
+      "duration": 9.92,
+      "text": "API or white labeled solutions. That's the number \n10web.io/lenny, vibe coding platform as an API."
+    },
+    {
+      "start": 246.8,
+      "duration": 4.48,
+      "text": "Today's episode is brought to you by DX, the \ndeveloper intelligence platform designed by"
+    },
+    {
+      "start": 251.28,
+      "duration": 5.76,
+      "text": "leading researchers. To thrive in the AI era, \norganizations need to adapt quickly, but many"
+    },
+    {
+      "start": 257.04,
+      "duration": 4.96,
+      "text": "organization leaders struggle to answer pressing \nquestions like, which tools are working? How are"
+    },
+    {
+      "start": 262.0,
+      "duration": 5.84,
+      "text": "they being used? What's actually driving value?\nDX provides the data and insights that leaders"
+    },
+    {
+      "start": 267.84,
+      "duration": 6.08,
+      "text": "need to navigate this shift. With DX, companies \nlike Dropbox, Booking.com, Adyen, and Intercom"
+    },
+    {
+      "start": 273.92,
+      "duration": 5.36,
+      "text": "get a deep understanding of how AI is providing \nvalue to their developers and what impact AI is"
+    },
+    {
+      "start": 279.28,
+      "duration": 7.28,
+      "text": "having on engineering productivity. To learn \nmore, visit DX's website at getdx.com/lenny,"
+    },
+    {
+      "start": 286.56,
+      "duration": 10.08,
+      "text": "that's getdx.com/lenny. Zevi, thank you so \nmuch for being here and welcome to the podcast."
+    },
+    {
+      "start": 296.64,
+      "duration": 3.28,
+      "text": "Thanks for having me, Lenny. \nI'm a huge fan of the show and"
+    },
+    {
+      "start": 299.92,
+      "duration": 3.04,
+      "text": "tons of people that I've admired most and \nlearned the most from. I've been on here,"
+    },
+    {
+      "start": 302.96,
+      "duration": 3.36,
+      "text": "so it's a crazy moment for me. \nI'm really excited for this."
+    },
+    {
+      "start": 306.32,
+      "duration": 3.36,
+      "text": "I really appreciate that. I want \nto start by reading actually a note"
+    },
+    {
+      "start": 309.68,
+      "duration": 4.88,
+      "text": "I got about you from Tal Raviv, \nwho is a previous podcast guest,"
+    },
+    {
+      "start": 314.56,
+      "duration": 4.24,
+      "text": "many times newsletter collaborator. One of \nthe most AI forward product managers that"
+    },
+    {
+      "start": 318.8,
+      "duration": 4.16,
+      "text": "I know I've learned a ton from him. So here's \nwhat he said about you when he introduced us."
+    },
+    {
+      "start": 322.96,
+      "duration": 5.28,
+      "text": "Zevi is the most hands-on vibe coding PM I know, \nand I've personally learned so much from him. His"
+    },
+    {
+      "start": 328.24,
+      "duration": 5.36,
+      "text": "engineers at Meta ask him to teach them how \nto do what he does. Every time we get coffee,"
+    },
+    {
+      "start": 333.6,
+      "duration": 3.68,
+      "text": "I repeatedly get this feeling of \neveryone needs to be hearing this."
+    },
+    {
+      "start": 337.28,
+      "duration": 1.04,
+      "text": "That's so nice."
+    },
+    {
+      "start": 338.32,
+      "duration": 3.52,
+      "text": "And so that's the goal. That's the goal of this \nconversation is to help more people hear what you"
+    },
+    {
+      "start": 341.84,
+      "duration": 4.8,
+      "text": "figured out. We're going to get very hands-on. \nWe're going to do a lot of show versus tell,"
+    },
+    {
+      "start": 346.64,
+      "duration": 5.76,
+      "text": "showing people what you've figured out about how \nto be a PM, a non-technical PM building stuff. I"
+    },
+    {
+      "start": 352.4,
+      "duration": 3.44,
+      "text": "want to give people a little bit of background \non you because I think this is going to inspire"
+    },
+    {
+      "start": 355.84,
+      "duration": 4.56,
+      "text": "a lot of listeners to feel like they can also \ndo what we're about to show you. This is going"
+    },
+    {
+      "start": 360.4,
+      "duration": 4.64,
+      "text": "to look very advanced, but just give people a \nlittle bit of sense of just your background."
+    },
+    {
+      "start": 365.04,
+      "duration": 5.76,
+      "text": "I'm very non-technical. I have zero technical \nbackground. Did music in high school. A lot of"
+    },
+    {
+      "start": 370.8,
+      "duration": 7.2,
+      "text": "Israelis do technology units in the Army. I was \nnot in a tech unit. And basically a year ago,"
+    },
+    {
+      "start": 378.0,
+      "duration": 5.36,
+      "text": "I was traveling with my wife for three \nmonths in Asia and we were in Japan and"
+    },
+    {
+      "start": 383.36,
+      "duration": 6.48,
+      "text": "that was around when Sonnet 3.5 came out. \nAnd I remember watching a YouTube video."
+    },
+    {
+      "start": 389.84,
+      "duration": 7.2,
+      "text": "I think it was either Greg Isenberg or Riley \nBrown and they were basically building apps using,"
+    },
+    {
+      "start": 397.04,
+      "duration": 5.84,
+      "text": "it was either Bolt or Lovable, just using AI.\nAnd it was like a crazy moment for me because"
+    },
+    {
+      "start": 402.88,
+      "duration": 5.28,
+      "text": "I was watching this and it basically felt like \nsomeone came up to me and said, \"Hey Zevi, there's"
+    },
+    {
+      "start": 408.16,
+      "duration": 4.48,
+      "text": "this cool new technology you should check out. You \nshould really give it a try. Oh, and by the way,"
+    },
+    {
+      "start": 412.64,
+      "duration": 5.36,
+      "text": "you have superpowers now.\" And the second I got \nhome from Japan, I didn't even unpack my bags,"
+    },
+    {
+      "start": 418.0,
+      "duration": 5.36,
+      "text": "ran to my computer, opened Bolt, opened an \naccount, and for the past year I've been building."
+    },
+    {
+      "start": 423.36,
+      "duration": 3.92,
+      "text": "And the last thing I'll say on that is we talked \nabout this a bit before we started recording,"
+    },
+    {
+      "start": 427.28,
+      "duration": 7.92,
+      "text": "but I was prepping with Claude for the episode \nand I was trying to clarify what my goal is for"
+    },
+    {
+      "start": 435.2,
+      "duration": 4.96,
+      "text": "this episode. And Claude said, \"If people \nwalk away thinking how amazing you are,"
+    },
+    {
+      "start": 440.16,
+      "duration": 3.36,
+      "text": "you failed. And if people walk away and \nopen their computer and start building,"
+    },
+    {
+      "start": 443.52,
+      "duration": 4.16,
+      "text": "you've succeeded.\" So I really hope that \nwe can inspire some people to do the same."
+    },
+    {
+      "start": 447.68,
+      "duration": 3.92,
+      "text": "I love that so much. I feel like that should \nbe the goal for my podcast. If you're like,"
+    },
+    {
+      "start": 451.6,
+      "duration": 4.0,
+      "text": "\"I love that guest.\" It's less of a win. \nIf it's just like, \"Oh, I'm so inspired"
+    },
+    {
+      "start": 455.6,
+      "duration": 5.84,
+      "text": "to do the thing that they figured out, that \nis the real win.\" I love, Claude is the best."
+    },
+    {
+      "start": 461.44,
+      "duration": 1.28,
+      "text": "I agree."
+    },
+    {
+      "start": 462.72,
+      "duration": 4.4,
+      "text": "Okay. So let's dive in and give people, let's \nstart with kind of a high level overview of"
+    },
+    {
+      "start": 467.12,
+      "duration": 5.84,
+      "text": "how you operate and you use AI in your job. What \nare the core tools and just what's kind of like"
+    },
+    {
+      "start": 472.96,
+      "duration": 3.92,
+      "text": "the frame of reference for the workflow \nthat you figured out and how you operate?"
+    },
+    {
+      "start": 476.88,
+      "duration": 6.16,
+      "text": "This all started where I was a project's \npower user. I love projects, GPT projects."
+    },
+    {
+      "start": 483.04,
+      "duration": 0.96,
+      "text": "ChatGPT projects?"
+    },
+    {
+      "start": 484.0,
+      "duration": 6.08,
+      "text": "Yeah, exactly. GPT projects and Claude projects, \nwhich are basically a shared folder of chats which"
+    },
+    {
+      "start": 490.08,
+      "duration": 5.84,
+      "text": "share both custom instructions and shared \nknowledge base. And I think it was around"
+    },
+    {
+      "start": 495.92,
+      "duration": 7.36,
+      "text": "when GPT started using memory where I thought \nit was interesting, but it really annoyed me"
+    },
+    {
+      "start": 503.28,
+      "duration": 8.0,
+      "text": "because I do a bunch of different things. I'm \na terrible runner, I'm a PM, I was a student,"
+    },
+    {
+      "start": 511.28,
+      "duration": 6.16,
+      "text": "psychology student, so I had all these \ndifferent facets of life. And what happened was"
+    },
+    {
+      "start": 517.44,
+      "duration": 4.16,
+      "text": "the memory feature was mixing stuff up.\nSo like I talked to GPT about running"
+    },
+    {
+      "start": 521.6,
+      "duration": 5.36,
+      "text": "and it would say, \"Oh yeah, after this 5K, you're \ngoing to crush all your next product reviews.\" And"
+    },
+    {
+      "start": 526.96,
+      "duration": 5.84,
+      "text": "it's like, okay, I understand that you have that \nin your memory, but it's just not relevant. And"
+    },
+    {
+      "start": 532.8,
+      "duration": 8.88,
+      "text": "projects basically allows you to compartmentalize \nand have things within the right context. So"
+    },
+    {
+      "start": 541.68,
+      "duration": 4.16,
+      "text": "tracking back to the story I told when we came \nback from Japan, I started building this app."
+    },
+    {
+      "start": 545.84,
+      "duration": 5.76,
+      "text": "The first thing I noticed was that these products \nwere built in a way where, and when I say these"
+    },
+    {
+      "start": 551.6,
+      "duration": 5.28,
+      "text": "products, I mean Bolt and Lovable, were built in \na way where they were super eager to write code."
+    },
+    {
+      "start": 556.88,
+      "duration": 4.32,
+      "text": "So their system prompt was you're a coding \nagent. So when you'd write something, they'd"
+    },
+    {
+      "start": 561.2,
+      "duration": 3.84,
+      "text": "straight away start coding. So at the beginning \nof a project, this was super fun and exciting"
+    },
+    {
+      "start": 565.04,
+      "duration": 5.68,
+      "text": "because they just go and start building your app.\nBut later on when things got more complex, this"
+    },
+    {
+      "start": 570.72,
+      "duration": 4.56,
+      "text": "created much more problems because planning \nis really important when you're implementing"
+    },
+    {
+      "start": 575.28,
+      "duration": 4.96,
+      "text": "something technical and let's say you're \nimplementing payments or something that's"
+    },
+    {
+      "start": 580.24,
+      "duration": 5.36,
+      "text": "going to be a change to your database. If \nthe coding agent is just like, \"All right,"
+    },
+    {
+      "start": 585.6,
+      "duration": 4.0,
+      "text": "I got it.\" And just starts writing code, \nthis always results in terrible things,"
+    },
+    {
+      "start": 589.6,
+      "duration": 4.96,
+      "text": "some really gnarly bugs that I had.\nAnd to mitigate this, what I did was I created"
+    },
+    {
+      "start": 594.56,
+      "duration": 6.32,
+      "text": "sort of a CTO. So again, I'm not technical. I \nhave been in product for a while, but I know"
+    },
+    {
+      "start": 602.08,
+      "duration": 9.12,
+      "text": "zero stuff about code. So basically what I did was \nI created a CTO with the custom prompt of it being"
+    },
+    {
+      "start": 611.2,
+      "duration": 5.92,
+      "text": "the complete technical owner of the project. So I \ntold it, \"I own the problem. I own how we want the"
+    },
+    {
+      "start": 617.12,
+      "duration": 5.28,
+      "text": "users to feel. You're the complete owner of how \nthis is going to be built. I want you to challenge"
+    },
+    {
+      "start": 622.4,
+      "duration": 3.92,
+      "text": "me. I don't want you to be a people pleaser.\"\nAll these things that kind of mitigate the"
+    },
+    {
+      "start": 626.32,
+      "duration": 6.48,
+      "text": "regular ChatGPT-isms. I always think about this \nwhere for some reason, the easiest way for me to"
+    },
+    {
+      "start": 632.8,
+      "duration": 6.72,
+      "text": "think about AI is to imagine it as people. And \nI think ChatGPT would probably be the worst CTO"
+    },
+    {
+      "start": 639.52,
+      "duration": 6.96,
+      "text": "because it's such a people pleaser and it's so \nsycophantic where ... Just a short story I had"
+    },
+    {
+      "start": 646.48,
+      "duration": 6.0,
+      "text": "a few weeks ago, I was trying to learn about \nBun JavaScript, which was acquired by Anthropic"
+    },
+    {
+      "start": 652.48,
+      "duration": 4.96,
+      "text": "and I was trying to understand what they do.\nSo I was talking to GPT and this wasn't within my"
+    },
+    {
+      "start": 657.44,
+      "duration": 7.04,
+      "text": "co-founder CTO project and I asked it if it's \nsimilar to a different framework that I have"
+    },
+    {
+      "start": 664.48,
+      "duration": 6.0,
+      "text": "in my app called Zustand, which nothing \nto do at all with what Bun JavaScript"
+    },
+    {
+      "start": 670.48,
+      "duration": 5.6,
+      "text": "does. And basically GPT goes, \"Oh yeah, it's \nexactly the same.\" And then it started talking"
+    },
+    {
+      "start": 676.08,
+      "duration": 4.64,
+      "text": "about what it meant and I was like, \"Wait, \nno, these are not the same at all.\" And it"
+    },
+    {
+      "start": 680.72,
+      "duration": 3.44,
+      "text": "said the most terrifying and hilarious thing.\nHe goes, \"Oh, I'm sorry. I thought you were"
+    },
+    {
+      "start": 684.16,
+      "duration": 4.64,
+      "text": "just making this up and I was riffing \nwith you.\" And I was like, \"Oh no, no,"
+    },
+    {
+      "start": 688.8,
+      "duration": 5.6,
+      "text": "no, this is terrible.\" So basically if regular \nChatGPT was a CTO, that would be the CTO who goes"
+    },
+    {
+      "start": 694.4,
+      "duration": 5.68,
+      "text": "along with your dumbest ideas. So creating \nthe project allowed me to mitigate that."
+    },
+    {
+      "start": 700.08,
+      "duration": 5.28,
+      "text": "So this is, just to be super clear, you have \na ChatGPT project that you've given a prompt"
+    },
+    {
+      "start": 705.36,
+      "duration": 5.68,
+      "text": "to be your CTO of your product \nand being a non-technical person,"
+    },
+    {
+      "start": 711.04,
+      "duration": 4.8,
+      "text": "this is kind of like the thing you talk to \nwhen, and we'll get to what you're actually"
+    },
+    {
+      "start": 715.84,
+      "duration": 4.56,
+      "text": "using to build when you have questions about \narchitecture and decisions that are technical."
+    },
+    {
+      "start": 720.4,
+      "duration": 5.2,
+      "text": "Yeah. So now I'll show my full workflow \nand I don't involve GPT anymore,"
+    },
+    {
+      "start": 725.6,
+      "duration": 5.76,
+      "text": "but I definitely would recommend, even though the \ntechnology has gone ... So when I started this,"
+    },
+    {
+      "start": 731.36,
+      "duration": 6.08,
+      "text": "there was no plan mode or ask mode. It was just \nbuild on these products on Lovable and Bolt,"
+    },
+    {
+      "start": 737.44,
+      "duration": 4.72,
+      "text": "and they've progressed a ton. A lot of what \nI had as workflows have become ingrained"
+    },
+    {
+      "start": 742.16,
+      "duration": 5.76,
+      "text": "in these products, which is really interesting.\nI would still recommend start with a project for,"
+    },
+    {
+      "start": 747.92,
+      "duration": 3.92,
+      "text": "first of all, the reason that I said, and also \nit kind of puts you in a place where you're in"
+    },
+    {
+      "start": 751.84,
+      "duration": 5.44,
+      "text": "a chatbot and not writing code. So you take the \ntime to converse and to learn, which I think is"
+    },
+    {
+      "start": 757.28,
+      "duration": 7.12,
+      "text": "critical. And the second thing is if you're \nnon-technical like me, code is terrifying."
+    },
+    {
+      "start": 764.4,
+      "duration": 5.12,
+      "text": "It's the scariest thing in the world to look at, \nand I look at it as kind of like exposure therapy."
+    },
+    {
+      "start": 769.52,
+      "duration": 6.88,
+      "text": "I think if you see this where I'm working like \nin Claude or in Cursor, you might be excited to"
+    },
+    {
+      "start": 776.4,
+      "duration": 6.64,
+      "text": "start using those, but I would really recommend \nstarting slow with a GPT project, beautiful UI,"
+    },
+    {
+      "start": 783.04,
+      "duration": 6.48,
+      "text": "super simple, then maybe graduate to like a Bolt \nor a Lovable, and then go to Cursor in light mode,"
+    },
+    {
+      "start": 789.52,
+      "duration": 3.6,
+      "text": "slowly, slowly, gradually ease \nin until you open a terminal,"
+    },
+    {
+      "start": 793.84,
+      "duration": 5.04,
+      "text": "go full dark mode, go full dev. So I would \nreally recommend doing this gradually."
+    },
+    {
+      "start": 798.88,
+      "duration": 3.12,
+      "text": "That is awesome advice. And so just to be clear,"
+    },
+    {
+      "start": 802.0,
+      "duration": 6.4,
+      "text": "these days you're using Cursor with Claude Code \npowering it. And what I love about that is that"
+    },
+    {
+      "start": 808.4,
+      "duration": 4.149,
+      "text": "you've never written code. The way you put \nit, you're afraid of even looking at code."
+    },
+    {
+      "start": 812.549,
+      "duration": 0.011,
+      "text": "Yeah, 100%."
+    },
+    {
+      "start": 812.56,
+      "duration": 7.04,
+      "text": "You can do exposure therapy, and I love \nthat Cursor is useful to you. And what"
+    },
+    {
+      "start": 819.6,
+      "duration": 4.16,
+      "text": "you're telling us is that graduating \nfrom a ChatGPT project that is kind of"
+    },
+    {
+      "start": 823.76,
+      "duration": 5.04,
+      "text": "your technical co-founder kind of taught you \nenough to feel more comfortable going straight"
+    },
+    {
+      "start": 828.8,
+      "duration": 4.72,
+      "text": "to cursor. You said that you actually went \nto Bolt and Lovable kind of in the interim"
+    },
+    {
+      "start": 833.52,
+      "duration": 4.4,
+      "text": "and then you went just straight to Cursor. What's \nthe reason to just go straight to Cursor? Is it"
+    },
+    {
+      "start": 837.92,
+      "duration": 4.96,
+      "text": "just Cursor can do everything and once you get the \nhang of it, it's actually the most powerful tool?"
+    },
+    {
+      "start": 842.88,
+      "duration": 5.84,
+      "text": "Yeah, I think I graduated from each tool when I \nkind of outgrew it. So Bolt was awesome until I"
+    },
+    {
+      "start": 848.72,
+      "duration": 3.84,
+      "text": "was trying to connect payments to my app \nand I kind of started losing it and then"
+    },
+    {
+      "start": 852.56,
+      "duration": 4.24,
+      "text": "I graduated to Cursor and I've actually fallen \nin love with Claude. So I'm using Claude Code,"
+    },
+    {
+      "start": 856.8,
+      "duration": 5.36,
+      "text": "but that also runs within Cursor, and \nI think this is Tal who told me this."
+    },
+    {
+      "start": 862.16,
+      "duration": 4.88,
+      "text": "I'm not sure who he's quoting, but code is \njust words at the end of the day. So it's"
+    },
+    {
+      "start": 867.04,
+      "duration": 4.64,
+      "text": "just files on your computer. So basically you \ncan be working on the same project and carry"
+    },
+    {
+      "start": 871.68,
+      "duration": 5.04,
+      "text": "it from app to app. And especially now, \nI can work with multiple models and apps"
+    },
+    {
+      "start": 876.72,
+      "duration": 6.08,
+      "text": "on my project. So start slow, but definitely \nthere's a lot of places you can graduate to."
+    },
+    {
+      "start": 882.8,
+      "duration": 4.24,
+      "text": "Awesome. Okay. Should we dive into \nscreen share showing how you operate?"
+    },
+    {
+      "start": 887.04,
+      "duration": 2.64,
+      "text": "Awesome. I pulled up cursor. Can you see it?"
+    },
+    {
+      "start": 889.68,
+      "duration": 0.88,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 890.56,
+      "duration": 6.4,
+      "text": "Perfect. So within my code base, what you can see \nhere on the left, these are all my code files."
+    },
+    {
+      "start": 896.96,
+      "duration": 5.2,
+      "text": "Here on the right is Cursor. So this is \nbasically like having AI, which has access"
+    },
+    {
+      "start": 902.16,
+      "duration": 4.08,
+      "text": "to all the code. And here in the middle, I have \nClaude Code running. And what you can see here,"
+    },
+    {
+      "start": 906.24,
+      "duration": 4.48,
+      "text": "I'm going to close cursor for a second. \nWhat you can see here are all my /commands."
+    },
+    {
+      "start": 910.72,
+      "duration": 5.92,
+      "text": "Basically what /commands are, they are reusable \nprompts that I save within the code base that"
+    },
+    {
+      "start": 916.64,
+      "duration": 5.92,
+      "text": "I can run by writing / and then the name of \nthe file. So here you can see Create Issue,"
+    },
+    {
+      "start": 922.56,
+      "duration": 3.6,
+      "text": "which is the first command that I'm going to \nuse. And basically what this tells Claude,"
+    },
+    {
+      "start": 926.16,
+      "duration": 4.32,
+      "text": "it says the user is meant development and \nthought of a bug or a feature and improvement,"
+    },
+    {
+      "start": 930.48,
+      "duration": 4.08,
+      "text": "capture it fast so they can keep working.\nAnd then it basically says, this is the"
+    },
+    {
+      "start": 934.56,
+      "duration": 6.32,
+      "text": "format that I want you to capture the linear \nissue in, and it explains a bunch of things"
+    },
+    {
+      "start": 940.88,
+      "duration": 5.2,
+      "text": "what exactly Claude needs to do to get there. \nSo the way I invoke this is basically I'll do"
+    },
+    {
+      "start": 947.6,
+      "duration": 6.8,
+      "text": "/create issue and this injects this prompt \ninto Claude. So it says, \"I'm ready to help"
+    },
+    {
+      "start": 954.4,
+      "duration": 4.4,
+      "text": "you to capture this issue, what's on your mind.\"\nSo basically when I'll do this is if I'm working"
+    },
+    {
+      "start": 958.8,
+      "duration": 4.72,
+      "text": "on a big project and I suddenly come across \na bug or have an idea that I don't want to"
+    },
+    {
+      "start": 963.52,
+      "duration": 4.72,
+      "text": "work on right now, but I want to work on later, \nI'll do this really quick and Claude's main goal"
+    },
+    {
+      "start": 968.24,
+      "duration": 6.08,
+      "text": "is to quickly capture what I'm thinking about. \nSo quickly to run through my full workflow. So"
+    },
+    {
+      "start": 974.32,
+      "duration": 5.36,
+      "text": "basically it starts with creating an issue. \nSo this is the create issue /command, which"
+    },
+    {
+      "start": 979.68,
+      "duration": 4.4,
+      "text": "basically tells Claude that I'm mid-development \nand it should quickly capture what I'm thinking"
+    },
+    {
+      "start": 984.08,
+      "duration": 5.04,
+      "text": "about and create an issue within linear.\nThen later on, when I want to pick this up,"
+    },
+    {
+      "start": 989.12,
+      "duration": 4.56,
+      "text": "I have the exploration phase. Exploration \nphase is basically telling Claude,"
+    },
+    {
+      "start": 993.68,
+      "duration": 4.16,
+      "text": "we're going to only explore what we want to \nsolve here. It could either pull from linear"
+    },
+    {
+      "start": 997.84,
+      "duration": 5.44,
+      "text": "or I can just speak freely to it. And what it \nwill do is it will analyze and understand the"
+    },
+    {
+      "start": 1003.28,
+      "duration": 4.64,
+      "text": "issue and just ask clarifying questions. \nThe next phase after we've done finished"
+    },
+    {
+      "start": 1007.92,
+      "duration": 5.84,
+      "text": "exploration phase is we're going to create a plan.\nSo you can see create plan. This basically has"
+    },
+    {
+      "start": 1013.76,
+      "duration": 5.2,
+      "text": "a template that I love for creating plans, and \nthe output of this at the end of the day will be"
+    },
+    {
+      "start": 1018.96,
+      "duration": 5.52,
+      "text": "a markdown file with our plan that we can end up \nbuilding along with code. After creating the plan,"
+    },
+    {
+      "start": 1024.48,
+      "duration": 5.52,
+      "text": "we have execute plan. After execution, we \nhave review and then we have peer review,"
+    },
+    {
+      "start": 1030.0,
+      "duration": 4.24,
+      "text": "which is really cool and we'll get into \nlater on, and at the end, we update the docs."
+    },
+    {
+      "start": 1034.24,
+      "duration": 4.8,
+      "text": "So this is updating documentation and everything \nso that agents can write better code later on. So"
+    },
+    {
+      "start": 1039.04,
+      "duration": 4.24,
+      "text": "I think what we'll do is we're going to build a \nfeature live for my app, which I think is really"
+    },
+    {
+      "start": 1043.28,
+      "duration": 5.28,
+      "text": "cool. But first what I'd like to do is show \nyou the app so you have some context. So this"
+    },
+    {
+      "start": 1048.56,
+      "duration": 8.08,
+      "text": "is StudyMate. It's a platform for students, which \nallows them to upload study materials and create"
+    },
+    {
+      "start": 1056.64,
+      "duration": 10.24,
+      "text": "interactive tests based on their own materials.\nSo here we can go to the top. Let's upload a PDF."
+    },
+    {
+      "start": 1066.88,
+      "duration": 5.84,
+      "text": "We can decide what pages we want to be quizzed \non. We can decide the number of questions,"
+    },
+    {
+      "start": 1072.72,
+      "duration": 6.4,
+      "text": "the difficulty level. And basically what happens \nbehind the scenes is we send the information the"
+    },
+    {
+      "start": 1079.12,
+      "duration": 5.84,
+      "text": "user uploaded along with the system prompt and \nany other augmentations the users decided to"
+    },
+    {
+      "start": 1084.96,
+      "duration": 7.52,
+      "text": "Gemini and we create a quiz. These are challenging \nquestions that are meant to assess comprehension."
+    },
+    {
+      "start": 1092.48,
+      "duration": 8.72,
+      "text": "You even have some hints and once we do a few \nof these, we can submit ... I got them right?"
+    },
+    {
+      "start": 1101.2,
+      "duration": 1.28,
+      "text": "Terrible results."
+    },
+    {
+      "start": 1102.48,
+      "duration": 1.04,
+      "text": "Yeah, lucky."
+    },
+    {
+      "start": 1103.52,
+      "duration": 4.16,
+      "text": "And so just to be really clear about this, this \nis like a side business that you have, an app that"
+    },
+    {
+      "start": 1107.68,
+      "duration": 4.474,
+      "text": "you built that's making money. That's like a thing \nyou vibe coded having no technical experience."
+    },
+    {
+      "start": 1112.154,
+      "duration": 2.406,
+      "text": "Yeah, this is my weekend \nproject. Yeah. This is what I do."
+    },
+    {
+      "start": 1114.56,
+      "duration": 0.64,
+      "text": "Amazing."
+    },
+    {
+      "start": 1115.2,
+      "duration": 5.92,
+      "text": "On weekends. Yeah. So you get basically \ndeep explanations into why each"
+    },
+    {
+      "start": 1121.12,
+      "duration": 4.72,
+      "text": "question was wrong or each question was \nright. And at the moment, StudyMate only"
+    },
+    {
+      "start": 1125.84,
+      "duration": 5.6,
+      "text": "has multiple choice questions. And I was doing \nsome competitor research over the last weekend"
+    },
+    {
+      "start": 1131.44,
+      "duration": 4.96,
+      "text": "and I saw competitors who had true or false \nquestions and also fill in the blank questions,"
+    },
+    {
+      "start": 1136.4,
+      "duration": 4.16,
+      "text": "which I loved. So I think that'd be really cool \nif we could build that live. How's that sound?"
+    },
+    {
+      "start": 1140.56,
+      "duration": 5.2,
+      "text": "I love it. Crossing your fingers, this all \nwork. I just want to highlight the stuff"
+    },
+    {
+      "start": 1145.76,
+      "duration": 4.88,
+      "text": "you shared right before this in cursor. So this \nis a huge deal, what you describe here. This is"
+    },
+    {
+      "start": 1150.64,
+      "duration": 5.36,
+      "text": "essentially what you've figured out is a way as \na person that has no idea how to write any code,"
+    },
+    {
+      "start": 1156.0,
+      "duration": 6.64,
+      "text": "how to build a product in Cursor as a product \nmanager using this series of /commands that"
+    },
+    {
+      "start": 1162.64,
+      "duration": 4.56,
+      "text": "you've concocted that you're going to be sharing \nwith listeners. They can download all these and"
+    },
+    {
+      "start": 1167.2,
+      "duration": 3.84,
+      "text": "just use them directly. They don't have to figure \nout all these prompts that you've figured out."
+    },
+    {
+      "start": 1171.04,
+      "duration": 4.96,
+      "text": "Yeah, 100%. Basically what happened \nwas I formulated the backbone of this"
+    },
+    {
+      "start": 1176.0,
+      "duration": 4.64,
+      "text": "with the CTO, and it was basically \nwithin the system prompt of the CTO"
+    },
+    {
+      "start": 1180.64,
+      "duration": 3.68,
+      "text": "project that I had within GPT. So it \nsaid, step one, we do this. Step two,"
+    },
+    {
+      "start": 1184.32,
+      "duration": 6.72,
+      "text": "we do this. And now I'll keep building. And if I \nsee something that happens over and over again,"
+    },
+    {
+      "start": 1191.04,
+      "duration": 3.84,
+      "text": "I'll just create a /command and then it \nwill be automated within the workflow."
+    },
+    {
+      "start": 1194.88,
+      "duration": 5.76,
+      "text": "Amazing. So just to summarize the /command. \nSo one is create an issue in Linear, which"
+    },
+    {
+      "start": 1200.64,
+      "duration": 2.24,
+      "text": "I love. Linear is awesome. Shout out Linear."
+    },
+    {
+      "start": 1202.88,
+      "duration": 1.52,
+      "text": "That's also from the product pass."
+    },
+    {
+      "start": 1204.4,
+      "duration": 5.2,
+      "text": "From the product pass. Oh my God, what a value? \nOkay. So step one is create the issue in linear."
+    },
+    {
+      "start": 1209.6,
+      "duration": 6.48,
+      "text": "So it's a command. So this prompt /command you've \ncreated, just create issue. Then it's explore,"
+    },
+    {
+      "start": 1216.08,
+      "duration": 5.68,
+      "text": "which is explore the idea, help me ideate on \nwhat this could be. And this is Claude helping"
+    },
+    {
+      "start": 1221.76,
+      "duration": 5.28,
+      "text": "you think through the feature and product. \nAnd then it's actually create the plan."
+    },
+    {
+      "start": 1227.04,
+      "duration": 6.72,
+      "text": "And so it's like the AI helping you build the plan \nto build the product. Then it's actually execute,"
+    },
+    {
+      "start": 1233.76,
+      "duration": 3.28,
+      "text": "which is just build the thing. \nAnd then there's this review,"
+    },
+    {
+      "start": 1237.04,
+      "duration": 4.16,
+      "text": "peer review step, which is awesome that \nyou'll share. And then there's document,"
+    },
+    {
+      "start": 1241.2,
+      "duration": 3.44,
+      "text": "update documentation based on the \nnew feature that we're adding. Sweet."
+    },
+    {
+      "start": 1244.64,
+      "duration": 7.44,
+      "text": "Yeah. Cool. So let's go ahead and start \nbuilding. So I'm going to use Wispr Flow"
+    },
+    {
+      "start": 1252.08,
+      "duration": 9.44,
+      "text": "to dictate and basically this starts with /create \nissue. So this basically sends that prompt. And I"
+    },
+    {
+      "start": 1261.52,
+      "duration": 6.32,
+      "text": "love this because I usually do this during when \nI'm building something else. So basically it"
+    },
+    {
+      "start": 1267.84,
+      "duration": 4.4,
+      "text": "tells Claude that I'm mid building something and \nI don't have a lot of time to waste time on this."
+    },
+    {
+      "start": 1272.24,
+      "duration": 4.16,
+      "text": "So just ask some brief questions so that \nyou have enough to capture within linear."
+    },
+    {
+      "start": 1276.4,
+      "duration": 8.88,
+      "text": "So I want to add fill in the blank questions to \nStudyMate. I want this to be 30% of tests to be"
+    },
+    {
+      "start": 1285.28,
+      "duration": 5.44,
+      "text": "generated as fill in the blank questions. \nI want there to be six potential answers"
+    },
+    {
+      "start": 1290.72,
+      "duration": 5.76,
+      "text": "for two blank spots, and of course there's only \ngoing to be two correct answers. So one correct"
+    },
+    {
+      "start": 1296.48,
+      "duration": 7.28,
+      "text": "answer and two incorrect answers for each spot \nand I want the interface to be drag and drop."
+    },
+    {
+      "start": 1303.76,
+      "duration": 5.2,
+      "text": "So that's just basically a quick \nthink of how I want this to work."
+    },
+    {
+      "start": 1309.84,
+      "duration": 6.48,
+      "text": "So it's going to ask me a few questions. Quizzes \nare 100% multiple choice, question structure,"
+    },
+    {
+      "start": 1316.32,
+      "duration": 9.52,
+      "text": "single sentence passage to blanks and priority. \nSo one and two are correct, and this is"
+    },
+    {
+      "start": 1325.84,
+      "duration": 7.12,
+      "text": "not high priority. It's a nice to have feature.\nSo now basically what Claude is going to do is"
+    },
+    {
+      "start": 1332.96,
+      "duration": 7.12,
+      "text": "it's going to use MCP, which is basically \na technology that was created by Anthropic,"
+    },
+    {
+      "start": 1340.08,
+      "duration": 5.28,
+      "text": "which gives AI the ability to use tools. So \nthis is connected to my linear. So what it's"
+    },
+    {
+      "start": 1345.36,
+      "duration": 5.04,
+      "text": "going to do now is it's going to use everything \nwe've said and create an issue within Linear."
+    },
+    {
+      "start": 1350.4,
+      "duration": 4.0,
+      "text": "And by the way, as this is loading, I just \nlove the way, the way you described this,"
+    },
+    {
+      "start": 1354.4,
+      "duration": 4.96,
+      "text": "especially doing voice mode, it's like exactly \nhow you would talk to an engineer describing a"
+    },
+    {
+      "start": 1359.36,
+      "duration": 4.4,
+      "text": "feature, \"Here's what I want.\" And then they \nask you questions, here's the clarification."
+    },
+    {
+      "start": 1363.76,
+      "duration": 6.64,
+      "text": "Yeah. So at first when I was doing this with \nthe CTO, I would do it with ChatGPT voice mode,"
+    },
+    {
+      "start": 1370.4,
+      "duration": 5.12,
+      "text": "and that was crazy. That literally felt like \nideating with a person. It would push back,"
+    },
+    {
+      "start": 1375.52,
+      "duration": 6.8,
+      "text": "ask questions, and maybe one day the coding tools \nwill get there too, but that was exactly ... It"
+    },
+    {
+      "start": 1382.32,
+      "duration": 6.96,
+      "text": "really felt like sitting with my CTO. Great. So \ncreated STU88. So if we open up Linear now, we"
+    },
+    {
+      "start": 1389.28,
+      "duration": 8.0,
+      "text": "should be able to see ... Let's see where STU88.\nThere it is. Fill in the blank questions with drag"
+    },
+    {
+      "start": 1397.28,
+      "duration": 5.2,
+      "text": "and drop interface. So it has a TLDR, it has the \ncurrent state. It did a little bit of research on"
+    },
+    {
+      "start": 1402.48,
+      "duration": 6.32,
+      "text": "the code base, I think, expected outcomes, some \ncontext. So yeah, so this is basically ready for"
+    },
+    {
+      "start": 1408.8,
+      "duration": 5.36,
+      "text": "me to pick up when I'm interested in building. \nSo now let's say a few days go by, I finished the"
+    },
+    {
+      "start": 1414.16,
+      "duration": 5.68,
+      "text": "current project I'm working on, I can pick it up.\nSo when I pick it up, I do /exploration phase,"
+    },
+    {
+      "start": 1419.84,
+      "duration": 4.4,
+      "text": "which is what we said. And then instead of \npressing enter, I'll press tab and I'll show"
+    },
+    {
+      "start": 1424.24,
+      "duration": 6.8,
+      "text": "you this. So basically, exploration phase, what \nit does is it will take an argument. This is"
+    },
+    {
+      "start": 1431.04,
+      "duration": 6.72,
+      "text": "basically a placeholder within the prompt, \nwhich allows me to enter something that is"
+    },
+    {
+      "start": 1437.76,
+      "duration": 9.84,
+      "text": "extra context for the AI. So I can say here, \nLinear STU88, which is referencing the ticket."
+    },
+    {
+      "start": 1447.6,
+      "duration": 5.04,
+      "text": "And now what it's going to do is it's going \nto go, it's going to fetch the Linear ticket."
+    },
+    {
+      "start": 1452.64,
+      "duration": 2.0,
+      "text": "And what's the idea? What's \nthe goal of the exploration"
+    },
+    {
+      "start": 1454.64,
+      "duration": 2.88,
+      "text": "phase? This ideate on the idea. Is that the-"
+    },
+    {
+      "start": 1457.52,
+      "duration": 0.4,
+      "text": "Exactly."
+    },
+    {
+      "start": 1457.92,
+      "duration": 0.4,
+      "text": "Okay."
+    },
+    {
+      "start": 1458.32,
+      "duration": 4.4,
+      "text": "So it's both for the CTO to deeply \nunderstand the problem that we're"
+    },
+    {
+      "start": 1462.72,
+      "duration": 3.6,
+      "text": "trying to solve and also understand \nthe current state of the code base,"
+    },
+    {
+      "start": 1466.32,
+      "duration": 5.28,
+      "text": "what files need to be affected, and how is \nthe best way to implement this technically."
+    },
+    {
+      "start": 1471.6,
+      "duration": 4.16,
+      "text": "And usually what happens is right now, Claude \nis just basically reading a bunch of files,"
+    },
+    {
+      "start": 1475.76,
+      "duration": 3.92,
+      "text": "understanding the basic structure of the \ncode, and then it's going to come back with"
+    },
+    {
+      "start": 1479.68,
+      "duration": 4.88,
+      "text": "a bunch of clarifying questions that will \ndecide how we end up implementing this."
+    },
+    {
+      "start": 1484.56,
+      "duration": 3.76,
+      "text": "So it feels like it's talking \nto your engineering manager."
+    },
+    {
+      "start": 1488.32,
+      "duration": 3.52,
+      "text": "Exactly, exactly. 100% this \nis how I think about it."
+    },
+    {
+      "start": 1491.84,
+      "duration": 4.64,
+      "text": "And you said that you're a CTO, \nso you used to use ChatGPT prompt"
+    },
+    {
+      "start": 1496.48,
+      "duration": 4.32,
+      "text": "to have a CTO in there. Now the \nCTO's living inside here in Cursor?"
+    },
+    {
+      "start": 1500.8,
+      "duration": 6.72,
+      "text": "Yeah, because of the way the tools have developed \nand they've become so good at both exploration and"
+    },
+    {
+      "start": 1507.52,
+      "duration": 6.16,
+      "text": "code execution. So now it's just a habit that \nI call it a CTO, but it's basically all in one."
+    },
+    {
+      "start": 1513.68,
+      "duration": 5.36,
+      "text": "The same agent will both do the exploration and \nwrite the plan and end up executing the code."
+    },
+    {
+      "start": 1519.04,
+      "duration": 2.56,
+      "text": "Got it. So it's basically it's \nClaude Code. Is there a prompt"
+    },
+    {
+      "start": 1521.6,
+      "duration": 5.28,
+      "text": "you gave it to act like that? To \nact like the right kind of CTO?"
+    },
+    {
+      "start": 1526.88,
+      "duration": 6.08,
+      "text": "Yeah, so within the Claude.md, which is \nbasically the system prompt that's loaded"
+    },
+    {
+      "start": 1532.96,
+      "duration": 6.48,
+      "text": "within Claude's context in every conversation, I \nhave some basic stuff like this is our workflow,"
+    },
+    {
+      "start": 1539.44,
+      "duration": 3.76,
+      "text": "this is how we work. Within exploration \nphase, I want you to challenge my thinking,"
+    },
+    {
+      "start": 1543.2,
+      "duration": 4.4,
+      "text": "all kinds of stuff like that that can \nbe loaded within the Claude.md file."
+    },
+    {
+      "start": 1547.6,
+      "duration": 2.32,
+      "text": "Cool. One last question before we move on here,"
+    },
+    {
+      "start": 1549.92,
+      "duration": 5.2,
+      "text": "just because I'm thinking about it as this \nhappens, the Linear issue that you generated,"
+    },
+    {
+      "start": 1555.12,
+      "duration": 5.6,
+      "text": "how often is it actually great and ready? How \noften do you have to edit it? What's the quality"
+    },
+    {
+      "start": 1560.72,
+      "duration": 4.32,
+      "text": "of the Linear ticket that it generates? Because \na lot of people are probably wondering just like"
+    },
+    {
+      "start": 1565.04,
+      "duration": 3.6,
+      "text": "all these terrible linear issues are being \ncreated by AI. Are they actually any good?"
+    },
+    {
+      "start": 1568.64,
+      "duration": 7.12,
+      "text": "It's completely different because I'm a company \nof one. So a lot of the context is within here"
+    },
+    {
+      "start": 1575.76,
+      "duration": 5.04,
+      "text": "and there's no need for me to talk to other teams \nand understand. It's basically very accessible,"
+    },
+    {
+      "start": 1580.8,
+      "duration": 5.36,
+      "text": "and also I can easily see when \nClaude understood something wrong."
+    },
+    {
+      "start": 1586.16,
+      "duration": 5.2,
+      "text": "I don't want to say that I would create Linear \nissues at work like this, but definitely if you're"
+    },
+    {
+      "start": 1591.36,
+      "duration": 7.04,
+      "text": "building your own side project, they're pretty \nquality. And also, it just kicks off when I want"
+    },
+    {
+      "start": 1598.4,
+      "duration": 5.52,
+      "text": "to start working on it. I wouldn't say it's ready \nto be built. It's ready to start being explored."
+    },
+    {
+      "start": 1603.92,
+      "duration": 3.6,
+      "text": "Got it. So it's just the beginning of an idea. \nActually, let's come back after we go through this"
+    },
+    {
+      "start": 1607.52,
+      "duration": 4.96,
+      "text": "flow of how you would approach this if you were \nat say Meta or another, maybe a smaller company,"
+    },
+    {
+      "start": 1612.48,
+      "duration": 4.24,
+      "text": "how this workflow might work at a larger \ncompany that isn't just your own startup."
+    },
+    {
+      "start": 1616.72,
+      "duration": 0.72,
+      "text": "Yeah. Interesting."
+    },
+    {
+      "start": 1617.44,
+      "duration": 1.2,
+      "text": "Let's come back to that."
+    },
+    {
+      "start": 1618.64,
+      "duration": 6.4,
+      "text": "Cool. All right. So this is Claude coming back. \nI have a comprehensive understanding of the code"
+    },
+    {
+      "start": 1625.04,
+      "duration": 6.16,
+      "text": "base. I thoroughly analyzed StudyMate live \ncodebase and understand the current system,"
+    },
+    {
+      "start": 1631.2,
+      "duration": 6.4,
+      "text": "feature quest and key areas that it's identified. \nUsually I'd spend a lot of time going over this"
+    },
+    {
+      "start": 1637.6,
+      "duration": 3.44,
+      "text": "because this is super, super important, but \njust for the sake of development right now,"
+    },
+    {
+      "start": 1641.04,
+      "duration": 4.96,
+      "text": "we're going to brush through this.\nNow Claude basically comes back after it's"
+    },
+    {
+      "start": 1646.0,
+      "duration": 4.72,
+      "text": "gone through the code base and understood the \nway it currently works. It's basically telling"
+    },
+    {
+      "start": 1650.72,
+      "duration": 5.6,
+      "text": "me what the current understanding is. So it's \ntalking about how the app is set up at the moment,"
+    },
+    {
+      "start": 1656.32,
+      "duration": 6.8,
+      "text": "how the data is structured, what it understood \nfrom the feature quest, and what it has identified"
+    },
+    {
+      "start": 1663.12,
+      "duration": 5.2,
+      "text": "as key areas, and then it asks me some questions.\nSo it's asking about the scope, it's asking about"
+    },
+    {
+      "start": 1668.32,
+      "duration": 6.32,
+      "text": "the data model, the UX/UI of the feature, how \nit should be validated, how it should be graded,"
+    },
+    {
+      "start": 1674.64,
+      "duration": 4.56,
+      "text": "what changes need to be happened to the AI \nsystem prompt and all kinds of questions"
+    },
+    {
+      "start": 1679.2,
+      "duration": 4.8,
+      "text": "about the app. I've prepared answers to all these \nquestions beforehand because I don't think we all"
+    },
+    {
+      "start": 1684.0,
+      "duration": 4.24,
+      "text": "want to sit through this. So I'm just going to \npaste that in and we'll see what Claude says."
+    },
+    {
+      "start": 1688.24,
+      "duration": 5.68,
+      "text": "Awesome. I love it. And I love just scanning those \nquestions I was asking. It's like such smart,"
+    },
+    {
+      "start": 1693.92,
+      "duration": 4.24,
+      "text": "sophisticated, important questions instead of \njust, \"Cool, here I go, I'm going to build it.\""
+    },
+    {
+      "start": 1698.16,
+      "duration": 4.8,
+      "text": "Yeah, and I think this is the big difference \nbetween just vibe coding and going along with the"
+    },
+    {
+      "start": 1702.96,
+      "duration": 6.48,
+      "text": "vibes and really building serious apps. I spend \na lot, a lot of time going back and forth and"
+    },
+    {
+      "start": 1709.44,
+      "duration": 7.2,
+      "text": "understanding. Also, a very cool /command that I \nhaven't showed yet is learning opportunity, which"
+    },
+    {
+      "start": 1716.64,
+      "duration": 5.68,
+      "text": "basically when something is really difficult for \nme to understand, I'll do /learning opportunity"
+    },
+    {
+      "start": 1722.32,
+      "duration": 4.96,
+      "text": "and then talk about what I want to learn.\nAnd this basically primes Claude and says,"
+    },
+    {
+      "start": 1727.28,
+      "duration": 4.32,
+      "text": "\"I am a technical PM in the making. I \nhave mid-level engineering knowledge."
+    },
+    {
+      "start": 1731.6,
+      "duration": 6.4,
+      "text": "I understand architecture and basically I want \nyou to explain what we're currently working on"
+    },
+    {
+      "start": 1738.0,
+      "duration": 4.88,
+      "text": "using the 80/20 rule.\" So this is a great way to \nlearn. I would definitely take this and every time"
+    },
+    {
+      "start": 1742.88,
+      "duration": 5.84,
+      "text": "you kind of see something that you don't fully \nunderstand, I would definitely use this to learn."
+    },
+    {
+      "start": 1748.72,
+      "duration": 7.44,
+      "text": "Great. So Claude basically comes back and says how \nit understands the current data model and how it's"
+    },
+    {
+      "start": 1756.16,
+      "duration": 4.88,
+      "text": "going to implement. Yeah, so it's ready to create \nthe plan. So basically what I'm going to do now"
+    },
+    {
+      "start": 1761.04,
+      "duration": 8.32,
+      "text": "is I'm going to go and do /create plan and while \nClaude is doing this, I'm going to show really"
+    },
+    {
+      "start": 1769.36,
+      "duration": 7.52,
+      "text": "quick what this looks like. So basically, these \nplans are from a template that I found on Twitter."
+    },
+    {
+      "start": 1776.88,
+      "duration": 4.48,
+      "text": "I forgot who it was, but it was just a \ntemplate that really resonated with me. And"
+    },
+    {
+      "start": 1781.36,
+      "duration": 5.84,
+      "text": "it's basically saying, based on our exchange, \ncreate a markdown file that will be the plan,"
+    },
+    {
+      "start": 1787.2,
+      "duration": 5.76,
+      "text": "include clear, minimal, concise steps, track the \nstatus. So this basically has like status trackers"
+    },
+    {
+      "start": 1792.96,
+      "duration": 5.44,
+      "text": "on each task that Claude updates as it's going \nthrough and it will have a TLDR, some critical"
+    },
+    {
+      "start": 1798.4,
+      "duration": 5.2,
+      "text": "decisions that we've made and the plan itself.\nSo Claude has finished writing the plan,"
+    },
+    {
+      "start": 1803.6,
+      "duration": 6.48,
+      "text": "so we'll be able to look and see exactly what the \nplan is. So it has a TLDR, it has the critical"
+    },
+    {
+      "start": 1810.08,
+      "duration": 5.92,
+      "text": "decisions we've made and the tasks broken down. \nAnd this is a perfect plan and it's also a really"
+    },
+    {
+      "start": 1816.0,
+      "duration": 5.28,
+      "text": "good way to write this because a lot of times, \nI'll use different models to execute certain"
+    },
+    {
+      "start": 1821.28,
+      "duration": 6.56,
+      "text": "stuff. So Cursor has an amazing model called \nComposer, which is superfast. So a lot of things"
+    },
+    {
+      "start": 1827.84,
+      "duration": 6.72,
+      "text": "that are not that complex, I'll use Composer.\nGemini 3 that just came out is unbelievable"
+    },
+    {
+      "start": 1834.56,
+      "duration": 3.84,
+      "text": "at UI. So a lot of times, I'll split \nthe plan into backend and front end,"
+    },
+    {
+      "start": 1838.4,
+      "duration": 5.6,
+      "text": "and then I'll have Gemini just read the plan and \ndo the front end. So having this as a markdown"
+    },
+    {
+      "start": 1844.0,
+      "duration": 4.72,
+      "text": "file is really good. And also going forward, \nit's really good to have within the app so that"
+    },
+    {
+      "start": 1848.72,
+      "duration": 6.08,
+      "text": "later on, if an agent is writing code in a certain \narea, I can see what's already been done there."
+    },
+    {
+      "start": 1854.8,
+      "duration": 6.0,
+      "text": "So what we're going to do now is we're going to \nexecute the plan. So now I think we're going to"
+    },
+    {
+      "start": 1860.8,
+      "duration": 5.84,
+      "text": "do this with Cursor just because Composer is so \nfreaking fast. So what we can do is basically"
+    },
+    {
+      "start": 1866.64,
+      "duration": 8.56,
+      "text": "just say execute and then we can tag the file. And \nComposer is ridiculously fast. So that's it. It's"
+    },
+    {
+      "start": 1875.2,
+      "duration": 5.52,
+      "text": "off. It basically understands what the plan is and \nit's going to go ahead and start writing the code."
+    },
+    {
+      "start": 1880.72,
+      "duration": 2.08,
+      "text": "Let me ask you a question while this is happening."
+    },
+    {
+      "start": 1882.8,
+      "duration": 0.32,
+      "text": "Awesome."
+    },
+    {
+      "start": 1883.12,
+      "duration": 2.88,
+      "text": "I have many questions, so this is \na good time to ask a few of them."
+    },
+    {
+      "start": 1886.0,
+      "duration": 6.24,
+      "text": "You said that Lovable and Bolt and other \napps in that space are just not enough to"
+    },
+    {
+      "start": 1892.24,
+      "duration": 4.72,
+      "text": "build really serious apps and you have to move \nto Cursor to do that. Tell us more about that."
+    },
+    {
+      "start": 1896.96,
+      "duration": 5.52,
+      "text": "Just what's the limitation you ran into with \nthose products and why you switched to Cursor?"
+    },
+    {
+      "start": 1902.48,
+      "duration": 8.4,
+      "text": "I started using Cursor and Claude Code a few \nmonths ago and I haven't looked back, but at that"
+    },
+    {
+      "start": 1910.88,
+      "duration": 5.12,
+      "text": "time, these teams have been moving like crazy. \nSo I don't want to say I wouldn't trust them. I"
+    },
+    {
+      "start": 1916.0,
+      "duration": 6.56,
+      "text": "don't know what the current state is. But for me, \nit was basically the issue of I felt that Bolt was"
+    },
+    {
+      "start": 1922.56,
+      "duration": 5.68,
+      "text": "being very opinionated on how I should do things. \nAnd I felt like my knowledge has gotten to a point"
+    },
+    {
+      "start": 1928.24,
+      "duration": 5.04,
+      "text": "where I can graduate and be more in control.\nBy the way, I think that the main difference"
+    },
+    {
+      "start": 1933.28,
+      "duration": 5.44,
+      "text": "between all these tools is basically the harness. \nSo the models are all the same models. I'll run"
+    },
+    {
+      "start": 1938.72,
+      "duration": 4.72,
+      "text": "Claude within Cursor, I'll run it within Claude \nCode, and it's also the models that Claude is also"
+    },
+    {
+      "start": 1943.44,
+      "duration": 6.16,
+      "text": "the model that is underlying Bolt and Lovable, \nbut basically, Bolt and Lovable will add a bunch"
+    },
+    {
+      "start": 1949.6,
+      "duration": 7.36,
+      "text": "of levels in the middle that will take all kind \nof guesswork and hard decisions out for the user."
+    },
+    {
+      "start": 1956.96,
+      "duration": 4.0,
+      "text": "So the user doesn't have to make these hard \ndecisions. So it's also very easy to build,"
+    },
+    {
+      "start": 1960.96,
+      "duration": 3.92,
+      "text": "but the flip side of that is that you have \nless control. And basically Claude Code is"
+    },
+    {
+      "start": 1964.88,
+      "duration": 4.72,
+      "text": "just taking Claude and shoving it straight in \nyour code system and giving it full tools and"
+    },
+    {
+      "start": 1969.6,
+      "duration": 5.36,
+      "text": "to do whatever it wants, but also with that comes \na lot of decisions that you need to make. So I"
+    },
+    {
+      "start": 1974.96,
+      "duration": 6.24,
+      "text": "don't know if you can't build really amazing \nproduction apps using Bolt or Lovable now,"
+    },
+    {
+      "start": 1981.2,
+      "duration": 5.2,
+      "text": "but I think basically if you want the most cutting \nedge abilities of the models and you want to"
+    },
+    {
+      "start": 1986.4,
+      "duration": 6.56,
+      "text": "be able to make all the decisions on your own, \nit's probably best to be on one of these tools."
+    },
+    {
+      "start": 1992.96,
+      "duration": 3.28,
+      "text": "What I'm feeling and hearing is \nthat planning work that you did,"
+    },
+    {
+      "start": 1996.24,
+      "duration": 4.64,
+      "text": "that's the stuff that Lovable, Bolt, and \nwould you put Replit in that bucket too?"
+    },
+    {
+      "start": 2000.88,
+      "duration": 3.52,
+      "text": "Yeah, for sure. Lovable, Bolt, Replit, Base44."
+    },
+    {
+      "start": 2004.4,
+      "duration": 1.12,
+      "text": "v0."
+    },
+    {
+      "start": 2005.52,
+      "duration": 1.68,
+      "text": "Yeah, v0, all same bucket."
+    },
+    {
+      "start": 2007.2,
+      "duration": 5.68,
+      "text": "So essentially, they're doing that \nplanning for you. And as you said,"
+    },
+    {
+      "start": 2012.88,
+      "duration": 2.8,
+      "text": "they're very opinionated. They try \nto make it easy. So it's just like,"
+    },
+    {
+      "start": 2015.68,
+      "duration": 4.96,
+      "text": "\"Here's how to do it. Here's the way we think \nis best for people.\" And what you're saying is"
+    },
+    {
+      "start": 2020.64,
+      "duration": 4.24,
+      "text": "once you're trying to get a little more serious \nabout it or want to go in a different direction,"
+    },
+    {
+      "start": 2024.88,
+      "duration": 4.24,
+      "text": "you don't have the power to change how \nthey plan. So Cursor lets you do that."
+    },
+    {
+      "start": 2029.12,
+      "duration": 4.145,
+      "text": "Yeah, I don't want this to come out like \nI'm badmouthing them. Base44, let's say."
+    },
+    {
+      "start": 2033.265,
+      "duration": 0.015,
+      "text": "No, absolutely."
+    },
+    {
+      "start": 2033.28,
+      "duration": 5.44,
+      "text": "Yeah. Base44 does an amazing job at basically \ntaking all the complex guesswork out of"
+    },
+    {
+      "start": 2038.72,
+      "duration": 4.64,
+      "text": "building product and just allows you \nto just go with the vibes and build,"
+    },
+    {
+      "start": 2043.36,
+      "duration": 3.76,
+      "text": "but it will do sign in with Google \nfor you and it will do a database,"
+    },
+    {
+      "start": 2047.12,
+      "duration": 5.28,
+      "text": "but then you don't have decisions on what database \nam I using. Do I need sign in with Google this way"
+    },
+    {
+      "start": 2052.4,
+      "duration": 4.4,
+      "text": "or another way? It would just do it out of the \nbox. So that's basically the trade-off there."
+    },
+    {
+      "start": 2056.8,
+      "duration": 4.0,
+      "text": "Awesome. Shout out Maor, the founder of Base44."
+    },
+    {
+      "start": 2061.36,
+      "duration": 3.04,
+      "text": "Yeah. Maor Shlomo. Yeah. He's amazing."
+    },
+    {
+      "start": 2064.4,
+      "duration": 7.84,
+      "text": "Okay. I just love how this is like the way you're \nlike flinging, what's the word? Slinging models"
+    },
+    {
+      "start": 2072.24,
+      "duration": 5.6,
+      "text": "like Gemini 3 for frontend. I love that you've \nnever written any code and you're just like,"
+    },
+    {
+      "start": 2077.84,
+      "duration": 4.0,
+      "text": "\"Cool, use Gemini for this and Claude \nfor this. And I'm just working on Cursor,"
+    },
+    {
+      "start": 2081.84,
+      "duration": 6.16,
+      "text": "talking to this CTO, helping you build \nstuff and build significant product.\""
+    },
+    {
+      "start": 2088.0,
+      "duration": 8.08,
+      "text": "Yeah. We just live in the craziest of times where \nbasically the world changes once a week, it feels"
+    },
+    {
+      "start": 2096.08,
+      "duration": 7.76,
+      "text": "like. And there is just no boundaries. You can \nuse all of these just on your regular MacBook"
+    },
+    {
+      "start": 2103.84,
+      "duration": 6.56,
+      "text": "or regular laptop. And I have these moments, \nI call them time machine moments, which is"
+    },
+    {
+      "start": 2110.4,
+      "duration": 6.72,
+      "text": "basically this week, for instance, I was prepping \nfor the podcast using Claude with a project."
+    },
+    {
+      "start": 2117.12,
+      "duration": 5.44,
+      "text": "I was building, I was fully localizing StudyMate \nfrom Hebrew to English, which I did in two days,"
+    },
+    {
+      "start": 2122.56,
+      "duration": 5.6,
+      "text": "which would probably take a dev team weeks. And \nI was building a personal site, which went from"
+    },
+    {
+      "start": 2128.16,
+      "duration": 5.2,
+      "text": "no domain, no nothing, to live on a domain within \nan hour and a half. And I was doing all three of"
+    },
+    {
+      "start": 2133.36,
+      "duration": 6.56,
+      "text": "these in parallel. And there was a point where \nbasically all three of the agents were running,"
+    },
+    {
+      "start": 2139.92,
+      "duration": 2.96,
+      "text": "so I didn't have anything to do.\nI just had to let them think,"
+    },
+    {
+      "start": 2142.88,
+      "duration": 4.0,
+      "text": "and these are the time machine moments where I \nfeel like I was in the future and I just stick"
+    },
+    {
+      "start": 2146.88,
+      "duration": 4.32,
+      "text": "my head out of the time machine and whoever's \nnext to me, at the moment it was my wife,"
+    },
+    {
+      "start": 2151.2,
+      "duration": 4.4,
+      "text": "I'll just say, \"We live in the future.\" And she'll \nbe like, \"Huh, what?\" And I'll be like, \"No, no,"
+    },
+    {
+      "start": 2155.6,
+      "duration": 6.24,
+      "text": "don't worry about it.\" But it's just basically so \ncrazy that all these things are just an API away."
+    },
+    {
+      "start": 2161.84,
+      "duration": 6.72,
+      "text": "You can use anything. So I think it's an awesome \ntime to be curious and optimistic and hardworking."
+    },
+    {
+      "start": 2168.56,
+      "duration": 4.48,
+      "text": "These are my favorite kinds of podcast guests. \nPeople that are living in the future, figuring"
+    },
+    {
+      "start": 2173.04,
+      "duration": 4.24,
+      "text": "out all these things and then are just kind of \ncome back, as you said, poke your head out of the"
+    },
+    {
+      "start": 2177.28,
+      "duration": 3.68,
+      "text": "rocket ship and just like, \"Hey, here's this thing \nthat I figured out. Here's where we're going.\""
+    },
+    {
+      "start": 2180.96,
+      "duration": 5.44,
+      "text": "Yeah, best time to be alive. So \nawesome. So it looks like it's finished."
+    },
+    {
+      "start": 2187.36,
+      "duration": 4.8,
+      "text": "So now what we're going to do is we're going \nto run the app locally and we'll be able to see"
+    },
+    {
+      "start": 2192.16,
+      "duration": 6.24,
+      "text": "what Composer ended up building and we're \ngoing to see if anything else is needed"
+    },
+    {
+      "start": 2198.4,
+      "duration": 4.32,
+      "text": "on our end to maybe do some manual \nreview. Does that sound good?"
+    },
+    {
+      "start": 2202.72,
+      "duration": 2.64,
+      "text": "Sounds great. And I love, that was \nlike, I don't know, a few minutes"
+    },
+    {
+      "start": 2205.36,
+      "duration": 5.19,
+      "text": "where if it was a human engineer, it'd \nbe like days, maybe a week for work."
+    },
+    {
+      "start": 2210.55,
+      "duration": 4.49,
+      "text": "For sure. Yeah, for sure. No, Composer \nlike the one thing is it's just so,"
+    },
+    {
+      "start": 2215.04,
+      "duration": 5.44,
+      "text": "so blazing fast, keeps you in flow. \nSo yeah, full features take minutes."
+    },
+    {
+      "start": 2220.48,
+      "duration": 3.76,
+      "text": "And it probably costs a \ncouple bucks in AI credits."
+    },
+    {
+      "start": 2224.24,
+      "duration": 6.48,
+      "text": "I don't even look. I used to be so stingy about \npaying for products and now I'm just basically,"
+    },
+    {
+      "start": 2230.72,
+      "duration": 4.0,
+      "text": "I look at it all as tuition, \nas stuff that I'm paying for"
+    },
+    {
+      "start": 2234.72,
+      "duration": 4.0,
+      "text": "learning. So I don't know how much it \ncosts, but it's definitely worth it."
+    },
+    {
+      "start": 2238.72,
+      "duration": 3.04,
+      "text": "That explains why they're the \nfastest growing products in history."
+    },
+    {
+      "start": 2241.76,
+      "duration": 1.28,
+      "text": "100%."
+    },
+    {
+      "start": 2243.04,
+      "duration": 4.24,
+      "text": "Your marketing website sets the tone for \nyour brand and is the one touchpoint that"
+    },
+    {
+      "start": 2247.28,
+      "duration": 3.92,
+      "text": "every single one of your customers sees. \nIn today's age, if you're still having"
+    },
+    {
+      "start": 2251.2,
+      "duration": 4.64,
+      "text": "a hard time making small changes and simple \nupdates to it, you are doing something wrong."
+    },
+    {
+      "start": 2255.84,
+      "duration": 4.16,
+      "text": "That is why so many companies from \nearly stage startups to Fortune 500s,"
+    },
+    {
+      "start": 2260.0,
+      "duration": 4.72,
+      "text": "including companies like DoorDash, Zapier, \nPerplexity, and ElevenLabs turn to Framer,"
+    },
+    {
+      "start": 2264.72,
+      "duration": 5.52,
+      "text": "the website builder that turns your .com from a \nformality into a tool for growth. Framer works"
+    },
+    {
+      "start": 2270.24,
+      "duration": 5.76,
+      "text": "like your team's favorite design tool and comes \nwith real-time collaboration, a robust CMS with"
+    },
+    {
+      "start": 2276.0,
+      "duration": 5.28,
+      "text": "everything you need for great SEO and advanced \nanalytics that includes integrated AB testing."
+    },
+    {
+      "start": 2281.28,
+      "duration": 5.36,
+      "text": "Changes to your Framer site go live to the web \nin seconds with a single click and without any"
+    },
+    {
+      "start": 2286.64,
+      "duration": 4.08,
+      "text": "help from engineering. Whether you want to \nlaunch a new site, test a few landing pages"
+    },
+    {
+      "start": 2290.72,
+      "duration": 5.52,
+      "text": "or migrate your full.com, Framer has programs for \nstartups, scale-ups, and large enterprises to make"
+    },
+    {
+      "start": 2296.24,
+      "duration": 6.8,
+      "text": "going from idea to live site as easy and fast as \npossible. Learn how to turn your website into a"
+    },
+    {
+      "start": 2303.04,
+      "duration": 6.16,
+      "text": "growth engine from a framer expert or get started \nbuilding for free today at framer.com/lenny,"
+    },
+    {
+      "start": 2309.2,
+      "duration": 4.24,
+      "text": "that's framer.com/lenny. Rules \nand restrictions may apply."
+    },
+    {
+      "start": 2313.44,
+      "duration": 6.16,
+      "text": "So now we have this feature, which basically \nwe built and I can ask it to make some changes"
+    },
+    {
+      "start": 2319.6,
+      "duration": 3.52,
+      "text": "because it's running locally and once \nit's ready, I'll be able to ship it to"
+    },
+    {
+      "start": 2323.12,
+      "duration": 6.56,
+      "text": "users. So now the next phase after I've \nQA'd it and basically tested it manually,"
+    },
+    {
+      "start": 2329.68,
+      "duration": 6.72,
+      "text": "I'll have Claude review its own work. So \nwhat I'll do is I'll reopen Claude Code."
+    },
+    {
+      "start": 2336.4,
+      "duration": 3.52,
+      "text": "I love this because this is one of the things \nthat comes up a lot in this podcast is writing"
+    },
+    {
+      "start": 2339.92,
+      "duration": 4.84,
+      "text": "code is now so easy. The main challenge people \nhave is reviewing the code that AI has written."
+    },
+    {
+      "start": 2344.76,
+      "duration": 0.28,
+      "text": "100%."
+    },
+    {
+      "start": 2345.04,
+      "duration": 3.6,
+      "text": "And what you're doing here is you're \nhaving Claude review its own code."
+    },
+    {
+      "start": 2348.64,
+      "duration": 5.12,
+      "text": "Yeah, so this is another thing where it's \nvery difficult for me to catch mistakes."
+    },
+    {
+      "start": 2353.76,
+      "duration": 5.76,
+      "text": "So my review process has gone through a bunch \nof iterations to really be as good as possible"
+    },
+    {
+      "start": 2359.52,
+      "duration": 5.76,
+      "text": "and to catch as many things as possible. So \nI'll always manually QA at first to make sure"
+    },
+    {
+      "start": 2365.28,
+      "duration": 6.88,
+      "text": "if I can see any mistakes that Claude made. \nAnd then what I'll do is basically /review."
+    },
+    {
+      "start": 2372.16,
+      "duration": 7.04,
+      "text": "And this tells Claude to start reviewing its own \ncode. But what's even cooler and something that"
+    },
+    {
+      "start": 2379.2,
+      "duration": 7.56,
+      "text": "I'm really proud of is I will usually do multiple \nreviews and I'll have Codex, which is ChatGPT's"
+    },
+    {
+      "start": 2387.36,
+      "duration": 8.16,
+      "text": "competitor to Claude Code, as well as cursor open, \nand I will have each of them review the code. And"
+    },
+    {
+      "start": 2395.52,
+      "duration": 6.72,
+      "text": "then what I do is I have a /command called peer \nreview, which is really interesting. And basically"
+    },
+    {
+      "start": 2402.24,
+      "duration": 5.52,
+      "text": "what it does is it's going to take Claude, \nwhich is usually the agent who I'm working with."
+    },
+    {
+      "start": 2407.76,
+      "duration": 7.12,
+      "text": "And just to put this in a mental model, this \nis basically my dev lead that I'm working with."
+    },
+    {
+      "start": 2416.64,
+      "duration": 6.24,
+      "text": "The /command is basically saying, \"You're the dead \nlead on this project. Other team leads within the"
+    },
+    {
+      "start": 2422.88,
+      "duration": 4.8,
+      "text": "company have looked at your code and reviewed \nit and found these issues.\" Don't take what"
+    },
+    {
+      "start": 2427.68,
+      "duration": 5.76,
+      "text": "they said at face value. The reason is you have \nmore context than them and you led this project."
+    },
+    {
+      "start": 2433.44,
+      "duration": 6.56,
+      "text": "You need to either explain why the stuff they \nfound are not real issues and wrong or fix them"
+    },
+    {
+      "start": 2440.0,
+      "duration": 5.52,
+      "text": "yourself. And it's really cool because the way \nI look at these things is I look at the models,"
+    },
+    {
+      "start": 2445.52,
+      "duration": 6.08,
+      "text": "I try to imagine them as people and I \ncan really tell you how each one of these"
+    },
+    {
+      "start": 2451.6,
+      "duration": 3.269,
+      "text": "would be as a real human because they have-"
+    },
+    {
+      "start": 2454.869,
+      "duration": 0.011,
+      "text": "Each model."
+    },
+    {
+      "start": 2454.88,
+      "duration": 5.68,
+      "text": "Yeah. Each model has such distinct \ncharacteristics. So let's say Claude, she would"
+    },
+    {
+      "start": 2460.56,
+      "duration": 6.48,
+      "text": "be the perfect CTO. She's very communicative. \nShe's very smart. She doesn't just go with the"
+    },
+    {
+      "start": 2467.04,
+      "duration": 5.12,
+      "text": "flow and do whatever you tell her. She's very \nopinionated, but also super collaborative, which"
+    },
+    {
+      "start": 2472.16,
+      "duration": 8.16,
+      "text": "is I think why I'm always drawn to Claude because \nI need to do so much learning and it's your dream,"
+    },
+    {
+      "start": 2480.32,
+      "duration": 6.72,
+      "text": "a very communicative, but very opinionated \ndev lead, but then there's also Codex."
+    },
+    {
+      "start": 2487.04,
+      "duration": 6.88,
+      "text": "So I use Codex 5.1 Max, whatever. I don't \nknow, they're not the best at naming models,"
+    },
+    {
+      "start": 2493.92,
+      "duration": 6.96,
+      "text": "but GPT's model. I always imagine it as like \nthe best coder within the company who comes"
+    },
+    {
+      "start": 2500.88,
+      "duration": 5.6,
+      "text": "to the office with a hoodie and sandals and \nsits in a dark room. And you basically only"
+    },
+    {
+      "start": 2506.48,
+      "duration": 4.08,
+      "text": "bother him when you have the worst bugs and you \nsay, \"Listen, we have this bug and it will just"
+    },
+    {
+      "start": 2510.56,
+      "duration": 4.96,
+      "text": "close the door for two hours and come out and say, \nI fixed it.\" And you're like, \"Wait, what? Are you"
+    },
+    {
+      "start": 2515.52,
+      "duration": 2.4,
+      "text": "going to tell us what happened or whatever?\"\nAnd he's like, \"Don't worry about it. I fixed"
+    },
+    {
+      "start": 2517.92,
+      "duration": 6.0,
+      "text": "it.\" It's like really not communicative, but \nit solves all the worst problems. And let's"
+    },
+    {
+      "start": 2523.92,
+      "duration": 6.32,
+      "text": "say Gemini is like a crazy scientist who's \nsuper artsy, super talented at designing,"
+    },
+    {
+      "start": 2530.24,
+      "duration": 4.56,
+      "text": "but if you sit next to it and watch it work, \nit's terrifying. You would fire that person"
+    },
+    {
+      "start": 2534.8,
+      "duration": 5.12,
+      "text": "instantly. This might be just my experience, \nbut when I'm using Gemini within antigravity,"
+    },
+    {
+      "start": 2539.92,
+      "duration": 5.76,
+      "text": "which is Google's new competitor to \nCursor, when it's writing code, you can"
+    },
+    {
+      "start": 2545.68,
+      "duration": 4.88,
+      "text": "see the steps it's taking and it's terrifying.\nYou'll say, \"I want you to redesign the top of"
+    },
+    {
+      "start": 2550.56,
+      "duration": 4.64,
+      "text": "the dashboard.\" And you're looking at its thought \nprocess and it will say, \"Oh, first things first,"
+    },
+    {
+      "start": 2555.2,
+      "duration": 3.76,
+      "text": "I'll delete the dashboard.\" And then it'll be \nlike, \"Nope, that was a mistake. I'll bring"
+    },
+    {
+      "start": 2558.96,
+      "duration": 5.36,
+      "text": "it back.\" And then it will say, \"Oh, can I \nedit the database?\" And you're like, \"No,"
+    },
+    {
+      "start": 2564.32,
+      "duration": 3.52,
+      "text": "do not edit the database. You're just doing a \nredesign.\" And then it will end up designing"
+    },
+    {
+      "start": 2567.84,
+      "duration": 5.68,
+      "text": "something beautiful. So the way there is a \nrollercoaster and very scary, but at the end"
+    },
+    {
+      "start": 2573.52,
+      "duration": 6.32,
+      "text": "of the day, Gemini is very good at design.\nSo I think that using all these models"
+    },
+    {
+      "start": 2579.84,
+      "duration": 4.24,
+      "text": "and basically playing to their strengths \nand mitigating their weaknesses by using"
+    },
+    {
+      "start": 2584.08,
+      "duration": 6.4,
+      "text": "other models is a game changer for me. So I'll \ndo peer review a bunch of times and I'll have"
+    },
+    {
+      "start": 2590.48,
+      "duration": 7.76,
+      "text": "other models review other models code and kind \nof have them fight it out basically. Sometimes"
+    },
+    {
+      "start": 2598.24,
+      "duration": 4.24,
+      "text": "Claude Code will get really sassy and be like, \n\"This has been raised for the third time. And"
+    },
+    {
+      "start": 2602.48,
+      "duration": 4.08,
+      "text": "for the third time I'm telling you, this is \nnot an issue. This is by design.\" So it's"
+    },
+    {
+      "start": 2606.56,
+      "duration": 4.56,
+      "text": "just a really cool thing that I've added \nand I haven't seen many people doing it."
+    },
+    {
+      "start": 2611.12,
+      "duration": 7.12,
+      "text": "That is such an incredible rant/way \nto understand what's going on. Okay,"
+    },
+    {
+      "start": 2618.24,
+      "duration": 4.08,
+      "text": "awesome. So we just ran the review. \nSo show us what we saw there and let's"
+    },
+    {
+      "start": 2622.32,
+      "duration": 3.12,
+      "text": "actually try this peer review. I'm really \nexcited to see what you learned there."
+    },
+    {
+      "start": 2625.44,
+      "duration": 6.0,
+      "text": "Yeah. So basically Claude has reviewed its code \nand it's found a bunch of bugs, a critical bug"
+    },
+    {
+      "start": 2631.44,
+      "duration": 6.16,
+      "text": "it found in the prompt, some high bugs, some \nmedium bugs, and now what I'll do is I'll do"
+    },
+    {
+      "start": 2637.6,
+      "duration": 7.44,
+      "text": "the same thing with the other models. So Codex has \na built-in code review that you can do, or I just"
+    },
+    {
+      "start": 2645.04,
+      "duration": 8.24,
+      "text": "like to say review all the code in this branch.\nOf course, branch is referring to the GitHub"
+    },
+    {
+      "start": 2653.28,
+      "duration": 5.12,
+      "text": "branch that we're working on. We're not working \non the live code base. And then I'll do this with"
+    },
+    {
+      "start": 2658.4,
+      "duration": 8.8,
+      "text": "Composer say with, let's do it with Composer One. \nSo I'll do /review here as well. And basically"
+    },
+    {
+      "start": 2667.2,
+      "duration": 5.12,
+      "text": "these are both going to run and do a in-depth \nreview similar to what Claude does. But again,"
+    },
+    {
+      "start": 2672.32,
+      "duration": 4.0,
+      "text": "because of the differences between the models, \nthey're all going to catch different things and"
+    },
+    {
+      "start": 2676.32,
+      "duration": 3.76,
+      "text": "they're all going to look differently, \nand this is a really cool way to work."
+    },
+    {
+      "start": 2680.08,
+      "duration": 4.56,
+      "text": "It's basically if you had other team leads \nwithin the company review the code. Here,"
+    },
+    {
+      "start": 2684.64,
+      "duration": 5.04,
+      "text": "you can see how fast Composer is. I think GPT \nprobably will take a bunch of time. Like I said,"
+    },
+    {
+      "start": 2689.68,
+      "duration": 5.52,
+      "text": "it's in its own dark room right now reviewing \ncode and we'll come back in a few minutes."
+    },
+    {
+      "start": 2695.2,
+      "duration": 2.72,
+      "text": "Okay, cool. So we can let these \nrun in. We don't actually have to"
+    },
+    {
+      "start": 2697.92,
+      "duration": 2.32,
+      "text": "go through the whole process, but is \nthe idea once you get these results,"
+    },
+    {
+      "start": 2700.24,
+      "duration": 3.84,
+      "text": "you run peer review and you copy and paste \nkind of these results. Is that the idea?"
+    },
+    {
+      "start": 2704.08,
+      "duration": 4.24,
+      "text": "Exactly. I'll copy and paste the results. I'll \ndo peer review and then I'll say dev lead one"
+    },
+    {
+      "start": 2708.32,
+      "duration": 3.84,
+      "text": "and then paste from one of the models. And then \nI'll say dev lead two and paste from the other"
+    },
+    {
+      "start": 2712.16,
+      "duration": 5.36,
+      "text": "model and basically have them fight it out \nuntil I feel like we have no more issues."
+    },
+    {
+      "start": 2717.52,
+      "duration": 0.72,
+      "text": "Incredible."
+    },
+    {
+      "start": 2718.24,
+      "duration": 2.96,
+      "text": "For me, this is super important \nbecause I'm not technical and"
+    },
+    {
+      "start": 2721.2,
+      "duration": 4.32,
+      "text": "I'm not a developer. And I'll also \nuse /learning opportunity a bunch"
+    },
+    {
+      "start": 2725.52,
+      "duration": 5.6,
+      "text": "during this to learn about stuff that I \ndon't understand or don't fully grasp."
+    },
+    {
+      "start": 2731.12,
+      "duration": 4.08,
+      "text": "Incredible. What a clever solution to solving \nthis code review problem where it's like,"
+    },
+    {
+      "start": 2735.2,
+      "duration": 4.48,
+      "text": "I don't know what you ... I don't know how to \nrecode, so what am I going to even ... Yeah."
+    },
+    {
+      "start": 2739.68,
+      "duration": 0.4,
+      "text": "Yeah."
+    },
+    {
+      "start": 2740.08,
+      "duration": 5.12,
+      "text": "Okay. Incredible. Let's wrap up this \nworkflow. Is there anything else that's"
+    },
+    {
+      "start": 2745.2,
+      "duration": 3.28,
+      "text": "important in this workflow? And again, \nall this stuff is going to be available"
+    },
+    {
+      "start": 2748.48,
+      "duration": 4.24,
+      "text": "where people can just plug this stuff into \ntheir Cursor account and use it themselves."
+    },
+    {
+      "start": 2752.72,
+      "duration": 8.8,
+      "text": "100%. The one thing I'll say is that I think just \nlike working in general with AI and even just like"
+    },
+    {
+      "start": 2761.52,
+      "duration": 6.64,
+      "text": "working on any product, doing constant \npostmortems is critical. So a lot of"
+    },
+    {
+      "start": 2768.16,
+      "duration": 5.2,
+      "text": "times we'll find all these kind of bugs or \nmaybe Claude will fail to execute something"
+    },
+    {
+      "start": 2773.36,
+      "duration": 4.08,
+      "text": "correctly. And at the beginning when I \nstarted vibe coding, I would basically"
+    },
+    {
+      "start": 2777.44,
+      "duration": 3.84,
+      "text": "just keep running at it like running at the \nwall and until it worked. And once it worked,"
+    },
+    {
+      "start": 2781.28,
+      "duration": 4.56,
+      "text": "I was like, \"All right, awesome. This works. \nLet's keep going.\" But I've learned over time"
+    },
+    {
+      "start": 2785.84,
+      "duration": 5.36,
+      "text": "that updating documentation and tooling is \none of the biggest hacks for productivity."
+    },
+    {
+      "start": 2791.2,
+      "duration": 6.64,
+      "text": "So when Claude will fail to do something or I'll \nsee this really bad bug that shows that Claude"
+    },
+    {
+      "start": 2797.84,
+      "duration": 5.04,
+      "text": "really didn't understand something, I'll ask it, \n\"What in your system prompt or tooling made you"
+    },
+    {
+      "start": 2802.88,
+      "duration": 5.92,
+      "text": "make this mistake?\" And Claude will kind of like \ngo introspective and think of what made it create"
+    },
+    {
+      "start": 2808.8,
+      "duration": 4.16,
+      "text": "that mistake. And then I'll say, \"Okay, great. \nLet's update your tooling and documentation so"
+    },
+    {
+      "start": 2812.96,
+      "duration": 4.4,
+      "text": "that this mistake never occurs again.\" And \nI do this every time I'm either building"
+    },
+    {
+      "start": 2817.36,
+      "duration": 5.36,
+      "text": "an internal tool or anything. And \nI think this is just like working."
+    },
+    {
+      "start": 2823.6,
+      "duration": 4.8,
+      "text": "If you end up doing a bunch of mistakes and \nthen end up releasing the feature to users,"
+    },
+    {
+      "start": 2828.4,
+      "duration": 5.2,
+      "text": "so you're like, \"All right, it's a big success.\" \nBut going back and even when you've succeeded,"
+    },
+    {
+      "start": 2833.6,
+      "duration": 3.6,
+      "text": "looking and understanding what you did and \nwhat you could have done better is critical."
+    },
+    {
+      "start": 2837.2,
+      "duration": 5.36,
+      "text": "And also using AI, this is probably one of the \nbiggest unlocks. Going back to your prompts,"
+    },
+    {
+      "start": 2842.56,
+      "duration": 6.0,
+      "text": "understanding what was not good enough, iterating \non them and then seeing how AI's responses get"
+    },
+    {
+      "start": 2848.56,
+      "duration": 4.8,
+      "text": "better, I think that's probably one of the most \nimportant things and one of the things that"
+    },
+    {
+      "start": 2853.36,
+      "duration": 4.8,
+      "text": "divides between people who are okay with using AI \nand the people who actually know how to use it."
+    },
+    {
+      "start": 2858.16,
+      "duration": 5.6,
+      "text": "That is such good advice. So what \nI'm hearing is when the models do"
+    },
+    {
+      "start": 2863.76,
+      "duration": 4.64,
+      "text": "something dumb, make a mistake, you ask it \nto reflect on what the mistake it made was,"
+    },
+    {
+      "start": 2868.4,
+      "duration": 5.68,
+      "text": "and then you update the /command prompts \nwith that knowledge so that in the future,"
+    },
+    {
+      "start": 2874.08,
+      "duration": 2.0,
+      "text": "it's not making that same mistake, \nand it just keeps getting better."
+    },
+    {
+      "start": 2876.08,
+      "duration": 0.12,
+      "text": "Exactly."
+    },
+    {
+      "start": 2876.2,
+      "duration": 2.28,
+      "text": "These things just keep getting smarter \nand smarter. So you're building up this"
+    },
+    {
+      "start": 2878.48,
+      "duration": 2.64,
+      "text": "really incredible prompt that \njust gets better and better."
+    },
+    {
+      "start": 2881.12,
+      "duration": 4.24,
+      "text": "Exactly. Not always the /commands. \nIt will sometimes update"
+    },
+    {
+      "start": 2885.92,
+      "duration": 3.52,
+      "text": "different documentation or its tooling, \nbut basically it's understanding what"
+    },
+    {
+      "start": 2889.44,
+      "duration": 6.0,
+      "text": "the root cause of the mistake \nthat the AI made and fixing it."
+    },
+    {
+      "start": 2895.44,
+      "duration": 4.8,
+      "text": "Awesome. So the models are getting smarter \nand then there's also the other parts of"
+    },
+    {
+      "start": 2900.24,
+      "duration": 5.28,
+      "text": "your workflow can get smarter as you \nfind flaws in the way it does stuff."
+    },
+    {
+      "start": 2905.52,
+      "duration": 1.12,
+      "text": "100%. Yep."
+    },
+    {
+      "start": 2906.64,
+      "duration": 4.48,
+      "text": "Amazing. Okay. Is there anything else there \nbefore I move in a couple other directions?"
+    },
+    {
+      "start": 2911.12,
+      "duration": 3.92,
+      "text": "I think that's it. I think we covered pretty \nmuch everything. Basically, just to wrap this up,"
+    },
+    {
+      "start": 2915.04,
+      "duration": 4.8,
+      "text": "what I do is I do a bunch of code review and \nthen update the documentation so that everything"
+    },
+    {
+      "start": 2919.84,
+      "duration": 5.76,
+      "text": "is documented. So the next time I try to build a \nfeature in this area, there won't be any mistakes."
+    },
+    {
+      "start": 2925.6,
+      "duration": 4.4,
+      "text": "And then I'll do a bunch of testing. I'll do some \nuser testing as well before I release this to"
+    },
+    {
+      "start": 2930.0,
+      "duration": 4.64,
+      "text": "general availability. Obviously we're not going to \nrelease this. This was just a show, but hopefully"
+    },
+    {
+      "start": 2934.64,
+      "duration": 4.56,
+      "text": "maybe by the time the podcast comes out, I'll \nhave done this correctly and release the feature."
+    },
+    {
+      "start": 2939.2,
+      "duration": 5.28,
+      "text": "It's incredible that this was not possible, I \ndon't know, two years ago, maybe a year ago,"
+    },
+    {
+      "start": 2944.48,
+      "duration": 6.56,
+      "text": "you are a product manager shipping a \nproduct without knowing how to write code,"
+    },
+    {
+      "start": 2951.04,
+      "duration": 4.56,
+      "text": "barely knowing how to review code. You said you're \nafraid of looking at code. As a product manager,"
+    },
+    {
+      "start": 2955.6,
+      "duration": 6.08,
+      "text": "you're building a product in Cursor using \nall of these different AI models. You're"
+    },
+    {
+      "start": 2961.68,
+      "duration": 7.36,
+      "text": "making money with this product. We're so used to \nthis now, but it's insane what is now possible."
+    },
+    {
+      "start": 2969.04,
+      "duration": 6.0,
+      "text": "It's the best time to be live. 100%. \nI think that I understand the fear,"
+    },
+    {
+      "start": 2975.04,
+      "duration": 4.72,
+      "text": "but AI just makes it so much possible. Just \na quick side note here, my brother, who I'm"
+    },
+    {
+      "start": 2979.76,
+      "duration": 5.68,
+      "text": "building one of the apps with is an entrepreneur. \nHe has a beautiful business that helps old people"
+    },
+    {
+      "start": 2985.44,
+      "duration": 7.2,
+      "text": "and seniors understand to use technology and \nAI better. And he's basically doing the same"
+    },
+    {
+      "start": 2992.64,
+      "duration": 3.92,
+      "text": "kind of learning as me, and he's replaced \nall of the tools he was paying for. I think"
+    },
+    {
+      "start": 2996.56,
+      "duration": 6.88,
+      "text": "he was paying for Zapier and Airtable, and he's \nbasically built a full-fledged CRM system and"
+    },
+    {
+      "start": 3003.44,
+      "duration": 6.32,
+      "text": "automation system for his business completely \nalone. So for the people who are curious,"
+    },
+    {
+      "start": 3010.32,
+      "duration": 4.32,
+      "text": "optimistic, hardworking, this is \nthe best time to be a builder."
+    },
+    {
+      "start": 3014.64,
+      "duration": 3.36,
+      "text": "And what I love about this conversation \nwe're having here is it feels like the"
+    },
+    {
+      "start": 3018.0,
+      "duration": 4.72,
+      "text": "biggest barrier for a lot of people is like, \nhow do I get started? What exactly do I do?"
+    },
+    {
+      "start": 3022.72,
+      "duration": 4.32,
+      "text": "I open up cursor. It looks very intimidating. \nI don't know how to write code. I don't know"
+    },
+    {
+      "start": 3027.04,
+      "duration": 3.52,
+      "text": "how to build stuff. I don't know about \ndatabases. And so you're going to be"
+    },
+    {
+      "start": 3030.56,
+      "duration": 3.68,
+      "text": "sharing all these /commands and basically \nthis whole workflow with the audience."
+    },
+    {
+      "start": 3034.24,
+      "duration": 0.4,
+      "text": "Yeah."
+    },
+    {
+      "start": 3034.64,
+      "duration": 0.24,
+      "text": "Okay."
+    },
+    {
+      "start": 3034.88,
+      "duration": 5.44,
+      "text": "And like I said, just start at GPT. \nStart on GPT, tell it what your idea is,"
+    },
+    {
+      "start": 3040.32,
+      "duration": 2.72,
+      "text": "tell it to explain to you what are \neven the first steps of thinking,"
+    },
+    {
+      "start": 3043.04,
+      "duration": 5.12,
+      "text": "what are the decisions you need to \nmake? And just be inquisitive, learn."
+    },
+    {
+      "start": 3048.88,
+      "duration": 7.04,
+      "text": "Don't rush things. It's very important to just \ndive in and really spend the time to learn."
+    },
+    {
+      "start": 3055.92,
+      "duration": 4.0,
+      "text": "And you share this. One of your /commands is \nlearning opportunity, and it's how you learn"
+    },
+    {
+      "start": 3059.92,
+      "duration": 4.48,
+      "text": "a lot of these things. Just teach me this \nthing and how this database issue works."
+    },
+    {
+      "start": 3064.4,
+      "duration": 0.88,
+      "text": "Exactly."
+    },
+    {
+      "start": 3065.28,
+      "duration": 3.04,
+      "text": "Okay. There's a couple directions I want to \nmake sure we touch on. One is coming back to"
+    },
+    {
+      "start": 3068.32,
+      "duration": 4.4,
+      "text": "a question I asked earlier about how this might \nwork at a larger company. Say it's not like Meta,"
+    },
+    {
+      "start": 3072.72,
+      "duration": 4.48,
+      "text": "but just like, I don't know, a thousand person \ncompany, 500 people. How much of this can you"
+    },
+    {
+      "start": 3077.2,
+      "duration": 5.04,
+      "text": "plug and play into a workflow as a PM at a \nlarger company? What would be your advice for"
+    },
+    {
+      "start": 3082.24,
+      "duration": 5.76,
+      "text": "someone that may want to start trying to ship \ncode, at least showing people what's possible?"
+    },
+    {
+      "start": 3088.0,
+      "duration": 6.8,
+      "text": "I think that first making your code base AI native \nis a really important step, and I think this needs"
+    },
+    {
+      "start": 3094.8,
+      "duration": 8.64,
+      "text": "to be done by technical people. So basically my \ncodebase has a ton of just plain text in it. So it"
+    },
+    {
+      "start": 3103.44,
+      "duration": 5.28,
+      "text": "will have a bunch of markdown files that explain \nto agents how to work in certain areas of the code"
+    },
+    {
+      "start": 3108.72,
+      "duration": 5.52,
+      "text": "base and high level structure so that the \nagents navigate through the code base easier."
+    },
+    {
+      "start": 3114.24,
+      "duration": 4.88,
+      "text": "And I think that if this is set up in \na really good way, I still don't think"
+    },
+    {
+      "start": 3120.4,
+      "duration": 5.92,
+      "text": "PMs should be shipping heavy database \nchain migrations or any big project,"
+    },
+    {
+      "start": 3126.32,
+      "duration": 7.04,
+      "text": "but contained UI projects, especially if \nyou just build it, create the PR and send"
+    },
+    {
+      "start": 3133.36,
+      "duration": 4.64,
+      "text": "it to a dev to do the final finishes. I \nthink that's definitely something that's"
+    },
+    {
+      "start": 3138.0,
+      "duration": 2.88,
+      "text": "possible. And I think we're going to see \nthat a lot in the next coming years. I"
+    },
+    {
+      "start": 3140.88,
+      "duration": 4.4,
+      "text": "think basically everyone's going to become a \nbuilder, so it should be really interesting."
+    },
+    {
+      "start": 3145.28,
+      "duration": 6.4,
+      "text": "Okay. So your advice here is as a PM, maybe don't \ngo right to Cursor, start building, shipping,"
+    },
+    {
+      "start": 3151.68,
+      "duration": 3.68,
+      "text": "trying to ship features to production, especially \ncomplicated features. Do you think we'll get"
+    },
+    {
+      "start": 3155.36,
+      "duration": 6.8,
+      "text": "there? Do you think in a couple years, PMs will \nbe doing this and it'll feel less scary and crazy?"
+    },
+    {
+      "start": 3162.16,
+      "duration": 7.28,
+      "text": "If there are PMs. Yeah, I think titles are \ngoing to collapse and responsibilities are"
+    },
+    {
+      "start": 3169.44,
+      "duration": 5.84,
+      "text": "going to collapse and everyone's just going to \nbe building. I definitely think that the models,"
+    },
+    {
+      "start": 3175.28,
+      "duration": 6.88,
+      "text": "the context window is getting bigger, the models \nare getting smarter and I definitely see how PMs"
+    },
+    {
+      "start": 3182.16,
+      "duration": 5.68,
+      "text": "or any other background can be writing. At the \nmoment, I wouldn't wait for that. I would use this"
+    },
+    {
+      "start": 3187.84,
+      "duration": 6.64,
+      "text": "as a collaborative learning opportunity to work \nwith your dev team. It's going to be difficult."
+    },
+    {
+      "start": 3194.48,
+      "duration": 3.92,
+      "text": "A lot of developers are very, very \nskeptic about the current state,"
+    },
+    {
+      "start": 3198.4,
+      "duration": 4.0,
+      "text": "and I think that it's going to be a lot \nof sales work on your end to convince,"
+    },
+    {
+      "start": 3202.4,
+      "duration": 5.12,
+      "text": "but if you're able to convince, and I think \nteams that are really sold on this and want"
+    },
+    {
+      "start": 3207.52,
+      "duration": 6.4,
+      "text": "to take the time to work on their workflow \nabout how can our team become more AI native,"
+    },
+    {
+      "start": 3213.92,
+      "duration": 4.88,
+      "text": "I think that these teams are going to probably \nbe a few years in the future and they're going"
+    },
+    {
+      "start": 3218.8,
+      "duration": 4.72,
+      "text": "to look back at the few weeks they spent \nsetting this up as the best time they spent."
+    },
+    {
+      "start": 3223.52,
+      "duration": 5.28,
+      "text": "Let me ask you another question around just the \njob of a PM. One of the biggest fears people have"
+    },
+    {
+      "start": 3228.8,
+      "duration": 7.44,
+      "text": "with these AI tools for PMs for every function I \nimagine is just you start to rely on these things,"
+    },
+    {
+      "start": 3236.24,
+      "duration": 5.04,
+      "text": "your skills start to atrophy, you're \nproducing all this slop that looks great,"
+    },
+    {
+      "start": 3241.28,
+      "duration": 4.0,
+      "text": "cool, amazing strategy doc. No, it's \nactually not at all good. Are these Linear"
+    },
+    {
+      "start": 3245.28,
+      "duration": 5.28,
+      "text": "tickets or just products that are half-baked?\nWhat's your take on these two parts of just like,"
+    },
+    {
+      "start": 3250.56,
+      "duration": 5.92,
+      "text": "how has this impacted your craft as a PM? \nDo you feel like this is weakening your"
+    },
+    {
+      "start": 3256.48,
+      "duration": 4.48,
+      "text": "skills because you're so reliant on these \ntools and just how do you keep the quality"
+    },
+    {
+      "start": 3260.96,
+      "duration": 4.56,
+      "text": "of this stuff up and not just like, \"Eh, \nit's just a bunch of AI generated slop.\""
+    },
+    {
+      "start": 3265.52,
+      "duration": 6.56,
+      "text": "I have a very strong disagree to this and I've \nheard it a bunch. I remember when I started using"
+    },
+    {
+      "start": 3272.08,
+      "duration": 8.8,
+      "text": "Tal Raviv has this whole course on building a PM \nCopilot using projects, which is probably one of"
+    },
+    {
+      "start": 3280.88,
+      "duration": 5.84,
+      "text": "the best courses that you can take. And when I \nstarted working with my own Copilot, I remember"
+    },
+    {
+      "start": 3286.72,
+      "duration": 4.64,
+      "text": "people at work looking and saying like, \"Oh, so \nyou're basically outsourcing your thinking.\" And"
+    },
+    {
+      "start": 3291.36,
+      "duration": 7.84,
+      "text": "to me, that's just the worst way to look at it.\nAnd I think for some reason, these people usually"
+    },
+    {
+      "start": 3299.2,
+      "duration": 4.4,
+      "text": "have a high correlation with the kind of person \nwho doesn't like to show their presentation when"
+    },
+    {
+      "start": 3303.6,
+      "duration": 7.12,
+      "text": "it's only 10% done or doesn't want to ask for help \na lot. I think that there's a misconception with a"
+    },
+    {
+      "start": 3310.72,
+      "duration": 5.92,
+      "text": "lot of PMs that the job is always having the right \nanswers and being the smartest person in the room."
+    },
+    {
+      "start": 3316.64,
+      "duration": 5.6,
+      "text": "And at least how I was trained and how I believe \nthe role of the PM is, it's the exact opposite."
+    },
+    {
+      "start": 3322.24,
+      "duration": 6.8,
+      "text": "It's basically harnessing anything that can get \nus as quick as possible to delivering the right"
+    },
+    {
+      "start": 3329.04,
+      "duration": 5.84,
+      "text": "solution to users. And I just think this is \nlike that really smart person that has context"
+    },
+    {
+      "start": 3334.88,
+      "duration": 6.0,
+      "text": "or your mentor or whatever, but is just always \navailable and doesn't judge you and can really"
+    },
+    {
+      "start": 3340.88,
+      "duration": 4.8,
+      "text": "help you. So if you're using it to just create \nyour outputs and then putting them out there,"
+    },
+    {
+      "start": 3346.8,
+      "duration": 5.68,
+      "text": "yeah, that's AI slot, but it's also human error.\nI think it's really important that you own your"
+    },
+    {
+      "start": 3352.48,
+      "duration": 6.32,
+      "text": "own outputs. If you put anything out there or show \nsomething in a product review and you say, \"Oh,"
+    },
+    {
+      "start": 3358.8,
+      "duration": 7.44,
+      "text": "sorry, that was built by AI.\" That's your mistake. \nI think if you use these intentionally and really"
+    },
+    {
+      "start": 3366.24,
+      "duration": 4.56,
+      "text": "take the time to understand how to use AI in \nthe correct way, it's one of the biggest game"
+    },
+    {
+      "start": 3370.8,
+      "duration": 6.16,
+      "text": "changers that will make you much better as a PM.\nAnd another thing here is that, especially for"
+    },
+    {
+      "start": 3376.96,
+      "duration": 6.8,
+      "text": "more junior PMs, it allows you to play at such \na higher level than you would normally. I think"
+    },
+    {
+      "start": 3383.76,
+      "duration": 6.0,
+      "text": "that at Wix, I wasn't thinking of what's the \nmarketing strategy of the company and how will"
+    },
+    {
+      "start": 3389.76,
+      "duration": 5.52,
+      "text": "the onboarding be completely revamped within \nthe whole product. But on my side product,"
+    },
+    {
+      "start": 3395.28,
+      "duration": 4.48,
+      "text": "I can just do whatever decisions I want and think \nof the strategy and marketing and the messaging."
+    },
+    {
+      "start": 3399.76,
+      "duration": 4.56,
+      "text": "And this is basically just getting me reps, \nwhich is one of the most important things"
+    },
+    {
+      "start": 3404.32,
+      "duration": 7.2,
+      "text": "at the beginning of your career. So I understand \nthe fear that how do you outsource certain stuff"
+    },
+    {
+      "start": 3411.52,
+      "duration": 7.2,
+      "text": "and you're not owning 100% of everything, but I \nthink the upside is so much more valuable. And I"
+    },
+    {
+      "start": 3418.72,
+      "duration": 4.32,
+      "text": "think the only way that AI makes you worse \nat your job is if you're using it wrong."
+    },
+    {
+      "start": 3423.04,
+      "duration": 5.6,
+      "text": "Is there anything that you've learned about \nreducing the sloppiness of the output,"
+    },
+    {
+      "start": 3428.64,
+      "duration": 5.28,
+      "text": "just like a tip for keeping the quality \nhigh of the stuff that it produces?"
+    },
+    {
+      "start": 3433.92,
+      "duration": 8.8,
+      "text": "Similar to people, setting up AI for success, \nfor the task at hand. So if I just brought in"
+    },
+    {
+      "start": 3443.68,
+      "duration": 6.48,
+      "text": "a junior to write a deck or something and I \ndidn't give it any guideline, I just said, \"Give"
+    },
+    {
+      "start": 3450.16,
+      "duration": 6.32,
+      "text": "a strategy deck.\" He would probably just go online \nand find top strategy deck and just reproduce"
+    },
+    {
+      "start": 3456.48,
+      "duration": 4.32,
+      "text": "that, which is basically what AI is doing. \nIt's basically just fed all of the internet."
+    },
+    {
+      "start": 3460.8,
+      "duration": 7.44,
+      "text": "So instead of that, guiding it and giving it \ncontext on what your style of writing is and"
+    },
+    {
+      "start": 3468.24,
+      "duration": 3.44,
+      "text": "what you're trying to solve and all these \ndifferent things, I think that's probably"
+    },
+    {
+      "start": 3471.68,
+      "duration": 7.2,
+      "text": "one of the biggest unlocks. So that's just a quick \ntip. And also Cursor has a /command called deslop,"
+    },
+    {
+      "start": 3478.88,
+      "duration": 4.96,
+      "text": "which is basically going back over the code. \nI don't know if this is integrated into the"
+    },
+    {
+      "start": 3483.84,
+      "duration": 3.84,
+      "text": "product yet, but it's on Twitter. Their \nfounders have been talking about this,"
+    },
+    {
+      "start": 3487.68,
+      "duration": 4.88,
+      "text": "so that's definitely something I would run after \njust to make sure that no slop is left behind."
+    },
+    {
+      "start": 3492.56,
+      "duration": 5.04,
+      "text": "That is so funny, deslop. Okay. One more question,"
+    },
+    {
+      "start": 3497.6,
+      "duration": 3.92,
+      "text": "which may lead to something else, but kind \nof going in a whole different direction."
+    },
+    {
+      "start": 3501.52,
+      "duration": 7.12,
+      "text": "You used AI to help you actually interview for \nthe job that you got at Meta. Talk about how"
+    },
+    {
+      "start": 3508.64,
+      "duration": 3.76,
+      "text": "you did that, because a lot of people right now \nare struggling to find a job reading about all"
+    },
+    {
+      "start": 3512.4,
+      "duration": 5.28,
+      "text": "these people using AI to help them interview. You \nactually did it. What did you use? What worked?"
+    },
+    {
+      "start": 3517.68,
+      "duration": 6.72,
+      "text": "I feel like the analogy here is I have 12 nieces \nand nephews and you can see how people who have"
+    },
+    {
+      "start": 3524.4,
+      "duration": 6.16,
+      "text": "grown up in a different world, how their mind is \nformed differently. So if you ask me, how do you"
+    },
+    {
+      "start": 3530.56,
+      "duration": 5.04,
+      "text": "answer a phone, I'll do this. But a child now, \nwhen you say, \"How do you answer the phone?\""
+    },
+    {
+      "start": 3535.6,
+      "duration": 8.4,
+      "text": "They'll do this. They'll do the iPhone answer. And \nI feel like people who are growing up now in their"
+    },
+    {
+      "start": 3544.0,
+      "duration": 4.24,
+      "text": "professional lives were the same just with AI.\nSo every time I'm faced with a new challenge"
+    },
+    {
+      "start": 3548.24,
+      "duration": 5.76,
+      "text": "or problem, I think AI first how to solve \nit. So Meta reached out and said they'd"
+    },
+    {
+      "start": 3554.0,
+      "duration": 5.04,
+      "text": "like me to interview. Straight away, I opened \nup a project within Claude. I started looking"
+    },
+    {
+      "start": 3559.04,
+      "duration": 5.28,
+      "text": "online for all the best information out there, \nthings that I resonated with. I took a ton of"
+    },
+    {
+      "start": 3564.32,
+      "duration": 6.08,
+      "text": "frameworks and stuff from Ben Erez who has \nwritten a guest post for you, who I think"
+    },
+    {
+      "start": 3570.4,
+      "duration": 5.44,
+      "text": "is one of the best minds out there right now.\nAnd basically I created a project which was my"
+    },
+    {
+      "start": 3575.84,
+      "duration": 6.16,
+      "text": "coach, which I would come and consult what to \ndo at each phase. I would mock interview with,"
+    },
+    {
+      "start": 3582.0,
+      "duration": 6.16,
+      "text": "and this was amazing. Also, I created \na game in Base44, which helped me ... I"
+    },
+    {
+      "start": 3588.16,
+      "duration": 3.6,
+      "text": "was really struggling with segmentation \nwithin the product questions, so thinking"
+    },
+    {
+      "start": 3591.76,
+      "duration": 4.64,
+      "text": "of the correct segments. So I basically just \ncreated a quiz game, which creates questions"
+    },
+    {
+      "start": 3596.4,
+      "duration": 5.84,
+      "text": "and different segmentations and I have to choose.\nSo this was like, I spun this up. It's a web app"
+    },
+    {
+      "start": 3602.24,
+      "duration": 5.92,
+      "text": "that I would play sometimes when I was on the \nbus to work. So basically, I think Ben talks"
+    },
+    {
+      "start": 3608.16,
+      "duration": 6.24,
+      "text": "about this a bunch, so I don't just go read Ben's \nstuff, but just creating a project and feeding it"
+    },
+    {
+      "start": 3614.4,
+      "duration": 5.12,
+      "text": "with all the best information on the internet and \nthen mocking a bunch. I will say that the biggest"
+    },
+    {
+      "start": 3619.52,
+      "duration": 7.2,
+      "text": "game changer for me was doing human mocks.\nSo cold outreaching to people on LinkedIn and"
+    },
+    {
+      "start": 3626.72,
+      "duration": 6.08,
+      "text": "having them do actual mocks for me, I think that \nat the end of the day, especially for the Meta PM"
+    },
+    {
+      "start": 3632.8,
+      "duration": 6.08,
+      "text": "prep, which is super competitive and difficult, \nI think there's no way to get around that."
+    },
+    {
+      "start": 3638.88,
+      "duration": 4.0,
+      "text": "That is so cool they use that post. I wasn't \naware. We're going to link to it. And in that"
+    },
+    {
+      "start": 3642.88,
+      "duration": 5.12,
+      "text": "post, Ben shares all these prompts you can feed \nChatGPT to help you prepare for interviews,"
+    },
+    {
+      "start": 3648.0,
+      "duration": 5.68,
+      "text": "do mocks online. It's a really important point \nto say that those take you to a point, but it's"
+    },
+    {
+      "start": 3653.68,
+      "duration": 5.44,
+      "text": "actually better to use humans. I actually have a \npost coming out soon in collaboration with Noam"
+    },
+    {
+      "start": 3659.12,
+      "duration": 5.92,
+      "text": "Segal about how everyone is using AI to interview.\nAnd one of the most interesting ways I've heard"
+    },
+    {
+      "start": 3665.04,
+      "duration": 3.84,
+      "text": "people and that we've found in this research was \nthat people use it to get feedback. They record"
+    },
+    {
+      "start": 3668.88,
+      "duration": 3.12,
+      "text": "the interview and then it gives them feedback. \nHere's where you could have done better."
+    },
+    {
+      "start": 3672.8,
+      "duration": 3.92,
+      "text": "Here's what you missed because the feedback \nloop is so missing. No one ever tells you,"
+    },
+    {
+      "start": 3676.72,
+      "duration": 4.88,
+      "text": "here's what you did badly in this interview. \nNo one tells you that, and AI can do that."
+    },
+    {
+      "start": 3681.6,
+      "duration": 6.16,
+      "text": "So I'll add two things to that. One, which \nis exactly this. So I'll mock with AI. Also,"
+    },
+    {
+      "start": 3687.76,
+      "duration": 5.68,
+      "text": "I did something really cool where there's \na question bank online free by Louis Lynn,"
+    },
+    {
+      "start": 3693.44,
+      "duration": 4.16,
+      "text": "which basically is an always updating bank \nof questions that people are asked in real"
+    },
+    {
+      "start": 3697.6,
+      "duration": 6.88,
+      "text": "interviews. And I basically used Comet, which \nis the Perplexity's browser. And I had the"
+    },
+    {
+      "start": 3704.48,
+      "duration": 5.12,
+      "text": "agent run all kinds of analyses on what the most \nasked questions are. And that's how I knew how"
+    },
+    {
+      "start": 3709.6,
+      "duration": 5.92,
+      "text": "to prioritize what questions I would mock.\nAnd then at the end of these mocks, I would"
+    },
+    {
+      "start": 3716.16,
+      "duration": 5.84,
+      "text": "tell Claude within the project, \"You're my coach \nand I don't want you to make me feel good. I want"
+    },
+    {
+      "start": 3722.0,
+      "duration": 5.76,
+      "text": "you to make me as ready as possible for these \ninterviews. So give me feedback, like you said.\""
+    },
+    {
+      "start": 3727.76,
+      "duration": 3.36,
+      "text": "And the other thing that I did was really cool \nwas some questions where I didn't have time to"
+    },
+    {
+      "start": 3731.12,
+      "duration": 4.88,
+      "text": "mock. I would ask Claude to play the candidate, \nand then it would just give me a really good"
+    },
+    {
+      "start": 3736.0,
+      "duration": 4.88,
+      "text": "answer. And I could also learn from that, like \nlearning from someone who does a perfect answer."
+    },
+    {
+      "start": 3740.88,
+      "duration": 3.92,
+      "text": "Oh, man. I really love the way you phrased \nit, that people kind of in your generation,"
+    },
+    {
+      "start": 3744.8,
+      "duration": 5.28,
+      "text": "the default is, \"I have something I need \nto do. Let's go to AI immediately and help"
+    },
+    {
+      "start": 3750.08,
+      "duration": 2.48,
+      "text": "me prepare for this thing, help me figure it out.\""
+    },
+    {
+      "start": 3752.56,
+      "duration": 0.88,
+      "text": "Yeah."
+    },
+    {
+      "start": 3753.44,
+      "duration": 3.44,
+      "text": "And this comes back to this quote that I always \nthink about, which I think everyone is always"
+    },
+    {
+      "start": 3756.88,
+      "duration": 5.354,
+      "text": "hearing, but it's such an important quote that \nit's not that you will be replaced by AI at"
+    },
+    {
+      "start": 3762.234,
+      "duration": 5.126,
+      "text": "least for a long time. It's you'll be replaced \nby someone who's better at using AI than you."
+    },
+    {
+      "start": 3767.36,
+      "duration": 1.2,
+      "text": "I agree."
+    },
+    {
+      "start": 3768.56,
+      "duration": 3.28,
+      "text": "And that's what these conversations are for \nto help people keep up with all that and to"
+    },
+    {
+      "start": 3771.84,
+      "duration": 4.16,
+      "text": "learn some of these skills. And again, see \nwhere the future is going and start to learn"
+    },
+    {
+      "start": 3776.0,
+      "duration": 5.2,
+      "text": "how to get there yourself. Okay. Zevi, before \nwe get to our very exciting lightning round,"
+    },
+    {
+      "start": 3781.2,
+      "duration": 4.48,
+      "text": "I'm going to take us to a recurring segment \non this podcast I call Failure Corner."
+    },
+    {
+      "start": 3785.68,
+      "duration": 4.08,
+      "text": "And why I love this segment is people \ncome on this, just even this conversation,"
+    },
+    {
+      "start": 3789.76,
+      "duration": 2.72,
+      "text": "it's like all these amazing things \nyou figured out, everything is going"
+    },
+    {
+      "start": 3792.48,
+      "duration": 4.8,
+      "text": "so well. People rarely hear the things that \ndon't go well, and those are often the most"
+    },
+    {
+      "start": 3797.28,
+      "duration": 4.88,
+      "text": "interesting and impactful stories. So \nthe question is just, what's the story"
+    },
+    {
+      "start": 3802.16,
+      "duration": 4.64,
+      "text": "of a time you failed in your career and \nwhat did you learn from that experience?"
+    },
+    {
+      "start": 3806.8,
+      "duration": 7.52,
+      "text": "Yeah, I love this. I love this. I love Failure \nCorner, big fan. So I'll tell a story about"
+    },
+    {
+      "start": 3814.32,
+      "duration": 4.4,
+      "text": "when I started at Wix. So basically I started \nwithin Wix as a student program and straight"
+    },
+    {
+      "start": 3818.72,
+      "duration": 6.8,
+      "text": "out of the student program, you get put into a \ncertain team. So I was in the editor, which is"
+    },
+    {
+      "start": 3825.52,
+      "duration": 5.68,
+      "text": "the core product of Wix. And the other \nPMs were just the best PMs almost at Wix."
+    },
+    {
+      "start": 3831.2,
+      "duration": 4.96,
+      "text": "There's four other people had much more experience \nthan me and they were ridiculously good. And I"
+    },
+    {
+      "start": 3836.16,
+      "duration": 4.56,
+      "text": "remember coming in and thinking like, my first \nproduct review, I'm going to blow these people's"
+    },
+    {
+      "start": 3840.72,
+      "duration": 5.2,
+      "text": "socks off. They're not going to believe how \ngood of a PM I am. And I basically didn't"
+    },
+    {
+      "start": 3845.92,
+      "duration": 5.44,
+      "text": "really share what I was thinking. I would \nwork tons of hours alone and I was like,"
+    },
+    {
+      "start": 3851.36,
+      "duration": 4.64,
+      "text": "\"I'm going to kill this product review. They're \ngoing to be so impressed.\" And I ended up failing"
+    },
+    {
+      "start": 3856.0,
+      "duration": 5.04,
+      "text": "miserably. My product review was not good.\nIt wasn't the format they expected. They"
+    },
+    {
+      "start": 3861.04,
+      "duration": 5.04,
+      "text": "had a ton of questions that I missed and \nI felt awful when it was over. I was like,"
+    },
+    {
+      "start": 3866.08,
+      "duration": 3.84,
+      "text": "\"Ah, you're such an idiot.\" And I saw that \neveryone was like, \"All right, cool. Yeah,"
+    },
+    {
+      "start": 3869.92,
+      "duration": 6.32,
+      "text": "just come back in two weeks and we'll keep getting \nat this.\" And I understood in that moment that"
+    },
+    {
+      "start": 3876.24,
+      "duration": 6.24,
+      "text": "they had zero expectation of me being a 10X PM, \nbut the expectation of me was being a 10X learner."
+    },
+    {
+      "start": 3882.48,
+      "duration": 6.0,
+      "text": "And the second I understood that, my whole mindset \nshifted. And I think this is probably the best tip"
+    },
+    {
+      "start": 3888.48,
+      "duration": 7.2,
+      "text": "that I give now to junior PMs is basically be the \nbest learner you can be at the beginning. No one"
+    },
+    {
+      "start": 3895.68,
+      "duration": 3.84,
+      "text": "expects you to know all the answers and no one \nexpects you to be good. So basically what I did"
+    },
+    {
+      "start": 3899.52,
+      "duration": 6.0,
+      "text": "was I took each person on the PM team, there \nwas four other PMs and I assessed what their"
+    },
+    {
+      "start": 3905.52,
+      "duration": 5.52,
+      "text": "strength is and used them as a mentor for that.\nSo Neri who's still my mentor till today,"
+    },
+    {
+      "start": 3911.04,
+      "duration": 3.76,
+      "text": "he has the best product sense of \nanyone I've met. Oya is super,"
+    },
+    {
+      "start": 3914.8,
+      "duration": 6.16,
+      "text": "she's like a methodology expert. She just thinks \nin frameworks. Yahra, who is the head of product,"
+    },
+    {
+      "start": 3920.96,
+      "duration": 4.8,
+      "text": "basically can look at a product and then instantly \nunderstand the third and fourth order effects"
+    },
+    {
+      "start": 3925.76,
+      "duration": 4.08,
+      "text": "of them, the system thinking. So every time I \nhad an issue with one of these areas, I would"
+    },
+    {
+      "start": 3929.84,
+      "duration": 5.2,
+      "text": "come to one of them and consult them, and this \ndoes two things. First of all, I learned a ton."
+    },
+    {
+      "start": 3935.04,
+      "duration": 4.48,
+      "text": "And the second thing is that when the \nnext time, the next product review,"
+    },
+    {
+      "start": 3939.52,
+      "duration": 4.48,
+      "text": "my success felt to them like their success \nbecause it wasn't this kid who's trying"
+    },
+    {
+      "start": 3944.0,
+      "duration": 7.6,
+      "text": "to show us up how cool he is. It was like our \nmentee kind of making us all proud. And it was"
+    },
+    {
+      "start": 3951.6,
+      "duration": 5.92,
+      "text": "such a great shift for me. And basically at the \nend of the day, I really excelled through this."
+    },
+    {
+      "start": 3957.52,
+      "duration": 5.2,
+      "text": "That is an awesome story. And this idea of \nlearning is such a good thread throughout"
+    },
+    {
+      "start": 3962.72,
+      "duration": 4.16,
+      "text": "this whole conversation that AI is good at \ngetting stuff done, but it's also really"
+    },
+    {
+      "start": 3966.88,
+      "duration": 4.4,
+      "text": "good at helping you learn how to do the thing \nand to be this partner, this thought partner,"
+    },
+    {
+      "start": 3971.28,
+      "duration": 5.04,
+      "text": "the way you talked about the interview process \nyou went through and this learning opportunity"
+    },
+    {
+      "start": 3976.32,
+      "duration": 6.16,
+      "text": "/command. So awesome. Great story. Zevi, okay. \nBefore we get to our very exciting lightning"
+    },
+    {
+      "start": 3982.48,
+      "duration": 3.36,
+      "text": "round, is there anything else that you wanted to \nshare? Anything you want to leave listeners with?"
+    },
+    {
+      "start": 3985.84,
+      "duration": 6.64,
+      "text": "Yeah. So kind of to tie back into the first \nthing I said where if people walk away thinking,"
+    },
+    {
+      "start": 3993.76,
+      "duration": 6.8,
+      "text": "\"Zevi's so cool.\" Then I've failed here. I \nthink that it's just the best time to be alive,"
+    },
+    {
+      "start": 4000.56,
+      "duration": 5.36,
+      "text": "I think. It's the best time to be a junior \ncontrary to what a lot of people are saying how"
+    },
+    {
+      "start": 4006.72,
+      "duration": 5.28,
+      "text": "there's no more junior roles out there and people \nget out of school and you can't find a role."
+    },
+    {
+      "start": 4012.0,
+      "duration": 3.92,
+      "text": "Yeah, that's true. But also when else in \nhistory could you get out of school and"
+    },
+    {
+      "start": 4015.92,
+      "duration": 6.72,
+      "text": "just build a startup on your own with a couple \nof friends completely bootstrapped. And I see"
+    },
+    {
+      "start": 4022.64,
+      "duration": 6.88,
+      "text": "more and more people towards the end of my \ntime at Wix, I was interviewing and I saw"
+    },
+    {
+      "start": 4029.52,
+      "duration": 6.0,
+      "text": "more and more people building their own stuff \nwith AI. And I think contrary to what a lot of"
+    },
+    {
+      "start": 4035.52,
+      "duration": 4.32,
+      "text": "people think, it's the best time to be a junior.\nIt's the best time to be a learner. And I think"
+    },
+    {
+      "start": 4039.84,
+      "duration": 6.4,
+      "text": "if any listener is listening to this and you're \na curious person, you're a hardworking person,"
+    },
+    {
+      "start": 4046.24,
+      "duration": 5.68,
+      "text": "I want to say kind, I'm not sure, but if you're a \nkind person and a good communicator, you have such"
+    },
+    {
+      "start": 4051.92,
+      "duration": 5.04,
+      "text": "an unfair advantage and you can give more value \nto companies than most people who have 20 years of"
+    },
+    {
+      "start": 4056.96,
+      "duration": 7.12,
+      "text": "experience. So I really hope people get inspired \nby this and start killing it with their projects."
+    },
+    {
+      "start": 4064.08,
+      "duration": 3.6,
+      "text": "Amazing. So many ways to be inspired \nfrom this conversation. Zevi, with that,"
+    },
+    {
+      "start": 4067.68,
+      "duration": 5.04,
+      "text": "we've reached our very exciting lightning round. \nI've got five questions for you. Are you ready?"
+    },
+    {
+      "start": 4072.72,
+      "duration": 1.6,
+      "text": "Yep, let's do it."
+    },
+    {
+      "start": 4074.32,
+      "duration": 4.24,
+      "text": "What are two or three books that you find \nyourself recommending most to other people?"
+    },
+    {
+      "start": 4078.56,
+      "duration": 8.0,
+      "text": "So I'll take one from each kind of genre. So in \nfiction, I love The Fountainhead by Ayn Rand,"
+    },
+    {
+      "start": 4086.56,
+      "duration": 5.52,
+      "text": "one of my favorite books. Really makes you \nthink, really makes you feel. Business books,"
+    },
+    {
+      "start": 4092.08,
+      "duration": 3.198,
+      "text": "I'm a big fan of Shoe Dog, the Nike \nstory, one of my favorite books."
+    },
+    {
+      "start": 4095.278,
+      "duration": 2.082,
+      "text": "I just finished reading that. So funny."
+    },
+    {
+      "start": 4097.36,
+      "duration": 0.4,
+      "text": "Amazing."
+    },
+    {
+      "start": 4097.76,
+      "duration": 1.12,
+      "text": "This is great. It was great."
+    },
+    {
+      "start": 4098.88,
+      "duration": 6.32,
+      "text": "Yeah. I love Shoe Dog. And then more on \nthe psychology side Mindset by Carol Dweck,"
+    },
+    {
+      "start": 4105.2,
+      "duration": 4.8,
+      "text": "who coined the term growth mindset. \nIt's just such an amazing book. It"
+    },
+    {
+      "start": 4110.0,
+      "duration": 4.0,
+      "text": "kind of sounds like a self-help book, but \nthen you understand that it's completely"
+    },
+    {
+      "start": 4114.0,
+      "duration": 4.56,
+      "text": "psychological and is based on research \nand that book completely changed my life."
+    },
+    {
+      "start": 4119.84,
+      "duration": 4.32,
+      "text": "Really, I was always with a fixed mindset, and \nthen after reading that, I kind of understood"
+    },
+    {
+      "start": 4124.8,
+      "duration": 2.64,
+      "text": "that it was something holding me back. \nAnd since then, I've been really,"
+    },
+    {
+      "start": 4127.44,
+      "duration": 4.24,
+      "text": "really trying to cultivate a growth mindset. \nSo I really recommend everyone reading that."
+    },
+    {
+      "start": 4131.68,
+      "duration": 4.96,
+      "text": "Again, connects to that thread of the way you \ndescribed it, being a 10X learner versus a 10X"
+    },
+    {
+      "start": 4136.64,
+      "duration": 5.52,
+      "text": "doer. Okay. Next question. Favorite recent \nmovie or TV show you have really enjoyed?"
+    },
+    {
+      "start": 4142.16,
+      "duration": 5.92,
+      "text": "Yeah, actually, my wife is really into film, so \nwe watch a lot of TV. It's probably our favorite"
+    },
+    {
+      "start": 4148.08,
+      "duration": 3.68,
+      "text": "together time. I just finished watching The Pitt,"
+    },
+    {
+      "start": 4151.76,
+      "duration": 5.12,
+      "text": "which was amazing. It was really good. \nAnd my first recommendation to everyone"
+    },
+    {
+      "start": 4156.88,
+      "duration": 4.08,
+      "text": "is if you haven't seen Severance run to \nsee Severance, one of my favorite shows."
+    },
+    {
+      "start": 4160.96,
+      "duration": 3.44,
+      "text": "Is there a favorite product that you have \nrecently discovered that you really love?"
+    },
+    {
+      "start": 4164.4,
+      "duration": 5.76,
+      "text": "This is a good question. I'm always trying new \nproducts. I'll always have three or four browsers"
+    },
+    {
+      "start": 4170.72,
+      "duration": 5.28,
+      "text": "installed on my computer and all this different \nkind of stuff, and I recently discovered a Loom"
+    },
+    {
+      "start": 4176.0,
+      "duration": 6.08,
+      "text": "alternative. I was kind of disappointed with Loom. \nThey were taking so much money and the product,"
+    },
+    {
+      "start": 4182.96,
+      "duration": 4.32,
+      "text": "I don't know, I just didn't love it. And \nthere's an open source alternative called Cap,"
+    },
+    {
+      "start": 4187.28,
+      "duration": 6.0,
+      "text": "which is just really well-crafted. You can \nsee that the person was really sweating the"
+    },
+    {
+      "start": 4193.28,
+      "duration": 4.88,
+      "text": "details and it's just a really, really great \nalternative. So I've been using that recently."
+    },
+    {
+      "start": 4198.16,
+      "duration": 4.08,
+      "text": "There's also a product called Supercut \nthat I love that's also a Loom alternative."
+    },
+    {
+      "start": 4202.8,
+      "duration": 3.52,
+      "text": "Shout out. Okay. Two more questions. Do \nyou have a favorite life motto that you"
+    },
+    {
+      "start": 4206.32,
+      "duration": 3.28,
+      "text": "find yourself coming back to in work or in life?"
+    },
+    {
+      "start": 4209.6,
+      "duration": 4.88,
+      "text": "Yeah. I'm kind of between two right now. One, \nwhich has become a Twitter meme basically,"
+    },
+    {
+      "start": 4214.48,
+      "duration": 4.88,
+      "text": "which is you can just do things. I feel \nlike that is basically going always in my"
+    },
+    {
+      "start": 4219.36,
+      "duration": 5.12,
+      "text": "head every time I do something that I'm \njust shocked at the speed and ability to"
+    },
+    {
+      "start": 4224.48,
+      "duration": 5.52,
+      "text": "do things now so you can just do things, and \nthe second one I stole from my brother. His"
+    },
+    {
+      "start": 4230.0,
+      "duration": 4.88,
+      "text": "motto is nobody knows what the fuck they're \ndoing. And I just love that. And I think it"
+    },
+    {
+      "start": 4234.88,
+      "duration": 4.64,
+      "text": "kind of makes you take life more lightly. So \nyeah, nobody knows what the they're doing."
+    },
+    {
+      "start": 4239.52,
+      "duration": 4.0,
+      "text": "I think people see these companies on the outside \nand it feels like everything they've got all"
+    },
+    {
+      "start": 4243.52,
+      "duration": 3.76,
+      "text": "figured out. And if you're ever on the inside of \na company that's doing really well, you're like,"
+    },
+    {
+      "start": 4247.28,
+      "duration": 3.92,
+      "text": "how is this staying on the rails? How is this \nstill a thing that is working? Doesn't make any"
+    },
+    {
+      "start": 4251.2,
+      "duration": 8.08,
+      "text": "sense. It's all about to fall apart. Yeah. Okay.\nLast question. You've had a long entrepreneurial"
+    },
+    {
+      "start": 4259.84,
+      "duration": 4.4,
+      "text": "thread throughout your career. There's a \ncouple other real world businesses you've"
+    },
+    {
+      "start": 4264.24,
+      "duration": 4.56,
+      "text": "started in the past. You did a thermal \nclothing business and then like a hummus"
+    },
+    {
+      "start": 4268.8,
+      "duration": 4.24,
+      "text": "delivery thing. So maybe pick one of those \nand just tell the story of what that's about."
+    },
+    {
+      "start": 4273.04,
+      "duration": 6.4,
+      "text": "Yeah, I'd love to. Really fun that you asked about \nthis. So I'll tell the thermal clothing because"
+    },
+    {
+      "start": 4279.44,
+      "duration": 4.08,
+      "text": "I think it's really cool. So in high school, \nI was selling thermal clothes in 10th grade"
+    },
+    {
+      "start": 4284.48,
+      "duration": 5.6,
+      "text": "for one of my sister's friends or something, \nand basically it was just packs of thermal"
+    },
+    {
+      "start": 4290.08,
+      "duration": 4.72,
+      "text": "clothing, shirt and pants. I grew up in \nJerusalem, so it's a bit chillier there."
+    },
+    {
+      "start": 4294.8,
+      "duration": 6.08,
+      "text": "So it was perfect for the weather. And in 10th \ngrade, when I was selling them, they were like 20,"
+    },
+    {
+      "start": 4300.88,
+      "duration": 6.4,
+      "text": "$25 a piece and I was making like $4 a sale, \nand if you look in the food chain, I was like"
+    },
+    {
+      "start": 4307.28,
+      "duration": 4.8,
+      "text": "sixth or seventh down the line. So this was like \ncrazy margins. So during the summer I thought"
+    },
+    {
+      "start": 4312.08,
+      "duration": 5.76,
+      "text": "about it like I should just go straight to the \nimporter. So throughout the summer I called the"
+    },
+    {
+      "start": 4317.84,
+      "duration": 4.16,
+      "text": "importer and at first he was really, really mad.\nHe was like, no, you have to work for me for years"
+    },
+    {
+      "start": 4322.0,
+      "duration": 4.32,
+      "text": "to get to this state. And I said, listen, man, \nI'm finishing school soon. This is not going to be"
+    },
+    {
+      "start": 4326.32,
+      "duration": 7.04,
+      "text": "my career. Either do it or not. And we basically \nnegotiated throughout the whole summer. And this"
+    },
+    {
+      "start": 4333.36,
+      "duration": 6.8,
+      "text": "was also like how I did things before ChatGPT. \nSo he would throw out something, he'd say, \"Oh,"
+    },
+    {
+      "start": 4340.16,
+      "duration": 5.28,
+      "text": "the import tax has gone up.\" And I'll just search \nGoogle, like Import Tax Israel and start reading."
+    },
+    {
+      "start": 4345.44,
+      "duration": 4.4,
+      "text": "And I'll be on the phone with him and I'll be \nlike, \"Hey, I would just basically stall.\" And"
+    },
+    {
+      "start": 4349.84,
+      "duration": 6.88,
+      "text": "then I'd somehow come back with a challenge. \nAnd I ended up getting a really great price,"
+    },
+    {
+      "start": 4356.72,
+      "duration": 6.08,
+      "text": "like 12 and a half dollars a piece. So I was \nmaking 100% profit and I spread throughout a"
+    },
+    {
+      "start": 4362.8,
+      "duration": 6.32,
+      "text": "bunch of different schools. Each school, I had the \ncoolest people in school selling for me. And then"
+    },
+    {
+      "start": 4369.76,
+      "duration": 5.2,
+      "text": "a really fun thing that I did was we had a really \nawesome basketball team and our basketball team"
+    },
+    {
+      "start": 4374.96,
+      "duration": 6.16,
+      "text": "would basically be 30 points up within the first \nhalf and it kind of got boring for the crowd."
+    },
+    {
+      "start": 4381.12,
+      "duration": 4.08,
+      "text": "So I wrote a song, like a basketball \nchant about Thermal Clothes that"
+    },
+    {
+      "start": 4385.2,
+      "duration": 6.48,
+      "text": "basically has my number within it. And \nthe end of it was if you join in now,"
+    },
+    {
+      "start": 4391.68,
+      "duration": 5.2,
+      "text": "we'll give you a discount. And it was with drums \nand everything. And still when I go to Jerusalem,"
+    },
+    {
+      "start": 4396.88,
+      "duration": 3.6,
+      "text": "I know some people who I don't even know \nmy number by heart because they know it"
+    },
+    {
+      "start": 4400.48,
+      "duration": 3.76,
+      "text": "by the tune. And sometimes when I walk in \nJerusalem, people stop me and say like,"
+    },
+    {
+      "start": 4404.24,
+      "duration": 4.88,
+      "text": "\"Hey, it's Thermal Zevi.\" So that was \njust a really cool experience as a kid."
+    },
+    {
+      "start": 4409.12,
+      "duration": 6.96,
+      "text": "This explains so much just the marketing \ngenius of that move. Oh man. Okay. Zevi,"
+    },
+    {
+      "start": 4416.08,
+      "duration": 4.32,
+      "text": "this was incredible. Two final questions. \nWhere can folks find you if they want to reach"
+    },
+    {
+      "start": 4420.4,
+      "duration": 4.08,
+      "text": "out and maybe follow up on some of the stuff? \nWe'll link to the scripts and prompts and all"
+    },
+    {
+      "start": 4424.48,
+      "duration": 5.76,
+      "text": "that in the show notes so you don't have to read \nthat, and then how can listeners be useful to you?"
+    },
+    {
+      "start": 4430.24,
+      "duration": 6.08,
+      "text": "Awesome. So I've been helped throughout my \nwhole career a ton, so I love helping any"
+    },
+    {
+      "start": 4436.32,
+      "duration": 6.32,
+      "text": "way I can. So reach out on LinkedIn or on X. \nI'd really love to help whoever I can. How can"
+    },
+    {
+      "start": 4443.76,
+      "duration": 5.92,
+      "text": "listeners be useful to me? So if you're a student, \ntry StudyMate, tell me what you think. If you're"
+    },
+    {
+      "start": 4449.68,
+      "duration": 4.56,
+      "text": "in Israel and you are not using dictation \nyet, try Dibur2text. Tell me what you think."
+    },
+    {
+      "start": 4454.24,
+      "duration": 4.48,
+      "text": "Amazing. I just love how much you're giving \naway and how useful that's going to be to so"
+    },
+    {
+      "start": 4458.72,
+      "duration": 3.76,
+      "text": "many people. So again, we'll link to that in \nthe show notes. Zevi, you're awesome. Thank"
+    },
+    {
+      "start": 4462.48,
+      "duration": 3.12,
+      "text": "you so much for being here. Thank you so much for \nsharing so much. This is going to help, I think,"
+    },
+    {
+      "start": 4465.6,
+      "duration": 3.2,
+      "text": "a lot of people and I think it's going to \nhelp people get over the hump on. Okay,"
+    },
+    {
+      "start": 4468.8,
+      "duration": 4.56,
+      "text": "I see all these people doing cool stuff. \nHere's how I can actually do this stuff. So"
+    },
+    {
+      "start": 4473.36,
+      "duration": 2.4,
+      "text": "thank you so much for being \nhere and for sharing so much."
+    },
+    {
+      "start": 4475.76,
+      "duration": 2.48,
+      "text": "Thank you for having me. And \nif you build something cool"
+    },
+    {
+      "start": 4478.24,
+      "duration": 5.12,
+      "text": "with some stuff that I learned here, \nhit me up, send me. I'd love to see."
+    },
+    {
+      "start": 4483.36,
+      "duration": 2.16,
+      "text": "Amazing. Zevi, thank you so much for being here."
+    },
+    {
+      "start": 4485.52,
+      "duration": 0.56,
+      "text": "Thank you."
+    },
+    {
+      "start": 4486.08,
+      "duration": 5.52,
+      "text": "Bye everyone. Thank you so much for listening. If \nyou found this valuable, you can subscribe to the"
+    },
+    {
+      "start": 4491.6,
+      "duration": 6.08,
+      "text": "show on Apple Podcast, Spotify, or your favorite \npodcast app. Also, please consider giving us a"
+    },
+    {
+      "start": 4497.68,
+      "duration": 5.04,
+      "text": "rating or leaving a review as that really helps \nother listeners find the podcast. You can find"
+    },
+    {
+      "start": 4502.72,
+      "duration": 7.68,
+      "text": "all past episodes or learn more about the show at \nlennyspodcast.com. See you in the next episode."
+    }
+  ]
+}
