@@ -82,7 +82,9 @@ while [[ $# -gt 0 ]]; do
 done
 
 # 引数で指定された制限を適用
-if [[ -n "$LIMIT_VAL" ]]; then
+if $PROCESS_ALL; then
+    LIMIT=10000  # 実質的に無制限
+elif [[ -n "$LIMIT_VAL" ]]; then
     LIMIT="$LIMIT_VAL"
 else
     LIMIT=3
