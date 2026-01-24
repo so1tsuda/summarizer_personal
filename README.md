@@ -162,7 +162,20 @@ bash scripts/kilocode_summarize.sh --file data/transcripts/VIDEO_ID_cleaned.txt
 - `blog_article_system.txt` をシステムプロンプトとして読み込みます。
 - `data/transcripts/` 内の `_cleaned.txt`（文字起こし）と `_description.txt`（概要欄）を Kilo Code に渡します。
 - 更新日時が新しい順に処理し、デフォルトでは最大3件まで処理を継続します。
-- 生成された要約を `data/summaries/VIDEO_ID.md` として書き出します。
+- 生成された要約を `data/summaries/VIDEO_ID.md` として書き出し、JSONから取得した適切な**YAMLフロントマター**を自動的に付与します。
+
+### ステップ 3: メタデータの修復（必要な場合）
+過去に生成された要約ファイルにメタデータ（タイトルやチャンネル名）が不足している場合、以下のスクリプトで一括修復できます。
+
+```bash
+python scripts/repair_metadata.py
+```
+
+**このスクリプトがやっていること:**
+- `data/summaries/` 内の全Markdownファイルをスキャンします。
+- フロントマターが不足している、または「Untitled」などの仮データになっているファイルを特定します。
+- 対応するJSONファイルから正確なメタデータを取得し、フロントマターを上書きまたは追加します。
+- JSONにメタデータがない場合は、動画の概要欄（`_description.txt`）から抽出を試みます。
 
 ### 自動更新（Cron）での利用
 `cron_update.sh` の引数に `kilocode` を渡すと、上記のステップ1とステップ2が連続して自動実行されます。詳細は「Cron自動実行」セクションを参照してください。
@@ -220,7 +233,9 @@ npm run build
 │   ├── manage_backlog.py     # バックログ管理CLI
 │   ├── deploy.sh             # NUC用デプロイスクリプト
 │   ├── text_cleanup.py       # 文字起こしクリーンアップ
-│   └── cron_update.sh        # Cron用自動更新スクリプト
+│   ├── cron_update.sh        # Cron用自動更新スクリプト
+│   ├── repair_metadata.py    # メタデータ修復スクリプト [NEW]
+│   └── kilocode_summarize.sh # Kilo Code 要約バッチ [MOD]
 ├── src/                      # Next.js フロントエンド
 ├── gemini_summarizer.py      # Gemini API要約モジュール
 ├── openrouter_summarizer.py  # OpenRouter API要約モジュール
