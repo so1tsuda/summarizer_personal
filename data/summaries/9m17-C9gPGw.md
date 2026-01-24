@@ -1,3 +1,14 @@
+---
+title: "Why Chinese women made Sherlock Holmes a gay icon"
+video_id: "9m17-C9gPGw"
+channel: "The Economist"
+published_at: "2026-01-10"
+youtube_url: "https://www.youtube.com/watch?v=9m17-C9gPGw"
+thumbnail: "https://i.ytimg.com/vi/9m17-C9gPGw/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.658183"
+model: "repaired"
+---
+
 ## シャーロック・ホームズが中国でゲイアイコンになった理由
 
 中国の観光客がロンドンを訪れる理由は、地元の人々が想像するものとは異なる。一部の観光客は、シャーロック・ホームズと相棒のワトソン医師の関係性に惹かれて訪れる。そしてその関係とは、ロマンチックなものだ。中国では、熱心なファンが人気番組の好きなキャラクターの間に精巧なラブストーリーを創作したり、愛称を与えたりすることは珍しくない。

@@ -1,3 +1,14 @@
+---
+title: "【ビジネスエリートの上半身トレーニング】腕立て伏せ／ベンチプレス／チェストプレス／ラットプルダウン／菊池雄星投手らの体を変えたトレーナーが伝授／疲れにくい体が手に入る【BODY SKILL SET】"
+video_id: "tVlWYS-gzco"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=tVlWYS-gzco"
+thumbnail: "https://i.ytimg.com/vi/tVlWYS-gzco/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.694001"
+model: "repaired"
+---
+
 ## 上半身トレーニングの新常識：腕立て伏せ・ベンチプレス・ラットプルダウンを劇的に変える
 
 **清水忍**氏（IPFヘッドトレーナー）が**国山ハセン**氏（PIVOT MC）に上半身トレーニングの本質を伝授。腕立て伏せ、ベンチプレス、ラットプルダウンの3種目を通じて、全身連動型トレーニングの概念を解説する。

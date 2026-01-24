@@ -1,3 +1,14 @@
+---
+title: "The Crisis of Truth in American Politics — with Sam Harris | Prof G Conversations"
+video_id: "dO83MWhtut8"
+channel: "The Prof G Pod – Scott Galloway"
+published_at: "2026-01-15"
+youtube_url: "https://www.youtube.com/watch?v=dO83MWhtut8"
+thumbnail: "https://i.ytimg.com/vi/dO83MWhtut8/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.666014"
+model: "repaired"
+---
+
 ## 事実の崩壊とアイデンティティ政治の危機
 
 **Sam Harris**（神経科学者、ベストセラー作家）と**Scott Galloway**が、**ICE**による射撃事件、陰謀論の拡散、イラン情勢、そしてアイデンティティ政治が米国社会に与える影響について議論する。二人は、事実への合意形成がますます困難になっている現状を分析する。

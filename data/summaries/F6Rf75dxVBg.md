@@ -1,3 +1,14 @@
+---
+title: "【国家も注目するAIセーフティ】ハルシネーション・プロンプトインジェクション・ジェイルブレイク・ステガノグラフとは？／生成AIの出力を素早く判断／日本発の世界標準ツール"
+video_id: "F6Rf75dxVBg"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-23"
+youtube_url: "https://www.youtube.com/watch?v=F6Rf75dxVBg"
+thumbnail: "https://i.ytimg.com/vi/F6Rf75dxVBg/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.788119"
+model: "repaired"
+---
+
 ## 生成AIのリスクを可視化する日本初のAIセーフティプラットフォーム
 
 エリス代表の井上顧基氏が開発するAIセーフティプラットフォーム「GENFLUX（ジェンフラックス）」は、生成AI導入をためらう企業の不安を解消するソリューションだ。ハルシネーション、プロンプトインジェクション、ジェイルブレイク、ステガノグラフィーといったAI特有のリスクを技術的に検出・防御し、金融・製薬・政治などハイリスク領域でのAI活用を可能にしている。

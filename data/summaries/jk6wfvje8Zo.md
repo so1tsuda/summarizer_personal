@@ -1,3 +1,14 @@
+---
+title: "Iran’s former crown prince on its potential path to democracy"
+video_id: "jk6wfvje8Zo"
+channel: "The Economist"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=jk6wfvje8Zo"
+thumbnail: "https://i.ytimg.com/vi/jk6wfvje8Zo/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.710241"
+model: "repaired"
+---
+
 ## イラン革命とレザ・パフラヴィの移行計画
 
 **レザ・パフラヴィ**（イラン最後のシャーの亡命した息子）は、現在のイランでの抗議活動を「革命」と呼び、政権による市民の「虐殺」を非難しつつ、移行期における自らの役割を明らかにした。**ザニー・ミントン・ベドーズ**（The Economist編集長）とのインタビューで、彼は中立的な調停者として機能し、自由選挙を監督し、選ばれた議会に権限を移譲する意向を示した。

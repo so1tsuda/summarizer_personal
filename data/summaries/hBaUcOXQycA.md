@@ -1,3 +1,14 @@
+---
+title: "How Trump’s threats against Venezuela unfolded | FT #shorts"
+video_id: "hBaUcOXQycA"
+channel: "Financial Times"
+published_at: "2026-01-03"
+youtube_url: "https://www.youtube.com/watch?v=hBaUcOXQycA"
+thumbnail: "https://i.ytimg.com/vi/hBaUcOXQycA/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.711221"
+model: "repaired"
+---
+
 ## 米国によるマドゥロ拘束とベネズエラ政権交代
 
 **ドナルド・トランプ**米大統領が声明を発表し、**ベネズエラ**の**ニコラス・マドゥロ**大統領を拘束し国外へ移送したと明らかにした。これは軍事複合施設や空軍基地などへの一連の攻撃に続く措置であり、**1989年**のパナマ侵攻（**マヌエル・ノリエガ**独裁者打倒）以来、米国がラテンアメリカの指導者を退陣させた初の事例となる。

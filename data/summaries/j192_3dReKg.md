@@ -1,3 +1,14 @@
+---
+title: "【日本株の2026年注目銘柄】鈴木一之が厳選した24銘柄／バリュー株は半導体商社と高利回り銘柄／グロース株は半導体素材と電力設備投資関連／半導体バブルはいつまで続く？【PIVOT MONEY】"
+video_id: "j192_3dReKg"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-23"
+youtube_url: "https://www.youtube.com/watch?v=j192_3dReKg"
+thumbnail: "https://i.ytimg.com/vi/j192_3dReKg/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.688146"
+model: "repaired"
+---
+
 ## 2026年日本株注目銘柄：AI革命で電力設備・半導体素材・高配当株が主役
 
 ゲストの**鈴木一之**氏（株式アナリスト）と共に、2026年の日本株注目銘柄を4つのセクターに分けて解説。日経平均は年内**5万8000円**到達が視野に入り、AI革命による電力需要急増が新たな投資テーマを生み出している。

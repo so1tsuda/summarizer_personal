@@ -1,3 +1,14 @@
+---
+title: "立憲と公明の新党で自民ピンチ？でも株価は無反応〜表参道moomoo証券ストアより生公開ライブ！"
+video_id: "pUb_U91Admg"
+channel: "田端大学　投資学部"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=pUb_U91Admg"
+thumbnail: "https://i.ytimg.com/vi/pUb_U91Admg/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.667850"
+model: "repaired"
+---
+
 ## 政治と市場の乖離、AI相場の行方
 
 **田端信太郎**が**moomoo証券**表参道ストアから公開ライブ配信を実施。政治部では立憲民主党と公明党の合併新党構想が政権交代の可能性として報じられる一方、株式市場は自民党大勝利を織り込み、日経平均株価は**5万4000円**台を維持。政治部と経済部の認識ギャップが浮き彫りとなっている。

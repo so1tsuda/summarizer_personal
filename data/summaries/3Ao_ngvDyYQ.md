@@ -1,3 +1,14 @@
+---
+title: "The Opendoor Clown Show $OPEN"
+video_id: "3Ao_ngvDyYQ"
+channel: "Broken Business Models"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=3Ao_ngvDyYQ"
+thumbnail: "https://i.ytimg.com/vi/3Ao_ngvDyYQ/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.798978"
+model: "repaired"
+---
+
 ## Opendoor：破綻寸前のiBuyer企業とミーム株騒動の実態
 
 **Opendoor**は住宅を直接購入し、転売して利益を得るiBuyerビジネスモデルを採用する企業。2021年にSPAC合併で上場したが、一貫して営業損失と純損失を計上し続けている。2025年半ばまで株価は数ドルまで下落し、事実上の失敗企業と見なされていた。しかし、2025年後半に**10倍**の急騰を見せた。

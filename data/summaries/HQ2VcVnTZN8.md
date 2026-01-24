@@ -1,3 +1,14 @@
+---
+title: "【α世代分析】MADAMADA、竹下☆ぱらだいす、しなこ、数々のα世代のヒットを生み出したプロデューサーあぃりDXとは何者か【MON7A/岸谷蘭丸】"
+video_id: "HQ2VcVnTZN8"
+channel: "NewsPicks /ニューズピックス"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=HQ2VcVnTZN8"
+thumbnail: "https://i.ytimg.com/vi/HQ2VcVnTZN8/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.733475"
+model: "repaired"
+---
+
 ## 看護師から原宿のトッププロデューサーへ：あぃりDXが語るバズの作り方と人材発掘の極意
 
 **あぃりDX**はミュージカリー日本代表を経て、**しなこ**の楽曲を**4.3億回**再生させ、**竹下☆ぱらだいす**を結成し、**5歳児**をアリーナデビューさせたα世代のヒットメーカーだ。看護師から原宿に飛び込み、どん底から這い上がった彼女の覚悟と戦略、そして「しなこワールド」を生み出した愛あるプロデュースの裏側が明かされる。

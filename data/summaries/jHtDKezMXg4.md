@@ -1,3 +1,14 @@
+---
+title: "Goldman Sachs CEO on AI, Debt, and America’s Future | Prof G Markets"
+video_id: "jHtDKezMXg4"
+channel: "The Prof G Pod – Scott Galloway"
+published_at: "2026-01-23"
+youtube_url: "https://www.youtube.com/watch?v=jHtDKezMXg4"
+thumbnail: "https://i.ytimg.com/vi/jHtDKezMXg4/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.755082"
+model: "repaired"
+---
+
 ## ゴールドマン・サックスCEO デビッド・ソロモンが語る2025年の回復とAI時代の展望
 
 Prof G Marketsに**デビッド・ソロモン**氏が出演。ゴールドマン・サックスの会長兼CEOとして、同社の劇的な復活、AIが人材に与える影響、米国経済の長期的課題について語った。

@@ -1,3 +1,14 @@
+---
+title: "Why does Donald Trump want Greenland? | FT #shorts"
+video_id: "VD_hmubQCUE"
+channel: "Financial Times"
+published_at: "2026-01-14"
+youtube_url: "https://www.youtube.com/watch?v=VD_hmubQCUE"
+thumbnail: "https://i.ytimg.com/vi/VD_hmubQCUE/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.802469"
+model: "repaired"
+---
+
 ## トランプが狙うグリーンランド：北極の戦略的要衝を巡る地政学
 
 **ドナルド・トランプ**がデンマーク領グリーンランドの併合を示唆し、国際的な注目を集めている。人口**57,000人**のこの北極の島は、**アメリカ**と**ロシア**の間に位置する戦略的要衝であり、気候変動による極域の氷の融化が新たな航路を開きつつある。

@@ -1,3 +1,14 @@
+---
+title: "The Iran protests"
+video_id: "4DCG81xrN-w"
+channel: "The Prof G Pod – Scott Galloway"
+published_at: "2026-01-14"
+youtube_url: "https://www.youtube.com/watch?v=4DCG81xrN-w"
+thumbnail: "https://i.ytimg.com/vi/4DCG81xrN-w/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.778380"
+model: "repaired"
+---
+
 ## トランプ大統領がイランに対する25%関税を発表
 
 **トランプ大統領**はイランと取引を行うすべての国に対して**25%の関税**を課すことを発表した。この命令は「直ちに発効」するとトランプ大統領が記述している。この措置は、イラン政府による抗議者への暴力的な弾圧に対する報復と見られる。この弾圧により数千人の市民が死亡している。トランプ大統領はイラン当局との対話を取り消し、イラン国民に対して「抗議を続け、あなたたちの機関を乗っ取れ」と呼びかけた。

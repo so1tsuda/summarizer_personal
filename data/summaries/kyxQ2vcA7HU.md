@@ -1,3 +1,14 @@
+---
+title: "【現金購入×築古戸建て】完全無借金で14物件を所有、無借金投資のうまみとは"
+video_id: "kyxQ2vcA7HU"
+channel: "楽待 RAKUMACHI"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=kyxQ2vcA7HU"
+thumbnail: "https://i.ytimg.com/vi/kyxQ2vcA7HU/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.670084"
+model: "repaired"
+---
+
 ## 借金ゼロで14物件・年収1000万円を達成したDIY不動産投資家の実践手法
 
 建築業界で職人として働いてきた**桃山さん**は、融資を一切使わず現金購入とDIYリフォームで**14物件**を所有し、**家賃年収約1000万円**の規模まで拡大させた不動産投資家だ。50代になった今もコツコツと物件再生を続ける桃山さんの無借金投資とDIYリフォームのリアルな実践を紹介する。

@@ -1,3 +1,14 @@
+---
+title: "会社の懇親会が「筋トレ」の時代に？｜#新年会 #懇親会 #筋トレ #ワークアウト #チームビルディング #crossdig"
+video_id: "XV__uQ52Phc"
+channel: "TBS CROSS DIG with Bloomberg"
+published_at: "2026-01-15"
+youtube_url: "https://www.youtube.com/watch?v=XV__uQ52Phc"
+thumbnail: "https://i.ytimg.com/vi/XV__uQ52Phc/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.678074"
+model: "repaired"
+---
+
 ## 会社の懇親会が「筋トレ」の時代へ
 
 米国では運動を活用したチームビルディングが広がり、企業の懇親会文化が静かに変化している。ある投資会社では社員が**HIIT（ハイ・インテンシティ・インターバル・トレーニング）**のクラスに参加し、非公式な会計の社員でも飲み会よりも深い交流ができたと報告している。

@@ -1,3 +1,14 @@
+---
+title: "THE BOOSTERS.【ONE OK ROCK Taka×石丸伸二】「貯め込んだ想いを爆発させる」1年半越しの初対面"
+video_id: "qeckmWrVKvQ"
+channel: "NewsPicks /ニューズピックス"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=qeckmWrVKvQ"
+thumbnail: "https://i.ytimg.com/vi/qeckmWrVKvQ/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.775010"
+model: "repaired"
+---
+
 ## 既成概念と戦う二人の魂の対話：ONE OK ROCK Takaと石丸伸二が語る孤独な闘いと覚悟
 
 世界的ロックバンド**ONE OK ROCK**のボーカル**Taka**（1988年生まれ、37歳）が、2024年の都知事選で**石丸伸二**を支持した真意が明かされる。異なるフィールドで「既成概念」と戦う二人が、政治と音楽、孤独な闘いを経てきた体験を語り合った熱狂の対談。

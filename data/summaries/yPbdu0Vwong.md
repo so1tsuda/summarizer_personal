@@ -1,3 +1,14 @@
+---
+title: "FT on 'Industry': Inside investment banking’s 'morning meeting' | FT #shorts"
+video_id: "yPbdu0Vwong"
+channel: "Financial Times"
+published_at: "2026-01-07"
+youtube_url: "https://www.youtube.com/watch?v=yPbdu0Vwong"
+thumbnail: "https://i.ytimg.com/vi/yPbdu0Vwong/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.772097"
+model: "repaired"
+---
+
 ## HBOドラマ『Industry』に見る投資銀行の朝会の現実
 
 HBOのドラマ『Industry』に登場する投資銀行の朝会シーンは、実際の金融業界の現実をどの程度反映しているのか。専門家がドラマの描写と実情を比較検証する。

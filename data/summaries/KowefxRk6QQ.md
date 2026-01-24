@@ -1,3 +1,14 @@
+---
+title: "【財政健全化の指標】政府債務残高対GDP比という視点／20年間忘れられてきた目標／プライマリーバランスとの違い／財政健全化か経済成長か／上智大・中里透氏【PIVOT TALK ECONOMY】"
+video_id: "KowefxRk6QQ"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=KowefxRk6QQ"
+thumbnail: "https://i.ytimg.com/vi/KowefxRk6QQ/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.686350"
+model: "repaired"
+---
+
 ## 财政健全化の新たな物差し：PBから債務残高対GDP比へ
 
 **中里透**上智大学経済学部准教授と共に、日本の財政健全化指標をめぐる議論の変遷を整理する。**高井総理**政権下で注目される債務残高対GDP比への転換と、20年前の議論との逆転現象を解説する。

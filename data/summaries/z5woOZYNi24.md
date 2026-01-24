@@ -1,3 +1,14 @@
+---
+title: "Wall Street Sinks on Greenland Risk | Prof G Markets"
+video_id: "z5woOZYNi24"
+channel: "The Prof G Pod – Scott Galloway"
+published_at: "2026-01-21"
+youtube_url: "https://www.youtube.com/watch?v=z5woOZYNi24"
+thumbnail: "https://i.ytimg.com/vi/z5woOZYNi24/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.741956"
+model: "repaired"
+---
+
 ## トランプ大統領のグリーンランド脅威が市場に与える衝撃とNetflixの大型買収劇
 
 **トランプ大統領**がグリーンランド獲得の脅威を強める中、市場が大きく動揺している。**S&P 500**は**2%**急落し、年初以来の利益をすべて失った。**ビットコイン**は**9万ドル**を割り込み、**10年物国債利回り**は**8月**以来の高水準に達した。**VIX**（恐怖指数）も**11月**以来の最高値を記録し、投資家は**ゴールド**という安全資産に逃避している。**ダボス**では世界経済フォーラムが開催中だが、トランプ大統領は「グリーンランド獲得計画から後退するつもりはない」と明言し、グリーンランドの首相は「侵攻に備えるべき」と呼びかけている。

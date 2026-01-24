@@ -1,3 +1,14 @@
+---
+title: "【CESレポート：NVIDIAは自動運転を制するのか？】NVIDIAの自動運転・最新戦略／ライバルはGoogle／フィジカルAIは米国勢の独壇場？／AFEELAは売れるか？／日本メーカーの注目点"
+video_id: "UXYpPIk2zN8"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-20"
+youtube_url: "https://www.youtube.com/watch?v=UXYpPIk2zN8"
+thumbnail: "https://i.ytimg.com/vi/UXYpPIk2zN8/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.776222"
+model: "repaired"
+---
+
 ## CES 2024で自動車がフィジカルAIの主役に
 
 **CES 2024**でフィジカルAIの主役はロボットではなく自動車だった。**NVIDIA**のプレゼンテーション全体の約30%が自動車関連で、**ソニー・ホンダ**の「**AFEELA**」が量産ラインで生産された車両を展示。**Amazon**傘下の**Zoox**がラスベガスで実走サービスを開始するなど、自動運転分野で米中が主導権を握りつつある。

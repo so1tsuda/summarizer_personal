@@ -1,3 +1,14 @@
+---
+title: "【セカンドライフにいくら必要？】預貯金に潜むリスク／元本割れしたくない人は保険もアリ／お金を減らさずに増やすには【肉乃小路ニクヨ×川口幸子（かわゆ先生）】（全1回）"
+video_id: "51waYUhUvnQ"
+channel: "flier 公式チャンネル"
+published_at: "2025-12-18"
+youtube_url: "https://www.youtube.com/watch?v=51waYUhUvnQ"
+thumbnail: "https://i.ytimg.com/vi/51waYUhUvnQ/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.730117"
+model: "repaired"
+---
+
 ## 定年5年前から始めるお金の準備と運用の極意
 
 金融コンサルタントの**川口幸子**氏が、定年を控えた50代・60代に向けた資産形成の方法を解説。**8歳**から投資を開始し、**13歳**で約**400万円**を貯めた経験を持つ川口氏が、単なる貯金からの脱却と適切な資産運用の重要性を説く。

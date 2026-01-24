@@ -1,3 +1,14 @@
+---
+title: "水産の常識が変わる、リージョナルフィッシュ梅川代表の夢"
+video_id: "D9ALiJTzYJE"
+channel: "NewsPicks /ニューズピックス"
+published_at: "2026-01-15"
+youtube_url: "https://www.youtube.com/watch?v=D9ALiJTzYJE"
+thumbnail: "https://i.ytimg.com/vi/D9ALiJTzYJE/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.668794"
+model: "repaired"
+---
+
 ## ゲノム編集で「夢の魚」を創造するリージョナルフィッシュの挑戦
 
 日本の漁獲量が減少する中、食卓の当たり前を技術で変えようとするディープテック企業**リージョナルフィッシュ**。ゲノム編集を含む品種改良で、高温耐性や高成長といった「夢の魚」を生み出し、生産性の向上を目指している。代表の**梅川忠典**氏は、2030年時点で日本で最も企業価値の大きい水産会社を作るというビジョンを掲げている。

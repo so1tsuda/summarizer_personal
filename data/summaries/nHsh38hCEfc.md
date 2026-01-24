@@ -1,3 +1,14 @@
+---
+title: "Trump’s World Order — Live from Davos, with Niall Ferguson"
+video_id: "nHsh38hCEfc"
+channel: "The Prof G Pod – Scott Galloway"
+published_at: "2026-01-22"
+youtube_url: "https://www.youtube.com/watch?v=nHsh38hCEfc"
+thumbnail: "https://i.ytimg.com/vi/nHsh38hCEfc/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.793666"
+model: "repaired"
+---
+
 ## トランプ外交の真意：グリーンランド演説から見える冷戦的地政学
 
 **Scott Galloway**と歴史家**Niall Ferguson**がダボスで現代の地政学的状況を分析。今日の世界は「新世界秩序」ではなく、冷戦的な大国政治への回帰に似ていると指摘する。

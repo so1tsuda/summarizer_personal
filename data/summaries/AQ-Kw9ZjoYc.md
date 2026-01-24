@@ -1,3 +1,14 @@
+---
+title: "【カジサック】イライラするときの対処法は？　#エデュパ #成田修造 #宮村優子  #カジサック #教育 #子育て #育児 #叱り方 #怒り方 #子供"
+video_id: "AQ-Kw9ZjoYc"
+channel: "NewsPicks /ニューズピックス"
+published_at: "2026-01-14"
+youtube_url: "https://www.youtube.com/watch?v=AQ-Kw9ZjoYc"
+thumbnail: "https://i.ytimg.com/vi/AQ-Kw9ZjoYc/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.686811"
+model: "repaired"
+---
+
 ## 5児の父・カジサックが語る「理想の叱り方」と子育ての極意
 
 **カジサック**が5人の子供を育てる中で実践している「理想の叱り方」について語る。**EduPassion**の番組で、イライラする原因を理解し、子供と向き合う重要性を説く。

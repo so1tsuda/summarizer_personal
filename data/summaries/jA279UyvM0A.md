@@ -1,3 +1,14 @@
+---
+title: "How the Venezuela crisis could hit Cuba | FT #shorts"
+video_id: "jA279UyvM0A"
+channel: "Financial Times"
+published_at: "2026-01-14"
+youtube_url: "https://www.youtube.com/watch?v=jA279UyvM0A"
+thumbnail: "https://i.ytimg.com/vi/jA279UyvM0A/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.787054"
+model: "repaired"
+---
+
 ## 米国、キューバ共産主義政権の崩壊を予感
 
 **米国**は60年以上にわたり**キューバ**の共産主義政権転覆を目指してきたが、その終わりが近いと感じている。しかし、政府はすでに数十年にわたる孤立を生き延びており、ハバナへの圧迫プロセスが実際に政治的変化にどうつながるかは依然として不透明だ。

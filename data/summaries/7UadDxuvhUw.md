@@ -1,3 +1,14 @@
+---
+title: "【AI×政治】AIは中立？政治的バイアス研究をゆる解説／GPT、Gemini、DeepSeek、Grokは左派寄り？それとも右派寄り？／何語で話すかによっても変わる？"
+video_id: "7UadDxuvhUw"
+channel: "安野貴博の自由研究"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=7UadDxuvhUw"
+thumbnail: "https://i.ytimg.com/vi/7UadDxuvhUw/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.649731"
+model: "repaired"
+---
+
 ## AIは政治的に偏っているのか？最新研究が明らかにするLLMの政治的バイアスの実態
 
 **安野貴博**氏によるAIの政治的バイアスに関する最新研究の解説。**GPT-5.1**、**Gemini**、**Claude 3**、**Grok 4.1**など主要LLMに対する調査結果が示されている。

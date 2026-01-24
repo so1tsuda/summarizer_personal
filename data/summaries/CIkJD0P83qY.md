@@ -1,3 +1,14 @@
+---
+title: "【日本は円安修正のチャンスを逃した？】唐鎌大輔が解説／海外の金利上昇で円安加速も／FRBとECBの利下げは「確実でない」／金利より“円安の痛み”を選ぶ？／日本に移民政策がないは“誤解”【エコラボ】"
+video_id: "CIkJD0P83qY"
+channel: "TBS CROSS DIG with Bloomberg"
+published_at: "2026-01-22"
+youtube_url: "https://www.youtube.com/watch?v=CIkJD0P83qY"
+thumbnail: "https://i.ytimg.com/vi/CIkJD0P83qY/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.695724"
+model: "repaired"
+---
+
 ## FRB新体制と日本経済の真のリスク
 
 2026年1月20日収録のTBS CROSS DIG with Bloombergで、みずほ銀行チーフマーケットエコノミストの**唐鎌大輔**氏がFRB新体制、欧米の利上げリスク、日本の移民政策について解説した。

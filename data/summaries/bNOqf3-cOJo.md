@@ -1,3 +1,14 @@
+---
+title: "「清潔にしているのに臭う」間違った皮膚ケアが引き起こす“加齢臭”の原因とは？洗いすぎが招くアトピーとアレルギーの実態【椛島健治、落合陽一】"
+video_id: "bNOqf3-cOJo"
+channel: "NewsPicks /ニューズピックス"
+published_at: "2026-01-22"
+youtube_url: "https://www.youtube.com/watch?v=bNOqf3-cOJo"
+thumbnail: "https://i.ytimg.com/vi/bNOqf3-cOJo/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.759262"
+model: "repaired"
+---
+
 ## 皮膚は人体最大のスーパー臓器：バリア・免疫・感覚の統合システム
 
 **椛島健治**氏（京都大学大学院医学研究科皮膚科学教授）が、皮膚医学の最前線について語る。皮膚は有害物質の侵入を防ぐ物理的バリアであり、人体最大の免疫器官であり、無数のセンサーが埋め込まれた高度な感覚器官である。この多層的な臓器は、私たちの身体と世界をどのようにつないでいるのか。

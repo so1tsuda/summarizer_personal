@@ -1,3 +1,14 @@
+---
+title: "【カジュアル面接の成功例と失敗例】実践から学ぶ／法則を体系化／スカウト返信率を高める3要素／2026年 採用を勝ち抜く／VOLLECT／PRO SCOUT"
+video_id: "-NsJVdk4_ik"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-09"
+youtube_url: "https://www.youtube.com/watch?v=-NsJVdk4_ik"
+thumbnail: "https://i.ytimg.com/vi/-NsJVdk4_ik/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.664061"
+model: "repaired"
+---
+
 ## 採用難の解決はワンランク上のカジュアル面談
 
 **VOLLECT**代表の**中島大志**氏、同社PRO SCOUT事業部長の**浅居孝弘**氏、マーケティング・セールスマネージャーの**寺島弘真**氏が、採用難を解決するための「ワンランク上のカジュアル面談」について解説する。カジュアル面談に参加した方の約**6割**が企業への興味度が上がっており、この施策が採用成功の重要な鍵となっている。

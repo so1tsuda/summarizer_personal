@@ -1,3 +1,14 @@
+---
+title: "【プロ直伝｢肌ケア｣習慣術】ビジネスパーソンとして身につけたい「スマートな佇（たたず）まい」とは"
+video_id: "epic8T7scQY"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-21"
+youtube_url: "https://www.youtube.com/watch?v=epic8T7scQY"
+thumbnail: "https://i.ytimg.com/vi/epic8T7scQY/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.692541"
+model: "repaired"
+---
+
 ## 男性の肌は女性より弱い：資生堂100年の研究が明かした衝撃の事実
 
 **SHISEIDO MEN**の研究により、男性の肌が女性よりも弱いという事実が明らかになった。**中里大介**（SHISEIDOグローバルブランドユニットメンズプロジェクトマネージャー）、**Goken**（資生堂パーソナルビューティーパートナー）、**新城輝昌**（資生堂ヘアメイクアップアーティスト）が、ビジネスパーソンが身につけるべき「スマートな佇まい」の秘密を解説する。

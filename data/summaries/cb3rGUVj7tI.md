@@ -1,3 +1,14 @@
+---
+title: "【会食・電話・視線が怖い 社交不安症】全国で100万人以上が悩む／“記憶の加工”をしている／手帳・AI・呼吸法でケア／「そうなんだなるほど」の温度感で接する／精神科医・益田裕介【1on1Health】"
+video_id: "cb3rGUVj7tI"
+channel: "TBS CROSS DIG with Bloomberg"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=cb3rGUVj7tI"
+thumbnail: "https://i.ytimg.com/vi/cb3rGUVj7tI/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.719997"
+model: "repaired"
+---
+
 ## 社交不安症の正体と克服への道
 
 精神科医の**益田裕介**氏（早稲田メンタルクリニック院長）と医療の翻訳家・**市川衛**氏が、日本で**100万人以上**が苦しむ社交不安症の実態と対策を解説。制作スタッフの「知らない人がいると食事が喉を通らない」という悩みから始まり、症状のメカニズム、発症の3要因、そして具体的な対処法までを網羅。

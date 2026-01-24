@@ -1,3 +1,14 @@
+---
+title: "【徹底予測：日本のインフレ。2035年までの３つの大変化】デフレから完全脱却したのか／インフレが続く理由／日本とソ連の類似点／実質賃金は上がり続ける/円高圧力が高まる理由／インフレ税で政府に180兆円"
+video_id: "yBWmDfZupGQ"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-22"
+youtube_url: "https://www.youtube.com/watch?v=yBWmDfZupGQ"
+thumbnail: "https://i.ytimg.com/vi/yBWmDfZupGQ/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.660710"
+model: "repaired"
+---
+
 ## 日本経済の3つの正常化：インフレ時代の賃金・物価・金利の行方
 
 東京大学名誉教授の**渡辺努**氏が、日本経済がデフレから脱却し、2035年までに3つの正常化が進むと指摘する。

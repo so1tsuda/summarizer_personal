@@ -1,3 +1,14 @@
+---
+title: "【ノーベル賞・Googleの天才AI研究者も夢中になった名門大学】800年の歴史が生んだ“学びの仕掛け”／世界最高峰の「おしゃべりと人脈」／ケンブリッジ大学教授・飯田史也【1on1 Tech】"
+video_id: "tUDfjdkzs58"
+channel: "TBS CROSS DIG with Bloomberg"
+published_at: "2026-01-22"
+youtube_url: "https://www.youtube.com/watch?v=tUDfjdkzs58"
+thumbnail: "https://i.ytimg.com/vi/tUDfjdkzs58/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.717927"
+model: "repaired"
+---
+
 ## 800年の歴史が生んだAIの天才たち――ケンブリッジ大学の「対話」を核とする教育システム
 
 2024年のノーベル物理学賞を受賞した**ジェフリー・ヒントン**氏（トロント大学）、ノーベル化学賞を受賞した**デミス・ハサビス**氏（Google DeepMind CEO）。この2人のAI研究者が共通して出身しているのが、800年の歴史を持つ**ケンブリッジ大学**だ。なぜこの伝統ある大学から現代最先端のAIの天才が次々と生まれるのか。ケンブリッジ大学工学部教授の**飯田史也**氏が、その教育システムの秘密を明かした。

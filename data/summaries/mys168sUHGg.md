@@ -1,3 +1,14 @@
+---
+title: "【「さけるチーズ」に「ドル札パスポート」】三宅＆竹下 カバンの中身は超カオス／リアルすぎ！三宅香帆の領収書ケース／哲学者直伝 目からウロコの「ふせん術」／３月１４日は公開収録です！"
+video_id: "mys168sUHGg"
+channel: "TBS CROSS DIG with Bloomberg"
+published_at: "2026-01-18"
+youtube_url: "https://www.youtube.com/watch?v=mys168sUHGg"
+thumbnail: "https://i.ytimg.com/vi/mys168sUHGg/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.805329"
+model: "repaired"
+---
+
 ## 文芸評論家と編集者のリアルなカバンの中身
 
 文芸評論家の**三宅香帆**さんとTBSテレビ特任執行役員の**竹下隆一郎**さんが、普段持ち歩いているカバンの中身をすべて公開。**マザーハウス**のバッグと**アディダス×ステラマッカートニー**のリュックから、**さけるチーズ**や**ドル札**、**パスポート**まで、予想外のアイテムが続々と登場した。

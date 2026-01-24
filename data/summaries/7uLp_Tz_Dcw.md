@@ -1,3 +1,14 @@
+---
+title: "【三日坊主は実はポジティブ】痩せる！パーソナリティトレーニングの新常識／「指示命令型」には「分類式食事法」／4分で効果！「効率優位型」にはTABATAトレーニング／中野ジェームズ修一（第2回／全2回）"
+video_id: "7uLp_Tz_Dcw"
+channel: "flier 公式チャンネル"
+published_at: "2026-01-07"
+youtube_url: "https://www.youtube.com/watch?v=7uLp_Tz_Dcw"
+thumbnail: "https://i.ytimg.com/vi/7uLp_Tz_Dcw/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.746870"
+model: "repaired"
+---
+
 ## 正月太り解消：人格別に最適な運動法とダイエット継続の秘訣
 
 **中野ジェームズ修一**氏が、人格タイプに応じた最適な運動法と食事法を解説する。**TABATAトレーニング**、**分類式食事法**、**思いやり優位型**のアプローチなど、継続可能なダイエット方法を紹介。

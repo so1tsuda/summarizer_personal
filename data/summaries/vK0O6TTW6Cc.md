@@ -1,3 +1,14 @@
+---
+title: "認知症最前線！アルツハイマー病が治せる時代到来！？【いまからサイエンス】"
+video_id: "vK0O6TTW6Cc"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-15"
+youtube_url: "https://www.youtube.com/watch?v=vK0O6TTW6Cc"
+thumbnail: "https://i.ytimg.com/vi/vK0O6TTW6Cc/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.734483"
+model: "repaired"
+---
+
 ## アルツハイマー病新薬「レカネマブ」実用化と認知症研究の最前線
 
 **加藤浩次**が**国立精神・神経医療研究センター**の**岩坪威**先生から認知症とアルツハイマー病の最新研究を聞く。**エーザイ**が開発した新薬「**レカネマブ**」が2023年に日米で正式承認され、認知症治療の新時代が幕を開けた。

@@ -1,3 +1,14 @@
+---
+title: "Why Trump’s Fumbles are a Boon for China | China Decode"
+video_id: "iQRHL0hhawQ"
+channel: "The Prof G Pod – Scott Galloway"
+published_at: "2026-01-20"
+youtube_url: "https://www.youtube.com/watch?v=iQRHL0hhawQ"
+thumbnail: "https://i.ytimg.com/vi/iQRHL0hhawQ/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.735747"
+model: "repaired"
+---
+
 ## 中国が米国の同盟国を引き寄せる戦略と歪んだ経済構造の危機
 
 China Decodeのホスト**Alice Han**と**James Kynge**が、北京が米国の同盟国を自国の軌道に引き込む動き、中国の不均衡な経済構造、そして孤独症流行を暴露するウイルス的アプリについて分析する。

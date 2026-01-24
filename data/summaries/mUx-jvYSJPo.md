@@ -1,3 +1,14 @@
+---
+title: "【2026年超予測：ビジネス】フィジカルAIは日本の救世主にならない／中心は自動運転／ヒューマノイドと電気問題／防衛銘柄の急騰／ターゲット政策の是非／PEブームの功罪／社外取締役の二極化"
+video_id: "mUx-jvYSJPo"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-18"
+youtube_url: "https://www.youtube.com/watch?v=mUx-jvYSJPo"
+thumbnail: "https://i.ytimg.com/vi/mUx-jvYSJPo/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.803642"
+model: "repaired"
+---
+
 ## 2026年予測：フィジカルAIの限界と防衛産業ブーム
 
 **塩野誠**氏（経営共創基盤代表取締役CEO）が2026年のビジネス界とコンサル業界の予測を語る。

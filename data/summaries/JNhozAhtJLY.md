@@ -1,3 +1,14 @@
+---
+title: "Greenland Tariffs Are Off — Is There a Deal? | Prof G Markets"
+video_id: "JNhozAhtJLY"
+channel: "The Prof G Pod – Scott Galloway"
+published_at: "2026-01-22"
+youtube_url: "https://www.youtube.com/watch?v=JNhozAhtJLY"
+thumbnail: "https://i.ytimg.com/vi/JNhozAhtJLY/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.683240"
+model: "repaired"
+---
+
 ## 中国の出生率急落と日本の国債危機、そしてトランプのダボス演説
 
 経済学者の**Alice Han**氏が中国の出生率急落を解説し、**William Chou**氏が日本の国債市場動揺を分析。**Ed Elson**が**トランプ**大統領のグリーンランド関税撤回の意味を考察。

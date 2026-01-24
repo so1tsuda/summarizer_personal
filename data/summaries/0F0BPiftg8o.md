@@ -1,3 +1,14 @@
+---
+title: "Knightscope Has Entered Hyper-Dilution $KSCP"
+video_id: "0F0BPiftg8o"
+channel: "Broken Business Models"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=0F0BPiftg8o"
+thumbnail: "https://i.ytimg.com/vi/0F0BPiftg8o/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.659694"
+model: "repaired"
+---
+
 ## **Knightscope**：AIセキュリティロボット企業の崩壊するビジネスモデル
 
 **James**が運営する「Broken Business Models」チャンネルが、2021年にIPOしたロボティクス企業**Knightscope**（NASDAQ: **KSCP**）を分析。この企業は自律型セキュリティロボットを製造販売しているが、IPO以来株価は**99%以上**下落し、時価総額はわずか**5000万ドル**のペニーストックとなっている。

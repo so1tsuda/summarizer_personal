@@ -1,3 +1,14 @@
+---
+title: "菅元総理　次期衆議院選挙に立候補せず今期限りで引退すると正式表明「喜寿で後進に道譲る」"
+video_id: "sCXeGNMO_OI"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=sCXeGNMO_OI"
+thumbnail: "https://i.ytimg.com/vi/sCXeGNMO_OI/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.722912"
+model: "repaired"
+---
+
 ## 菅元総理大臣、今期限りで政界引退を正式表明
 
 **自民党**の**菅元総理大臣**が次の**衆議院選挙**への立候補を見送り、今期限りで引退すると正式に表明した。**70代**に入ってから政治家としての引き際を常に考えており、**喜寿**を迎える中で後進に道を譲る決断に至った。

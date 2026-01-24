@@ -1,3 +1,14 @@
+---
+title: "トランプがTACOって米株は大幅高！日本株も反発！"
+video_id: "euHFbONwNvw"
+channel: "田端大学　投資学部"
+published_at: "2026-01-22"
+youtube_url: "https://www.youtube.com/watch?v=euHFbONwNvw"
+thumbnail: "https://i.ytimg.com/vi/euHFbONwNvw/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.704389"
+model: "repaired"
+---
+
 ## ダボス会議でのトランプ演説とグリーンランド問題、主要株価の動向
 
 田端信太郎による朝の株ライブ配信。**トランプ**大統領がダボス会議で演説し、ヨーロッパ人に対して「アメリカが助けなきゃ今頃全員ドイツ語を話してるぞ」と発言。**グリーンランド**の件については交渉のテーブルにつく方向で一旦引っ込める形となった。**アメリカ株**は3指数とも上昇。**NASDAQ**は**3%**上昇、ITセクターも**Google**が上昇。ただし**Microsoft**と**Oracle**は下落。**日本株**も日経先物が大幅上昇。

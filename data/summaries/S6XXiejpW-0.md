@@ -1,3 +1,14 @@
+---
+title: "FRBパウエル議長が捜査対象に 次期議長は誰に…マーケットへの影響は？【NIKKEI NEWS NEXT】"
+video_id: "S6XXiejpW-0"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=S6XXiejpW-0"
+thumbnail: "https://i.ytimg.com/vi/S6XXiejpW-0/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.783971"
+model: "repaired"
+---
+
 ## トランプ政権とFRBの対立激化、次期議長人事とマーケットへの影響
 
 2026年1月、**トランプ米大統領**と**パウエルFRB議長**の対立が深刻化している。パウエル議長が刑事捜査の対象になったと公表し、その背景にトランプ大統領の政治圧力があることを示唆した。一方、トランプ大統領は近くFRBの次期議長を指名すると見られており、市場の注目は日増しに高まっている。

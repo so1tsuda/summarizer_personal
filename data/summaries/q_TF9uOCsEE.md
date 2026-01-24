@@ -1,3 +1,14 @@
+---
+title: "【便利】どんな画像も全部OK！秒で終わらす「デザイナー監修」最強プロンプトで全員プロへ（Gemini／Nano Banana Pro／サムネ／パワポ／資料／表紙／写真合成）"
+video_id: "q_TF9uOCsEE"
+channel: "NewsPicks /ニューズピックス"
+published_at: "2026-01-21"
+youtube_url: "https://www.youtube.com/watch?v=q_TF9uOCsEE"
+thumbnail: "https://i.ytimg.com/vi/q_TF9uOCsEE/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.779118"
+model: "repaired"
+---
+
 ## AI画像生成でプロ級デザインを15分で完成させる方法
 
 **川合卓也**（**SHIFT AI CDO**、『AIでゼロからデザイン』著者）と**有水冴子**（NewsPicks編集部）が、**Google Gemini**と**NanoBananaPro**を活用したAI画像生成プロンプトの実践方法を解説。サムネイル、グラフ、広告画像を**15〜30分**で作成可能。

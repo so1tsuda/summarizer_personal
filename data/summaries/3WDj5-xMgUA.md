@@ -1,3 +1,14 @@
+---
+title: "【減税か給付の“ワナ”】唐鎌大輔が解説／日中関係が解散の背景に？／24年と決定的に違う 1ドル160円の重み／速すぎるインフレ　遅すぎる利上げ／アメリカとの「共倒れリスク」続く【エコラボ】"
+video_id: "3WDj5-xMgUA"
+channel: "TBS CROSS DIG with Bloomberg"
+published_at: "2026-01-20"
+youtube_url: "https://www.youtube.com/watch?v=3WDj5-xMgUA"
+thumbnail: "https://i.ytimg.com/vi/3WDj5-xMgUA/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.798344"
+model: "repaired"
+---
+
 ## 高市政権の衆院解散と円安・金利上昇の行方
 
 **高市総理**が2026年1月23日に衆院解散を表明し、総選挙へ突入した。今回の選挙は積極財政、消費税減税、円安といった経済政策が主要争点となる。**唐鎌大輔**氏（みずほ銀行チーフマーケット・エコノミスト）と**竹下隆一郎**氏（TBS CROSS DIG with Bloomberg CCO）が、この選挙と日本経済の将来を分析する。

@@ -1,3 +1,14 @@
+---
+title: "【ドラえもん・ONE PIECE・タッチ…漫画の名台詞】藤子・F・不二雄の強烈なメッセージ/ルフィは言葉をも倒す/南ちゃんの七五調/口ぐせ全然OK【言語学者・川添愛×肉乃小路ニクヨ】（第1回/全2回）"
+video_id: "3WeTfv5urME"
+channel: "flier 公式チャンネル"
+published_at: "2026-01-08"
+youtube_url: "https://www.youtube.com/watch?v=3WeTfv5urME"
+thumbnail: "https://i.ytimg.com/vi/3WeTfv5urME/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.714169"
+model: "repaired"
+---
+
 ## 言語学で読み解く名作のパンチライン
 
 言語学者の**川添愛**氏とドラァグクイーンの**肉乃小路ニクヨ**氏が、名作マンガの名セリフに隠された言語学的メカニズムを解説。『タッチ』『ワンピース』『ガンダム』などの作品分析を通じて、なぜ特定のセリフが記憶に残るのかを探る。

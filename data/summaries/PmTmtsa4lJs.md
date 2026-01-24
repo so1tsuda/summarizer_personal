@@ -1,3 +1,14 @@
+---
+title: "FT on 'Industry': What skills do you need if you want to get into wealth management | FT #shorts"
+video_id: "PmTmtsa4lJs"
+channel: "Financial Times"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=PmTmtsa4lJs"
+thumbnail: "https://i.ytimg.com/vi/PmTmtsa4lJs/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.697364"
+model: "repaired"
+---
+
 ## プライベートウェルスマネジメントへの転身：営業出身者に求められるスキル
 
 HBOドラマ『Industry』の登場人物**Yasmin**が営業職からプライベートウェルスマネジメントへの転身を図るエピソードを通じ、金融業界のウェルスマネジメント部門の実像と求められる能力を解説する。

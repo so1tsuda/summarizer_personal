@@ -1,3 +1,14 @@
+---
+title: "【「好き」を売上に繋げる仕組み】売上100億を達成する経営哲学／属人化で生まれる競争優位／D2CのPDCA"
+video_id: "nyRkm5g9kyo"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-23"
+youtube_url: "https://www.youtube.com/watch?v=nyRkm5g9kyo"
+thumbnail: "https://i.ytimg.com/vi/nyRkm5g9kyo/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.789357"
+model: "repaired"
+---
+
 ## 「好き」が市場で勝つ：レッドオーシャンで100億円を達成した経営哲学
 
 **ビタブリッドジャパン**代表の大塚博史氏が、機能性表示食品「ターミナリアファースト」を後発から短期間で単品**90億円**規模に成長させた秘訣を語る。競合**7000品**以上がひしめくレッドオーシャン市場で、個人的な「好き」という感情を起点にした商品開発と、それを再現性のある成果に変える組織・システム設計が勝利の鍵だった。

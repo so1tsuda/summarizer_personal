@@ -1,3 +1,14 @@
+---
+title: "日曜夜も株ライブwithちょる子〜またトランプ関税ショックに立憲公明の連携で高市トレード第二幕はどうなる！？"
+video_id: "0V6KAtTHTAM"
+channel: "田端大学　投資学部"
+published_at: "2026-01-18"
+youtube_url: "https://www.youtube.com/watch?v=0V6KAtTHTAM"
+thumbnail: "https://i.ytimg.com/vi/0V6KAtTHTAM/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.769111"
+model: "repaired"
+---
+
 ## トランプ再登場と日本株のインフレ対応
 
 **田端信太郎**と**ちょル子**が、資産運用エキスポの現場報告とトランプ政権の動向、そして日本株の見通しについて語り合う。

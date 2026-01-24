@@ -1,3 +1,14 @@
+---
+title: "【高市敗北なら大暴落】衆院選「中道」躍進ならトラスショック再来か／消費減税は争点ではない／長期金利2.5%が防衛ライン《糸島孝俊×田端信太郎》"
+video_id: "wMhIK64EWes"
+channel: "楽待 RAKUMACHI"
+published_at: "2026-01-23"
+youtube_url: "https://www.youtube.com/watch?v=wMhIK64EWes"
+thumbnail: "https://i.ytimg.com/vi/wMhIK64EWes/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.749897"
+model: "repaired"
+---
+
 ## 衆院選と金利上昇、日本版トラスショックの可能性を探る
 
 田端信太郎氏と糸島孝俊氏（ピクテジャパンフェロー）が、衆院選を控えた日本の金融政策・金利動向・投資戦略について議論。焦点は長期金利の急騰、消費税減税論争、そして政権交代時の日本版トラスショックリスク。

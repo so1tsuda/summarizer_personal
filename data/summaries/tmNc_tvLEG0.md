@@ -1,3 +1,14 @@
+---
+title: "【2億円投資家ヤーマン×木野内栄治】ヤーマンのデイトレ&スイング必勝法／銘柄選びのポイント／リスクを取らず稼ぎ続ける投資術／天才テスタから学んだこと／木野内栄治のテクニカル分析講座【マーケット超分析】"
+video_id: "tmNc_tvLEG0"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-22"
+youtube_url: "https://www.youtube.com/watch?v=tmNc_tvLEG0"
+thumbnail: "https://i.ytimg.com/vi/tmNc_tvLEG0/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.707485"
+model: "repaired"
+---
+
 ## 200万円から2億円トレーダーの実践手法と失敗から学んだリスク管理
 
 **木野内栄治**（大和証券チーフテクニカルアナリスト）と**山下拓馬**（ヤーマン、2億円トレーダー）が、個人投資家として生き残るための実践的なトレード手法とリスク管理の重要性を解説した。

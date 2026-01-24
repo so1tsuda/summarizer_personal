@@ -1,3 +1,14 @@
+---
+title: "The blue-collar jobs revival: The skills the world needs now | FT Working It"
+video_id: "KJG45knOzDg"
+channel: "Financial Times"
+published_at: "2025-12-29"
+youtube_url: "https://www.youtube.com/watch?v=KJG45knOzDg"
+thumbnail: "https://i.ytimg.com/vi/KJG45knOzDg/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.669474"
+model: "repaired"
+---
+
 ## AI時代におけるブルーカラー職の再評価とスキルの需要
 
 AIと技術革新が従来の労働世界のヒエラルキーと地位を覆している。ホワイトカラーの事務職や専門職へのAIの影響に注目が集まる中、今、フロントラインのデスクレスワーカーへの焦点が移っている。

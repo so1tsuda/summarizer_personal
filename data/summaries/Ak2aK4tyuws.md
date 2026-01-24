@@ -1,3 +1,14 @@
+---
+title: "Why everyone’s confused about evals"
+video_id: "Ak2aK4tyuws"
+channel: "Lenny's Podcast"
+published_at: "2026-01-14"
+youtube_url: "https://www.youtube.com/watch?v=Ak2aK4tyuws"
+thumbnail: "https://i.ytimg.com/vi/Ak2aK4tyuws/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.677100"
+model: "repaired"
+---
+
 ## AI製品開発におけるEvalsの真実
 
 AI製品開発の現場で「Evals」という用語が頻繁に使われるが、その定義は文脈によって大きく異なる。データラベリング企業は専門家がEvalsを書いていると言い、一方でPM（プロダクトマネージャー）がEvalsを書くべきという意見もある。これらは矛盾しているように見えるが、実際にはプロセスの異なる部分を指しており、どちらも間違いではない。

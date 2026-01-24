@@ -1,3 +1,14 @@
+---
+title: "頭の中を瞬時に言葉にする言語化トレーニング／電通コピーライター考案／悩みを3つのプロセスに分解／①思いつかない ②まとまらない ③伝わらない／具体と抽象を行き来する／才能やセンスは関係ない【荒木俊哉】"
+video_id: "l4D2fuutBf4"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-18"
+youtube_url: "https://www.youtube.com/watch?v=l4D2fuutBf4"
+thumbnail: "https://i.ytimg.com/vi/l4D2fuutBf4/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.806495"
+model: "repaired"
+---
+
 ## 言語化力は才能ではない。誰でも鍛えられる3つのトレーニング
 
 **電通**の**コピーライター**である**荒木俊哉**氏が、20年以上の経験で培った言語化トレーニング法を解説。才能やセンスは関係なく、プロセスを丁寧に追えば誰でも言語化力が身につく。

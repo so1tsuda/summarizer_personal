@@ -1,3 +1,14 @@
+---
+title: "【要約】THE WEALTH LADDER 富の階段: ── 資産レベルが上がり続けるシンプルな戦略【ニック・マジューリ (著), 児島 修】"
+video_id: "DIaSkl0ARl8"
+channel: "フェルミ漫画大学"
+published_at: "2025-12-29"
+youtube_url: "https://www.youtube.com/watch?v=DIaSkl0ARl8"
+thumbnail: "https://i.ytimg.com/vi/DIaSkl0ARl8/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.796051"
+model: "repaired"
+---
+
 ## 資産レベル別に最短でお金持ちになる戦略を解説
 
 ニック・マジューリ著『THE WEALTH LADDER 富の階段』は、現在の資産レベルに合わせて何をすべきかを教える一冊だ。入院中の人、一般人、プロアスリートに同じトレーニングメニューを課さないように、資産レベルによって攻略法は異なる。

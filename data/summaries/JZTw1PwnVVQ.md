@@ -1,3 +1,14 @@
+---
+title: "【起業における銀行の賢い使い分け】大手銀行とネット銀行の違い／AIが借入額を提案／アプリ1つで取引が完結"
+video_id: "JZTw1PwnVVQ"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-21"
+youtube_url: "https://www.youtube.com/watch?v=JZTw1PwnVVQ"
+thumbnail: "https://i.ytimg.com/vi/JZTw1PwnVVQ/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.777540"
+model: "repaired"
+---
+
 ## ネット銀行で起業スピードを最速化する賢い使い方
 
 住信SBIネット銀行の大杉英里子SME事業部長とセブンセンス税理士法人の大野修平ディレクターが、起業におけるネット銀行の活用法を解説した。

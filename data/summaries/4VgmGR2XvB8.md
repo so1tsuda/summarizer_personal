@@ -1,3 +1,14 @@
+---
+title: "なぜ先物が上がると現物株も上がる？世界初の先物は日本で300年前に生まれた。"
+video_id: "4VgmGR2XvB8"
+channel: "田端大学　投資学部"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=4VgmGR2XvB8"
+thumbnail: "https://i.ytimg.com/vi/4VgmGR2XvB8/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.767143"
+model: "repaired"
+---
+
 ## 先物とは何か：300年前の大阪堂島から現代の金融市場まで
 
 衆議院解散報道で**日経平均先物**が急騰した際、先物取引の仕組みを理解していない投資家は戸惑った。**田端信太郎**氏が、大阪堂島の米相場に始まる先物の歴史から、現代の金融市場における役割までを解説する。

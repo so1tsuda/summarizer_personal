@@ -1,3 +1,14 @@
+---
+title: "Warner Bros fights Paramount's $108bn hostile offer | FT #shorts"
+video_id: "H1tDs-0D6EQ"
+channel: "Financial Times"
+published_at: "2025-12-19"
+youtube_url: "https://www.youtube.com/watch?v=H1tDs-0D6EQ"
+thumbnail: "https://i.ytimg.com/vi/H1tDs-0D6EQ/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.760617"
+model: "repaired"
+---
+
 ## **Warner Bros Discovery**買収戦争：**Paramount**と**Netflix**の攻防
 
 **Warner Bros Discovery**（WBD）の取締役会は、**Paramount**による**1,080億ドル**の敵対的買収提案を拒否するよう株主に勧告した。WBDは**Netflix**との**830億ドル**合意案件を優先する立場を明確にしている。ハリウッドの歴史を変える可能性のある巨大買収戦争が勃発している。

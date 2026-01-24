@@ -1,3 +1,14 @@
+---
+title: "【りんご一筋150年】明治8年創業のりんご農家、収穫期の1日に密着！一時は4000万円の借金も…それでも「青森りんご」を守るワケ"
+video_id: "hUKoofOlhVE"
+channel: "楽待 RAKUMACHI"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=hUKoofOlhVE"
+thumbnail: "https://i.ytimg.com/vi/hUKoofOlhVE/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.730733"
+model: "repaired"
+---
+
 ## 150年の歴史を紡ぐ青森りんご農家の挑戦と苦悩
 
 **工藤農園**の9代目が営む青森県弘前市のりんご農園は、明治8年から続く150年の歴史を持つ。津軽地方でのりんご栽培は旧津軽藩士の失業対策として始まり、現在も約667人のボランティアやスタッフが収穫作業に集まる。東京で役者として活動する出身者や、精神的・健康的事情で1日でも働きたい人々が訪れ、りんご摘みを通じて気分転換や新たな一歩を踏み出す場となっている。

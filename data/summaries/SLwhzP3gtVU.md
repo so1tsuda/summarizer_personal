@@ -1,3 +1,14 @@
+---
+title: "【解体費は10数億円!?】鬼怒川温泉の廃墟群、バブルで巨大化したホテルの「成れの果て」 #楽待特集"
+video_id: "SLwhzP3gtVU"
+channel: "楽待 RAKUMACHI"
+published_at: "2026-01-18"
+youtube_url: "https://www.youtube.com/watch?v=SLwhzP3gtVU"
+thumbnail: "https://i.ytimg.com/vi/SLwhzP3gtVU/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.772673"
+model: "repaired"
+---
+
 ## 鬼怒川温泉に残る廃墟ホテル群：バブル崩壊と足利銀行破綻が生んだ観光地の傷跡
 
 栃木県の山間に位置する**鬼怒川温泉**。かつて年間**340万人**を誇った訪問者数は現在**150万人**ほどに減少し、川沿いには廃墟化したホテルが立ち並ぶ。かつて団体客で賑わった温泉地がなぜ廃墟の群れを抱えることになったのか。

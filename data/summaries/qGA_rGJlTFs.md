@@ -1,3 +1,14 @@
+---
+title: "Netanyahu: Arab leaders don’t care about the Palestinian issue"
+video_id: "qGA_rGJlTFs"
+channel: "The Economist"
+published_at: "2026-01-10"
+youtube_url: "https://www.youtube.com/watch?v=qGA_rGJlTFs"
+thumbnail: "https://i.ytimg.com/vi/qGA_rGJlTFs/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.710895"
+model: "repaired"
+---
+
 ## イスラエル首相、アラブ指導者はパレスチナ問題を「本気で気にかけていない」と発言
 
 **ベンヤミン・ネタニヤフ** イスラエル首相が **The Economist** のインタビューで、アラブ諸国の指導者たちはプライベートな会話においてパレスチナ問題を「本気で気にかけていない（don't give a hoot）」と明言した。西岸地区の併合を排除しない姿勢も示している。

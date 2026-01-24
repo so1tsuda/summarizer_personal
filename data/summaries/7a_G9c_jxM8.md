@@ -1,3 +1,14 @@
+---
+title: "【多様性疲れ】日本は10年遅れてる #newspicks"
+video_id: "7a_G9c_jxM8"
+channel: "NewsPicks /ニューズピックス"
+published_at: "2026-01-14"
+youtube_url: "https://www.youtube.com/watch?v=7a_G9c_jxM8"
+thumbnail: "https://i.ytimg.com/vi/7a_G9c_jxM8/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.776720"
+model: "repaired"
+---
+
 ## 多様性の本質と現実の乖離：米国の現場から見える課題
 
 **河村早規**氏が**アメリカ**で感じる多様性の現実を語る。多様性の尊重は本来、様々なバックグラウンドを持つ人々を受け入れ、互いに認め合う社会を目指す理念だ。しかし現実では、マイノリティ側が「ポリス」のような役割を果たし、白目つぶしのように指摘する光景が見られるという。河村氏自身も**アメリカ**ではマイノリティとして生活しており、同じ立場としてこの現状に悲しみを感じている。

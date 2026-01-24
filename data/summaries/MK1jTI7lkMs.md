@@ -1,3 +1,14 @@
+---
+title: "IonQ Stock in Freefall. Here's Why."
+video_id: "MK1jTI7lkMs"
+channel: "Nanalyze"
+published_at: "2025-11-29"
+youtube_url: "https://www.youtube.com/watch?v=MK1jTI7lkMs"
+thumbnail: "https://i.ytimg.com/vi/MK1jTI7lkMs/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.736329"
+model: "repaired"
+---
+
 ## IONQ株暴落：量子コンピュータバブル崩壊の兆しか
 
 **IONQ株**は10月中旬のピークから**50%**下落した。量子コンピュータ企業のバブル崩壊が始まったのか、それとも単なる一時的な調整か。本動画ではIONQの過剰評価と買収依存の成長戦略を検証する。

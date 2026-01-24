@@ -1,3 +1,14 @@
+---
+title: "高市総理が解散を今日、表明へ！どんな「大義」が語られるか、注目！"
+video_id: "k7p05IjGNLY"
+channel: "田端大学　投資学部"
+published_at: "2026-01-19"
+youtube_url: "https://www.youtube.com/watch?v=k7p05IjGNLY"
+thumbnail: "https://i.ytimg.com/vi/k7p05IjGNLY/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.791798"
+model: "repaired"
+---
+
 ## 解散総選挙とトランプ関税が交錯する日本株相場
 
 田端信太郎氏の投資ライブ配信で、**高一総理**による衆議院解散の可能性と**トランプ**発言によるグローバル市場への影響が議論された。アメリカは**マーティン・ルーサー・キング・デー**で休場中だが、トランプが**グリーンランド**併合の可能性を示唆するなど地政学リスクが高まっている。

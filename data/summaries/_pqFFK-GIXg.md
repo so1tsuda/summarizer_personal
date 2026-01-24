@@ -1,3 +1,14 @@
+---
+title: "Why does the Venezuela crisis matter to China? | FT #shorts"
+video_id: "_pqFFK-GIXg"
+channel: "Financial Times"
+published_at: "2026-01-12"
+youtube_url: "https://www.youtube.com/watch?v=_pqFFK-GIXg"
+thumbnail: "https://i.ytimg.com/vi/_pqFFK-GIXg/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.805661"
+model: "repaired"
+---
+
 ## ベネズエラ危機が試す中国のラテンアメリカ戦略
 
 ベネズエラ危機は中国のラテンアメリカにおける地政学的影響力を試す重大な局面である。1999年にウゴ・チャベス政権が誕生して以来、ベネズエラは中国にとってラテンアメリカへの跳躍台として機能してきた。現在、中国とラテンアメリカの二国間貿易額は**5000億ドル**を超え、銅、鉄鉱石、そして石油をはじめとする資源の主要な調達先となっている。

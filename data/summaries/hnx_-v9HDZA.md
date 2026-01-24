@@ -1,3 +1,14 @@
+---
+title: "The multi-agent system trap"
+video_id: "hnx_-v9HDZA"
+channel: "Lenny's Podcast"
+published_at: "2026-01-15"
+youtube_url: "https://www.youtube.com/watch?v=hnx_-v9HDZA"
+thumbnail: "https://i.ytimg.com/vi/hnx_-v9HDZA/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.664491"
+model: "repaired"
+---
+
 ## AIエージェントの過度な分割が招く統合失敗の現実
 
 AIエージェントを活用したシステム設計において、複雑な問題を複数のエージェントに分割して解決しようとするアプローチが広まっているが、この方法論には根本的な誤解が存在する。

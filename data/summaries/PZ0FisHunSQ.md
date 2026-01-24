@@ -1,3 +1,14 @@
+---
+title: "企業発ビジネス講座「専門スキル取得」「リスキリング」最前線【放送版/円卓コンフィデンシャル】"
+video_id: "PZ0FisHunSQ"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=PZ0FisHunSQ"
+thumbnail: "https://i.ytimg.com/vi/PZ0FisHunSQ/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.796426"
+model: "repaired"
+---
+
 ## 企業主導ビジネス講座の最前線：リスキリング需要の高まりと各社の取り組み
 
 社会人のリスキリングや従業員の専門スキル取得の場として、ビジネス講座が注目されている。独自の強みを生かして講座を開講する**富士通ラーニングメディア**、**デロイト トーマツグループ**、**松屋**の**3社**が集結し、最新事情を徹底解説した。

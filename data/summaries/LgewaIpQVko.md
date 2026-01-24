@@ -1,3 +1,14 @@
+---
+title: "How Prompt Engineering Inventor Built $1.5B in 3 Years | You.com, Richard Socher"
+video_id: "LgewaIpQVko"
+channel: "EO"
+published_at: "2026-01-22"
+youtube_url: "https://www.youtube.com/watch?v=LgewaIpQVko"
+thumbnail: "https://i.ytimg.com/vi/LgewaIpQVko/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.696995"
+model: "repaired"
+---
+
 ## プロンプトエンジニアリングの発明者が描くAI検索の未来
 
 **Richard Socher**は**You.com**の創業者であり、**Salesforce**の元チーフサイエンティスト。**17年間**にわたりAIが人間の言語を理解できることを証明し続けた。**2010年**にニューラルネットワークを自然言語処理に応用するという当時では「狂ったアイデア」とされた概念を提唱。多くの論文が拒絶されたが、**2014年**に**Metamind**を創業し、その後**Salesforce**に買収された。**2020年**に**You.com**を立ち上げ、**3年**で時価評価額**15億ドル**のユニコーン企業へと成長させた。

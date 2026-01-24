@@ -1,3 +1,14 @@
+---
+title: "【神谷代表に徹底取材！】衆院選2026、参政党は「ブレない！」／経済・外国人・少子化対策に全力／高市政権の「奇襲」解散には「奇襲」で反撃／候補者大量擁立で議席拡大目指す《神谷宗幣×山本期日前》"
+video_id: "i_nwIKDbudg"
+channel: "楽待 RAKUMACHI"
+published_at: "2026-01-22"
+youtube_url: "https://www.youtube.com/watch?v=i_nwIKDbudg"
+thumbnail: "https://i.ytimg.com/vi/i_nwIKDbudg/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.745600"
+model: "repaired"
+---
+
 ## 参政党の奇襲返し戦略：全11ブロックで大量擁立と30議席目標
 
 参政党代表の神谷宗幹氏が、衆議院解散総選挙に向けた党の戦略と公約を語った。奇襲解散に対して「奇襲で返す」大量立候補作戦を展開し、全11ブロックで候補者を擁立。目標は**30議席**の獲得で、参議院15議席と合わせて計60議席の安定的確保を目指す組織政党の完成形へ向けて動く。

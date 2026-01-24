@@ -1,3 +1,14 @@
+---
+title: "\"Pain is the new moat\""
+video_id: "K4rMYsAsSEI"
+channel: "Lenny's Podcast"
+published_at: "2026-01-13"
+youtube_url: "https://www.youtube.com/watch?v=K4rMYsAsSEI"
+thumbnail: "https://i.ytimg.com/vi/K4rMYsAsSEI/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.758478"
+model: "repaired"
+---
+
 ## AI製品構築における苦悩と忍耐の価値
 
 **AI製品**の構築において、苦痛こそが新しい常態である。この領域で成果を上げるためには、単なる知識の習得以上のものが求められる。

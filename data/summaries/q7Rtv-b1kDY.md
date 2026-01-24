@@ -1,3 +1,14 @@
+---
+title: "【推薦入試】親が介入するほど落ちる？ #newspicks"
+video_id: "q7Rtv-b1kDY"
+channel: "NewsPicks /ニューズピックス"
+published_at: "2026-01-15"
+youtube_url: "https://www.youtube.com/watch?v=q7Rtv-b1kDY"
+thumbnail: "https://i.ytimg.com/vi/q7Rtv-b1kDY/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.718347"
+model: "repaired"
+---
+
 ## 推薦入試における親の介入が合否を左右する
 
 **NewsPicks**のプロピッカーである**孫辰洋**氏が、大学入試における親の介入の弊害について解説する。推薦入試で求められるのは、とことん好きなものや学問を深掘りする力だが、親や大人が介入すればするほど、その後の面接試験の合格確率が下がるという現実がある。多くの保護者が子どもの将来を思って手助けをしたくなるが、その行為が逆効果になるという皮肉な結果が生まれている。大学側が求めているのは、保護者の考えや大人の視点ではなく、受験生本人の純粋な興味や情熱なのだ。

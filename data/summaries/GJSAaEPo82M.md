@@ -1,3 +1,14 @@
+---
+title: "How to AI-proof your job | FT #shorts"
+video_id: "GJSAaEPo82M"
+channel: "Financial Times"
+published_at: "2026-01-15"
+youtube_url: "https://www.youtube.com/watch?v=GJSAaEPo82M"
+thumbnail: "https://i.ytimg.com/vi/GJSAaEPo82M/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.734038"
+model: "repaired"
+---
+
 ## AI時代に職を守るための真のスキルとは
 
 最新のAIツール「Claude Code」などの登場により、ソフトウェア開発やデータ分析は専門職から日常的なスキルへと変化した。かつての鍛冶職人が現代の開発者やデータサイエンティストになると言われるが、**ハーバード大学**の経済学者**デイビッド・デミング**氏による**2017年**の画期的な研究は、この単純な比較が誤りであることを示している。

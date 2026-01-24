@@ -1,3 +1,14 @@
+---
+title: "中電社長が電事連会長を辞任 浜岡原発のデータ不正受け【WBS】"
+video_id: "eacGp4GSBN4"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=eacGp4GSBN4"
+thumbnail: "https://i.ytimg.com/vi/eacGp4GSBN4/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.653895"
+model: "repaired"
+---
+
 ## 中部電力社長が電気事業連合会会長を辞任
 
 **中部電力**の**林欣吾**社長が、**浜岡原発**における地震想定データの不正操作問題を受け、業界団体である**電気事業連合会**の会長職を**16日**付で辞任すると発表した。

@@ -1,3 +1,14 @@
+---
+title: "【金利上昇どこまで耐えられる？】「2027年は金利1.5%もあり得る」知らないと損するデフレ脱却後の不動産戦略／繰り上げ返済より「借り換え×資産運用」が最強の防衛策になる【PIVOT MONEY】"
+video_id: "dpPLMGKVo5c"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=dpPLMGKVo5c"
+thumbnail: "https://i.ytimg.com/vi/dpPLMGKVo5c/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.783296"
+model: "repaired"
+---
+
 ## 金利上昇時代の住宅ローン選択と家計防衛策
 
 住宅ローンの変動金利と固定金利の選択が転換期を迎えている。**モゲチェック** 取締役CMOの**塩澤崇**氏が、金利上昇局面における家計への影響と対策を解説する。

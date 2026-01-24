@@ -1,3 +1,14 @@
+---
+title: "Ed Elson & Kyla Scanlon on Why Young Americans Feel Stuck in Today’s Economy | Office Hours"
+video_id: "tLVgj2_jM70"
+channel: "The Prof G Pod – Scott Galloway"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=tLVgj2_jM70"
+thumbnail: "https://i.ytimg.com/vi/tLVgj2_jM70/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.771320"
+model: "repaired"
+---
+
 ## アメリカンドリームの変容と若者の経済的ニヒリズム
 
 **Ed Elson**と経済解説者**Kyla Scanlon**が、若年層の経済的現状を分析する。住宅購入や家族形成といった伝統的なアメリカンドリームへの道が閉ざされた若者たちが、代わりに体験、ペット、手の届く贅沢品へ支出をシフトさせる現象「aspirational displacement（願望の転位）」について議論する。

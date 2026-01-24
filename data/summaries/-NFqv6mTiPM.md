@@ -1,3 +1,14 @@
+---
+title: "5 Biotech Stocks We Like in 2026. And 5 We Don't."
+video_id: "-NFqv6mTiPM"
+channel: "Nanalyze"
+published_at: "2026-01-02"
+youtube_url: "https://www.youtube.com/watch?v=-NFqv6mTiPM"
+thumbnail: "https://i.ytimg.com/vi/-NFqv6mTiPM/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.742609"
+model: "repaired"
+---
+
 ## 2026年に注目すべきバイオ株5社と避けるべき5社
 
 Nanalyzeは450社以上の破壊的テクノロジー企業を分析し、ポートフォリオを破壊するゴミ企業を排除する手法を確立している。今回は、ヒンデンブルク号以上の暴落を記録した5社の失敗例と、代わりに推奨する5社を紹介する。

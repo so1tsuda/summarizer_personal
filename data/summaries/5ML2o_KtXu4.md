@@ -1,3 +1,14 @@
+---
+title: "【松村邦洋が考察する『豊臣兄弟！』】大河ドラマ×ものまねの歴史／秀長は豊臣家の総合演出／徳川家が爪を噛む理由／竹中直人さんの秀吉ハプニングとは（第1回／全2回）"
+video_id: "5ML2o_KtXu4"
+channel: "flier 公式チャンネル"
+published_at: "2026-01-15"
+youtube_url: "https://www.youtube.com/watch?v=5ML2o_KtXu4"
+thumbnail: "https://i.ytimg.com/vi/5ML2o_KtXu4/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.727798"
+model: "repaired"
+---
+
 ## 大河ドラマ「豊臣兄弟」が描く秀吉の成功の影にいた弟・秀長の真実
 
 **松村邦洋**がゲストとして登場し、NHK大河ドラマの歴史と新作「豊臣兄弟」について語った。松村はモノマネ芸人として知られる一方、歴史通としても有名で、特に大河ドラマに関する知識は膨大だ。

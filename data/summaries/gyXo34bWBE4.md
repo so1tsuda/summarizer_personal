@@ -1,3 +1,14 @@
+---
+title: "トランプ大統領「グリーンランド領有に協力しなければ関税も」反対する欧州諸国などをけん制"
+video_id: "gyXo34bWBE4"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=gyXo34bWBE4"
+thumbnail: "https://i.ytimg.com/vi/gyXo34bWBE4/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.738370"
+model: "repaired"
+---
+
 ## トランプ大統領、グリーンランド領有に向け関税制裁を示唆
 
 **トランプ大統領**は16日、**デンマーク**の自治領である**グリーンランド**の領有に協力しなければ「関税を課すかもしれない」と述べ、反対するヨーロッパ諸国を牽制した。

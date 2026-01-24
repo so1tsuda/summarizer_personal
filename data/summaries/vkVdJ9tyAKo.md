@@ -1,3 +1,14 @@
+---
+title: "How an image become a Gen Z protest symbol | FT #shorts"
+video_id: "vkVdJ9tyAKo"
+channel: "Financial Times"
+published_at: "2025-12-19"
+youtube_url: "https://www.youtube.com/watch?v=vkVdJ9tyAKo"
+thumbnail: "https://i.ytimg.com/vi/vkVdJ9tyAKo/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.777911"
+model: "repaired"
+---
+
 ## ワンピースの海賊旗が世界の若者による抗議活動の象徴に
 
 **ワンピース**の「麦わらの海賊団」のジョリーロジャーが、世界中のZ世代による政治抗議活動の象徴として採用されている。この旗は**インドネシア**、**ネパール**、**メキシコ**など、各国のZ世代主導のデモで目撃されている。

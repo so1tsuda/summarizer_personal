@@ -1,3 +1,14 @@
+---
+title: "【「まるでアウトレット」カンボジア詐欺パークと中国マフィアの実態】 #文藝春秋 #文藝春秋plus #安田峰俊 #特殊詐欺 #中国マフィア #習近平 #トクリュウ"
+video_id: "ajUhReB6JRw"
+channel: "文藝春秋PLUS 公式チャンネル"
+published_at: "2026-01-13"
+youtube_url: "https://www.youtube.com/watch?v=ajUhReB6JRw"
+thumbnail: "https://i.ytimg.com/vi/ajUhReB6JRw/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.699960"
+model: "repaired"
+---
+
 ## カンボジア特殊詐欺の現状と今後の展望
 
 紀実作家の**安田峰俊**氏が、カンボジアにおける特殊詐欺の実態と今後の動向について解説した。カンボジアは現在、国際的な特殊詐欺の拠点となっており、**シアヌークビル**での日本人拘束事例が相次いでいる。

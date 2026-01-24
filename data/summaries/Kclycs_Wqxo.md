@@ -1,3 +1,14 @@
+---
+title: "【坂上忍が浅草で呑む！】鉄板焼き店で”レジェンド級”有名人のエピソードが続々！ビートたけしが愛した味とは…"
+video_id: "Kclycs_Wqxo"
+channel: "NewsPicks /ニューズピックス"
+published_at: "2026-01-18"
+youtube_url: "https://www.youtube.com/watch?v=Kclycs_Wqxo"
+thumbnail: "https://i.ytimg.com/vi/Kclycs_Wqxo/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.794975"
+model: "repaired"
+---
+
 ## 浅草の老舗「つくし」に刻まれた芸能人たちの足跡
 
 芸歴50年の**坂上忍**が浅草・ホッピー通りの老舗鉄板焼き店「つくし」を訪れ、60年の歴史に刻まれた芸能人たちのエピソードと名物焼きそばを堪能する。

@@ -1,3 +1,14 @@
+---
+title: "【ウエストランド井口浩之の悪口論】新しいものを絶賛する空気が怖い／マッサージは強弱を聞くより効くやつにしてくれ／背の順って何だよ／飲食店のバイトは全人間必修科目にすべき（第1回／全2回）"
+video_id: "-tQGTV8jOts"
+channel: "flier 公式チャンネル"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=-tQGTV8jOts"
+thumbnail: "https://i.ytimg.com/vi/-tQGTV8jOts/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.712275"
+model: "repaired"
+---
+
 ## 毒舌漫才の誕生と「悪口」が持つ真実の力
 
 **ウエストランド**井口浩之氏が著書『悪口を悪く言うな！』を通じて語る毒舌漫才の起源と、日常に潜む「おかしいもの」への鋭い視点。M-1グランプリ2022王者として誰もが納得する悪口を武器にするまでの道のりと、飲食店バイト経験から見えた客の本質。

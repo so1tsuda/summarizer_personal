@@ -1,3 +1,14 @@
+---
+title: "【私が50年ローンを推す2つの理由】金利上昇でも“あえて長く借りる”が正解に？／フラット35との違いは...メリット&デメリット徹底比較／住宅ローン借りるならどこが得？【PIVOT MONEY】"
+video_id: "0Q7BjXmHq8g"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-15"
+youtube_url: "https://www.youtube.com/watch?v=0Q7BjXmHq8g"
+thumbnail: "https://i.ytimg.com/vi/0Q7BjXmHq8g/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.725378"
+model: "repaired"
+---
+
 ## 金利上昇時代における50年住宅ローンの活用戦略
 
 金利上昇時代における住宅戦略を議論。ゲストは**モゲチェック**取締役CMOの**塩澤崇**氏。50年ローンの有効性と、金利上昇に耐えられる家計の限界について専門家の見解を提示。

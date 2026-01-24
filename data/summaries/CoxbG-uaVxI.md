@@ -1,3 +1,14 @@
+---
+title: "【アメリカより貪欲？】中国を舐めるな"
+video_id: "CoxbG-uaVxI"
+channel: "楽待 RAKUMACHI"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=CoxbG-uaVxI"
+thumbnail: "https://i.ytimg.com/vi/CoxbG-uaVxI/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.786805"
+model: "repaired"
+---
+
 ## 中国の台頭と過小評価の危険性
 
 中国は**アメリカ**以上に野心に満ちており、決して舐めてはならない。多くのアメリカ人や日本人が「中国は崩壊している」「我々は勝てる」と楽観視しているが、中国の真の実態を理解していない者が多い。

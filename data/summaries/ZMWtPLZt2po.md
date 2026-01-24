@@ -1,3 +1,14 @@
+---
+title: "【総裁会見直後に「円急騰」】市場に広がる“レートチェック”説／長期金利の上昇ペース「かなり速い」／利上げの影響把握「すごい時間かかる」／エコノミスト・末廣徹がみる “フリーハンド重視”の日銀・現状維持"
+video_id: "ZMWtPLZt2po"
+channel: "TBS CROSS DIG with Bloomberg"
+published_at: "2026-01-23"
+youtube_url: "https://www.youtube.com/watch?v=ZMWtPLZt2po"
+thumbnail: "https://i.ytimg.com/vi/ZMWtPLZt2po/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.810805"
+model: "repaired"
+---
+
 ## 日銀MPM：利上げ継続方針打ち出すも円安進行、会見後に急騰
 
 今年初の**日銀金融政策決定会合**が開催され、12月の利上げに続き「次」に向けたシグナルが注目された。**植田和男総裁**の会見は「ハト派」と受け止められ、為替市場は円安で反応。ドル円相場は一時**159円**を割り込んだが、会見終了直後に**2円弱**急騰し、市場では「レートチェック（介入）」の可能性が指摘されている。解説は**大和証券チーフエコノミスト**の末廣徳氏。

@@ -1,3 +1,14 @@
+---
+title: "【5人に1人が“うつ”の一歩手前】精神科医・平光源「遅れた分、遅れてついていけばいい」／回復の3ステップ／“食っちゃ寝”は怠けじゃない／「半うつ」→“元の状態”に戻る方法【Human Insight】"
+video_id: "P2QAXBjv3_E"
+channel: "TBS CROSS DIG with Bloomberg"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=P2QAXBjv3_E"
+thumbnail: "https://i.ytimg.com/vi/P2QAXBjv3_E/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.675949"
+model: "repaired"
+---
+
 ## 「半うつ」の正体と回復への道：現代人の5人に1人が陥る「憂鬱以上、うつ未満」の状態
 
 精神科医の**平光源**氏が提唱する「半うつ」とは、日常生活や仕事はこなせるものの心が晴れない、「憂鬱以上、うつ未満」の状態を指す。現代人の**5人に1人**がこの状態にあると言われ、**責任感が強い**、**我慢強い**人ほど陥りやすい。TBSアナウンサー**篠原梨菜**氏とともに、半うつのメカニズムと回復方法を解説する。

@@ -1,3 +1,14 @@
+---
+title: "【101回目のプロポーズ/年下の男…名作ドラマの名台詞】「僕〈は〉しにましぇん」は何がスゴイ？/内館牧子のパンチライン/人生得する言葉とは【言語学者・川添愛×肉乃小路ニクヨ】（第2回/全2回）"
+video_id: "ppDeqFEhIt4"
+channel: "flier 公式チャンネル"
+published_at: "2026-01-09"
+youtube_url: "https://www.youtube.com/watch?v=ppDeqFEhIt4"
+thumbnail: "https://i.ytimg.com/vi/ppDeqFEhIt4/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.702383"
+model: "repaired"
+---
+
 ## 言葉の力と身体性：パンチラインから学ぶ気持ちの切り替え術
 
 言語学者の**川添愛**氏が、ドラマの名セリフに込められた言葉の仕組みと、気持ちの切り替え方について語る。パーソナリティは**肉乃小路ニクヨ**。

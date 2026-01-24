@@ -1,3 +1,14 @@
+---
+title: "【命懸けの高市政権】与党は勝てるのか？総理会見から見えた衆院選への「覚悟」中道改革連合から見る創価票の行方《藤井聡×山本期日前》"
+video_id: "ZXZA8sFPH1A"
+channel: "楽待 RAKUMACHI"
+published_at: "2026-01-21"
+youtube_url: "https://www.youtube.com/watch?v=ZXZA8sFPH1A"
+thumbnail: "https://i.ytimg.com/vi/ZXZA8sFPH1A/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.701541"
+model: "repaired"
+---
+
 ## 高市政権の覚悟と衆院選の行方
 
 **藤井聡**京都大学大学教授と**山本貴一前**MCが、2026年1月の衆院院解散予測の的中、**高市早苗**首相の会見評価、そして衆院選の展望について議論。藤井氏は論理的必然性から1月解散を予測し、その通りになった。高市氏の会見では財政政策の大転換が宣言され、消費税増税の凍結、単年度主義からの脱却、債務対GDP比の安定化が打ち出された。

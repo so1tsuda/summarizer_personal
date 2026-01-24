@@ -1,3 +1,14 @@
+---
+title: "Bloombergが予測「2026年 10のサプライズ」｜#人工知能 #ai #ロボタクシー #無人運転 #金融 #経済 #crossdig"
+video_id: "AEu0nxuS0XM"
+channel: "TBS CROSS DIG with Bloomberg"
+published_at: "2026-01-14"
+youtube_url: "https://www.youtube.com/watch?v=AEu0nxuS0XM"
+thumbnail: "https://i.ytimg.com/vi/AEu0nxuS0XM/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.784437"
+model: "repaired"
+---
+
 ## Bloombergが予測する2026年の10のサプライズ
 
 ブルンバーグのコラムニストが2026年に起こり得る10のサプライズを予測した。AIやロボタクシーの普及、株式市場の動向、国際情勢など多岐にわたるテーマが含まれている。

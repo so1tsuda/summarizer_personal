@@ -1,3 +1,14 @@
+---
+title: "【見返りを求めるギブは「Giver」ではない】AI時代のできる人は「Giver（与える人）」である｜阪急の小林一三...歴史に名を残す「Giver経営者」【澤円×楠木建】"
+video_id: "409SgFlYug8"
+channel: "文藝春秋PLUS 公式チャンネル"
+published_at: "2026-01-23"
+youtube_url: "https://www.youtube.com/watch?v=409SgFlYug8"
+thumbnail: "https://i.ytimg.com/vi/409SgFlYug8/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.731995"
+model: "repaired"
+---
+
 ## AI時代に必要な「与える」マインドセット
 
 澤円氏（元日本マイクロソフト業務執行役員）と楠木建氏（一橋ビジネススクール特任教授）が、2026年1月に刊行された『The Giver 人を動かす方程式』を基に、AI時代に人を動かすためのマインドセットと技術を語り合った。

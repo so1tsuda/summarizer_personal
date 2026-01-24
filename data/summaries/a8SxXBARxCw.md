@@ -1,3 +1,14 @@
+---
+title: "杉並区執行官ら2人死傷事件　逮捕の男 退去命令で自暴自棄か"
+video_id: "a8SxXBARxCw"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=a8SxXBARxCw"
+thumbnail: "https://i.ytimg.com/vi/a8SxXBARxCw/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.799257"
+model: "repaired"
+---
+
 ## 杉並区強制執行事件：生活保護打ち切りと家賃滞納が背景に
 
 東京・杉並区で発生した裁判所執行官刺傷事件において、逮捕された**山本宏**容疑者が生活保護の打ち切りを供述していることが判明した。2025年7月時点で家賃**約40万円**を滞納していた山本容疑者は、隙間バイトでの収入獲得を機に生活保護が打ち切られたと説明している。

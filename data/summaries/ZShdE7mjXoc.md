@@ -1,3 +1,14 @@
+---
+title: "【ChatGPTが「ヒト型」化→電気・水を爆食い】今井翔太「フィジカルAIは資源をひたすら消費する」／動画生成を超える計算コスト／OpenAI・Googleもインフラ投資を急拡大【1on1 Tech】"
+video_id: "ZShdE7mjXoc"
+channel: "TBS CROSS DIG with Bloomberg"
+published_at: "2026-01-21"
+youtube_url: "https://www.youtube.com/watch?v=ZShdE7mjXoc"
+thumbnail: "https://i.ytimg.com/vi/ZShdE7mjXoc/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.715603"
+model: "repaired"
+---
+
 ## フィジカルAI元年到来：生成AIがロボットを変える3つの転換点
 
 AI研究者の今井翔太氏と中川雅博氏が、CES 2026で注目された「フィジカルAI」の現状と未来を解説する。生成AIの進展により、ロボット技術が急速に進化し、**NVIDIA**が基盤技術を握る中、巨大インフラ需要が爆発的に増大している。

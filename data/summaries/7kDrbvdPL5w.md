@@ -1,3 +1,14 @@
+---
+title: "【米国暴走】トランプ政権が、グリーンランド獲得に熱中する理由（安全保障/デンマーク/中国/ロシア/レアアース/石油/北極海/解説：後藤直義、森川潤）"
+video_id: "7kDrbvdPL5w"
+channel: "NewsPicks /ニューズピックス"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=7kDrbvdPL5w"
+thumbnail: "https://i.ytimg.com/vi/7kDrbvdPL5w/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.653458"
+model: "repaired"
+---
+
 ## トランプが執着するグリーンランドの真の狙い
 
 2026年1月、トランプ大統領はベネズエラのマドゥーロ大統領を拘束した翌日から「グリーンランドはアメリカのものでなければならない」と宣言し始めた。この世界最大の島を巡る攻防の背後には、**ロナルド・ローダー**（エスティローダー創業者の長男）をはじめとするトランプ側近たちの長年の構想が存在する。

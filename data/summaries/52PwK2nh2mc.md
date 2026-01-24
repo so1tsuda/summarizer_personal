@@ -1,3 +1,14 @@
+---
+title: "「半永久的に売らないと決めた」億単位で買ったプロ投資家の最新投資ポートフォリオの中身とは/【テスタ×田中渓】/MONEY&MATE（マネーメイト）"
+video_id: "52PwK2nh2mc"
+channel: "NewsPicks /ニューズピックス"
+published_at: "2026-01-23"
+youtube_url: "https://www.youtube.com/watch?v=52PwK2nh2mc"
+thumbnail: "https://i.ytimg.com/vi/52PwK2nh2mc/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.672091"
+model: "repaired"
+---
+
 ## 半永久的ポートフォリオを目指すテスタ氏の投資遍歴と分散投資戦略
 
 カリスマ投資家の**テスタ氏**と**田中渓氏**がNewsPicks「MONEY&MATE」で対談。テスタ氏が現在構築中の「半永久的に売らないと決めたポートフォリオ」の内訳、投資遍歴、そして投資スタイルの変化について語り合った。

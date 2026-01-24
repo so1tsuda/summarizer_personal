@@ -1,3 +1,14 @@
+---
+title: "【若者恐怖症】知らないから怖いのは当たり前／早期退職する若者が考えていること／責任をとるのは上司？会社？【肉乃小路ニクヨ×舟津昌平】（第1回/全2回）"
+video_id: "lBFgnjXmOQc"
+channel: "flier 公式チャンネル"
+published_at: "2026-01-12"
+youtube_url: "https://www.youtube.com/watch?v=lBFgnjXmOQc"
+thumbnail: "https://i.ytimg.com/vi/lBFgnjXmOQc/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.744101"
+model: "repaired"
+---
+
 ## 若者恐怖症の正体と早期離職の実態
 
 経営学者の**舟津昌平**氏が著書『若者恐怖症』を通じて、現代の若者を取り巻く誤解と早期離職の実態について解説。40代以上が抱く「若者への恐怖」の根底には、交流の減少とメディア報道の偏りがある。

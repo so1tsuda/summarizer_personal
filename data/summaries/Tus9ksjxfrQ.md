@@ -1,3 +1,14 @@
+---
+title: "Christine Lagarde on Why Consensus Isn’t Always the Right Approach"
+video_id: "Tus9ksjxfrQ"
+channel: "Bloomberg Originals"
+published_at: "2026-01-14"
+youtube_url: "https://www.youtube.com/watch?v=Tus9ksjxfrQ"
+thumbnail: "https://i.ytimg.com/vi/Tus9ksjxfrQ/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.740520"
+model: "repaired"
+---
+
 ## コンセンサス型リーダーシップの限界と価値観に基づく指導
 
 **Christine Lagarde**氏が**Francine Lacqua**氏のインタビューに応じ、ガバナンス評議会レベルでの意思決定プロセスとリーダーシップの在り方について語る。特に危機時におけるコンセンサス形成の限界と、価値観に基づく指導スタイルについて詳述する。

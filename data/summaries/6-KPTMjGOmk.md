@@ -1,3 +1,14 @@
+---
+title: "【ベネズエラの石油利権を独占？】約25%を生産する米シェブロン／事実上の「競合なし」　トランプ政権の要請に他社は難色／シェブロンの“危険な賭け”　爆益か巨額損失か"
+video_id: "6-KPTMjGOmk"
+channel: "TBS CROSS DIG with Bloomberg"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=6-KPTMjGOmk"
+thumbnail: "https://i.ytimg.com/vi/6-KPTMjGOmk/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.703135"
+model: "repaired"
+---
+
 ## ベネズエラで唯一操業を続けるシェブロンの戦略的優位性
 
 アメリカの軍事行動とマドゥロ大統領の拘束により激動の局面を迎えたベネズエラで、唯一アメリカの石油メジャーとして操業を続ける**シェブロン**が注目されている。欧米の競合他社が撤退を余儀なくされた中、なぜシェブロンだけが「例外」となったのか。

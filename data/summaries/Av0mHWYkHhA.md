@@ -1,3 +1,14 @@
+---
+title: "Trump vs. the Fed"
+video_id: "Av0mHWYkHhA"
+channel: "The Prof G Pod – Scott Galloway"
+published_at: "2026-01-13"
+youtube_url: "https://www.youtube.com/watch?v=Av0mHWYkHhA"
+thumbnail: "https://i.ytimg.com/vi/Av0mHWYkHhA/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.728539"
+model: "repaired"
+---
+
 ## 連邦準備制度理事会（FRB）議長**ジェローム・パウエル**に対する司法省の刑事調査
 
 司法省が**FRB議長**のジェローム・パウエルに対する刑事調査を開始した。議会での証言において、FRB建物の改修プロジェクトについて虚偽の証言をしたかどうかが調査されている。パウエルは日曜日に公開したビデオ声明で、この調査を「前例のないこと」と非難した。

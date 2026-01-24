@@ -1,3 +1,14 @@
+---
+title: "【DIGEST】2026年を勝つインフレ時代投資の鉄則／AIバブル崩壊その時どうする／今年の注目銘柄を徹底解説"
+video_id: "HLv0W-O3NxA"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=HLv0W-O3NxA"
+thumbnail: "https://i.ytimg.com/vi/HLv0W-O3NxA/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.804461"
+model: "repaired"
+---
+
 ## インフレ相場で狙うバリュー株と2026年の日本株展望
 
 **木野内栄治**（大和証券チーフテクニカルアナリスト）と**窪田真之**（楽天証券経済研究所チーフ・ストラテジスト）が、2026年の株式市場リスクとインフレ局面で注目すべきバリュー株について解説する。

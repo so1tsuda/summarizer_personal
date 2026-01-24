@@ -1,3 +1,14 @@
+---
+title: "【ブッダと同じ】億を稼ぐYouTuber「悟り」を語る（スーツ/特集「スピリチュアルの時代」）"
+video_id: "cT5HlzLOrbk"
+channel: "NewsPicks /ニューズピックス"
+published_at: "2026-01-22"
+youtube_url: "https://www.youtube.com/watch?v=cT5HlzLOrbk"
+thumbnail: "https://i.ytimg.com/vi/cT5HlzLOrbk/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.685222"
+model: "repaired"
+---
+
 ## トップYouTuber・スーツさんの「悟り」と価値観の崩壊
 
 **スーツ**（本名：藤田裕人、28歳）は、登録者数**120万人**、累計**7.8億再生**を誇る鉄道系トップYouTuber。2025年10月18日にXで「悟りを開いた」と宣言し、世間を騒然とさせた。3日前の10月15日に「世の中の全てに全く意味などないことを完全に自覚し、あらゆる意欲、執着、規範、迷い、悩み、喜びなどを手放した」と投稿。これらは全て「幻想や集団催眠」だと理解したと主張している。

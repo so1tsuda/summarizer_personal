@@ -1,3 +1,14 @@
+---
+title: "Lagarde Calls Central Bank Independence 'Critically Important'"
+video_id: "PTlBx7gNeFs"
+channel: "Bloomberg Originals"
+published_at: "2026-01-12"
+youtube_url: "https://www.youtube.com/watch?v=PTlBx7gNeFs"
+thumbnail: "https://i.ytimg.com/vi/PTlBx7gNeFs/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.725934"
+model: "repaired"
+---
+
 ## 中央銀行の独立性と選挙サイクルのリスク
 
 **欧州中央銀行（ECB）**総裁の**クリスティーヌ・ラガルド**氏が、中央銀行の独立性がなぜ重要かを語る。

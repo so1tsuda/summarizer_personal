@@ -1,3 +1,14 @@
+---
+title: "【日本に迫る軍事危機】衛星画像から読み解く「戦争の兆候」中国軍事力の実態／日本のインテリジェンスの課題とは？DEEPDIVE大集結《小原凡司×小泉悠×吉永ケンジ》"
+video_id: "t7k8cJOTsMs"
+channel: "楽待 RAKUMACHI"
+published_at: "2026-01-23"
+youtube_url: "https://www.youtube.com/watch?v=t7k8cJOTsMs"
+thumbnail: "https://i.ytimg.com/vi/t7k8cJOTsMs/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.762593"
+model: "repaired"
+---
+
 ## 民間インテリジェンス機関DEEPDIVEが明かす衛星画像分析と日本の安全保障課題
 
 民間インテリジェンス機関**DEEPDIVE**の理事である**小泉悠**氏（東京大学先端科学技術研究センター准教授）、代表理事の**小原凡司**氏（川平和財団上級フェロー）、特別研究員の**吉永ケンジ**氏（元防衛省・公安調査庁職員）が、衛星画像を用いた軍事分析の実例と日本が抱えるインテリジェンスの課題について解説した。

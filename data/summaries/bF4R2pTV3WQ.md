@@ -1,3 +1,14 @@
+---
+title: "山梨県の山林火災　集落付近に延焼138世帯152人に避難指示　消火活動続く"
+video_id: "bF4R2pTV3WQ"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=bF4R2pTV3WQ"
+thumbnail: "https://i.ytimg.com/vi/bF4R2pTV3WQ/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.796720"
+model: "repaired"
+---
+
 ## 山梨県扇山で発生した山林火災、大月市138世帯に避難指示
 
 **山梨県上野原市**の扇山で8日に発生した山林火災により、**大月市**は16日、延焼が付近の集落に近づいているとして**138世帯152人**に避難指示を出した。

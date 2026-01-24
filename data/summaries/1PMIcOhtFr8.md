@@ -1,3 +1,14 @@
+---
+title: "A warning to young investors"
+video_id: "1PMIcOhtFr8"
+channel: "The Prof G Pod – Scott Galloway"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=1PMIcOhtFr8"
+thumbnail: "https://i.ytimg.com/vi/1PMIcOhtFr8/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.797351"
+model: "repaired"
+---
+
 ## 若年投資家へのシンプルな投資アドバイス
 
 若い投資家に対するポートフォリオ構築のアドバイスは非常にシンプルだ。**401k**と**IRA**の拠出上限まで最大限に積み立て、合理的な資産バスケットに投資すること。これが基本戦略となる。

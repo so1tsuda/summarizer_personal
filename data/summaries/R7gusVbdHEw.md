@@ -1,3 +1,14 @@
+---
+title: "【魔改造2.0の正体】ホークス投手陣はなぜ爆速化するのか／他球団を凌駕する育成／独自マシンを使った寮生の深夜特訓／データが裏付ける「球速こそ正義」／1軍の条件は打球速度160キロ【BASEBALL】"
+video_id: "R7gusVbdHEw"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-23"
+youtube_url: "https://www.youtube.com/watch?v=R7gusVbdHEw"
+thumbnail: "https://i.ytimg.com/vi/R7gusVbdHEw/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.659216"
+model: "repaired"
+---
+
 ## ソフトバンクホークス「魔改造2.0」の正体：データに裏打ちされた育成システム
 
 ソフトバンクホークスは直近15年間で8回の日本一を達成。この圧倒的な強さを支えるのは、投手の球速を劇的に向上させる「魔改造」と呼ばれる育成システムだ。今回はその最新形「魔改造2.0」と、それを支える組織力の秘密に迫る。

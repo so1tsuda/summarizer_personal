@@ -1,3 +1,14 @@
+---
+title: "耳、大丈夫？／ヘッドホン・イヤホン難聴 急増中／世界11億人に難聴リスク／WHO警告／地下鉄・ヘアドライヤーの騒音15分以内／突発性難聴 治療は72時間以内／難聴は認知症の最大リスク要因【健康新常識】"
+video_id: "C2prlPnmfFY"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-21"
+youtube_url: "https://www.youtube.com/watch?v=C2prlPnmfFY"
+thumbnail: "https://i.ytimg.com/vi/C2prlPnmfFY/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.721883"
+model: "repaired"
+---
+
 ## 現代人の耳を守る新常識：難聴は認知症の最大リスク
 
 日本耳鼻咽喉科頭頸部外科学会専門医の坂田英明氏が、現代社会における耳の健康に関する新常識を解説する。**WHO**の報告によると、世界の若者**11億人**に難聴リスクがあり、**2050年**には**25億人**が何らかの難聴で困ると予測されている。

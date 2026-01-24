@@ -1,3 +1,14 @@
+---
+title: "2026 predictions with Robert Armstrong"
+video_id: "kpQtBGsRCJA"
+channel: "The Prof G Pod – Scott Galloway"
+published_at: "2026-01-12"
+youtube_url: "https://www.youtube.com/watch?v=kpQtBGsRCJA"
+thumbnail: "https://i.ytimg.com/vi/kpQtBGsRCJA/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.697638"
+model: "repaired"
+---
+
 ## 2026年市場展望：バブル崩壊は来るのか
 
 Rob氏とゲストが2026年の市場見通しを議論。現在の資産価格は歴史的に見て極めて高く、今後10年間のリターン低下が予測されるが、バブル崩壊の正確なタイミングは不明。

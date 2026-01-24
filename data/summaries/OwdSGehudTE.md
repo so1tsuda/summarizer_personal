@@ -1,3 +1,14 @@
+---
+title: "トランプ大統領イラン処刑停止に「深い敬意」と強硬姿勢を軟化　イラン元皇太子は体制転換主導に意欲"
+video_id: "OwdSGehudTE"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=OwdSGehudTE"
+thumbnail: "https://i.ytimg.com/vi/OwdSGehudTE/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.690303"
+model: "repaired"
+---
+
 ## トランプ氏がイランの処刑停止を「深い敬意」と評価、軍事介入姿勢が軟化
 
 **トランプ大統領**は16日、**イラン指導部**が反政府デモ参加者**800人以上**の処刑を停止したことを高く評価し、「深い敬意を表する」と述べた。これまで軍事介入も辞さない強硬姿勢を示してきたトランプ氏が、処刑停止を肯定的に受け止めたことで、イラン情勢への対応方針に変化の兆しが見える。

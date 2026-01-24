@@ -1,3 +1,14 @@
+---
+title: "「自分を過小評価しない生き方を！」佐藤優さんと考える47歳からの人生設計【悩める大人たちに贈る47歳からのキャリア】"
+video_id: "YWnXXcpuC18"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=YWnXXcpuC18"
+thumbnail: "https://i.ytimg.com/vi/YWnXXcpuC18/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.690823"
+model: "repaired"
+---
+
 ## 夫婦円満と定年後の人生設計：佐藤優が語る47歳からの生き方
 
 作家で元外務省主任分析官の**佐藤優**が、定年後の生活設計と夫婦円満の秘訣について語る。テレビ東京の**佐々木明子**をMCに迎え、47歳からのキャリアと人生設計について具体的なアドバイスを展開する。

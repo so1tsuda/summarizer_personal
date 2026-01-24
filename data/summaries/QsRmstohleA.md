@@ -1,3 +1,14 @@
+---
+title: "Intuitive Surgical Stock: Worth the Price? 📈💰"
+video_id: "QsRmstohleA"
+channel: "Nanalyze"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=QsRmstohleA"
+thumbnail: "https://i.ytimg.com/vi/QsRmstohleA/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.710584"
+model: "repaired"
+---
+
 ## Intuitive Surgicalの簡易評価比率による投資判断
 
 バイオテクノロジーおよび破壊的技術分野への投資において、**Intuitive Surgical**（ティッカーシンボル：**$ISRG**）の評価手法として簡易評価比率（SVR）を活用する方法を解説する。

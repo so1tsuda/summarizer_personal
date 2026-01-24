@@ -1,3 +1,14 @@
+---
+title: "1月16日（金）リクルート 宿泊予約サイトに最適価格の算出機能、世界スマホ出荷台数 3年連続でApple首位【ヤング日経】"
+video_id: "N3GerYBSUuU"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=N3GerYBSUuU"
+thumbnail: "https://i.ytimg.com/vi/N3GerYBSUuU/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.709700"
+model: "repaired"
+---
+
 ## 宿泊施設の価格自動調整とスマホ市場の動向
 
 **リクルート**が宿泊施設向け収益管理ツール「レベニューアシスタント」に価格自動調整機能を追加した。周辺施設の価格や地域イベントなどの情報を基に適正価格を算出し、自社予約サイトやオンライン旅行会社に反映する。人手不足に悩む宿泊施設の業務負担を軽減する狙いがある。

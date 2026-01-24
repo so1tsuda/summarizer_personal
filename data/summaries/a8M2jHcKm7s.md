@@ -1,3 +1,14 @@
+---
+title: "【一億総中流の崩壊】７人に１人が「アンダークラス」に／日本は新しい階級社会へ／他階級からもアンダークラスへ転落／解決策は最低賃金の大幅引き上げか／新自由主義右翼とは【PIVOT TALK LIFE】"
+video_id: "a8M2jHcKm7s"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=a8M2jHcKm7s"
+thumbnail: "https://i.ytimg.com/vi/a8M2jHcKm7s/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.652191"
+model: "repaired"
+---
+
 ## 日本に生まれた新たな階級「アンダークラス」の実態
 
 社会学者の**橋本健二**氏（早稲田大学人間科学学術院教授）が、現代日本で急速に拡大する「新しい階級社会」の構造と、そこから生まれた**アンダークラス**（890万人）の実態を解説する。

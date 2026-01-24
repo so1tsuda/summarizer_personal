@@ -1,3 +1,14 @@
+---
+title: "菅元総理が引退へ 衆院選不出馬の意向【WBS】"
+video_id: "nw4fv6CWQRw"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=nw4fv6CWQRw"
+thumbnail: "https://i.ytimg.com/vi/nw4fv6CWQRw/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.771705"
+model: "repaired"
+---
+
 ## 菅義偉元総理、衆院選不出馬を表明―志位和夫氏も引退へ
 
 自民党の**菅義偉**元総理大臣が次期衆議院選挙に立候補せず、今期限りで引退する意向を固めた。**17日**に正式表明する見通し。一方、共産党の**志位和夫**議長も次期衆院選への不出馬を表明している。

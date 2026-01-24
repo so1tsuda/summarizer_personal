@@ -1,3 +1,14 @@
+---
+title: "麻生氏が韓国大統領と面会 立憲と公明の新党結成に…【WBS】"
+video_id: "woCPp8CJu9I"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=woCPp8CJu9I"
+thumbnail: "https://i.ytimg.com/vi/woCPp8CJu9I/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.796966"
+model: "repaired"
+---
+
 ## 麻生副総裁、立憲・公明の新党結成懸念を「カスミ食ってる」と一蹴
 
 韓国を訪問中の**自民党**の**麻生太郎**副総裁が**李在明**大統領と面会した後、記者団の取材に応じた。**立憲民主党**と**公明党**による新党結成に伴い、次の**衆議院選挙**で**公明党**票が減少することに対し、**自民党**内から懸念の声が上がっている件について言及した。

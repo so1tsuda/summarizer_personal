@@ -1,3 +1,14 @@
+---
+title: "The Beginning Of The End For GoPro $GPRO"
+video_id: "lG9-8gf2fuc"
+channel: "Broken Business Models"
+published_at: "2026-01-18"
+youtube_url: "https://www.youtube.com/watch?v=lG9-8gf2fuc"
+thumbnail: "https://i.ytimg.com/vi/lG9-8gf2fuc/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.722449"
+model: "repaired"
+---
+
 ## GoProの凋落：アクションカメラの草分けが直面する存続の危機
 
 Broken Business ModelsチャンネルのJamesが、アクションカメラの草分けである**GoPro**の最近の財務状況と今後の見通しを分析する。GoProは2010年代半ばに上場し、一時は株価が**80ドル**に達したが、現在は**1.37ドル**のペニーストックとなり、時価総額は約**2億ドル**まで縮小した。

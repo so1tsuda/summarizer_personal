@@ -1,3 +1,14 @@
+---
+title: "Robotic Surgery SPAC Fails Dramatically 📉 Stock Plummets!"
+video_id: "82OUMezvxVU"
+channel: "Nanalyze"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=82OUMezvxVU"
+thumbnail: "https://i.ytimg.com/vi/82OUMezvxVU/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.663081"
+model: "repaired"
+---
+
 ## 売上ゼロのSPAC投資が99%の損失を招く
 
 バイオテクノロジーや破壊的テクノロジーへの投資において、**Vicarious Surgical**（ティッカーシンボル：**$RBOT**）は典型的な失敗事例である。100以上の破壊的テクノロジーSPACを分析した結果、その大多数が個人投資家に多大な損失をもたらした。

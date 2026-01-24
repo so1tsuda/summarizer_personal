@@ -1,3 +1,14 @@
+---
+title: "【日経平均】2026年は7万円突破？"
+video_id: "lB-TuIBssLk"
+channel: "楽待 RAKUMACHI"
+published_at: "2026-01-15"
+youtube_url: "https://www.youtube.com/watch?v=lB-TuIBssLk"
+thumbnail: "https://i.ytimg.com/vi/lB-TuIBssLk/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.696091"
+model: "repaired"
+---
+
 ## 2026年日経平均株価7万円予想の根拠
 
 ある投資家が自身のYouTubeチャンネルで**2026年の日経平均株価**を**7万円**と予想している。この予想は単なる楽観論ではなく、過去の実績に基づいた合理的な推計だ。

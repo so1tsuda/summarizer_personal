@@ -1,3 +1,14 @@
+---
+title: "【徹底解説：高市政権の成長戦略】長期金利上昇の懸念は／単年度予算から複数年度予算へ／戦略17分野投資の5原則／こども支援NISAで孫へ資産シフト／設備投資減税の狙い／新しい企業城下町／政府効率化の目玉"
+video_id: "XNFiN4XweUo"
+channel: "PIVOT 公式チャンネル"
+published_at: "2026-01-21"
+youtube_url: "https://www.youtube.com/watch?v=XNFiN4XweUo"
+thumbnail: "https://i.ytimg.com/vi/XNFiN4XweUo/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.756891"
+model: "repaired"
+---
+
 ## 高市政権の経済政策：複数年度視点と供給力強化で成長戦略を転換
 
 高市政権の経済政策を**小林史明**衆議院議員（自民党経済産業部会長）が解説。同氏は上智大理工学部卒、NTTドコモを経て2012年衆院選初当選。デジタル副大臣としてデジタル臨調創設やワクチン記録システムを構築し、現在は自民党経済産業部会長を務める。

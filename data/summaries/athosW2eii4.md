@@ -1,3 +1,14 @@
+---
+title: "【ホットクック無敵の使い方】無洗米を美味しく食べるコツ／「作りおき」よりレトルト食品／おもてなしはヘルシオの「スチコン機能」／エアコンは電熱服で持ち歩け【勝間和代の勝間家電】（第2回／全2回）"
+video_id: "athosW2eii4"
+channel: "flier 公式チャンネル"
+published_at: "2025-12-26"
+youtube_url: "https://www.youtube.com/watch?v=athosW2eii4"
+thumbnail: "https://i.ytimg.com/vi/athosW2eii4/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.750966"
+model: "repaired"
+---
+
 ## 家電を活用した時間とコストの最大化術
 
 経済評論家の**勝間和代**氏が、家電を駆使して時間とお金を節約する「勝間家電」の実践法を解説。料理・洗濯・掃除・冷暖房などの日常業務をテクノロジーで効率化し、生産性を向上させる具体的な手法を紹介。

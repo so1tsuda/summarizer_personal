@@ -1,3 +1,14 @@
+---
+title: "The worst investing bias"
+video_id: "n9-POMKY56I"
+channel: "The Prof G Pod – Scott Galloway"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=n9-POMKY56I"
+thumbnail: "https://i.ytimg.com/vi/n9-POMKY56I/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.652584"
+model: "repaired"
+---
+
 ## 人間の脳は投資決定で最悪の投資家になる理由
 
 人間の脳が投資決定において極めて非合理的な存在である理由を解説する。投資は人類の歴史上で比較的新しい活動であり、進化的な適応が追いついていないことが根本的な問題だ。

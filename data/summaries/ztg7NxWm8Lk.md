@@ -1,3 +1,14 @@
+---
+title: "【石丸伸二×平川理恵】学校が大事にすべきこととは？　#TheBOOSTERS #石丸伸二 #平川理恵 #教育 #学校 #公立 #私立 #子育て"
+video_id: "ztg7NxWm8Lk"
+channel: "NewsPicks /ニューズピックス"
+published_at: "2026-01-15"
+youtube_url: "https://www.youtube.com/watch?v=ztg7NxWm8Lk"
+thumbnail: "https://i.ytimg.com/vi/ztg7NxWm8Lk/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.809680"
+model: "repaired"
+---
+
 ## 学校の主力商品は授業
 
 学校の主力商品は部活動ではなく授業である。教育委員会や保護者から支払われる教育費は、授業に対する対価であるため、授業の質向上が最優先課題となる。

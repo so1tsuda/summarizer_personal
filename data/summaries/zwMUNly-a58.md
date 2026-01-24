@@ -1,3 +1,14 @@
+---
+title: "FT on 'Industry': Behind investment banking’s annual budgets | FT #shorts"
+video_id: "zwMUNly-a58"
+channel: "Financial Times"
+published_at: "2026-01-10"
+youtube_url: "https://www.youtube.com/watch?v=zwMUNly-a58"
+thumbnail: "https://i.ytimg.com/vi/zwMUNly-a58/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.661131"
+model: "repaired"
+---
+
 ## 投資銀行の予算文化とプレッシャーの実態
 
 HBOドラマ『Industry』で**Eric Tao**がクロスプロダクトセールスデスクの年間予算をチームに公表するシーンは、投資銀行の現実を映し出している。このシーンを通じて、金融業界の予算管理、昇進システム、職場文化の実態が明らかになる。

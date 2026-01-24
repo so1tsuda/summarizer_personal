@@ -1,3 +1,14 @@
+---
+title: "【強制執行の実態】東京・杉並区で執行官ら2人刺される、「刃傷沙汰は珍しくない」関係者が明かす実態 #楽待NEWS"
+video_id: "D5g_Jj215sM"
+channel: "楽待 RAKUMACHI"
+published_at: "2026-01-15"
+youtube_url: "https://www.youtube.com/watch?v=D5g_Jj215sM"
+thumbnail: "https://i.ytimg.com/vi/D5g_Jj215sM/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.769947"
+model: "repaired"
+---
+
 ## 強制執行現場で2人が刺される事件、不動産投資家が直面するリスクの実態
 
 2025年1月15日午前、東京都杉並区のアパートで強制執行に訪れていた執行官と家賃保障会社の従業員の男性2人が刺される事件が発生した。40代の入居者男性が殺人未遂容疑で現行犯逮捕されたこの事件は、不動産投資家や大家が直面する深刻なリスクを浮き彫りにしている。

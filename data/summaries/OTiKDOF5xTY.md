@@ -1,3 +1,14 @@
+---
+title: "リスキリングのプロが「ロンジェビティ」に注目する理由／人生120年時代のキャリア論／欧米で急拡大するロンジェビティ・エコノミー（後藤宗明）NewSchool Lite"
+video_id: "OTiKDOF5xTY"
+channel: "NewsPicks /ニューズピックス"
+published_at: "2026-01-23"
+youtube_url: "https://www.youtube.com/watch?v=OTiKDOF5xTY"
+thumbnail: "https://i.ytimg.com/vi/OTiKDOF5xTY/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.739371"
+model: "repaired"
+---
+
 ## 人生120年時代のキャリア戦略：リスキリング3.0とロンジェビティ・スキル
 
 リスキリングのスペシャリストである**後藤宗明**氏が、AIによる労働自動化が加速する時代において、健康で長く働き続けるために必要な「ロンジェビティ・スキル」の重要性を説く。

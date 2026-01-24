@@ -1,3 +1,14 @@
+---
+title: "【選挙の相場予測に潜む“落とし穴”】田中泰輔＆篠田尚子／26年はAI銘柄の“地殻変動”が起きる／中国が抱える“爆弾” フィジカルAIの“本命”は／ 1ドル160円を突破なら「為替介入」も【1on1】"
+video_id: "bDZqfFAOUR4"
+channel: "TBS CROSS DIG with Bloomberg"
+published_at: "2026-01-21"
+youtube_url: "https://www.youtube.com/watch?v=bDZqfFAOUR4"
+thumbnail: "https://i.ytimg.com/vi/bDZqfFAOUR4/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.802001"
+model: "repaired"
+---
+
 ## 2026年マーケット展望：AI相場の転換点と円安の行方
 
 **田中泰輔**氏と**篠田尚子**氏が2026年の市場展望を語る。AI関連銘柄の変容、米中対立、円相場の行方を中心に、複雑化する投資環境の本質を解明する。

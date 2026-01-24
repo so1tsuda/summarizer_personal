@@ -1,3 +1,14 @@
+---
+title: "「ドルの信用が揺らぐ」S&P500一択が危険になる理由。米国株“停滞”のサインとは（馬渕磨理子、篠田尚子、伊井哲朗、kenmo）The UPDATE"
+video_id: "9CpsEt3BNd0"
+channel: "NewsPicks /ニューズピックス"
+published_at: "2026-01-21"
+youtube_url: "https://www.youtube.com/watch?v=9CpsEt3BNd0"
+thumbnail: "https://i.ytimg.com/vi/9CpsEt3BNd0/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.716709"
+model: "repaired"
+---
+
 ## 2026年世界経済の行方：AI相場の持続性とリセッションリスクを多角的に議論
 
 **馬渕磨理子**氏、**伊井哲朗**氏、**kenmo**氏、**篠田尚子**氏の4名が集まり、2025年に生成AIを軸に大きく動いた市場を振り返りつつ、2026年に向けて世界経済がどの局面に入ろうとしているのかを議論した。リセッションの可能性、株価の行方、AI相場の持続性、次に注目すべき成長セクター、そして市場とどう向き合うべきかについて多角的な視点から意見が交わされた。

@@ -1,3 +1,14 @@
+---
+title: "【要約】半うつ　憂鬱以上、うつ未満【平 光源】"
+video_id: "OiLoXktn8rw"
+channel: "フェルミ漫画大学"
+published_at: "2025-12-18"
+youtube_url: "https://www.youtube.com/watch?v=OiLoXktn8rw"
+thumbnail: "https://i.ytimg.com/vi/OiLoXktn8rw/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.747593"
+model: "repaired"
+---
+
 ## 「半うつ」状態から抜け出す5つの実践的アプローチ
 
 精神科医の**平光源**氏が25年間で**20万人以上**の患者を診察した経験に基づく「半うつ」の概念と回復方法を解説。うつ病と診断されるほどではないが、憂鬱感や気力の低下に苦しむ「グレーな状態」から脱出する具体的な戦略を提示する。

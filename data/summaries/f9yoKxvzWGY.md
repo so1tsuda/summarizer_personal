@@ -1,3 +1,14 @@
+---
+title: "How Christine Lagarde Can Tell If Someone Is Genuine"
+video_id: "f9yoKxvzWGY"
+channel: "Bloomberg Originals"
+published_at: "2026-01-13"
+youtube_url: "https://www.youtube.com/watch?v=f9yoKxvzWGY"
+thumbnail: "https://i.ytimg.com/vi/f9yoKxvzWGY/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.767562"
+model: "repaired"
+---
+
 ## チームプレイヤーを見抜くラガルド氏の直感
 
 **クリスティーヌ・ラガルド**氏が**フランシーヌ・ラクワ**氏のインタビューで、協力的な人材を見抜く独自の方法を語る。ラガルド氏は、言葉ではなく行動観察から人物の本質を判断する。

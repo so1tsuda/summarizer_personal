@@ -1,3 +1,14 @@
+---
+title: "Is the U.S. Losing Its “Backyard” to China?"
+video_id: "imv2qxhvI6s"
+channel: "The Prof G Pod – Scott Galloway"
+published_at: "2026-01-13"
+youtube_url: "https://www.youtube.com/watch?v=imv2qxhvI6s"
+thumbnail: "https://i.ytimg.com/vi/imv2qxhvI6s/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.753326"
+model: "repaired"
+---
+
 ## 中国のラテンアメリカ影響力排除を図る米国
 
 **2026年**の幕開けは中国外交政策にとって最悪のスタートとなった。**マドゥロ**政権が崩壊し、米国はベネズエラだけでなく西半球全体から中国の影響力を排除する意向を表明している。

@@ -1,3 +1,14 @@
+---
+title: "【閲覧注意】橘玲『言ってはいけない』だけでは序章に過ぎない。3冊統合して初めて完成する「禁断の処方箋」"
+video_id: "nCHOtGa0RPk"
+channel: "AIでゆっくり本要約チャンネル"
+published_at: "2026-01-04"
+youtube_url: "https://www.youtube.com/watch?v=nCHOtGa0RPk"
+thumbnail: "https://i.ytimg.com/vi/nCHOtGa0RPk/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.752824"
+model: "repaired"
+---
+
 ## 橘玲三冊統合：努力・正義・記憶の残酷な真実と設計による脱出
 
 **橘玲**氏の『言ってはいけない』『もっと言ってはいけない』『バカと無知』三冊は、努力が空回りする理由、正義が快感になる理由、バカと無知が人間関係を壊す理由を一つの「人間の仕様書」として提示する。三冊は別々の方向から同じ現実を照らす三本のライトであり、重ねた瞬間に影の形が露骨に浮かぶ構造を持つ。

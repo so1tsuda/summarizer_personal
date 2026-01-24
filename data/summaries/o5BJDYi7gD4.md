@@ -1,3 +1,14 @@
+---
+title: "Trump’s plan if the Supreme Court blocks tariffs"
+video_id: "o5BJDYi7gD4"
+channel: "The Economist"
+published_at: "2026-01-14"
+youtube_url: "https://www.youtube.com/watch?v=o5BJDYi7gD4"
+thumbnail: "https://i.ytimg.com/vi/o5BJDYi7gD4/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.765882"
+model: "repaired"
+---
+
 ## 米最高裁の関税判決と政府の代替案
 
 **ドナルド・トランプ**氏は、米最高裁が自らの関税政策を違法と判断した場合、アメリカは「 screwed（破滅的）」になると発言。最高裁の判決が近日中に下される中、**ジェイミソン・グリア**米通商代表が**エコノミスト**誌の**デビッド・レニー**地政学編集長に政府の計画Bについて語った。

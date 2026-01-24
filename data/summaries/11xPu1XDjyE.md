@@ -1,3 +1,14 @@
+---
+title: "Why the Trump administration is betting on Maduro’s deputy | FT #shorts"
+video_id: "11xPu1XDjyE"
+channel: "Financial Times"
+published_at: "2026-01-05"
+youtube_url: "https://www.youtube.com/watch?v=11xPu1XDjyE"
+thumbnail: "https://i.ytimg.com/vi/11xPu1XDjyE/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.728244"
+model: "repaired"
+---
+
 ## ベネズエラ政権の行方：トランプ政権が目指す早期解決と4つのシナリオ
 
 **ドナルド・トランプ**政権はベネズエラで早期の成果を求めている。その鍵を握るのが、**ニコラス・マドゥロ**の副大統領である**デルシー・ロドリゲス**だ。FTのラテンアメリカ編集長**マイケル・ストット**が、今後考えられる4つのシナリオを分析する。

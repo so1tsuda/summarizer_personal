@@ -1,3 +1,14 @@
+---
+title: "Could Donald Trump end Iran's internet blackout?"
+video_id: "7EjoXmQnT7U"
+channel: "The Economist"
+published_at: "2026-01-14"
+youtube_url: "https://www.youtube.com/watch?v=7EjoXmQnT7U"
+thumbnail: "https://i.ytimg.com/vi/7EjoXmQnT7U/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.668402"
+model: "repaired"
+---
+
 ## イランのインターネット遮断とトランプ大統領の介入可能性
 
 イランは史上最大級の抗議活動に直面し、政府は全国規模のインターネット遮断を実施している。**トランプ大統領**は抗議者を「救出」し、インターネットを復旧させたいと表明している。

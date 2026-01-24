@@ -1,3 +1,14 @@
+---
+title: "【普通に生きてたら嫌なことばっか起きる】みんな芸人になればいい／チャット欄の悪口を黙らせる方法／「テレビは嘘、ネットは本当」と思い込むなよ／ウエストランド井口「これからは人情の時代」（第2回／全2回）"
+video_id: "_ssA_ZET07U"
+channel: "flier 公式チャンネル"
+published_at: "2026-01-18"
+youtube_url: "https://www.youtube.com/watch?v=_ssA_ZET07U"
+thumbnail: "https://i.ytimg.com/vi/_ssA_ZET07U/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.650661"
+model: "repaired"
+---
+
 ## SNS時代の「悪口」と人間味の回復
 
 **ウエストランド井口浩之**が著書『悪口を悪く言うな！』を通じて語る現代社会の歪みと、これからの時代に必要な「人間味」についての対話。**井手琢人（井手隊長）**との対談で、SNS文化、お笑いの本質、そしてこれからの時代の価値観が浮き彫りになる。

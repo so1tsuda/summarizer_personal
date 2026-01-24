@@ -1,3 +1,14 @@
+---
+title: "Why Israel is closely watching the Iran protests"
+video_id: "41A4fG1v7xs"
+channel: "The Economist"
+published_at: "2026-01-12"
+youtube_url: "https://www.youtube.com/watch?v=41A4fG1v7xs"
+thumbnail: "https://i.ytimg.com/vi/41A4fG1v7xs/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.785744"
+model: "repaired"
+---
+
 ## イランの抗議活動がイスラエルとの新たな戦争に発展する可能性
 
 **The Economist**のイスラエル特派員**Anshel Pfeffer**とポッドキャスト「The Intelligence」の共同司会者**Jason Palmer**が、イラン国内の抗議活動がイスラエルとの緊張関係を激化させ、さらなる戦争に発展する可能性について議論している。

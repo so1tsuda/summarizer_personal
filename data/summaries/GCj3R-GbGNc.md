@@ -1,3 +1,14 @@
+---
+title: "What nobody tells first-time founders"
+video_id: "GCj3R-GbGNc"
+channel: "Lenny's Podcast"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=GCj3R-GbGNc"
+thumbnail: "https://i.ytimg.com/vi/GCj3R-GbGNc/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.751282"
+model: "repaired"
+---
+
 ## シリコンバレーで成功する創業者のネットワーク術
 
 若い創業者が**Kleiner Perkins**のホリデーパーティーに初めて参加する場面を想定する。世界中のベンチャーキャピタリストやCEOが集まるこの場で、多くの創業者は「これが私のチャンスだ」と焦り、取引的なアプローチをとってしまう。しかし、この方法は逆効果であり、相手を遠ざける原因となる。

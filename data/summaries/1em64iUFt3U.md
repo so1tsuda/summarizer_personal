@@ -1,3 +1,14 @@
+---
+title: "How a Meta PM ships products without ever writing code | Zevi Arnovitz"
+video_id: "1em64iUFt3U"
+channel: "Lenny's Podcast"
+published_at: "2026-01-18"
+youtube_url: "https://www.youtube.com/watch?v=1em64iUFt3U"
+thumbnail: "https://i.ytimg.com/vi/1em64iUFt3U/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.773908"
+model: "repaired"
+---
+
 ## 技術背景ゼロのPMがAIでプロダクトを開発する完全ワークフロー
 
 **Zevi Arnovitz**は技術背景を持たない**Meta**のプロダクトマネージャーだが、**Cursor**と**Claude Code**、**Gemini**などのAIツールを活用して、本格的なプロダクトを構築・リリースしている。彼が開発した**StudyMate**（学習資料からインタラクティブなテストを作成するプラットフォーム）や**Dibur2text**（音声認識アプリ）は、実際に収益を生み出している。

@@ -1,3 +1,14 @@
+---
+title: "How Netanyahu’s rival would end the war in Gaza"
+video_id: "8xUZ6dbbeEs"
+channel: "The Economist"
+published_at: "2026-01-14"
+youtube_url: "https://www.youtube.com/watch?v=8xUZ6dbbeEs"
+thumbnail: "https://i.ytimg.com/vi/8xUZ6dbbeEs/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.696468"
+model: "repaired"
+---
+
 ## イスラエル選挙主要候補、ガザからハマス排除の戦略を明言
 
 イスラエル総選挙で**ベンヤミン・ネタニヤフ**首相の主要ライバルである**ナフタリ・ベネット**氏が、ガザ地区から**ハマス**を排除するための具体的戦略を英エコノミスト誌のインタビューで語った。ベネット氏はハマスを「毒土壌」と表現し、ハマスが存在する限りガザの再建は不可能と断じている。

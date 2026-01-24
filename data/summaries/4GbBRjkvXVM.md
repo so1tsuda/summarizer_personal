@@ -1,3 +1,14 @@
+---
+title: "【フェラーリ1台分】勝間和代厳選の“勝間家電”で時間・お金を／パソコンすら持ち歩かない／最強のキーボードと音声入力／有線より早い無線はない【エアークローゼット・BOA・Pixel】（第1回／全2回）"
+video_id: "4GbBRjkvXVM"
+channel: "flier 公式チャンネル"
+published_at: "2025-12-25"
+youtube_url: "https://www.youtube.com/watch?v=4GbBRjkvXVM"
+thumbnail: "https://i.ytimg.com/vi/4GbBRjkvXVM/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.689292"
+model: "repaired"
+---
+
 ## テクノロジーで人生を変える勝間家電の極意
 
 経済評論家の**勝間和代**氏が、2000品以上の家電を試し、フェラーリが買えるほどの費用を投じて選び抜いた「勝間家電」の真髄を語る。幼少期からマイコンやパソコン通信に親しみ、最新技術を生活と仕事に取り入れてきた勝間氏の実践的アプローチが明らかになる。

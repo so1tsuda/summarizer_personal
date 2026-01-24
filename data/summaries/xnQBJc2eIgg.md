@@ -1,3 +1,14 @@
+---
+title: "【AIはメンタル相談に最適か？】「人に相談しない」時代が来るのか｜メンタルケアのゴールとは？｜「生々しい質問はAIにしかできない…」｜ロールプレイのプロンプトを紹介【精神科医YouTuber益田裕介】"
+video_id: "xnQBJc2eIgg"
+channel: "文藝春秋PLUS 公式チャンネル"
+published_at: "2026-01-20"
+youtube_url: "https://www.youtube.com/watch?v=xnQBJc2eIgg"
+thumbnail: "https://i.ytimg.com/vi/xnQBJc2eIgg/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.761618"
+model: "repaired"
+---
+
 ## AIカウンセリングが既定路線に：精神科医が教える活用法と注意点
 
 精神科医の**益田裕介**氏が、AIを使ったメンタルケアの実践的な方法とリスクについて解説。**文藝春秋PLUS**編集部の**小田竜ダニエル**氏との対談で、AIカウンセリングの現状と正しい使い方を明らかにする。

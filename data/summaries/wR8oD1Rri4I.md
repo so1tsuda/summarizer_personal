@@ -1,3 +1,14 @@
+---
+title: "阪神淡路大震災から31年　高齢化などで追悼行事を取りやめる動きも　教訓継承が課題"
+video_id: "wR8oD1Rri4I"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=wR8oD1Rri4I"
+thumbnail: "https://i.ytimg.com/vi/wR8oD1Rri4I/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.809378"
+model: "repaired"
+---
+
 ## 阪神淡路大震災から31年：追悼と教訓継承の課題
 
 **6,434人**が犠牲となった阪神淡路大震災から今日で31年を迎えた。遺族らが地震が発生した**午前5時46分**に黙祷を捧げ、犠牲者を追悼した。神戸市の東遊園地では「つむぐ」という文字の形に灯ろうを並べ、犠牲者に祈りを捧げる追悼のつどいが開かれた。

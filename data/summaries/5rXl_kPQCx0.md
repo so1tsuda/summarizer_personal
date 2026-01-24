@@ -1,3 +1,14 @@
+---
+title: "【松村邦洋が選ぶ歴代No.1信長は？】大河ドラマは染谷将太時代がやってくる?!／日本人は徳川家康が大好き／秀長をキャスティングするならあの芸人（第2回／全2回）"
+video_id: "5rXl_kPQCx0"
+channel: "flier 公式チャンネル"
+published_at: "2026-01-16"
+youtube_url: "https://www.youtube.com/watch?v=5rXl_kPQCx0"
+thumbnail: "https://i.ytimg.com/vi/5rXl_kPQCx0/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.729416"
+model: "repaired"
+---
+
 ## 家康が最も愛される理由と豊臣兄弟の新たな魅力
 
 松村邦洋氏の著書『松村邦洋　とにかく「豊臣兄弟！」を語る』をテーマに、大河ドラマと歴史を語る対談。MCは井手琢人氏（井手隊長）。

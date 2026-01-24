@@ -1,3 +1,14 @@
+---
+title: "【今年こそベストな体重のカラダに！】筋トレ×休息でベストコンディションを／ダイエットは効果ある？／風邪ひきはじめにオススメの食事／冬は増量期【肉乃小路ニクヨ×岡田隆（バズーカ岡田）】（第2回／全2回）"
+video_id: "eyCd4gBKyDw"
+channel: "flier 公式チャンネル"
+published_at: "2026-01-05"
+youtube_url: "https://www.youtube.com/watch?v=eyCd4gBKyDw"
+thumbnail: "https://i.ytimg.com/vi/eyCd4gBKyDw/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.757909"
+model: "repaired"
+---
+
 ## 筋トレ効果を最大化する休息の重要性と季節に合わせた体重管理
 
 **日本体育大学教授**でボディビルダーの**岡田孝志**氏が、筋トレと休息の関係、季節による体重変化、風邪対策について解説。**30年**のバーベルトレーニング経験から、睡眠の質が翌日のパフォーマンスに直結することを実感。

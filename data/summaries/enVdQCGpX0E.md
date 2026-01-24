@@ -1,3 +1,14 @@
+---
+title: "ドン・キホーテが最大90%オフの店をオープン｜#ドンキホーテ #オフプライスストア #経済 #ビジネス #篠原梨菜 #crossdig"
+video_id: "enVdQCGpX0E"
+channel: "TBS CROSS DIG with Bloomberg"
+published_at: "2026-01-13"
+youtube_url: "https://www.youtube.com/watch?v=enVdQCGpX0E"
+thumbnail: "https://i.ytimg.com/vi/enVdQCGpX0E/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.677481"
+model: "repaired"
+---
+
 ## ドン・キホーテが最大90%オフのオフプライスストアを埼玉にオープン
 
 **ドン・キホーテ**が埼玉県の商業施設内に、化粧品などを最大90%オフで販売するオフプライスストアをオープンした。この店舗はセールではなく、新品が常に安い価格で提供される新しい業態。30代から50代の女性を主なターゲットに「毎日がサプライズ」をコンセプトに展開している。

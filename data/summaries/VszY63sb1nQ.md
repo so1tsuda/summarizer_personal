@@ -1,3 +1,14 @@
+---
+title: "How Netanyahu’s rival would end Israel’s war in Gaza"
+video_id: "VszY63sb1nQ"
+channel: "The Economist"
+published_at: "2026-01-14"
+youtube_url: "https://www.youtube.com/watch?v=VszY63sb1nQ"
+thumbnail: "https://i.ytimg.com/vi/VszY63sb1nQ/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.694449"
+model: "repaired"
+---
+
 ## イスラエルの分裂を癒やす：ネタニヤフに代わる統合者としてのベネット
 
 **Naftali Bennett**は今年のイスラエル総選挙で**Binyamin Netanyahu**首相の主要な対立候補として立候補。**The Economist**のZanny Minton Beddoes編集長とEdward Carr副編集長がテルアビブでインタビューを行い、ベネット氏がいかにしてイスラエルの対外的な評判を回復し、**Hamas**の脅威に対処するかを聞いた。

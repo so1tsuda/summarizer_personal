@@ -1,3 +1,14 @@
+---
+title: "じゃらん,ホットペッパー,SUUMO…「リクルートHD」便利サービスで年商2兆8000億円！【カンブリア宮殿】＜番組リニューアル・傑作選＞"
+video_id: "01BVYRPzNgs"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-18"
+youtube_url: "https://www.youtube.com/watch?v=01BVYRPzNgs"
+thumbnail: "https://i.ytimg.com/vi/01BVYRPzNgs/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.698578"
+model: "repaired"
+---
+
 ## リクルートホールディングス：年商**2兆8000億円**を超える知られざる新ビジネス
 
 「じゃらん」「ホットペッパー」「SUUMO」「ゼクシィ」を展開する**リクルートホールディングス**が、この**10年**で売上を**3倍**以上に拡大させている。創業以来、人と企業を「情報」でつなげてきた同社の知られざる新ビジネスが急拡大している。

@@ -1,3 +1,14 @@
+---
+title: "【日中対立】レアアース規制は長期化"
+video_id: "RKlgpgYaeIY"
+channel: "楽待 RAKUMACHI"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=RKlgpgYaeIY"
+thumbnail: "https://i.ytimg.com/vi/RKlgpgYaeIY/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.786453"
+model: "repaired"
+---
+
 ## 中国によるレアアース輸出規制と日本への経済圧力
 
 中国が日本に対してレアアースの輸出規制を強化している。この措置は、中国が日本を第二次世界大戦の戦敗国として見下しているという認識に基づいている。中国側は経済制裁を通じて日本国内から反発を引き出し、特定の政治家に謝罪を迫る戦略を展開している。

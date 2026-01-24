@@ -1,3 +1,14 @@
+---
+title: "「乳出しぶりっ子は嫌われる！」オンナの嫉妬が止まらない！育休のもらい逃げは悪？女性活躍で格差が拡大？”女の敵”は誰なのか…【アレン様×トンツカタン森本】"
+video_id: "dsjB9D8gaj0"
+channel: "NewsPicks /ニューズピックス"
+published_at: "2026-01-18"
+youtube_url: "https://www.youtube.com/watch?v=dsjB9D8gaj0"
+thumbnail: "https://i.ytimg.com/vi/dsjB9D8gaj0/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.765371"
+model: "repaired"
+---
+
 ## 女性の敵は女性？ブリっこ批判と嫉妬の実態
 
 経済ニュースバラエティ「IN MY OPINION presents BLACK or WHITE」が「女の敵は女？」をテーマに、女性同士の嫉妬や批判的な態度について議論した。出演者は**アレン様**、**森本晋太郎**（トンツカタン）、**岸谷蘭丸**、**たける**（東京ホテイソン）、**高橋ユウ**、**勝倉千尋**。

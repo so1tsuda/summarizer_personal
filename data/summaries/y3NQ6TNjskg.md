@@ -1,3 +1,14 @@
+---
+title: "【要約】介護未満の父に起きたこと【ジェーン・スー】"
+video_id: "y3NQ6TNjskg"
+channel: "フェルミ漫画大学"
+published_at: "2026-01-05"
+youtube_url: "https://www.youtube.com/watch?v=y3NQ6TNjskg"
+thumbnail: "https://i.ytimg.com/vi/y3NQ6TNjskg/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.800558"
+model: "repaired"
+---
+
 ## 介護未満の親を支える実践的ガイド
 
 作家・ラジオパーソナリティの**ジェーン・スー**氏が著書『介護未満の父に起きたこと』で、82歳の父親を支えた経験から得た知見を解説。2050年には75歳以上の高齢者が**2400万人**に達する見込みの日本で、親のサポートは誰にとっても他人ごとではない。

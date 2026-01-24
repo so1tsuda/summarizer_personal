@@ -1,3 +1,14 @@
+---
+title: "【衆議院選挙】石丸伸二×田端信太郎×ちょる子が語る「衆院選×投資戦略」／日経平均株価5万4000円へ／解散は「勝てる時に勝つ」奇襲？／高市首相の真意／円安・為替・インフレの複合要因《楽待公式切り抜き》"
+video_id: "yWhxNz-aFxY"
+channel: "楽待 RAKUMACHI"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=yWhxNz-aFxY"
+thumbnail: "https://i.ytimg.com/vi/yWhxNz-aFxY/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.674378"
+model: "repaired"
+---
+
 ## 衆議院解散報道と日経平均上昇の背景
 
 **田端信太郎**氏と**石丸伸二**氏、そして**ちょる子**氏が、**高市早苗**首相による衆議院解散報道とそのマーケットへの影響について議論。日経平均株価は**5万4300円**まで上昇しており、株式投資家にとって不確実性の解消は好材料となっている。

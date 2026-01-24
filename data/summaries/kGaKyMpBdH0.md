@@ -1,3 +1,14 @@
+---
+title: "【ひろゆきの「休む技術」】休息の本を何冊読んでも休めない理由/資本主義が「休み」を妨げる/残業続きは誰の問題？/仕事でヒットを打ち続ける方法（第1回／全2回）"
+video_id: "kGaKyMpBdH0"
+channel: "flier 公式チャンネル"
+published_at: "2025-12-27"
+youtube_url: "https://www.youtube.com/watch?v=kGaKyMpBdH0"
+thumbnail: "https://i.ytimg.com/vi/kGaKyMpBdH0/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.799903"
+model: "repaired"
+---
+
 ## ひろゆきが語る「休む技術」：日本人が休めない本当の理由と効率的な働き方
 
 ひろゆき（西村博之）が著書『休む技術』を基に、現代人が身につけるべき休息の技術と効率的な働き方について語る。MCは井手琢人（井手隊長）。

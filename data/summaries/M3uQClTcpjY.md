@@ -1,3 +1,14 @@
+---
+title: "またお漏らし！。日銀は政策金利を据え置きへ。市場は通常モードに復帰か"
+video_id: "M3uQClTcpjY"
+channel: "田端大学　投資学部"
+published_at: "2026-01-23"
+youtube_url: "https://www.youtube.com/watch?v=M3uQClTcpjY"
+thumbnail: "https://i.ytimg.com/vi/M3uQClTcpjY/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.764442"
+model: "repaired"
+---
+
 ## 市場は一時の落ち着き、米国株は無難な上昇
 
 2025年1月31日の株ライブ配信。**ディープショック**や**トランプ関税**など一週間で様々なイベントがあったが、市場は落ち着きを取り戻している。**日銀**は次回の政策決定会合で利上げを実施する見込み。米国株は3指数ともに上昇し、ダウ平均+0.6%、ナスダック+0.9%、S&P500+0.55%となった。日本株は165円高（+0.3%）で始まり、日経トピックスも+0.4%。

@@ -141,23 +141,92 @@ process_file() {
         fi
     fi
     
+    # 検閲対象のキーワード（中国政治関連など、Kilocode/GLMでエラーになるもの）
+    local SENSITIVE_KEYWORDS="(習近平|Xi Jinping|Xi Jingping|中国共産党|CCP|Chinese Communist Party|天安門|Tiananmen)"
+    
     # 既存の要約をスキップするかどうか確認
     if [[ -f "$output_file" ]]; then
         echo "  ⚠️ 要約ファイルが既に存在します: $output_file"
         echo "  → スキップします（上書きする場合は手動で削除してください）"
         return 0
     fi
+
+    # キーワードチェック（概要欄またはタイトルに検閲対象が含まれるか）
+    local switch_to_gemini=false
     
-    # Kilo Code CLI コマンドを構築（パスは相対パスで指定）
-    local cmd="kilocode --auto \"システムプロンプト@${SYSTEM_PROMPT} に従い、動画概要欄 @${desc_file} と 文字起こし @${transcript_file} を日本語で要約し、@${output_file} として書き出してください。\""
+    # 概要欄のチェック
+    if [[ -f "$desc_file" ]]; then
+        if grep -Ei "$SENSITIVE_KEYWORDS" "$desc_file" > /dev/null; then
+            echo "  ⚠️ 概要欄に制限対象ワードを検出しました。Google Geminiに切り替えます。"
+            switch_to_gemini=true
+        fi
+    fi
     
-    if $DRY_RUN; then
-        echo "  [dry-run] 実行予定コマンド:"
-        echo "    $cmd"
+    # Kilo Code CLI または Gemini で処理
+    if $switch_to_gemini; then
+        if $DRY_RUN; then
+            echo "  [dry-run] Geminiを実行予定: uv run python3 scripts/process_video.py --provider gemini -- \"$video_id\""
+        else
+            echo "  Geminiで要約を実行中..."
+            if uv run python3 scripts/process_video.py --provider gemini -- "$video_id" > /dev/null 2>&1; then
+                echo "  ✓ Geminiでの要約が完了しました: $output_file"
+            else
+                echo "  ❌ Geminiでの要約に失敗しました。"
+                return 1
+            fi
+        fi
     else
-        echo "  実行中..."
-        eval "$cmd"
-        echo "  ✓ 完了: $output_file"
+        # Kilo Code CLI コマンドを構築（パスは相対パスで指定）
+        local cmd="kilocode --auto \"システムプロンプト@${SYSTEM_PROMPT} に従い、動画概要欄 @${desc_file} と 文字起こし @${transcript_file} を日本語で要約し、@${output_file} として書き出してください。\""
+        
+        if $DRY_RUN; then
+            echo "  [dry-run] 実行予定コマンド:"
+            echo "    $cmd"
+        else
+            echo "  実行中..."
+            # kilocode実行時にエラー（政治的制限など）が出た場合のフォールバック
+            if ! eval "$cmd"; then
+                echo "  ⚠️ Kilocodeでエラーが発生しました。Geminiでのフォールバックを試みます..."
+                if uv run python3 scripts/process_video.py --provider gemini -- "$video_id" > /dev/null 2>&1; then
+                    echo "  ✓ フォールバックによりGeminiで完了しました: $output_file"
+                else
+                    echo "  ❌ フォールバック実行も失敗しました。"
+                    return 1
+                fi
+            else
+                echo "  ✓ 完了: $output_file"
+                
+                # フロントマターの追加
+                local json_file="${TRANSCRIPT_DIR}/${video_id}.json"
+                if [[ -f "$json_file" ]]; then
+                    echo "  📝 フロントマターを追加中..."
+                    local title channel published_at
+                    title=$(jq -r '.title' "$json_file" | sed 's/"/\\"/g' | tr -d '\n')
+                    channel=$(jq -r '.channel' "$json_file" | tr -d '\n')
+                    published_at=$(jq -r '.published_at' "$json_file" | cut -c1-10)
+                    
+                    local temp_file=$(mktemp)
+                    {
+                        echo "---"
+                        echo "title: \"$title\""
+                        echo "video_id: \"$video_id\""
+                        echo "channel: \"$channel\""
+                        echo "published_at: \"$published_at\""
+                        echo "youtube_url: \"https://www.youtube.com/watch?v=$video_id\""
+                        echo "thumbnail: \"https://i.ytimg.com/vi/$video_id/hqdefault.jpg\""
+                        echo "summarized_at: \"$(date -Iseconds)\""
+                        echo "model: \"kilocode\""
+                        echo "---"
+                        echo ""
+                        cat "$output_file"
+                    } > "$temp_file"
+                    mv "$temp_file" "$output_file"
+                    echo "  ✓ フロントマターを追加しました。"
+                else
+                    echo "  ⚠️ JSONファイルが見つからないため、フロントマターの追加をスキップします: $json_file"
+                fi
+            fi
+        fi
     fi
     
     return 0

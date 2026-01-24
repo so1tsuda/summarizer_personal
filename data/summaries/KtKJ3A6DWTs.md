@@ -1,3 +1,14 @@
+---
+title: "How to show up in any room with a low heart rate: Silicon Valley’s missing etiquette playbook"
+video_id: "KtKJ3A6DWTs"
+channel: "Lenny's Podcast"
+published_at: "2026-01-15"
+youtube_url: "https://www.youtube.com/watch?v=KtKJ3A6DWTs"
+thumbnail: "https://i.ytimg.com/vi/KtKJ3A6DWTs/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.657325"
+model: "repaired"
+---
+
 ## シリコンバレー創業者のためのエチケット：信頼を構築する「低心拍」の技術
 
 **Sam Lessin**（Slow Venturesパートナー、元Facebook製品担当副社長、2度の創業者）が、2026年の創業者にとってなぜエチケットが重要なのかを解説。技術が社会の中心となり、信頼の構築が困難になる中、適切なエチケットは必須スキルとなっている。Lessinのエチケット本と講座は、創業者に「低い心拍で部屋に現れる」方法と迅速な信頼構築を教え、驚くほど人気を博している。

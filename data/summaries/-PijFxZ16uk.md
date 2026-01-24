@@ -1,3 +1,14 @@
+---
+title: "FT on 'Industry': What's the world of finance really like | FT #shorts"
+video_id: "-PijFxZ16uk"
+channel: "Financial Times"
+published_at: "2026-01-12"
+youtube_url: "https://www.youtube.com/watch?v=-PijFxZ16uk"
+thumbnail: "https://i.ytimg.com/vi/-PijFxZ16uk/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.693162"
+model: "repaired"
+---
+
 ## HBOドラマ『Industry』の金融業界リアリティ：トレーダーとセールスの役割分担
 
 HBOの金融ドラマ『Industry』のシーンを基に、FT（フィナンシャル・タイムズ）の**Isabel Berwick**（Working Itエディター）と**Alan Livsey**（アセットマネジメント記者）が、実際の金融業界の仕組みを解説する。主人公**Harper**はクロスプロダクトセールスデスクで働く若手社員だが、重大なミスを犯し、トレードで挽回しようと試みる。

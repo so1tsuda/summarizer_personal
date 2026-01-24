@@ -1,3 +1,14 @@
+---
+title: "Inside China’s Voluntary \"Fat Prisons\""
+video_id: "tvkFn53tAys"
+channel: "The Prof G Pod – Scott Galloway"
+published_at: "2026-01-13"
+youtube_url: "https://www.youtube.com/watch?v=tvkFn53tAys"
+thumbnail: "https://i.ytimg.com/vi/tvkFn53tAys/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.745982"
+model: "repaired"
+---
+
 ## 中国の「肥満刑務所」：過激な減量キャンプの実態
 
 中国全土で現在**1,000以上**の減量トレーニングキャンプが稼働しており、参加者は施設内に監禁され、常時監視下に置かれる。肥満問題が深刻化する中国で、数千人の成人が自発的にいわゆる「肥満刑務所」と呼ばれる軍隊式ブートキャンプに入所している。これらの施設は厳格な食事制限、絶え間ない運動、常時監視を通じて急速な減量を約束する。

@@ -1,3 +1,14 @@
+---
+title: "What does Trump really want from Venezuela | FT #shorts"
+video_id: "A8UM0imhOBc"
+channel: "Financial Times"
+published_at: "2026-01-08"
+youtube_url: "https://www.youtube.com/watch?v=A8UM0imhOBc"
+thumbnail: "https://i.ytimg.com/vi/A8UM0imhOBc/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.661525"
+model: "repaired"
+---
+
 ## トランプのベネズエラ介入：石油・麻薬・地政学の複合的動機
 
 **ドナルド・トランプ**が**ベネズエラ**への軍事介入を強行している。カリブ海での軍事力増強、小型ボートへの攻撃を経て、米国治安部隊が夜間に**ニコラス・マドゥロ**大統領とその妻を拘束。ニューヨークへ連行され、連邦拘留下に置かれている。トランプは「米国がベネズエラを運営する」と宣言するが、その真の狙いは何か。

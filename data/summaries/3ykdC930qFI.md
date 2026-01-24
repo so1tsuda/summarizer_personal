@@ -1,3 +1,14 @@
+---
+title: "オープンAIが「チャットGPT」で広告導入へ"
+video_id: "3ykdC930qFI"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=3ykdC930qFI"
+thumbnail: "https://i.ytimg.com/vi/3ykdC930qFI/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.751571"
+model: "repaired"
+---
+
 ## **OpenAI**が**ChatGPT**で広告表示開始、赤字拡大に対応
 
 **OpenAI**は16日、対話型生成AI「**ChatGPT**」での広告表示を開始すると発表した。無料利用者と新設した低価格プランの利用者が対象で、数週間以内にアメリカで試験導入される。

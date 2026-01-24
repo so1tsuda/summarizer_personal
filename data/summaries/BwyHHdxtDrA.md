@@ -1,3 +1,14 @@
+---
+title: "What China’s military learnt from Trump’s Venezuela raid"
+video_id: "BwyHHdxtDrA"
+channel: "The Economist"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=BwyHHdxtDrA"
+thumbnail: "https://i.ytimg.com/vi/BwyHHdxtDrA/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.661830"
+model: "repaired"
+---
+
 ## トランプのベネズエラ強制送還が中国の台湾攻撃計画に与える教訓
 
 **The Economist**のポッドキャスト「**Drum Tower**」で、**Jeremy Page**と**Sarah Wu**が、アメリカによる**Nicolás Maduro**の強制送還作戦が、将来の台湾攻撃における中国の教訓となるかを議論。

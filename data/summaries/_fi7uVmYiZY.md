@@ -1,3 +1,14 @@
+---
+title: "入試シーズン幕開け　大学入学共通テスト始まる　全国650会場49.6万人出願"
+video_id: "_fi7uVmYiZY"
+channel: "テレ東BIZ ダイジェスト"
+published_at: "2026-01-17"
+youtube_url: "https://www.youtube.com/watch?v=_fi7uVmYiZY"
+thumbnail: "https://i.ytimg.com/vi/_fi7uVmYiZY/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.762999"
+model: "repaired"
+---
+
 ## 大学入学共通テスト開幕、49万6000人が受験
 
 本格的な入試シーズンの幕開けとなる大学入学共通テストが17日から2日間の日程で始まりました。全国650の会場で実施され、出願者はおよそ**49万6000人**で前年より**1000人**ほど多く、2年連続の増加となりました。

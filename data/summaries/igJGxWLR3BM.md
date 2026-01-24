@@ -1,3 +1,14 @@
+---
+title: "【要注意】『嫌われる勇気』だけでは孤立します。『7つの習慣』と統合して完成する「迷わない人生の設計図」"
+video_id: "igJGxWLR3BM"
+channel: "AIでゆっくり本要約チャンネル"
+published_at: "2026-01-11"
+youtube_url: "https://www.youtube.com/watch?v=igJGxWLR3BM"
+thumbnail: "https://i.ytimg.com/vi/igJGxWLR3BM/hqdefault.jpg"
+summarized_at: "2026-01-24T21:41:10.684412"
+model: "repaired"
+---
+
 ## 『嫌われる勇気』と『7つの習慣』を統合した迷わない人生の設計図
 
 **岸一郎**・**古賀史健**著『嫌われる勇気』と**スティーブン・コヴィー**著『7つの習慣』を1本の道として統合した人生設計図。過去ではなく今の目的が人生のブレーキを踏んでいることを暴き、原則に合わせて目的を入れ替える話だ。
