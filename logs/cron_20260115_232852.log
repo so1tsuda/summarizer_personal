@@ -1,0 +1,294 @@
+=== Cron Update Started: Thu Jan 15 23:28:52 JST 2026 ===
+Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+=== RSS経由 バックログ処理 ===
+チャンネル数: 21
+モデル: gemini-2.5-flash
+テンプレート: blog_article
+
+📡 RSSフィードから新着動画を取得中...
+チャンネルをチェック中 (RSS): PIVOT 公式チャンネル (言語: ja)
+  ✓ 新着: 【推薦入試の合格法】評定平均値を上げるズルい技術／英語資格はIELTS一択の理由／志望理由書は塾に任せるな／活動実績はゼロでいい【教育新常識】
+  ✓ 新着: 【2026年 セールスに起こる大変化】AI時代の花形職「エンタープライズセールス」／これからは製造業の時代　AI導入によるビジネスインパクト／エンプラセールスはなぜ大企業を変えられるのか？
+  ✓ 新着: 【解散総選挙と株価：日経平均は年内6万円へ】なぜ「選挙は買い」なのか？／高市勝利後に株高が加速／積極財政の是非／円安と長期金利高騰のリスク／来年以降も上昇が続く／最大のリスクは？
+  ✓ 新着: 【徹底解説：日本の防衛産業】三菱重工／IHI /川崎重工業／三菱電機／NEC／防衛株が伸びる理由／日本と欧州の企業が上位／日独韓が成長率トップ３／高いPER／パランティアは別格／フェイスブック創業者
+  ✓ 新着: 【DIGEST】AI時代に稼げる仕事・消える仕事／デスクワーク大量消滅／50代のリストラ／コンサル・商社の未来まで徹底解説
+  ✓ 新着: 【1000人の富裕層に学んだマインドセット】資産3億円以上の“新富裕層”が投資する最新医療と教育／杉村太蔵も納得...富裕層の共通点が「怒らない」理由とは？【PIVOT TALK SPECIAL】
+  ✓ 新着: 【脱・経理の属人化にはAIエージェントを使うべし】自社流に育つAIの仕組み／属人化はコンビニのポイント問題／3500枚の請求書確認が1週間で完了する
+  ✓ 新着: 【最新解説】イラン物価高騰から反体制デモが全土へ／要因は米経済制裁と失策／リーダーなき運動と旧王政復権の可能性／米・イスラエル軍事介入はあるか／今後の3つのシナリオ
+  ✓ 新着: 【速報予測：高市首相は選挙に勝てるのか？】1月解散予測が的中した理由／高市首相の思惑／勝敗ラインは？／カギ握る公明党／参政と国民は躍進？／寒さの影響／高市総理の選挙戦略／選挙後の勢力地図と株価
+  ✓ 新着: 【アルコール依存症の危険サイン】お酒との上手な付き合い方／市販薬依存の危険：覚醒剤成分を含む薬も／タバコの有害性／酒・タバコの”良い使い方”／精神科医・松本俊彦が語る”身近な薬物”【ビジネス虎の巻】
+  ✓ 新着: 【必見】賢い家電の選び方／頻度が高いものはお金をかけろ#pivot #ピボット #節約  #家電 #お金
+  ✓ 新着: 【核融合エネルギー】本当に実現可能なのか？／そもそも核融合とは？／国の動き／2030年代の発電実証を目指す／核融合エネルギーの期待と課題／今注目される理由／急成長の核融合スタートアップ
+  ✓ 新着: 【徹底解説：世界の防衛産業】５つのレイヤー／ソニー、ブーズも防衛銘柄／ロッキード・マーティンの歴史／収益性低いが、事業は安定／米国の市場シェア５割／ボーイング／BAEシステムズ／ラインメタル
+チャンネルをチェック中 (RSS): TBS CROSS DIG with Bloomberg (言語: en)
+  ✓ 新着: 【英国翻訳ベスト50に日本文学23作品】村上春樹だけじゃない“爆売れ”の正体／次は「ポスト村田沙耶香」を探せ／翻訳家・鴻巣友季子が語る出版市場の“地殻変動”／文豪ではなく“推し”を売り込め【1on1】
+  ✓ 新着: 【立憲・公明「新党」が描く“中道政治”の全貌】高市総理の“解散戦略”に誤算は？／新党の次の狙いは“自民議員の囲い込み”／国民民主・玉木氏の動きで選挙構図が変わる／政治ジャーナリスト星浩【1on1】
+  ✓ 新着: 会社の懇親会が「筋トレ」の時代に？｜#新年会 #懇親会 #筋トレ #ワークアウト #チームビルディング #crossdig
+  ✓ 新着: 【イランの支配者は“山場を越えた”と思っている】中東研究センター長・坂梨祥／死者2500人超「デモ勢い失ったか」／トランプ氏の狙いは“イランの孤立無援”／米国軍事行動で解決する問題ではない【1on1】
+  ✓ 新着: 【嫌われない30代リーダー】部下の心が離れる「1on1」の落とし穴／「帰って大丈夫だよ」は部下を苦しめる／脱・管理職の罰ゲーム化／部下との距離の縮め方／タイプで見抜くソーシャルスタイル診断【1on1】
+  ✓ 新着: Bloombergが予測「2026年 10のサプライズ」｜#人工知能 #ai #ロボタクシー #無人運転 #金融 #経済 #crossdig
+  ✓ 新着: 【“解散”戦略の内実は「守り」か】エコノミスト末廣徹／訴追騒動は「TACO」？／FRB議長 怒りのビデオ声明／円安じりじり“介入水準”／「ややトラス級」日本国債売り【The Priority】
+  ✓ 新着: ドン・キホーテが最大90%オフの店をオープン｜#ドンキホーテ #オフプライスストア #経済 #ビジネス #篠原梨菜 #crossdig
+チャンネルをチェック中 (RSS): 楽待 RAKUMACHI (言語: ja)
+  ✓ 新着: 【新党結成の真相】公明党幹部が立憲・公明合意の裏側＆心中激白／衆院選、自民党の票数に影響も／新党で「立憲民主党の再教育」!?／新党でリベラル弱体化か《伊佐進一×宮崎謙介×須田慎一郎》
+  ✓ 新着: 【日中対立】中国との関係は改善すべきか？
+  ✓ 新着: 【強制執行の実態】東京・杉並区で執行官ら2人刺される、「刃傷沙汰は珍しくない」関係者が明かす実態 #楽待NEWS
+  ✓ 新着: 【日経平均】2026年は7万円突破？
+  ✓ 新着: 【AI相場に変化】NVIDIA一強時代が過ぎたいま、ETFに注目すべき理由／AIは景気サイクルを超越する／2026年も波乱続き？いまこそ知りたい投資のロジック【田中泰輔×松尾英里子】
+  ✓ 新着: 【高市首相、衆院解散へ】自民は「勝敗ライン」単独過半数届く？野党は対応急ぐ！急展開の政局を、国民民主・足立康史＆宮崎謙介＆山本期日前が激論！
+  ✓ 新着: 【衆院解散へ】日経平均株価5万4000円突破／高市首相の本当の思惑／小泉政権・郵政解散と似ている／ドル円一時159円台割れ／個人投資家がとるべき戦略【石丸伸二×田端信太郎×ちょる子】
+  ✓ 新着: 【ベネズエラ攻撃】アメリカ激怒の要因は？
+  ✓ 新着: 【日中関係】最適解は「放っておく」？
+  ✓ 新着: 【トランプの野望】グリーンランドはいずれ米国のもの？
+  ✓ 新着: 【高市相場】衆院解散予測で日経平均5万3000円へ／高市政権の方針で市場どう動く？／「選挙は買い」でいいのか／日銀利上げでもなぜ円安？【田中泰輔×松尾英里子】
+  ✓ 新着: 【台湾有事】屈することなかった「高市早苗首相」
+  ✓ 新着: 【衆議院解散”伝達”】中国は高市政権の今後をどう見る？外国人問題の争点化は？《河合ゆうすけ×近藤大介》
+  ✓ 新着: 【食品添加物】アメリカは日本よりも厳しい？
+チャンネルをチェック中 (RSS): NewsPicks /ニューズピックス (言語: ja)
+  ✓ 新着: 【石丸伸二×平川理恵】学校が大事にすべきこととは？　#TheBOOSTERS #石丸伸二 #平川理恵 #教育 #学校 #公立 #私立 #子育て
+  ✓ 新着: 「働かずに幸せを勝ち取る」AI時代の生存戦略「自然×テクノロジー」で実現する“風の谷”構想とは？ 【安宅和人、落合陽一】
+  ✓ 新着: 【推薦入試】親が介入するほど落ちる？ #newspicks
+  ✓ 新着: 水産の常識が変わる、リージョナルフィッシュ梅川代表の夢
+  ✓ 新着: 【多様性疲れ】日本は10年遅れてる #newspicks
+  ✓ 新着: 【カジサック】イライラするときの対処法は？　#エデュパ #成田修造 #宮村優子  #カジサック #教育 #子育て #育児 #叱り方 #怒り方 #子供
+  ✓ 新着: 「2026年の日本株はどこまで伸びる？」強気相場の根拠はPERと政局...日経6万円が“当たり前“になる前提とは？（馬渕磨理子、伊井哲朗、kenmo、篠田尚子）The UPDATE
+  ✓ 新着: 【受験】失敗しやすい子供とは #newspicks
+  ✓ 新着: 「試合を見るだけじゃない」ジャパネット社長に聞く 長崎スタジアムシティ建設に込めた思いとは/THE HIGHLIGHT
+  ✓ 新着: 【ホリエモン×竹中平蔵 】富裕層増税の影響とは？　#堀江貴文 #ホリエモン #horieone #竹中平蔵 #経済政策  #補正予算  #高市早苗  #高市内閣 #インフレ  #税制改革 #税金
+  ✓ 新着: 【就活のAI利用】コミット重視の採用には使え #newspicks
+  ✓ 新着: 3年で100店舗増 事業成長を加速させるフランチャイズ支援の秘策とは？【NewsPicks/岸博幸/須黒清華/佐々木翔/フリグマ/フランチャイズ/FC/オーナー/加盟店/ビジネス/飲食】
+  ✓ 新着: 【リージョナルフィッシュ】ゲノム編集でしか到達できない夢の魚
+  ✓ 新着: 「バブルがはじけてることが表に出てくる1年になる」マンション価格が４割下がる可能性も？投資のプロが解説する投資で失敗しない法則2026年版【エミン・ユルマズ×滝島一統／加藤浩次】2Sides
+  ✓ 新着: 【教職者の性犯罪】なぜ起こる？ #newspicks
+チャンネルをチェック中 (RSS): 田端大学　投資学部 (言語: ja)
+  ✓ 新着: 高市総理、解散を来週月曜に記者会見で表明へ〜会見内容に注目〜注目株としてアコム、メタプラなどにコメント
+  ✓ 新着: 「いま助けにいく！」トランプがイランへの介入を予告で相場はどうなる？
+  ✓ 新着: 【100万円株バトル】米国株とETFで対決したらどっちが儲かる!?
+  ✓ 新着: 解散ムードで株高円安の高市トレード第2弾くるか！（提供：moomoo証券）
+チャンネルをチェック中 (RSS): Bloomberg Originals (言語: en)
+  ✓ 新着: Christine Lagarde on Why Consensus Isn’t Always the Right Approach
+  ✓ 新着: How Christine Lagarde Can Tell If Someone Is Genuine
+  ✓ 新着: Lagarde Calls Central Bank Independence 'Critically Important'
+チャンネルをチェック中 (RSS): Bg2 Pod (言語: en)
+チャンネルをチェック中 (RSS): Broken Business Models (言語: en)
+チャンネルをチェック中 (RSS): EO Global (言語: en)
+  ✓ 新着: How to Build a Product that Hits PMF on Day 1 | Granola, Christopher Pedregal
+チャンネルをチェック中 (RSS): Lenny's Podcast (言語: en)
+  ✓ 新着: Human skills are the new scarcity in the AI era | Sam Lessin
+  ✓ 新着: The multi-agent system trap
+  ✓ 新着: Why everyone’s confused about evals
+  ✓ 新着: "Pain is the new moat"
+チャンネルをチェック中 (RSS): Nanalyze (言語: en)
+  ✓ 新着: An AI IPO with a $100 Billion Opportunity!
+チャンネルをチェック中 (RSS): The Economist (言語: en)
+  ✓ 新着: How Netanyahu’s rival would end Israel’s war in Gaza
+  ✓ 新着: How Netanyahu’s rival would end the war in Gaza
+  ✓ 新着: Trump’s plan if the Supreme Court blocks tariffs
+  ✓ 新着: Could Donald Trump end Iran's internet blackout?
+  ✓ 新着: How Trump’s Venezuela raid is helping China's Taiwan battle plans
+  ✓ 新着: Why Israel is closely watching the Iran protests
+チャンネルをチェック中 (RSS): The Prof G Pod – Scott Galloway (言語: en)
+  ✓ 新着: Why Big Banks Are Selling-Off | Prof G Markets
+  ✓ 新着: The Iran protests
+  ✓ 新着: Trump’s 25% Iran Tariffs Explained | Prof G Markets
+  ✓ 新着: Inside China’s Voluntary "Fat Prisons"
+  ✓ 新着: Trump vs. the Fed
+  ✓ 新着: Is the U.S. Losing Its “Backyard” to China?
+  ✓ 新着: Why 2026 is Already a NIGHTMARE for China | China Decode
+  ✓ 新着: The DOJ Comes for Jerome Powell | Prof G Markets
+  ✓ 新着: 2026 predictions with Robert Armstrong
+  ✓ 新着: How to Think About Careers, Global Risk, and Teaching Money — ft. Ed Elson & Kyla Scanlon
+  ✓ 新着: The ‘Venezuela side plot’ with Robert Armstrong
+チャンネルをチェック中 (RSS): 文藝春秋PLUS (言語: ja)
+  ✓ 新着: 【イランにアメリカは軍事介入するのか】ベネズエラほど甘くない理由｜軍事介入で起きる国内分裂｜中国の石油20％が止まる｜アブラハム合意の狙い｜MAGA内でも「米は帝国主義」発言が【前嶋和弘×加藤喜之】
+  ✓ 新着: 【ベネズエラ攻撃でトランプ支持率上昇のワケ】攻撃も短期ならOK？｜MAGA＆福音派の反応は｜軍事作戦としては大成功｜中南米が中国から離れる契機に？｜キューバ、コロンビアはどうなる【前嶋和弘×加藤喜之】
+  ✓ 新着: 【「まるでアウトレット」カンボジア詐欺パークと中国マフィアの実態】 #文藝春秋 #文藝春秋plus #安田峰俊 #特殊詐欺 #中国マフィア #習近平 #トクリュウ
+  ✓ 新着: 【「まるでアウトレット」カンボジア詐欺パークと中国マフィアの実態】中国マフィアが目の前で頭を撃ち抜いて…日本人実行犯に直接取材｜「詐欺に必要なのは人間力」？｜日本国内被害額は1000億円超【安田峰俊】
+  ✓ 新着: 【立憲民主党2026年の戦略】高市答弁の弱点｜“アベノミクスの継承”への疑問｜NATO基準の防衛費は正しいのか｜決意なき与党入りに喝｜公明党・国民民主との連携は｜総理になる野望は…【本庄知史×増田剛】
+  ✓ 新着: 黒井文太郎さん×山田敏弘さん ベネズエラの〝次〟はどこだ？
+  ✓ 新着: 【監督業で抱いた「日本芸能界への危機感」】俳優が監督業をやる意味｜「これ何待ち？」の理由が分かる｜コストカットをギャラでやるな｜日本芸能界衰退の理由｜小沢「考古学者になりたい」【小沢仁志×加藤雅也】
+チャンネルをチェック中 (RSS): ダイヤモンド社 THE BOOKS (言語: ja)
+チャンネルをチェック中 (RSS): テレ東BIZ ダイジェスト (言語: ja)
+  ✓ 新着: 認知症最前線！アルツハイマー病が治せる時代到来！？【いまからサイエンス】
+  ✓ 新着: 日中関係が逆風も...BYDの戦略とは【経済記者インサイト】
+  ✓ 新着: 【ライブ配信】ブルベア歌会始2026【金曜3時半のマーケットライブ～BullとBear～】
+  ✓ 新着: 「丸の内の大家」…三菱地所の花形ともいえる「大丸有」事業には携わらず 裏方として静かに実力を磨き続けトップまで上り詰めた社長の葛藤と勇断～三菱地所 中島篤社長～【プレイングマネジャーの勇断 未公開版】
+  ✓ 新着: ベネズエラ攻撃したアメリカの現状！「誰もアメリカを裁けない」国際法の危機！？世界秩序が変わる時【齋藤ジン】「池上彰がいま話を聞きたい30人」
+  ✓ 新着: シャオミが新スマホ端末発売開始　「本社からの期待は高い」
+  ✓ 新着: 米軍カタール基地から一部撤収　イランへ軍事介入の可能性
+  ✓ 新着: 立ち退き強制執行で執行官ら刺され60代男性死亡
+To https://github.com/so1tsuda/summarizer_personal.git
+   1e86f2c..12fc0b0  master -> master
+  ✓ 新着: 住吉会「幸平一家」対策本部を設置 指定暴力団傘下組織に対して初
+  ✓ 新着: 大阪府・大阪市長ダブル選挙の吉村知事・横山市長が会見
+  ✓ 新着: 立憲・公明が党首会談　新党結成し選挙協力
+  ✓ 新着: ブルードリーム 海と森の守り人たち
+  ✓ 新着: 木原官房長官 定例会見【2026年1月15日午後】
+  ✓ 新着: 【記者会見】立憲・公明 新党結成で合意 野田代表が会見【ノーカット】
+  ✓ 新着: 【麻生さんにも事前に伝えず】高市総理“電撃解散”の勝算は？背景には安倍政権の“剛腕官僚”【テレ東政治リポート】
+チャンネルをチェック中 (RSS): 安野貴博の自由研究 (言語: ja)
+チャンネルをチェック中 (RSS): フェルミ漫画大学 (言語: ja)
+  ✓ 新着: 【要約】人望が集まる人の考え方【レス・ギブリン】
+チャンネルをチェック中 (RSS): AIでゆっくり本要約チャンネル (言語: ja)
+チャンネルをチェック中 (RSS): flier 公式チャンネル (言語: ja)
+  ✓ 新着: 【松村邦洋が考察する『豊臣兄弟！』】大河ドラマ×ものまねの歴史／秀長は豊臣家の総合演出／徳川家が爪を噛む理由／竹中直人さんの秀吉ハプニングとは（第1回／全2回）
+  ✓ 新着: 【Z世代は大人の幻想？】会社のハラスメントから見えてくる、社会の歪み／大人になる機会を失う若者達／友達依存・親子依存／採用と人材育成のバランスとれてる？【肉乃小路ニクヨ×舟津昌平】（第2回/全2回）
+チャンネルをチェック中 (RSS): Zeihan on Geopolitics (言語: en)
+  ✓ 新着: Venezuela’s End: Was a Deal Struck? || Peter Zeihan
+  ✓ 新着: Venezuela Offers Trump an Oil Bribe || Peter Zeihan
+  ✓ 新着: Venezuela's End: Next on the Chopping Block || Peter Zeihan
+  ✓ 新着: Trump Sets His Sights on Jerome Powell and the Fed…
+  未処理の動画: 109件
+  ✓ バックログに追加: 1件
+
+📋 現在のバックログ: 300件
+  目標処理数: 3件
+
+
+============================================================
+[1/3] A Ponzi Schemer Freed by Trump Strikes Again
+============================================================
+  字幕優先言語: en
+処理開始: Xq4x6uVNiM4
+  動画情報を取得中...
+  タイトル: A Ponzi Schemer Freed by Trump Strikes Again
+  チャンネル: Bloomberg Originals
+  文字起こしを取得中...
+字幕を取得中 (ID: Xq4x6uVNiM4, 優先言語: en)...
+  手動字幕が見つかりました: English
+  文字起こし完了: 308行
+  文字起こし保存: /home/so1/apps/summarizer_personal/data/transcripts/Xq4x6uVNiM4.json
+  要約を生成中 (Gemini gemini-2.5-flash)...
+  ✓ クリーンアップ済みテキスト保存: /home/so1/apps/summarizer_personal/data/transcripts/Xq4x6uVNiM4_cleaned.txt
+  ✓ 概要欄保存: /home/so1/apps/summarizer_personal/data/transcripts/Xq4x6uVNiM4_description.txt
+  [Gemini gemini-2.5-flash] 要約生成中... (試行 1/3)
+  ✅ 要約完了: 2532文字
+  要約完了: 2532文字
+  要約保存: /home/so1/apps/summarizer_personal/data/summaries/Xq4x6uVNiM4.md
+  状態更新完了
+
+⏳ レート制限対策のため60秒待機...
+
+============================================================
+[2/3] 'Politics Can Be Brutal': Theresa May on Power and Populism | Leaders with Francine Lacqua
+============================================================
+  字幕優先言語: en
+処理開始: WGZJi8c8_ZQ
+  動画情報を取得中...
+  タイトル: 'Politics Can Be Brutal': Theresa May on Power and Populism | Leaders with Francine Lacqua
+  チャンネル: Bloomberg Originals
+  文字起こしを取得中...
+字幕を取得中 (ID: WGZJi8c8_ZQ, 優先言語: en)...
+  手動字幕が見つかりました: English
+  文字起こし完了: 511行
+  文字起こし保存: /home/so1/apps/summarizer_personal/data/transcripts/WGZJi8c8_ZQ.json
+  要約を生成中 (Gemini gemini-2.5-flash)...
+  ✓ クリーンアップ済みテキスト保存: /home/so1/apps/summarizer_personal/data/transcripts/WGZJi8c8_ZQ_cleaned.txt
+  ✓ 概要欄保存: /home/so1/apps/summarizer_personal/data/transcripts/WGZJi8c8_ZQ_description.txt
+  [Gemini gemini-2.5-flash] 要約生成中... (試行 1/3)
+  ✅ 要約完了: 2765文字
+  要約完了: 2765文字
+  要約保存: /home/so1/apps/summarizer_personal/data/summaries/WGZJi8c8_ZQ.md
+  状態更新完了
+
+⏳ レート制限対策のため60秒待機...
+
+============================================================
+[3/3] AI Enterprise - Databricks & Glean | BG2 Guest Interview
+============================================================
+  字幕優先言語: en
+処理開始: jA8ZQfq_Hzs
+  動画情報を取得中...
+  タイトル: AI Enterprise - Databricks & Glean | BG2 Guest Interview
+  チャンネル: Bg2 Pod
+  文字起こしを取得中...
+字幕を取得中 (ID: jA8ZQfq_Hzs, 優先言語: en)...
+  自動字幕が見つかりました: English (auto-generated)
+  文字起こし完了: 1387行
+  文字起こし保存: /home/so1/apps/summarizer_personal/data/transcripts/jA8ZQfq_Hzs.json
+  要約を生成中 (Gemini gemini-2.5-flash)...
+  ✓ クリーンアップ済みテキスト保存: /home/so1/apps/summarizer_personal/data/transcripts/jA8ZQfq_Hzs_cleaned.txt
+  ✓ 概要欄保存: /home/so1/apps/summarizer_personal/data/transcripts/jA8ZQfq_Hzs_description.txt
+  [Gemini gemini-2.5-flash] 要約生成中... (試行 1/3)
+  ✅ 要約完了: 4134文字
+  要約完了: 4134文字
+  要約保存: /home/so1/apps/summarizer_personal/data/summaries/jA8ZQfq_Hzs.md
+  状態更新完了
+
+============================================================
+✅ 処理完了: 3件
+❌ 失敗: 0件
+📋 残りのバックログ: 297件
+============================================================
+
+📤 Gitにコミット&プッシュ中...
+  ✓ Git push 完了
+--- 🚀 Cloudflare Pagesへの自動デプロイを開始 ---
+--- 🛠️  Next.js Build 開始 ---
+
+> summarizer-personal@0.1.0 build
+> next build
+
+ ⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of /home/so1/package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * /home/so1/apps/summarizer_personal/package-lock.json
+
+   ▲ Next.js 15.5.9
+   - Environments: .env
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 4.4s
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/87) ...
+   Generating static pages (21/87) 
+   Generating static pages (43/87) 
+   Generating static pages (65/87) 
+ ✓ Generating static pages (87/87)
+   Finalizing page optimization ...
+   Collecting build traces ...
+   Exporting (0/2) ...
+ ✓ Exporting (2/2)
+
+Route (app)                                 Size  First Load JS
+┌ ○ /                                    4.59 kB         107 kB
+├ ○ /_not-found                            990 B         103 kB
+└ ● /article/[slug]                        742 B         103 kB
+    ├ /article/-NFqv6mTiPM
+    ├ /article/-NsJVdk4_ik
+    ├ /article/-gjnrMg9iSo
+    └ [+80 more paths]
++ First Load JS shared by all             102 kB
+  ├ chunks/255-bc8b3b9a93d25a64.js         46 kB
+  ├ chunks/4bd1b696-c023c6e3521b1417.js  54.2 kB
+  └ other shared chunks (total)          1.93 kB
+
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses generateStaticParams)
+
+--- 🚀 Cloudflare Pagesへデプロイ ---
+Need to install the following packages:
+wrangler@4.59.2
+Ok to proceed? (y) 
+
+ ⛅️ wrangler 4.59.2
+───────────────────
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mWarning: Your working directory is a git repo and has uncommitted changes[0m
+
+  To silence this warning, pass in --commit-dirty=true
+
+
+Uploading... (15/186)
+Uploading... (72/186)
+Uploading... (129/186)
+Uploading... (186/186)
+✨ Success! Uploaded 171 files (15 already uploaded) (24.77 sec)
+
+🌎 Deploying...
+✨ Deployment complete! Take a peek over at https://9acb0e58.summarizer-personal.pages.dev
+--- ✅ デプロイ完了 ---
+=== Cron Update Finished: Thu Jan 15 23:34:13 JST 2026 (Exit: 0) ===

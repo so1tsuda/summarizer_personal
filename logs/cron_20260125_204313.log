@@ -1,0 +1,156 @@
+=== Cron Update Started: Sun Jan 25 20:43:13 JST 2026 ===
+--- .envファイルを読み込み中 ---
+Using provider: kilocode
+プロバイダー: kilocode
+モード: 文字起こし・概要欄保存のみ（LLM要約はKilo Code CLIで別途処理）
+
+=== RSS経由 バックログ処理 ===
+チャンネル数: 17
+モデル: gemini-2.5-flash
+テンプレート: blog_article
+
+📡 RSSフィードから新着動画を取得中...
+チャンネルをチェック中 (RSS): PIVOT 公式チャンネル (言語: ja)
+  ✓ 新着: 【メンタルは鍛えられる技術】ホークスの影の立役者／野村勇を覚醒させた手法／管理者モード思考は悪／日本人の真面目さの罠／ビジネス・教育でも応用／視覚系・リズム系・体感覚系／【BASEBALL】
+  ✓ 新着: 【美容師経験ゼロで50店舗以上経営】1号店を海外からスタート/「逆算経営」とは？/オンデーズ田中会長と語る超レッドオーシャンの戦い方/狙うは美容の「インバウンドコンテンツ化」
+  ✓ 新着: 【資本主義の限界】なぜ資本主義は成長を止められないのか／増税・インフレ激化・不動産高騰の未来／「脱成長」は現実的に可能なのか？／脱成長社会での企業とマネーの価値【PIVOT ECONOMY】
+  ✓ 新着: 【徹底解説60分：松本清張】貧困と学歴差別／戦争体験と庶民感覚／41歳遅咲き／メディアミックスの先駆／英国でブーム／長者番付トップ12回／大量生産の秘訣／遺作と新興宗教時代／副業と挑戦心／おすすめ作品
+  ✓ 新着: 【DIGEST】夫婦にありがちな４つの勘違い／妻が我慢している本音と建前／価値観の違いは治していくもの／熟年離婚が始まる瞬間
+  ✓ 新着: 【プロ仕様 鬼の体幹トレーニング】なぜ体幹トレーニングが必要なのか？／プランクでは作れない真の体作り／クランチ／ツイストタッチ／ホバーニーレイズ／チューブサイドウォーク【BODY SKILL SET】
+  ✓ 新着: 【必見】科学的に見たサウナの正しい入り方
+  ✓ 新着: 【日本のスター選手はメジャーで活躍できるのか？】ホームラン王・村上宗隆／巨人の4番・岡本和真／圧倒的な奪三振能力・今井達也／契約金ランキング／代理人交渉の指標【PIVOT BASEBALL】
+  ⏳ 次のチャンネルまで待機中... (3.3s)
+チャンネルをチェック中 (RSS): TBS CROSS DIG with Bloomberg (言語: en)
+  ✓ 新着: 【“物価”出ずる国ニッポン】インフレ率は“欧米超え”／止まらぬ物価高も…実質賃金はマイナス／広がる財政悪化への懸念／公的債務は先進国で最大／異次元緩和・コロナ禍・ウクライナ侵攻の“副作用”
+  ✓ 新着: 【後悔しない生き方】小説家・綿矢りさ／自分の価値観を守る方法「欲望のまま生きる」／生きづらさは「心の呪い」／小説に学ぶ”俯瞰力”の正体／恋と愛の違い／生身の熱狂で人生の主人公に【FUTURECARD】
+  ⏳ 次のチャンネルまで待機中... (3.7s)
+チャンネルをチェック中 (RSS): 楽待 RAKUMACHI (言語: ja)
+  ✓ 新着: 【衆院選2026】与党大勝なら日経平均7万円へ／日本に「保守ナショナリズム革命」が必要な理由／日中関係悪化は高市政権に追い風《武者陵司／前編》
+  ✓ 新着: 【外国人問題】客引きに後ろから殴られる？
+  ✓ 新着: 【朝倉慶×佐田志歩】インフレ×円安で「日経平均7万円台」へ／株しか資産を守れない時代へ突入!?／日銀利上げの限界とは《楽待公式切り抜き》
+  ✓ 新着: 【ゴールドで見る日経平均】「日本円の価値」が減価？
+  ✓ 新着: 【株高不況】2026年は景気が良くない⁉︎
+  ✓ 新着: 【米中露】世界秩序崩壊の足音…裏に“大国の野望”／高市政権の外交評価と衆院選後の安全保障の行方《小原凡司×小泉悠×吉永ケンジ》
+  ✓ 新着: 【上げ相場の参入術】初心者は"段階買い"でリスク回避せよ
+  ✓ 新着: 【衆院選】議席予想を大公開！自民党に追い風？中道改革連合に逆風？高市人気の影響は／参政党が議席を拡大？／注目は共産党【松田馨×山本期日前×宮崎謙介】《楽待公式切り抜き》
+  ✓ 新着: 【戦後初】高市首相が述べた「選挙公約」とは
+  ✓ 新着: 【佐田志歩】株に向いていない人代表として伝えたいこと
+  ✓ 新着: 【大家力向上】現場で差がつく！キャッシュフローを上げる実践テク3選
+  ⏳ 次のチャンネルまで待機中... (3.7s)
+チャンネルをチェック中 (RSS): NewsPicks /ニューズピックス (言語: ja)
+  ✓ 新着: 【坂上忍が呑む！】日本酒は二級が旨い！立川談志、大滝秀治、児玉清…著名人が愛した江戸前天丼
+  ✓ 新着: 日本が”絶対に負けてはいけない”半導体の領域とは？世界最先端の研究所に潜入【平井理央/成田修造/森野彰規/DIC/NewsPicks/回路/素材/覇権/投資/株】
+  ✓ 新着: 【最後のマンション】手が届くタワマン「ラスト2棟」争奪戦が異常事態｜NPレポート
+  ✓ 新着: 【AI天才が断言】若手の仕事、もうすぐ半分が消失します（Google/Anthropic/OpenAI/ダボス会議/デミス・ハサビス/アモデイ/サム・アルトマン/解説：森川潤、後藤直義）
+  ⏳ 次のチャンネルまで待機中... (4.3s)
+チャンネルをチェック中 (RSS): 田端大学　投資学部 (言語: ja)
+  ✓ 新着: 「天才投資家」井村さんとfundnoteがケンカ別れしそうな件を解説します。関連銘柄は解約売りに注意！井村ファンドの投資家はどうなる？ぜひ、両者は「大人の対応」を！
+  ⏳ 次のチャンネルまで待機中... (3.9s)
+チャンネルをチェック中 (RSS): Bloomberg Originals (言語: en)
+  ⏳ 次のチャンネルまで待機中... (4.1s)
+チャンネルをチェック中 (RSS): Financial Times (言語: en)
+  ✓ 新着: Google DeepMind chief warns AI investment looks ‘bubble-like’ | FT Interview
+  ⏳ 次のチャンネルまで待機中... (4.2s)
+チャンネルをチェック中 (RSS): Nanalyze (言語: en)
+  ✓ 新着: Serial Entrepreneur Red Flags! 🚩 Stock Plummets 83% 📉
+  ✓ 新着: The Best Pharma Stock I’ve Ever Seen
+  ✓ 新着: AI Drug Discovery 🔬: Recursion's Future Path  🚀
+  ✓ 新着: AI Drug Discovery 🚩Red Flags & Better Bets  🔍
+  ⏳ 次のチャンネルまで待機中... (4.1s)
+チャンネルをチェック中 (RSS): The Economist (言語: en)
+  ✓ 新着: Is this how the Western alliance dies?
+  ✓ 新着: Could this be the end of the West as we know it?
+  ✓ 新着: Jamie Dimon calls Trump credit-card cap a “disaster”
+  ✓ 新着: Islamic State prisoners have escaped in Syria
+  ✓ 新着: Jamie Dimon on whether CEOs are afraid of Trump
+  ✓ 新着: Ken Griffin on Trump’s economic policy
+  ⏳ 次のチャンネルまで待機中... (4.9s)
+チャンネルをチェック中 (RSS): The Prof G Pod – Scott Galloway (言語: en)
+  ✓ 新着: Goldman Sachs CEO on AI bubble worries
+  ✓ 新着: NYC Mayor Mamdani, The Issue of Key-Person Risk, & More | Office Hours
+  ✓ 新着: Major U.S debt concerns from Goldman Sachs CEO
+  ✓ 新着: China's birth rate hits new record low
+  ✓ 新着: The framework deal that stopped Trump's tariffs
+  ⏳ 次のチャンネルまで待機中... (2.0s)
+チャンネルをチェック中 (RSS): 文藝春秋PLUS 公式チャンネル (言語: ja)
+  ✓ 新着: 【参政党・神谷宗幣が「保守ともリベラルとも組める」理由】参政党の躍進が高市政権発足に繋がった｜アメリカとも中露とも対話すべき｜靖国参拝と夫婦別姓の“矛盾”｜「参政党に票が流れる」説への苦言【與那覇潤】
+  ✓ 新着: 【再犯、反省ゼロ…女子高校生コンクリ事件「加害者を追って」】加害者の共通点とは｜主犯格が築いた疑似家族｜加害者の母は「他人事」｜刑務所と少年院「なぜ更生に差が」｜厳罰化が再犯を防ぐのか【山﨑裕侍】
+  ✓ 新着: 【トランプ資源獲得「真の狙い」】ベネズエラ攻撃＝石油狙いは短絡的｜「GDP成長率50％」アメリカが注目する“新興産油国”｜中東の混乱＝石油危機の誤解｜グリーンランド要求の目的は資源ではない【大場紀章】
+  ✓ 新着: 【“元公安警察”作家が解説・日本は今もスパイ天国】「台湾有事」発言後、中国の認知工作は激しくなっている？｜「スパイ防止法」は必要だ｜国家情報局創設「高市さんは何もわかっていない」【濱嘉之】
+  ⏳ 次のチャンネルまで待機中... (3.8s)
+チャンネルをチェック中 (RSS): ダイヤモンド社 THE BOOKS (言語: ja)
+  ✓ 新着: 【部下との対話の失敗例】「思いやり」と「尊重」の違い／リーダーはどう動くべきか／アドラー心理学に学ぶ「課題の分離」とは【古賀史健・安達裕哉】【集団浅慮】
+  ⏳ 次のチャンネルまで待機中... (4.5s)
+チャンネルをチェック中 (RSS): テレ東BIZ ダイジェスト (言語: ja)
+  ✓ 新着: 段ボール製ドローンで挑む防衛産業の「壁」【ブレイクスルー未公開版】
+  ✓ 新着: 1機30万円の段ボール製ドローンで防衛産業を変革!?【ブレイクスルー】
+  ✓ 新着: 大阪市長選挙きょう告示 「大阪都構想」への3度目の挑戦の是非が争点か
+  ✓ 新着: トランプ大統領、中国との貿易協定締結でカナダに100％の関税警告
+  ✓ 新着: 米露ウクライナ、侵攻後初の協議　領土問題で進展なし
+  ✓ 新着: 米・ミネアポリスで連邦職員が男性を発砲し死亡
+  ✓ 新着: 上野動物園の双子パンダ　最終観覧日迎え多くのファンが別れ惜しむ
+  ✓ 新着: 【独占取材】日本の新幹線をインドへ！運転士訓練に密着　新幹線輸出を解説【小川知美の経済掘りおこし】
+  ✓ 新着: 【減税では経済成長しない】政策研究大学院大学 教授　竹中 治堅【日曜サロン】
+  ✓ 新着: イラン揺さぶるアメリカ～天秤にかけられた核開発と制裁解除／イスラエルが仕掛ける情報戦【池畑修平の国際ニュースCORE】
+  ✓ 新着: 【番組リニューアル】都心に“ヒルズ”続々！「東京を世界一の都市にする」森ビル独自の戦略【カンブリア宮殿】＜傑作選＞
+  ✓ 新着: 黒星スタートの藤井六冠巻き返しなるか 王将戦第2局開始
+  ✓ 新着: 米国防戦略公表 同盟国に防衛支出などGDP比5％提唱 対中国は対話拡充の方針
+  ✓ 新着: 衆院選向け「ローン・オフェンダー」対策含む警戒警備を徹底へ 選挙違反取り締まりも強化
+  ✓ 新着: トランプ氏のNATO部隊巡る発言に英首相反発「私だったら謝罪する」
+  ⏳ 次のチャンネルまで待機中... (4.8s)
+チャンネルをチェック中 (RSS): フェルミ漫画大学 (言語: ja)
+  ✓ 新着: 【要約】幸福について―人生論【ショーペンハウアー】
+  ⏳ 次のチャンネルまで待機中... (2.3s)
+チャンネルをチェック中 (RSS): AIでゆっくり本要約チャンネル (言語: ja)
+  ✓ 新着: 【99%が知らない】『サイコロジー・オブ・マネー』×続編『アート・オブ・スペンディングマネー』──2冊統合して見えた「増やすだけでは破滅する理由」
+  ⏳ 次のチャンネルまで待機中... (4.2s)
+チャンネルをチェック中 (RSS): flier 公式チャンネル (言語: ja)
+  ✓ 新着: 【トップの極意】「待ち受け画面」にヒントがある／人生も営業成績も「習慣」がすべて／トップセールスは「クロージング」前に●●をする／営業の肝は「タライの法則」／忘れられない人になる秘訣
+  ✓ 新着: 【トップセールス直伝】外資系生命保険23年トップ／トップセールスは「手土産を2つ」持っていく／「目標達成」にどこまで本気でいられるか？／「記憶に残る人」はどこが違うのか？
+  ⏳ 次のチャンネルまで待機中... (4.6s)
+チャンネルをチェック中 (RSS): Zeihan on Geopolitics (言語: en)
+  ✓ 新着: Good Luck, Texas (Prepare for the Cold Front) || Peter Zeihan
+  ✓ 新着: Lessons From Japan's Demographic Collapse || Peter Zeihan
+  未処理の動画: 68件
+  ✓ バックログに追加: 43件
+
+📋 現在のバックログ: 82件
+  目標処理数: 10件
+
+
+============================================================
+[1/10] 【言語化プレッシャーの正体】“言語化強者”がトクする社会／ゆる言語学ラジオ・水野太貴／「スラスラ喋れない＝無能」はウソ／0.2秒で理解“会話は奇跡”／「あのー」や「えーと」には意味がある【1on1】
+============================================================
+⏳ IPバン対策のため 40秒待機してから開始します...
+  字幕優先言語: en
+処理開始: VoNvml2-AHc
+  動画情報を取得中...
+  タイトル: 【言語化プレッシャーの正体】“言語化強者”がトクする社会／ゆる言語学ラジオ・水野太貴／「スラスラ喋れない＝無能」はウソ／0.2秒で理解“会話は奇跡”／「あのー」や「えーと」には意味がある【1on1】
+  チャンネル: TBS CROSS DIG with Bloomberg
+  文字起こしを取得中...
+字幕を取得中 (ID: VoNvml2-AHc)...
+  自動字幕が見つかりました: Japanese (auto-generated)
+文字起こしの取得に失敗しました: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=VoNvml2-AHc! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+❌ 処理失敗: 文字起こしが取得できませんでした
+
+============================================================
+[1/10] 【高市総理は“悲願”宣言も置き去りの「財源論」】エコノミスト・末廣徹／与野党が“消費減税”の大合唱／市場では長期金利が急騰／日銀の追加利上げの“追い風”に？【The Priority】
+============================================================
+⏳ IPバン対策のため 33秒待機してから開始します...
+  字幕優先言語: en
+処理開始: _eJV2SUR2bE
+  動画情報を取得中...
+  タイトル: 【高市総理は“悲願”宣言も置き去りの「財源論」】エコノミスト・末廣徹／与野党が“消費減税”の大合唱／市場では長期金利が急騰／日銀の追加利上げの“追い風”に？【The Priority】
+  チャンネル: TBS CROSS DIG with Bloomberg
+  文字起こしを取得中...
+字幕を取得中 (ID: _eJV2SUR2bE)...
