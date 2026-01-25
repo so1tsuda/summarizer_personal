@@ -111,7 +111,7 @@ process_file() {
         sleep "$delay"
 
         # IDがハイフンで始まる場合でも正しく渡すために -- を使用
-        if uv run python3 scripts/process_video.py --provider kilocode -- "$video_id" > /dev/null 2>&1; then
+        if uv run python3 scripts/process_video.py --provider kilocode -- "$video_id"; then
             echo "  ✅ 概要欄を取得しました。"
         else
             echo "  ❌ 概要欄の取得に失敗しました。video_id: $video_id"
@@ -134,7 +134,7 @@ process_file() {
         if [[ ! -f "$transcript_file" ]]; then
              # ここに来る場合は process_video.py --provider kilocode を再度呼ぶ
              # (概要欄取得時に呼ばれているはずだが、transcriptがない場合)
-             uv run python3 scripts/process_video.py --provider kilocode -- "$video_id" > /dev/null 2>&1
+             uv run python3 scripts/process_video.py --provider kilocode -- "$video_id"
         fi
 
         if [[ ! -f "$transcript_file" ]]; then
@@ -170,7 +170,7 @@ process_file() {
             echo "  [dry-run] Geminiを実行予定: uv run python3 scripts/process_video.py --provider gemini -- \"$video_id\""
         else
             echo "  Geminiで要約を実行中..."
-            if uv run python3 scripts/process_video.py --provider gemini -- "$video_id" > /dev/null 2>&1; then
+            if uv run python3 scripts/process_video.py --provider gemini -- "$video_id"; then
                 echo "  ✓ Geminiでの要約が完了しました: $output_file"
             else
                 echo "  ❌ Geminiでの要約に失敗しました。"
@@ -189,7 +189,7 @@ process_file() {
             # kilocode実行時にエラー（政治的制限など）が出た場合のフォールバック
             if ! eval "$cmd"; then
                 echo "  ⚠️ Kilocodeでエラーが発生しました。Geminiでのフォールバックを試みます..."
-                if uv run python3 scripts/process_video.py --provider gemini -- "$video_id" > /dev/null 2>&1; then
+                if uv run python3 scripts/process_video.py --provider gemini -- "$video_id"; then
                     echo "  ✓ フォールバックによりGeminiで完了しました: $output_file"
                 else
                     echo "  ❌ フォールバック実行も失敗しました。"
@@ -252,7 +252,7 @@ elif $PROCESS_BACKLOG; then
     echo "=== バックログから動画を取得中 (制限: $LIMIT) ==="
     
     # 処理済み動画を一度クリーンアップ
-    python3 scripts/manage_backlog.py --clean > /dev/null 2>&1
+    python3 scripts/manage_backlog.py --clean
 
     # jq を使って video_id を取得。
     video_ids=($(jq -r ".queue[0:$LIMIT] | .[].video_id" "$BACKLOG_FILE"))
