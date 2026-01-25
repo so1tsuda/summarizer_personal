@@ -10,6 +10,7 @@ import os
 import sys
 import json
 import argparse
+import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Dict, List
@@ -162,6 +163,59 @@ def remove_from_backlog(backlog: Dict, video_id: str) -> bool:
     return len(backlog['queue']) < q_len or len(backlog['failed']) < f_len
 
 
+def parse_duration(duration_str: str) -> int:
+    """ISO 8601 形式の期間（PT1M30S など）を秒数に変換"""
+    match = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', duration_str)
+    if not match:
+        return 0
+    hours = int(match.group(1)) if match.group(1) else 0
+    minutes = int(match.group(2)) if match.group(2) else 0
+    seconds = int(match.group(3)) if match.group(3) else 0
+    return hours * 3600 + minutes * 60 + seconds
+
+
+def filter_backlog_by_duration(youtube, backlog: Dict, min_duration_seconds: int) -> int:
+    """YouTube API を使用して、指定された秒数より短い動画をキューから削除"""
+    queue = backlog.get('queue', [])
+    if not queue:
+        return 0
+
+    video_ids = [v['video_id'] for v in queue]
+    total_removed = 0
+    new_queue = []
+    
+    # 50件ずつバッチ処理
+    for i in range(0, len(video_ids), 50):
+        batch_ids = video_ids[i:i+50]
+        batch_videos = {v['video_id']: v for v in queue[i:i+50]}
+        
+        try:
+            response = youtube.videos().list(
+                part='contentDetails',
+                id=','.join(batch_ids)
+            ).execute()
+            
+            durations = {item['id']: parse_duration(item['contentDetails']['duration']) 
+                         for item in response.get('items', [])}
+            
+            for vid in batch_ids:
+                duration = durations.get(vid, 0)
+                if duration >= min_duration_seconds:
+                    new_queue.append(batch_videos[vid])
+                else:
+                    print(f"  × 削除 (短い動画: {duration}秒): {batch_videos[vid]['title']}")
+                    total_removed += 1
+                    
+        except Exception as e:
+            print(f"バッチ処理中にエラーが発生しました: {e}")
+            # エラーの場合は安全のため保持する
+            for vid in batch_ids:
+                new_queue.append(batch_videos[vid])
+
+    backlog['queue'] = new_queue
+    return total_removed
+
+
 def clean_backlog(backlog: Dict, state: Dict, summaries_dir: Path) -> int:
     """処理済み動画（state入り、または要約ファイル存在）をバックログから削除"""
     processed_ids = set(state.get('processed_videos', {}).keys())
@@ -187,6 +241,7 @@ def main():
     parser.add_argument("--add", metavar="VIDEO_ID", help="動画を手動で追加")
     parser.add_argument("--remove", metavar="VIDEO_ID", help="動画をバックログから削除")
     parser.add_argument("--clean", action="store_true", help="処理済み動画をバックログから一括削除")
+    parser.add_argument("--filter-duration", type=int, default=600, help="指定された秒数（デフォルト600秒/10分）未満の動画を削除")
     parser.add_argument("--import-channel", metavar="CHANNEL_ID", help="チャンネルの過去動画をインポート")
     parser.add_argument("--days", type=int, default=30, help="インポート期間（日）")
     parser.add_argument("--retry-failed", action="store_true", help="失敗リストをキューに戻す")
@@ -224,6 +279,29 @@ def main():
         summaries_dir = project_root / "data" / "summaries"
         removed = clean_backlog(backlog, state, summaries_dir)
         print(f"✓ {removed}件の処理済み動画をバックログから削除しました")
+        save_backlog(backlog_path, backlog)
+        return 0
+
+    elif args.filter_duration:
+        # YouTube API初期化用
+        try:
+            from dotenv import load_dotenv
+            env_path = project_root / ".env"
+            if env_path.exists():
+                load_dotenv(env_path)
+        except ImportError:
+            pass
+        
+        youtube_api_key = os.getenv("YOUTUBE_API_KEY")
+        if not youtube_api_key:
+            print("エラー: YouTube API キーが設定されていません")
+            return 1
+            
+        youtube = build('youtube', 'v3', developerKey=youtube_api_key)
+        
+        print(f"=== {args.filter_duration}秒（{args.filter_duration/60:.1f}分）未満の動画をフィルタリング中 ===")
+        removed = filter_backlog_by_duration(youtube, backlog, args.filter_duration)
+        print(f"✓ {removed}件の短い動画をバックログから削除しました")
         save_backlog(backlog_path, backlog)
         return 0
 
