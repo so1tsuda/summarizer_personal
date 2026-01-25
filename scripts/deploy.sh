@@ -18,6 +18,6 @@ npm run build
 
 echo "--- 🚀 Cloudflare Pagesへデプロイ ---"
 # wrangler.jsonの設定を使用してデプロイ
-npx wrangler pages deploy out
+npx -y wrangler pages deploy out
 
 echo "--- ✅ デプロイ完了 ---"
