@@ -68,6 +68,12 @@ def fetch_rss_videos(
             # video_id は yt:video_id タグから取得
             video_id = entry.yt_videoid if hasattr(entry, 'yt_videoid') else entry.id.split(':')[-1]
             
+            # ハッシュタグをチェック（ショート動画除外）
+            if '#' in entry.title:
+                # ログを出すと多すぎる可能性があるので、ここでは含めず fetch_all_rss_videos 側で制御するか検討
+                # 今回は単にスキップ
+                continue
+
             videos.append({
                 'video_id': video_id,
                 'title': entry.title,
