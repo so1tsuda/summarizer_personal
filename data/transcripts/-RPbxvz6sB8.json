@@ -1,0 +1,2931 @@
+{
+  "video_id": "-RPbxvz6sB8",
+  "title": "Google DeepMind chief warns AI investment looks ‘bubble-like’ | FT Interview",
+  "channel": "Financial Times",
+  "published_at": "2026-01-24T09:09:45Z",
+  "duration": "PT20M22S",
+  "thumbnail": "https://i.ytimg.com/vi/-RPbxvz6sB8/hqdefault.jpg",
+  "fetched_at": "2026-01-30T20:51:03.733085",
+  "transcript": [
+    {
+      "start": 0.08,
+      "duration": 4.96,
+      "text": "Dennis, Google launched its most"
+    },
+    {
+      "start": 2.399,
+      "duration": 4.721,
+      "text": "powerful model, Gemini 3, just just a"
+    },
+    {
+      "start": 5.04,
+      "duration": 5.84,
+      "text": "few months ago. It was received with a"
+    },
+    {
+      "start": 7.12,
+      "duration": 6.559,
+      "text": "lot of excitement. Where do you think um"
+    },
+    {
+      "start": 10.88,
+      "duration": 3.839,
+      "text": "Google is right now on the on the AI"
+    },
+    {
+      "start": 13.679,
+      "duration": 2.881,
+      "text": "race?"
+    },
+    {
+      "start": 14.719,
+      "duration": 3.041,
+      "text": ">> Well, we're we're we're very happy, as"
+    },
+    {
+      "start": 16.56,
+      "duration": 3.84,
+      "text": "you say, with the last model we"
+    },
+    {
+      "start": 17.76,
+      "duration": 4.24,
+      "text": "released, Gemini 3. Uh it's topping, you"
+    },
+    {
+      "start": 20.4,
+      "duration": 4.0,
+      "text": "know, pretty much all the leaderboards."
+    },
+    {
+      "start": 22.0,
+      "duration": 4.48,
+      "text": "So, it's a great model. Uh feedback's"
+    },
+    {
+      "start": 24.4,
+      "duration": 4.24,
+      "text": "been great from our users and and and"
+    },
+    {
+      "start": 26.48,
+      "duration": 4.16,
+      "text": "enterprise customers. Um but I think"
+    },
+    {
+      "start": 28.64,
+      "duration": 4.56,
+      "text": "overall we have had a really good year"
+    },
+    {
+      "start": 30.64,
+      "duration": 4.079,
+      "text": "last year when we look back on it. Um I"
+    },
+    {
+      "start": 33.2,
+      "duration": 3.199,
+      "text": "think the trajectory of progress we've"
+    },
+    {
+      "start": 34.719,
+      "duration": 3.921,
+      "text": "been making is the fastest of anyone in"
+    },
+    {
+      "start": 36.399,
+      "duration": 4.32,
+      "text": "the industry. If you look at uh you know"
+    },
+    {
+      "start": 38.64,
+      "duration": 4.16,
+      "text": "Gemini 2.5 the previous version that we"
+    },
+    {
+      "start": 40.719,
+      "duration": 4.0,
+      "text": "released in April May last year that was"
+    },
+    {
+      "start": 42.8,
+      "duration": 4.0,
+      "text": "already becoming very competitive I"
+    },
+    {
+      "start": 44.719,
+      "duration": 3.761,
+      "text": "think at the at the top of the uh at the"
+    },
+    {
+      "start": 46.8,
+      "duration": 3.68,
+      "text": "frontier. Uh and then I think we"
+    },
+    {
+      "start": 48.48,
+      "duration": 4.0,
+      "text": "cemented that with Gemini 3. But of"
+    },
+    {
+      "start": 50.48,
+      "duration": 4.239,
+      "text": "course it's a ferocious intense"
+    },
+    {
+      "start": 52.48,
+      "duration": 4.239,
+      "text": "competition as you know and um"
+    },
+    {
+      "start": 54.719,
+      "duration": 3.441,
+      "text": "everyone's pushing uh as hard as they"
+    },
+    {
+      "start": 56.719,
+      "duration": 2.721,
+      "text": "can and we've got to make sure we"
+    },
+    {
+      "start": 58.16,
+      "duration": 5.12,
+      "text": "deliver this year too. It"
+    },
+    {
+      "start": 59.44,
+      "duration": 4.64,
+      "text": ">> is it why um Sam Alman declared uh code"
+    },
+    {
+      "start": 63.28,
+      "duration": 2.48,
+      "text": "red?"
+    },
+    {
+      "start": 64.08,
+      "duration": 3.6,
+      "text": ">> Well, apparently that's what what was"
+    },
+    {
+      "start": 65.76,
+      "duration": 3.039,
+      "text": "being reported and uh"
+    },
+    {
+      "start": 67.68,
+      "duration": 3.119,
+      "text": ">> how do you feel about it?"
+    },
+    {
+      "start": 68.799,
+      "duration": 4.721,
+      "text": ">> Uh you know it's it's fine. we just"
+    },
+    {
+      "start": 70.799,
+      "duration": 4.64,
+      "text": "focus on ourselves that uh that and and"
+    },
+    {
+      "start": 73.52,
+      "duration": 3.44,
+      "text": "I think that's uh what we got to do is"
+    },
+    {
+      "start": 75.439,
+      "duration": 4.081,
+      "text": "kind of block out the noise and just"
+    },
+    {
+      "start": 76.96,
+      "duration": 4.64,
+      "text": "execute uh focus on the quality of our"
+    },
+    {
+      "start": 79.52,
+      "duration": 4.32,
+      "text": "research and then making sure we're"
+    },
+    {
+      "start": 81.6,
+      "duration": 4.4,
+      "text": "shipping that quality fast enough into"
+    },
+    {
+      "start": 83.84,
+      "duration": 4.0,
+      "text": "our product surfaces and I think that's"
+    },
+    {
+      "start": 86.0,
+      "duration": 4.159,
+      "text": "what you've seen with the like our share"
+    },
+    {
+      "start": 87.84,
+      "duration": 4.639,
+      "text": "of the chatbot space with the Gemini app"
+    },
+    {
+      "start": 90.159,
+      "duration": 4.96,
+      "text": "has gone up um you know 650 million"
+    },
+    {
+      "start": 92.479,
+      "duration": 4.401,
+      "text": "monthly users now and then uh you know"
+    },
+    {
+      "start": 95.119,
+      "duration": 3.281,
+      "text": "things like AI overview 2 billion users"
+    },
+    {
+      "start": 96.88,
+      "duration": 3.279,
+      "text": "I think it's the most used AI product in"
+    },
+    {
+      "start": 98.4,
+      "duration": 3.44,
+      "text": "the world so we're really proud and"
+    },
+    {
+      "start": 100.159,
+      "duration": 3.121,
+      "text": "pleased with how that's going, but I"
+    },
+    {
+      "start": 101.84,
+      "duration": 3.44,
+      "text": "think we're just scratching the surface"
+    },
+    {
+      "start": 103.28,
+      "duration": 3.36,
+      "text": "of what we can really do when we when"
+    },
+    {
+      "start": 105.28,
+      "duration": 3.36,
+      "text": "we're fully in our groove"
+    },
+    {
+      "start": 106.64,
+      "duration": 5.519,
+      "text": ">> and and we're we're going to get to to"
+    },
+    {
+      "start": 108.64,
+      "duration": 6.159,
+      "text": "that. But when you look at the industry,"
+    },
+    {
+      "start": 112.159,
+      "duration": 4.081,
+      "text": "what do you think rivals are doing best?"
+    },
+    {
+      "start": 114.799,
+      "duration": 2.561,
+      "text": "What do you think is really interesting"
+    },
+    {
+      "start": 116.24,
+      "duration": 3.839,
+      "text": "right now?"
+    },
+    {
+      "start": 117.36,
+      "duration": 4.48,
+      "text": ">> Well, I think um what Anthropic's doing"
+    },
+    {
+      "start": 120.079,
+      "duration": 3.441,
+      "text": "with code is very interesting with their"
+    },
+    {
+      "start": 121.84,
+      "duration": 3.68,
+      "text": "claw code. There's a lot of excitement"
+    },
+    {
+      "start": 123.52,
+      "duration": 3.44,
+      "text": "around that in the developer market."
+    },
+    {
+      "start": 125.52,
+      "duration": 3.2,
+      "text": "We're pleased with the the performance"
+    },
+    {
+      "start": 126.96,
+      "duration": 3.6,
+      "text": "of Gemini 3, but they've done something"
+    },
+    {
+      "start": 128.72,
+      "duration": 3.12,
+      "text": "special there. I think other than that,"
+    },
+    {
+      "start": 130.56,
+      "duration": 3.679,
+      "text": "I'm I'm very excited about the stuff"
+    },
+    {
+      "start": 131.84,
+      "duration": 3.52,
+      "text": "that we're doing on multimodal. I feel"
+    },
+    {
+      "start": 134.239,
+      "duration": 1.921,
+      "text": "like um"
+    },
+    {
+      "start": 135.36,
+      "duration": 3.519,
+      "text": ">> do you want to explain that?"
+    },
+    {
+      "start": 136.16,
+      "duration": 4.079,
+      "text": ">> Yes. Multimodal being uh Gemini from the"
+    },
+    {
+      "start": 138.879,
+      "duration": 2.961,
+      "text": "beginning has been multimodal. And by"
+    },
+    {
+      "start": 140.239,
+      "duration": 3.601,
+      "text": "that I mean being able to deal with more"
+    },
+    {
+      "start": 141.84,
+      "duration": 5.119,
+      "text": "than just language and text, but"
+    },
+    {
+      "start": 143.84,
+      "duration": 5.759,
+      "text": "actually image, video, audio as a native"
+    },
+    {
+      "start": 146.959,
+      "duration": 3.761,
+      "text": "input and output. And um and we're"
+    },
+    {
+      "start": 149.599,
+      "duration": 2.401,
+      "text": "bringing that all together. That's"
+    },
+    {
+      "start": 150.72,
+      "duration": 2.48,
+      "text": "always been our strength. And the reason"
+    },
+    {
+      "start": 152.0,
+      "duration": 3.04,
+      "text": "we want to do that, and I think that's"
+    },
+    {
+      "start": 153.2,
+      "duration": 4.08,
+      "text": "what I'm excited about this year, is"
+    },
+    {
+      "start": 155.04,
+      "duration": 4.0,
+      "text": "that's what you would need for uh a kind"
+    },
+    {
+      "start": 157.28,
+      "duration": 3.039,
+      "text": "of an assistant that travels around with"
+    },
+    {
+      "start": 159.04,
+      "duration": 3.199,
+      "text": "you in the real world, maybe on your"
+    },
+    {
+      "start": 160.319,
+      "duration": 4.081,
+      "text": "glasses or your phone. Uh it needs to"
+    },
+    {
+      "start": 162.239,
+      "duration": 4.241,
+      "text": "understand the world, the context around"
+    },
+    {
+      "start": 164.4,
+      "duration": 4.479,
+      "text": "you, the physical world. And of course,"
+    },
+    {
+      "start": 166.48,
+      "duration": 3.6,
+      "text": "for robotics, that's critical, too. And"
+    },
+    {
+      "start": 168.879,
+      "duration": 2.321,
+      "text": "I think I've been spending quite a lot"
+    },
+    {
+      "start": 170.08,
+      "duration": 2.799,
+      "text": "of time on that last year, and I think"
+    },
+    {
+      "start": 171.2,
+      "duration": 3.36,
+      "text": "that's going to be uh have some big"
+    },
+    {
+      "start": 172.879,
+      "duration": 3.121,
+      "text": "moments in the next couple of years."
+    },
+    {
+      "start": 174.56,
+      "duration": 5.039,
+      "text": ">> Can you talk a little bit about these"
+    },
+    {
+      "start": 176.0,
+      "duration": 7.04,
+      "text": "big moments? Is it is it a question of"
+    },
+    {
+      "start": 179.599,
+      "duration": 6.241,
+      "text": "uh trying to create devices that would"
+    },
+    {
+      "start": 183.04,
+      "duration": 3.279,
+      "text": "sort of you know the the new iPhone?"
+    },
+    {
+      "start": 185.84,
+      "duration": 4.0,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 186.319,
+      "duration": 5.601,
+      "text": ">> Or the glasses. There's actually so many"
+    },
+    {
+      "start": 189.84,
+      "duration": 3.44,
+      "text": "uh uh simultaneous things one has to do"
+    },
+    {
+      "start": 191.92,
+      "duration": 4.0,
+      "text": "which why it's it's very exciting but"
+    },
+    {
+      "start": 193.28,
+      "duration": 4.4,
+      "text": "also quite daunting at the moment is um"
+    },
+    {
+      "start": 195.92,
+      "duration": 3.36,
+      "text": "at least from our perspective as Google"
+    },
+    {
+      "start": 197.68,
+      "duration": 2.8,
+      "text": "deep mind as kind of like you know we"
+    },
+    {
+      "start": 199.28,
+      "duration": 2.4,
+      "text": "like to think of oursel we describe"
+    },
+    {
+      "start": 200.48,
+      "duration": 3.119,
+      "text": "ourselves internally as the kind of"
+    },
+    {
+      "start": 201.68,
+      "duration": 3.76,
+      "text": "engine room of Google and we're"
+    },
+    {
+      "start": 203.599,
+      "duration": 3.761,
+      "text": "providing the engine which is these you"
+    },
+    {
+      "start": 205.44,
+      "duration": 4.159,
+      "text": "know these models like Gemini and VO and"
+    },
+    {
+      "start": 207.36,
+      "duration": 4.959,
+      "text": "Nana Banana all these kind of um"
+    },
+    {
+      "start": 209.599,
+      "duration": 4.801,
+      "text": "state-of-the-art models and um then we"
+    },
+    {
+      "start": 212.319,
+      "duration": 3.681,
+      "text": "got to figure out you know how do we"
+    },
+    {
+      "start": 214.4,
+      "duration": 3.919,
+      "text": "want to incorporate them into features"
+    },
+    {
+      "start": 216.0,
+      "duration": 4.0,
+      "text": "in products that are really useful to"
+    },
+    {
+      "start": 218.319,
+      "duration": 3.681,
+      "text": "the end user. So there's that whole"
+    },
+    {
+      "start": 220.0,
+      "duration": 4.64,
+      "text": "aspect of work which is enhancing what"
+    },
+    {
+      "start": 222.0,
+      "duration": 6.0,
+      "text": "already exists from email to your Chrome"
+    },
+    {
+      "start": 224.64,
+      "duration": 5.44,
+      "text": "browser to search. Um but then there are"
+    },
+    {
+      "start": 228.0,
+      "duration": 4.959,
+      "text": "also you know all these very exciting"
+    },
+    {
+      "start": 230.08,
+      "duration": 4.719,
+      "text": "new green field areas uh of uh you know"
+    },
+    {
+      "start": 232.959,
+      "duration": 4.721,
+      "text": "digital assistants like the Gemini app."
+    },
+    {
+      "start": 234.799,
+      "duration": 5.841,
+      "text": "But what does that become over time and"
+    },
+    {
+      "start": 237.68,
+      "duration": 4.72,
+      "text": "that including uh new devices and we're"
+    },
+    {
+      "start": 240.64,
+      "duration": 3.12,
+      "text": "working on and we've announced recently"
+    },
+    {
+      "start": 242.4,
+      "duration": 3.52,
+      "text": "you know partnerships with WBY Parker"
+    },
+    {
+      "start": 243.76,
+      "duration": 3.92,
+      "text": "and Gentle Monster on new types of smart"
+    },
+    {
+      "start": 245.92,
+      "duration": 3.76,
+      "text": "glasses. Obviously, Google has a long"
+    },
+    {
+      "start": 247.68,
+      "duration": 3.52,
+      "text": "history with smart glasses. Um, but I"
+    },
+    {
+      "start": 249.68,
+      "duration": 3.52,
+      "text": "think maybe we were a bit too ahead of"
+    },
+    {
+      "start": 251.2,
+      "duration": 4.239,
+      "text": "our time when we first started this 10,"
+    },
+    {
+      "start": 253.2,
+      "duration": 4.4,
+      "text": "you know, 10 plus years ago at Google,"
+    },
+    {
+      "start": 255.439,
+      "duration": 3.441,
+      "text": "um, with the devices, but now I think,"
+    },
+    {
+      "start": 257.6,
+      "duration": 3.759,
+      "text": "you know, I think what was missing was a"
+    },
+    {
+      "start": 258.88,
+      "duration": 4.72,
+      "text": "killer app for that. And I think, uh, a"
+    },
+    {
+      "start": 261.359,
+      "duration": 4.161,
+      "text": "kind of universal digital assistant that"
+    },
+    {
+      "start": 263.6,
+      "duration": 4.24,
+      "text": "helps you in your everyday life could"
+    },
+    {
+      "start": 265.52,
+      "duration": 4.0,
+      "text": "well be that killer app uh, for things"
+    },
+    {
+      "start": 267.84,
+      "duration": 3.359,
+      "text": "like a smart glasses that's connected to"
+    },
+    {
+      "start": 269.52,
+      "duration": 3.76,
+      "text": "your phone."
+    },
+    {
+      "start": 271.199,
+      "duration": 5.201,
+      "text": "This is an area where a lot of your"
+    },
+    {
+      "start": 273.28,
+      "duration": 5.84,
+      "text": "competitors are are also um are also"
+    },
+    {
+      "start": 276.4,
+      "duration": 4.96,
+      "text": "working on is it"
+    },
+    {
+      "start": 279.12,
+      "duration": 4.0,
+      "text": ">> why do you think you will be able to"
+    },
+    {
+      "start": 281.36,
+      "duration": 3.76,
+      "text": "compete very effectively?"
+    },
+    {
+      "start": 283.12,
+      "duration": 4.639,
+      "text": ">> Well, I think it starts with the quality"
+    },
+    {
+      "start": 285.12,
+      "duration": 5.359,
+      "text": "of your research and models. So, I think"
+    },
+    {
+      "start": 287.759,
+      "duration": 4.481,
+      "text": "we have by far the deepest and uh"
+    },
+    {
+      "start": 290.479,
+      "duration": 4.241,
+      "text": "broadest research bench. I think we have"
+    },
+    {
+      "start": 292.24,
+      "duration": 5.04,
+      "text": "the most talent in the industry. Um, and"
+    },
+    {
+      "start": 294.72,
+      "duration": 4.4,
+      "text": "I think that then will translate to the"
+    },
+    {
+      "start": 297.28,
+      "duration": 3.68,
+      "text": "quality of our breakthroughs and and"
+    },
+    {
+      "start": 299.12,
+      "duration": 4.0,
+      "text": "research innovations and then that"
+    },
+    {
+      "start": 300.96,
+      "duration": 2.799,
+      "text": "underpins what you can do with these new"
+    },
+    {
+      "start": 303.12,
+      "duration": 3.12,
+      "text": "products."
+    },
+    {
+      "start": 303.759,
+      "duration": 5.201,
+      "text": ">> Speaking of um talent, there's a real"
+    },
+    {
+      "start": 306.24,
+      "duration": 5.679,
+      "text": "talent war uh in the industry. Some"
+    },
+    {
+      "start": 308.96,
+      "duration": 4.959,
+      "text": "researchers are uh getting offers for"
+    },
+    {
+      "start": 311.919,
+      "duration": 3.601,
+      "text": "$100 million."
+    },
+    {
+      "start": 313.919,
+      "duration": 3.361,
+      "text": ">> Uh how are you holding on to your"
+    },
+    {
+      "start": 315.52,
+      "duration": 3.679,
+      "text": "researchers? Are are you having to pay"
+    },
+    {
+      "start": 317.28,
+      "duration": 4.0,
+      "text": "more than that? Look, I mean, of course,"
+    },
+    {
+      "start": 319.199,
+      "duration": 3.921,
+      "text": "there's it's it's another part of the"
+    },
+    {
+      "start": 321.28,
+      "duration": 4.479,
+      "text": "ferociousness of the competition is the"
+    },
+    {
+      "start": 323.12,
+      "duration": 4.56,
+      "text": "talent wars. Um, but I think that most"
+    },
+    {
+      "start": 325.759,
+      "duration": 4.0,
+      "text": "top researchers, you know, every they're"
+    },
+    {
+      "start": 327.68,
+      "duration": 4.079,
+      "text": "of course fabulously well paid, but it's"
+    },
+    {
+      "start": 329.759,
+      "duration": 4.321,
+      "text": "then beyond that is like the mission."
+    },
+    {
+      "start": 331.759,
+      "duration": 3.841,
+      "text": "What are you um trying to do with your"
+    },
+    {
+      "start": 334.08,
+      "duration": 3.119,
+      "text": "skills? You know, these are phenomenally"
+    },
+    {
+      "start": 335.6,
+      "duration": 3.2,
+      "text": "smart people. They could do anything"
+    },
+    {
+      "start": 337.199,
+      "duration": 4.641,
+      "text": "with their skills. Are you doing good in"
+    },
+    {
+      "start": 338.8,
+      "duration": 4.56,
+      "text": "the world? Are you building products or,"
+    },
+    {
+      "start": 341.84,
+      "duration": 4.0,
+      "text": "you know, applying in our case as well"
+    },
+    {
+      "start": 343.36,
+      "duration": 4.72,
+      "text": "AI for science, scientific ends that"
+    },
+    {
+      "start": 345.84,
+      "duration": 3.52,
+      "text": "actually you'd be proud of? and your"
+    },
+    {
+      "start": 348.08,
+      "duration": 2.64,
+      "text": "friends and family will be proud of and"
+    },
+    {
+      "start": 349.36,
+      "duration": 4.0,
+      "text": "you're you're overall benefiting"
+    },
+    {
+      "start": 350.72,
+      "duration": 4.64,
+      "text": "society. And I think um we're very lucky"
+    },
+    {
+      "start": 353.36,
+      "duration": 4.399,
+      "text": "at Google that we we have that those"
+    },
+    {
+      "start": 355.36,
+      "duration": 5.04,
+      "text": "product surfaces that that people love"
+    },
+    {
+      "start": 357.759,
+      "duration": 4.961,
+      "text": "and use every day from maps to email"
+    },
+    {
+      "start": 360.4,
+      "duration": 4.639,
+      "text": "that we are uh enhancing with you know"
+    },
+    {
+      "start": 362.72,
+      "duration": 4.08,
+      "text": "our AI work. So it's very you know"
+    },
+    {
+      "start": 365.039,
+      "duration": 3.201,
+      "text": "motivating to when you make a research"
+    },
+    {
+      "start": 366.8,
+      "duration": 3.2,
+      "text": "breakthrough some you can kind of ship"
+    },
+    {
+      "start": 368.24,
+      "duration": 3.92,
+      "text": "it and then immediately a billion users"
+    },
+    {
+      "start": 370.0,
+      "duration": 3.919,
+      "text": "can can take advantage of that. So my"
+    },
+    {
+      "start": 372.16,
+      "duration": 3.68,
+      "text": "expectation is that this year we're"
+    },
+    {
+      "start": 373.919,
+      "duration": 4.961,
+      "text": "going to hear a lot more about a tech"
+    },
+    {
+      "start": 375.84,
+      "duration": 6.88,
+      "text": "lash because there are growing concerns"
+    },
+    {
+      "start": 378.88,
+      "duration": 6.879,
+      "text": "in in society, but there are also safety"
+    },
+    {
+      "start": 382.72,
+      "duration": 6.16,
+      "text": "misuse um issues and we've seen several"
+    },
+    {
+      "start": 385.759,
+      "duration": 5.521,
+      "text": "several examples uh examples of that."
+    },
+    {
+      "start": 388.88,
+      "duration": 4.48,
+      "text": "How concerned are you and how do you how"
+    },
+    {
+      "start": 391.28,
+      "duration": 4.0,
+      "text": "do you protect against it?"
+    },
+    {
+      "start": 393.36,
+      "duration": 3.679,
+      "text": "Look, I think society is right to be"
+    },
+    {
+      "start": 395.28,
+      "duration": 4.0,
+      "text": "worried about these things and and I"
+    },
+    {
+      "start": 397.039,
+      "duration": 4.16,
+      "text": "think of course as you know I spent my"
+    },
+    {
+      "start": 399.28,
+      "duration": 3.199,
+      "text": "whole career working on AI because I'm I"
+    },
+    {
+      "start": 401.199,
+      "duration": 3.28,
+      "text": "really believe in all the benefits that"
+    },
+    {
+      "start": 402.479,
+      "duration": 3.201,
+      "text": "are going to come from science and"
+    },
+    {
+      "start": 404.479,
+      "duration": 4.321,
+      "text": "medicine medicine advances things like"
+    },
+    {
+      "start": 405.68,
+      "duration": 4.56,
+      "text": "Alpha Fold that we've done. Um but um"
+    },
+    {
+      "start": 408.8,
+      "duration": 4.399,
+      "text": "you know we need to also worry about"
+    },
+    {
+      "start": 410.24,
+      "duration": 4.64,
+      "text": "these harmful use cases. We've tried to"
+    },
+    {
+      "start": 413.199,
+      "duration": 3.761,
+      "text": "um be, you know, kind of get ahead of"
+    },
+    {
+      "start": 414.88,
+      "duration": 3.759,
+      "text": "that with things like synth ID, like"
+    },
+    {
+      "start": 416.96,
+      "duration": 3.84,
+      "text": "watermarking technology for things like"
+    },
+    {
+      "start": 418.639,
+      "duration": 4.801,
+      "text": "deep fakes. Um getting the right guard"
+    },
+    {
+      "start": 420.8,
+      "duration": 5.119,
+      "text": "rails around like the usage of Gemini."
+    },
+    {
+      "start": 423.44,
+      "duration": 4.64,
+      "text": "Um and we take that responsibility very"
+    },
+    {
+      "start": 425.919,
+      "duration": 4.641,
+      "text": "seriously for you know uh uh all the"
+    },
+    {
+      "start": 428.08,
+      "duration": 4.48,
+      "text": "users that we have. Um and we try to be"
+    },
+    {
+      "start": 430.56,
+      "duration": 3.6,
+      "text": "role models beyond what we do. So"
+    },
+    {
+      "start": 432.56,
+      "duration": 3.28,
+      "text": "there's what we can control and then"
+    },
+    {
+      "start": 434.16,
+      "duration": 3.52,
+      "text": "beyond that we try to be role models for"
+    },
+    {
+      "start": 435.84,
+      "duration": 3.44,
+      "text": "what responsible use of these kind of"
+    },
+    {
+      "start": 437.68,
+      "duration": 3.68,
+      "text": "tech deployment of these technologies"
+    },
+    {
+      "start": 439.28,
+      "duration": 4.56,
+      "text": "looks like. And then as far as society"
+    },
+    {
+      "start": 441.36,
+      "duration": 4.72,
+      "text": "goes in the average person is we need to"
+    },
+    {
+      "start": 443.84,
+      "duration": 4.479,
+      "text": "show as an as an industry as a"
+    },
+    {
+      "start": 446.08,
+      "duration": 4.88,
+      "text": "scientific field what the unequivocal"
+    },
+    {
+      "start": 448.319,
+      "duration": 5.44,
+      "text": "benefits are more clearly more quickly"
+    },
+    {
+      "start": 450.96,
+      "duration": 4.72,
+      "text": "and I think for us that's doubling down"
+    },
+    {
+      "start": 453.759,
+      "duration": 3.84,
+      "text": "on our AI for science and AI for"
+    },
+    {
+      "start": 455.68,
+      "duration": 3.44,
+      "text": "medicine work um and things like that"
+    },
+    {
+      "start": 457.599,
+      "duration": 4.0,
+      "text": "that are kind of unequivocal goods in"
+    },
+    {
+      "start": 459.12,
+      "duration": 5.6,
+      "text": "the world. Uh I'm going to get to uh to"
+    },
+    {
+      "start": 461.599,
+      "duration": 6.72,
+      "text": "that with is a morphic but just staying"
+    },
+    {
+      "start": 464.72,
+      "duration": 6.479,
+      "text": "with the misuse and and safety uh issue."
+    },
+    {
+      "start": 468.319,
+      "duration": 5.921,
+      "text": "Whatever happens in in this industry and"
+    },
+    {
+      "start": 471.199,
+      "duration": 6.481,
+      "text": "if there is a a growing tech lash it"
+    },
+    {
+      "start": 474.24,
+      "duration": 5.44,
+      "text": "will affect all the companies. So is"
+    },
+    {
+      "start": 477.68,
+      "duration": 4.32,
+      "text": "that something I mean are you all not"
+    },
+    {
+      "start": 479.68,
+      "duration": 5.76,
+      "text": "getting together to discuss this? Is is"
+    },
+    {
+      "start": 482.0,
+      "duration": 5.759,
+      "text": "any is there any effort underway to to"
+    },
+    {
+      "start": 485.44,
+      "duration": 4.159,
+      "text": "address it as an industry? Um there are"
+    },
+    {
+      "start": 487.759,
+      "duration": 3.681,
+      "text": "some industry groups but and of course"
+    },
+    {
+      "start": 489.599,
+      "duration": 4.401,
+      "text": "you know most of the lab uh heads know"
+    },
+    {
+      "start": 491.44,
+      "duration": 4.8,
+      "text": "each other quite well but I think um"
+    },
+    {
+      "start": 494.0,
+      "duration": 5.039,
+      "text": "you're seeing different frontier labs"
+    },
+    {
+      "start": 496.24,
+      "duration": 4.72,
+      "text": "you know do different things and um I"
+    },
+    {
+      "start": 499.039,
+      "duration": 3.84,
+      "text": "think uh we'll have to see how that"
+    },
+    {
+      "start": 500.96,
+      "duration": 3.519,
+      "text": "works out or we can control is what we"
+    },
+    {
+      "start": 502.879,
+      "duration": 3.921,
+      "text": "do at Google deep mine and we try to"
+    },
+    {
+      "start": 504.479,
+      "duration": 4.481,
+      "text": "broadcast that places like this and and"
+    },
+    {
+      "start": 506.8,
+      "duration": 4.239,
+      "text": "show the way forward that I think you"
+    },
+    {
+      "start": 508.96,
+      "duration": 4.319,
+      "text": "know gets most of the benefits but"
+    },
+    {
+      "start": 511.039,
+      "duration": 5.041,
+      "text": "mitigates the risks and we hope others"
+    },
+    {
+      "start": 513.279,
+      "duration": 3.841,
+      "text": "will will follow in that path but um you"
+    },
+    {
+      "start": 516.08,
+      "duration": 2.879,
+      "text": "know it would need something"
+    },
+    {
+      "start": 517.12,
+      "duration": 3.2,
+      "text": "governmental I think to to create the"
+    },
+    {
+      "start": 518.959,
+      "duration": 3.361,
+      "text": "whole of the industry to do that and"
+    },
+    {
+      "start": 520.32,
+      "duration": 4.32,
+      "text": "then there's also the international uh"
+    },
+    {
+      "start": 522.32,
+      "duration": 5.92,
+      "text": "uh cooperation question too."
+    },
+    {
+      "start": 524.64,
+      "duration": 6.4,
+      "text": ">> Um the other big risk this year is the"
+    },
+    {
+      "start": 528.24,
+      "duration": 4.32,
+      "text": "the bubble bursting is"
+    },
+    {
+      "start": 531.04,
+      "duration": 3.84,
+      "text": ">> are we in an AI bubble?"
+    },
+    {
+      "start": 532.56,
+      "duration": 5.68,
+      "text": ">> Well yeah look look I for me it's not a"
+    },
+    {
+      "start": 534.88,
+      "duration": 6.079,
+      "text": "binary question yes or no. Um the AI"
+    },
+    {
+      "start": 538.24,
+      "duration": 4.64,
+      "text": "industry is very big now as you know and"
+    },
+    {
+      "start": 540.959,
+      "duration": 4.961,
+      "text": "it's it's it's sort of uh"
+    },
+    {
+      "start": 542.88,
+      "duration": 5.2,
+      "text": "multiffactorial. So I think my guess is"
+    },
+    {
+      "start": 545.92,
+      "duration": 4.16,
+      "text": "um I mean from our point of view we're"
+    },
+    {
+      "start": 548.08,
+      "duration": 4.56,
+      "text": "seeing more usage than ever, incredible"
+    },
+    {
+      "start": 550.08,
+      "duration": 5.36,
+      "text": "demand for our models and our you know"
+    },
+    {
+      "start": 552.64,
+      "duration": 4.319,
+      "text": "the the AI features um we you know we"
+    },
+    {
+      "start": 555.44,
+      "duration": 4.48,
+      "text": "can barely satisfy that right there"
+    },
+    {
+      "start": 556.959,
+      "duration": 4.641,
+      "text": "aren't enough chips to go around and um"
+    },
+    {
+      "start": 559.92,
+      "duration": 3.68,
+      "text": "so I think from that perspective and"
+    },
+    {
+      "start": 561.6,
+      "duration": 2.72,
+      "text": "also overall there's not going to be you"
+    },
+    {
+      "start": 563.6,
+      "duration": 2.96,
+      "text": "know it's going to be the most"
+    },
+    {
+      "start": 564.32,
+      "duration": 4.24,
+      "text": "transformative technology probably ever"
+    },
+    {
+      "start": 566.56,
+      "duration": 3.76,
+      "text": "invented. So I think from that"
+    },
+    {
+      "start": 568.56,
+      "duration": 3.76,
+      "text": "perspective there can't really be a"
+    },
+    {
+      "start": 570.32,
+      "duration": 3.68,
+      "text": "bubble. Um but on the other hand I think"
+    },
+    {
+      "start": 572.32,
+      "duration": 4.48,
+      "text": "there are parts of the industry that you"
+    },
+    {
+      "start": 574.0,
+      "duration": 4.88,
+      "text": "know do look bubble-l like for example"
+    },
+    {
+      "start": 576.8,
+      "duration": 4.719,
+      "text": "seed rounds multi-billion dollar seed"
+    },
+    {
+      "start": 578.88,
+      "duration": 4.16,
+      "text": "rounds in in you know new startups that"
+    },
+    {
+      "start": 581.519,
+      "duration": 3.281,
+      "text": "don't have a product or technology or"
+    },
+    {
+      "start": 583.04,
+      "duration": 3.919,
+      "text": "anything yet does seem a little bit"
+    },
+    {
+      "start": 584.8,
+      "duration": 4.24,
+      "text": "unsustainable. So there may be some"
+    },
+    {
+      "start": 586.959,
+      "duration": 4.161,
+      "text": "corrections in some parts of the market."
+    },
+    {
+      "start": 589.04,
+      "duration": 3.52,
+      "text": "Uh and then we have to see for my I"
+    },
+    {
+      "start": 591.12,
+      "duration": 3.76,
+      "text": "don't worry too much about that from"
+    },
+    {
+      "start": 592.56,
+      "duration": 4.48,
+      "text": "from from from our day-to-day. I focus"
+    },
+    {
+      "start": 594.88,
+      "duration": 4.0,
+      "text": "on um our technology and delivering"
+    },
+    {
+      "start": 597.04,
+      "duration": 3.76,
+      "text": "that. And my job as head of Google"
+    },
+    {
+      "start": 598.88,
+      "duration": 4.079,
+      "text": "DeepMind is to make sure we're well"
+    },
+    {
+      "start": 600.8,
+      "duration": 4.32,
+      "text": "positioned no matter what happens. If"
+    },
+    {
+      "start": 602.959,
+      "duration": 3.841,
+      "text": "the bubble bursts uh we will be fine."
+    },
+    {
+      "start": 605.12,
+      "duration": 4.32,
+      "text": "We've got an amazing business that we"
+    },
+    {
+      "start": 606.8,
+      "duration": 5.2,
+      "text": "can add AI features to and and get more"
+    },
+    {
+      "start": 609.44,
+      "duration": 5.28,
+      "text": "uh productivity out of. And also if the"
+    },
+    {
+      "start": 612.0,
+      "duration": 4.88,
+      "text": "the bull case continues um then we've"
+    },
+    {
+      "start": 614.72,
+      "duration": 4.48,
+      "text": "also got these amazing AI first AI"
+    },
+    {
+      "start": 616.88,
+      "duration": 5.68,
+      "text": "native products like the Gemini app."
+    },
+    {
+      "start": 619.2,
+      "duration": 6.72,
+      "text": ">> You've also spoken about the AI race and"
+    },
+    {
+      "start": 622.56,
+      "duration": 6.48,
+      "text": "the competition with with China. Um from"
+    },
+    {
+      "start": 625.92,
+      "duration": 5.919,
+      "text": "what I can see in in China there is the"
+    },
+    {
+      "start": 629.04,
+      "duration": 5.039,
+      "text": "there is no AI race. It's ve it's very"
+    },
+    {
+      "start": 631.839,
+      "duration": 5.841,
+      "text": "different from what you hear there's no"
+    },
+    {
+      "start": 634.079,
+      "duration": 7.281,
+      "text": "sort of uh race to reach uh AGI. there"
+    },
+    {
+      "start": 637.68,
+      "duration": 7.56,
+      "text": "is a lot more focus on applications and"
+    },
+    {
+      "start": 641.36,
+      "duration": 3.88,
+      "text": "um and finding efficiencies."
+    },
+    {
+      "start": 645.36,
+      "duration": 6.8,
+      "text": ">> Is that perhaps the more sort of um"
+    },
+    {
+      "start": 650.24,
+      "duration": 4.24,
+      "text": "realistic approach?"
+    },
+    {
+      "start": 652.16,
+      "duration": 4.88,
+      "text": ">> Um look, it's it's it's per perhaps the"
+    },
+    {
+      "start": 654.48,
+      "duration": 5.919,
+      "text": "more um I don't know about realistic,"
+    },
+    {
+      "start": 657.04,
+      "duration": 5.68,
+      "text": "but uh uh the the less risky approach"
+    },
+    {
+      "start": 660.399,
+      "duration": 3.601,
+      "text": "perhaps. Um, and I think, by the way, I"
+    },
+    {
+      "start": 662.72,
+      "duration": 2.96,
+      "text": "think the Chinese market, from what I"
+    },
+    {
+      "start": 664.0,
+      "duration": 4.16,
+      "text": "understand, is is just as intensely"
+    },
+    {
+      "start": 665.68,
+      "duration": 4.48,
+      "text": "competitive as the Western companies are"
+    },
+    {
+      "start": 668.16,
+      "duration": 3.2,
+      "text": "with each other. It's just that I think"
+    },
+    {
+      "start": 670.16,
+      "duration": 3.84,
+      "text": "you're right. They're more focused on"
+    },
+    {
+      "start": 671.36,
+      "duration": 4.56,
+      "text": "the near-term applications. What can you"
+    },
+    {
+      "start": 674.0,
+      "duration": 4.0,
+      "text": "concretely do right now rather than"
+    },
+    {
+      "start": 675.92,
+      "duration": 3.84,
+      "text": "maybe these um more research heavy"
+    },
+    {
+      "start": 678.0,
+      "duration": 5.839,
+      "text": "frontier capabilities that would get you"
+    },
+    {
+      "start": 679.76,
+      "duration": 6.0,
+      "text": "to AGI? Um, I think that's fine. I I I"
+    },
+    {
+      "start": 683.839,
+      "duration": 3.921,
+      "text": "started Deep Mind and our job is now at"
+    },
+    {
+      "start": 685.76,
+      "duration": 3.92,
+      "text": "Google Deep Mind and and Alphab, we want"
+    },
+    {
+      "start": 687.76,
+      "duration": 4.24,
+      "text": "to build AGI. We think that's the"
+    },
+    {
+      "start": 689.68,
+      "duration": 4.0,
+      "text": "ultimate goal. and then that will um"
+    },
+    {
+      "start": 692.0,
+      "duration": 2.959,
+      "text": "unlock so many opportunities and"
+    },
+    {
+      "start": 693.68,
+      "duration": 3.04,
+      "text": "possibilities in the world that we've"
+    },
+    {
+      "start": 694.959,
+      "duration": 4.721,
+      "text": "talked about many times. So I think"
+    },
+    {
+      "start": 696.72,
+      "duration": 5.119,
+      "text": "that's really the north star and um and"
+    },
+    {
+      "start": 699.68,
+      "duration": 4.32,
+      "text": "on the way we'll create lots of useful"
+    },
+    {
+      "start": 701.839,
+      "duration": 3.841,
+      "text": "technologies but I think um you've got"
+    },
+    {
+      "start": 704.0,
+      "duration": 3.839,
+      "text": "to have that as a north star if you want"
+    },
+    {
+      "start": 705.68,
+      "duration": 3.839,
+      "text": "to progress the research uh in as"
+    },
+    {
+      "start": 707.839,
+      "duration": 3.44,
+      "text": "innovative way as possible and I think"
+    },
+    {
+      "start": 709.519,
+      "duration": 3.681,
+      "text": "that's why in my opinion the western"
+    },
+    {
+      "start": 711.279,
+      "duration": 3.761,
+      "text": "companies are still in the lead on that."
+    },
+    {
+      "start": 713.2,
+      "duration": 2.72,
+      "text": ">> How many months are you ahead? Is it a"
+    },
+    {
+      "start": 715.04,
+      "duration": 2.239,
+      "text": "matter of months or"
+    },
+    {
+      "start": 715.92,
+      "duration": 3.2,
+      "text": ">> I think probably it's only a matter of"
+    },
+    {
+      "start": 717.279,
+      "duration": 4.24,
+      "text": "months now would be my guess. Although"
+    },
+    {
+      "start": 719.12,
+      "duration": 4.0,
+      "text": "interestingly, uh, some of the Chinese"
+    },
+    {
+      "start": 721.519,
+      "duration": 2.961,
+      "text": "leaders, entrepreneurs I talked to, they"
+    },
+    {
+      "start": 723.12,
+      "duration": 2.959,
+      "text": "they feel like they're more they're"
+    },
+    {
+      "start": 724.48,
+      "duration": 3.68,
+      "text": "further behind than that. I'm not sure"
+    },
+    {
+      "start": 726.079,
+      "duration": 4.481,
+      "text": "that's the case. You know, maybe it's"
+    },
+    {
+      "start": 728.16,
+      "duration": 4.08,
+      "text": "only a matter of 6 months or so now, but"
+    },
+    {
+      "start": 730.56,
+      "duration": 3.44,
+      "text": "I think it's important that because I"
+    },
+    {
+      "start": 732.24,
+      "duration": 3.039,
+      "text": "think what um even things like Deep"
+    },
+    {
+      "start": 734.0,
+      "duration": 2.8,
+      "text": "Seek, which was I think was a bit of an"
+    },
+    {
+      "start": 735.279,
+      "duration": 4.56,
+      "text": "overreaction in the West to that"
+    },
+    {
+      "start": 736.8,
+      "duration": 5.279,
+      "text": "actually is a bit overblown. Um, there's"
+    },
+    {
+      "start": 739.839,
+      "duration": 4.161,
+      "text": "uh they still the Chinese sort of labs"
+    },
+    {
+      "start": 742.079,
+      "duration": 3.521,
+      "text": "haven't proven they can innovate beyond"
+    },
+    {
+      "start": 744.0,
+      "duration": 2.959,
+      "text": "the frontier yet. They're getting faster"
+    },
+    {
+      "start": 745.6,
+      "duration": 2.96,
+      "text": "and faster at catching up to the"
+    },
+    {
+      "start": 746.959,
+      "duration": 3.361,
+      "text": "frontier. what the Frontier Labs are"
+    },
+    {
+      "start": 748.56,
+      "duration": 3.279,
+      "text": "doing, but they haven't sort of"
+    },
+    {
+      "start": 750.32,
+      "duration": 2.72,
+      "text": "innovated beyond that, like the next"
+    },
+    {
+      "start": 751.839,
+      "duration": 2.321,
+      "text": "Transformers or something like that."
+    },
+    {
+      "start": 753.04,
+      "duration": 2.08,
+      "text": "They haven't proven they have that"
+    },
+    {
+      "start": 754.16,
+      "duration": 2.72,
+      "text": "capability yet."
+    },
+    {
+      "start": 755.12,
+      "duration": 2.32,
+      "text": ">> Do you think they are as focused on it"
+    },
+    {
+      "start": 756.88,
+      "duration": 2.079,
+      "text": "though?"
+    },
+    {
+      "start": 757.44,
+      "duration": 3.28,
+      "text": ">> They're probably not, and that might be"
+    },
+    {
+      "start": 758.959,
+      "duration": 6.641,
+      "text": "one reason why."
+    },
+    {
+      "start": 760.72,
+      "duration": 7.44,
+      "text": ">> Um, there is there was in the last um uh"
+    },
+    {
+      "start": 765.6,
+      "duration": 7.12,
+      "text": "in the last few months a debate about uh"
+    },
+    {
+      "start": 768.16,
+      "duration": 7.6,
+      "text": "AGI. Um, and you disagreed with Yan Lun"
+    },
+    {
+      "start": 772.72,
+      "duration": 5.6,
+      "text": "who said that uh there is no such thing"
+    },
+    {
+      "start": 775.76,
+      "duration": 4.319,
+      "text": "as as general intelligence. You're a"
+    },
+    {
+      "start": 778.32,
+      "duration": 2.48,
+      "text": "real expert on the brain."
+    },
+    {
+      "start": 780.079,
+      "duration": 3.841,
+      "text": ">> Yes."
+    },
+    {
+      "start": 780.8,
+      "duration": 3.52,
+      "text": ">> So, explain to me why you disagreed with"
+    },
+    {
+      "start": 783.92,
+      "duration": 2.56,
+      "text": "him."
+    },
+    {
+      "start": 784.32,
+      "duration": 3.92,
+      "text": ">> Yes. Um, yeah, we have many fun debates,"
+    },
+    {
+      "start": 786.48,
+      "duration": 4.32,
+      "text": "Yan and I, at conferences and things and"
+    },
+    {
+      "start": 788.24,
+      "duration": 3.599,
+      "text": "and uh but uh this was an online one."
+    },
+    {
+      "start": 790.8,
+      "duration": 3.279,
+      "text": "Yeah. I just think it's kind of"
+    },
+    {
+      "start": 791.839,
+      "duration": 3.761,
+      "text": "ridiculous uh his argument on that. I"
+    },
+    {
+      "start": 794.079,
+      "duration": 3.361,
+      "text": "think he's confusing two things which is"
+    },
+    {
+      "start": 795.6,
+      "duration": 3.919,
+      "text": "general intelligence which I think"
+    },
+    {
+      "start": 797.44,
+      "duration": 5.12,
+      "text": "clearly we have as humans and our brain"
+    },
+    {
+      "start": 799.519,
+      "duration": 4.0,
+      "text": "has that um and uh and universal"
+    },
+    {
+      "start": 802.56,
+      "duration": 2.48,
+      "text": "intelligence something that can"
+    },
+    {
+      "start": 803.519,
+      "duration": 4.0,
+      "text": "understand anything that could be"
+    },
+    {
+      "start": 805.04,
+      "duration": 4.0,
+      "text": "possible and um and the thing is it's"
+    },
+    {
+      "start": 807.519,
+      "duration": 3.841,
+      "text": "obvious our brains are very general"
+    },
+    {
+      "start": 809.04,
+      "duration": 5.359,
+      "text": "because look at modern civilization"
+    },
+    {
+      "start": 811.36,
+      "duration": 5.36,
+      "text": "we've built and we're basically uh you"
+    },
+    {
+      "start": 814.399,
+      "duration": 4.161,
+      "text": "know tool making uh creatures right"
+    },
+    {
+      "start": 816.72,
+      "duration": 4.48,
+      "text": "that's what separates us from from other"
+    },
+    {
+      "start": 818.56,
+      "duration": 5.44,
+      "text": "animals is we build tools um from all"
+    },
+    {
+      "start": 821.2,
+      "duration": 5.439,
+      "text": "the modern uh things around us vehicles"
+    },
+    {
+      "start": 824.0,
+      "duration": 4.56,
+      "text": "747s, but also computers and and I'd"
+    },
+    {
+      "start": 826.639,
+      "duration": 3.521,
+      "text": "include AI in that as well. It's kind of"
+    },
+    {
+      "start": 828.56,
+      "duration": 3.36,
+      "text": "like the ultimate expression of the"
+    },
+    {
+      "start": 830.16,
+      "duration": 3.76,
+      "text": "computational tool. So, if you include"
+    },
+    {
+      "start": 831.92,
+      "duration": 4.719,
+      "text": "all of that and the science that we do,"
+    },
+    {
+      "start": 833.92,
+      "duration": 4.32,
+      "text": "it's unbelievably general. Um, it's not"
+    },
+    {
+      "start": 836.639,
+      "duration": 3.361,
+      "text": "everything that could possibly happen to"
+    },
+    {
+      "start": 838.24,
+      "duration": 3.52,
+      "text": "your retina and all these arguments he"
+    },
+    {
+      "start": 840.0,
+      "duration": 3.6,
+      "text": "makes, but it's it's clearly general."
+    },
+    {
+      "start": 841.76,
+      "duration": 3.6,
+      "text": "And then the other argument I make is"
+    },
+    {
+      "start": 843.6,
+      "duration": 3.52,
+      "text": "more from Alan Turing, who's one of my"
+    },
+    {
+      "start": 845.36,
+      "duration": 4.479,
+      "text": "all-time scientific heroes, you know,"
+    },
+    {
+      "start": 847.12,
+      "duration": 4.079,
+      "text": "and he proved that Turing machines um"
+    },
+    {
+      "start": 849.839,
+      "duration": 2.961,
+      "text": "could compute anything that was"
+    },
+    {
+      "start": 851.199,
+      "duration": 3.121,
+      "text": "computable. So that's super general"
+    },
+    {
+      "start": 852.8,
+      "duration": 3.2,
+      "text": "class of machine and all modern"
+    },
+    {
+      "start": 854.32,
+      "duration": 3.6,
+      "text": "computers are based around that. But"
+    },
+    {
+      "start": 856.0,
+      "duration": 5.199,
+      "text": "also I think most neuroscientists would"
+    },
+    {
+      "start": 857.92,
+      "duration": 5.2,
+      "text": "agree that our brains are an approximate"
+    },
+    {
+      "start": 861.199,
+      "duration": 4.08,
+      "text": "cheuring machine or or approximately"
+    },
+    {
+      "start": 863.12,
+      "duration": 4.8,
+      "text": "cheuring powerful which means that we"
+    },
+    {
+      "start": 865.279,
+      "duration": 5.601,
+      "text": "you know we can do uh in theory uh"
+    },
+    {
+      "start": 867.92,
+      "duration": 5.76,
+      "text": "understand almost anything. So uh that's"
+    },
+    {
+      "start": 870.88,
+      "duration": 4.72,
+      "text": "computable and so the idea is that we"
+    },
+    {
+      "start": 873.68,
+      "duration": 4.159,
+      "text": "have our brains are a general system"
+    },
+    {
+      "start": 875.6,
+      "duration": 4.32,
+      "text": "that can in theory learn almost"
+    },
+    {
+      "start": 877.839,
+      "duration": 4.321,
+      "text": "anything. Uh not that we already know"
+    },
+    {
+      "start": 879.92,
+      "duration": 4.08,
+      "text": "that. Right? So it's it's a question of"
+    },
+    {
+      "start": 882.16,
+      "duration": 3.76,
+      "text": "is it can do you have the learning"
+    },
+    {
+      "start": 884.0,
+      "duration": 3.04,
+      "text": "capability versus the actual full"
+    },
+    {
+      "start": 885.92,
+      "duration": 2.8,
+      "text": "knowledge. Obviously our brains are"
+    },
+    {
+      "start": 887.04,
+      "duration": 4.0,
+      "text": "limited. We can't know everything a"
+    },
+    {
+      "start": 888.72,
+      "duration": 4.0,
+      "text": "single human but in totality our brains"
+    },
+    {
+      "start": 891.04,
+      "duration": 2.96,
+      "text": "are very very powerful"
+    },
+    {
+      "start": 892.72,
+      "duration": 3.119,
+      "text": ">> and very flexible"
+    },
+    {
+      "start": 894.0,
+      "duration": 3.92,
+      "text": ">> and extremely flexible. Right."
+    },
+    {
+      "start": 895.839,
+      "duration": 4.641,
+      "text": ">> Uh so [snorts] what is it going to take"
+    },
+    {
+      "start": 897.92,
+      "duration": 4.8,
+      "text": "to get to AGI recursive uh"
+    },
+    {
+      "start": 900.48,
+      "duration": 5.68,
+      "text": "self-improvement where essentially AI"
+    },
+    {
+      "start": 902.72,
+      "duration": 6.0,
+      "text": "models can teach uh themselves? We're"
+    },
+    {
+      "start": 906.16,
+      "duration": 3.76,
+      "text": "not we're not there yet. How far are we"
+    },
+    {
+      "start": 908.72,
+      "duration": 2.64,
+      "text": "from it?"
+    },
+    {
+      "start": 909.92,
+      "duration": 2.56,
+      "text": ">> Yeah. Yeah. So, and is that the main"
+    },
+    {
+      "start": 911.36,
+      "duration": 2.8,
+      "text": "breakthrough that you're looking at?"
+    },
+    {
+      "start": 912.48,
+      "duration": 3.359,
+      "text": ">> Well, that's one. I mean, there are I"
+    },
+    {
+      "start": 914.16,
+      "duration": 4.0,
+      "text": "think there are I think there are quite"
+    },
+    {
+      "start": 915.839,
+      "duration": 4.641,
+      "text": "a few capabilities missing from today's"
+    },
+    {
+      "start": 918.16,
+      "duration": 4.08,
+      "text": "systems that will be needed for uh"
+    },
+    {
+      "start": 920.48,
+      "duration": 5.52,
+      "text": "something that could probably, you know,"
+    },
+    {
+      "start": 922.24,
+      "duration": 5.279,
+      "text": "pass as AGI and um continual learning is"
+    },
+    {
+      "start": 926.0,
+      "duration": 2.88,
+      "text": "one of those things like online learning"
+    },
+    {
+      "start": 927.519,
+      "duration": 3.201,
+      "text": "after you've been after it's been"
+    },
+    {
+      "start": 928.88,
+      "duration": 4.56,
+      "text": "trained, can it learn new things from"
+    },
+    {
+      "start": 930.72,
+      "duration": 4.08,
+      "text": "the user or from experience? Uh so, it's"
+    },
+    {
+      "start": 933.44,
+      "duration": 2.639,
+      "text": "sometimes called continual learning or"
+    },
+    {
+      "start": 934.8,
+      "duration": 2.32,
+      "text": "online learning. Um"
+    },
+    {
+      "start": 936.079,
+      "duration": 2.801,
+      "text": ">> and for that, you need the"
+    },
+    {
+      "start": 937.12,
+      "duration": 3.2,
+      "text": "personalization, right? So, that yes,"
+    },
+    {
+      "start": 938.88,
+      "duration": 3.04,
+      "text": "that will be part of it. So if you want"
+    },
+    {
+      "start": 940.32,
+      "duration": 3.68,
+      "text": "it to personalize then that would have"
+    },
+    {
+      "start": 941.92,
+      "duration": 4.08,
+      "text": "that would be a form of online learning."
+    },
+    {
+      "start": 944.0,
+      "duration": 3.68,
+      "text": "Um but also self-arning and"
+    },
+    {
+      "start": 946.0,
+      "duration": 3.759,
+      "text": "self-improvement can also be part of"
+    },
+    {
+      "start": 947.68,
+      "duration": 3.839,
+      "text": "that. So that's sort of a closed loop"
+    },
+    {
+      "start": 949.759,
+      "duration": 3.921,
+      "text": "version of like experiencing something"
+    },
+    {
+      "start": 951.519,
+      "duration": 4.081,
+      "text": "in the world and then updating your"
+    },
+    {
+      "start": 953.68,
+      "duration": 4.159,
+      "text": "knowledge base directly uh and"
+    },
+    {
+      "start": 955.6,
+      "duration": 4.239,
+      "text": "automatically. And we actually pioneered"
+    },
+    {
+      "start": 957.839,
+      "duration": 4.56,
+      "text": "a lot of that work back 10 plus years"
+    },
+    {
+      "start": 959.839,
+      "duration": 4.641,
+      "text": "ago now with Alph Go and Alpha Zero our"
+    },
+    {
+      "start": 962.399,
+      "duration": 3.521,
+      "text": "games playing programs. But the of"
+    },
+    {
+      "start": 964.48,
+      "duration": 3.039,
+      "text": "course the question is in games that's"
+    },
+    {
+      "start": 965.92,
+      "duration": 2.88,
+      "text": "much simpler. The real world's made much"
+    },
+    {
+      "start": 967.519,
+      "duration": 2.641,
+      "text": "messier much more complex. So the"
+    },
+    {
+      "start": 968.8,
+      "duration": 3.36,
+      "text": "question is, can you translate some of"
+    },
+    {
+      "start": 970.16,
+      "duration": 3.28,
+      "text": "those techniques to the messy real"
+    },
+    {
+      "start": 972.16,
+      "duration": 5.2,
+      "text": "world?"
+    },
+    {
+      "start": 973.44,
+      "duration": 6.399,
+      "text": ">> Um, let's get to isomorphic because"
+    },
+    {
+      "start": 977.36,
+      "duration": 4.719,
+      "text": "originally, um, I think the company said"
+    },
+    {
+      "start": 979.839,
+      "duration": 6.0,
+      "text": "that you'd be going to clinical trials"
+    },
+    {
+      "start": 982.079,
+      "duration": 7.2,
+      "text": "in Q4 of 2025."
+    },
+    {
+      "start": 985.839,
+      "duration": 7.44,
+      "text": "Um, but then it was preclinical. So what"
+    },
+    {
+      "start": 989.279,
+      "duration": 5.761,
+      "text": "happened? And when will the drugs go to"
+    },
+    {
+      "start": 993.279,
+      "duration": 3.841,
+      "text": ">> Sure. No, nothing happened. I misspoke"
+    },
+    {
+      "start": 995.04,
+      "duration": 3.919,
+      "text": "it. I think it was one interview I gave"
+    },
+    {
+      "start": 997.12,
+      "duration": 4.159,
+      "text": "a couple years ago. It was pre-clinical."
+    },
+    {
+      "start": 998.959,
+      "duration": 5.12,
+      "text": "We were um entering last year. It was"
+    },
+    {
+      "start": 1001.279,
+      "duration": 4.8,
+      "text": "was the plan. Yeah. And uh so I misspoke"
+    },
+    {
+      "start": 1004.079,
+      "duration": 4.32,
+      "text": "then. And basically our pre we're in"
+    },
+    {
+      "start": 1006.079,
+      "duration": 4.721,
+      "text": "preclinical trials with a few of our um"
+    },
+    {
+      "start": 1008.399,
+      "duration": 4.321,
+      "text": "drug programs. It's going very well."
+    },
+    {
+      "start": 1010.8,
+      "duration": 3.76,
+      "text": "We're advancing very well. And then as"
+    },
+    {
+      "start": 1012.72,
+      "duration": 2.4,
+      "text": "soon as that's ready, we'll move that"
+    },
+    {
+      "start": 1014.56,
+      "duration": 2.88,
+      "text": "into clinical."
+    },
+    {
+      "start": 1015.12,
+      "duration": 3.279,
+      "text": ">> So when will we have the first AI"
+    },
+    {
+      "start": 1017.44,
+      "duration": 2.72,
+      "text": "designed drug?"
+    },
+    {
+      "start": 1018.399,
+      "duration": 3.601,
+      "text": ">> Well, I hope in the next few years, but"
+    },
+    {
+      "start": 1020.16,
+      "duration": 3.76,
+      "text": "it's it's depends on the how the"
+    },
+    {
+      "start": 1022.0,
+      "duration": 2.319,
+      "text": "preclinical trials go in the clinical"
+    },
+    {
+      "start": 1023.92,
+      "duration": 2.08,
+      "text": "trials."
+    },
+    {
+      "start": 1024.319,
+      "duration": 2.321,
+      "text": ">> Has it been harder than you you would"
+    },
+    {
+      "start": 1026.0,
+      "duration": 2.48,
+      "text": "expect?"
+    },
+    {
+      "start": 1026.64,
+      "duration": 3.84,
+      "text": ">> Not at all. It's it's been we're we're"
+    },
+    {
+      "start": 1028.48,
+      "duration": 4.24,
+      "text": "actually doing phenomenally well and we"
+    },
+    {
+      "start": 1030.48,
+      "duration": 5.52,
+      "text": "just announced a a new deal with a new"
+    },
+    {
+      "start": 1032.72,
+      "duration": 5.199,
+      "text": "partnership with J&J yesterday. Um so we"
+    },
+    {
+      "start": 1036.0,
+      "duration": 4.079,
+      "text": "now work with J&J, Eli, Lily, and"
+    },
+    {
+      "start": 1037.919,
+      "duration": 4.0,
+      "text": "Novartis, three of the the best farmers"
+    },
+    {
+      "start": 1040.079,
+      "duration": 4.081,
+      "text": "in the world. And we also have our own"
+    },
+    {
+      "start": 1041.919,
+      "duration": 5.04,
+      "text": "internal programs. Uh so we have like"
+    },
+    {
+      "start": 1044.16,
+      "duration": 4.24,
+      "text": "about 17 programs in total. So and the"
+    },
+    {
+      "start": 1046.959,
+      "duration": 2.881,
+      "text": "the we're going to talk a lot more about"
+    },
+    {
+      "start": 1048.4,
+      "duration": 3.68,
+      "text": "that. You'll see a lot more news from us"
+    },
+    {
+      "start": 1049.84,
+      "duration": 4.24,
+      "text": "this year uh first half of this year on"
+    },
+    {
+      "start": 1052.08,
+      "duration": 3.68,
+      "text": "on our progress which is going very"
+    },
+    {
+      "start": 1054.08,
+      "duration": 3.76,
+      "text": "well. You also announced that you were"
+    },
+    {
+      "start": 1055.76,
+      "duration": 5.2,
+      "text": "building a material science lab in the"
+    },
+    {
+      "start": 1057.84,
+      "duration": 3.52,
+      "text": "UK. Um c can you give me"
+    },
+    {
+      "start": 1060.96,
+      "duration": 1.839,
+      "text": ">> yes"
+    },
+    {
+      "start": 1061.36,
+      "duration": 2.4,
+      "text": ">> some more detail about that?"
+    },
+    {
+      "start": 1062.799,
+      "duration": 3.361,
+      "text": ">> A little bit more. I mean we're still"
+    },
+    {
+      "start": 1063.76,
+      "duration": 4.48,
+      "text": "quite early stages with that. Um but I"
+    },
+    {
+      "start": 1066.16,
+      "duration": 4.08,
+      "text": "think material science and AI designing"
+    },
+    {
+      "start": 1068.24,
+      "duration": 4.72,
+      "text": "new materials semiconductors"
+    },
+    {
+      "start": 1070.24,
+      "duration": 4.16,
+      "text": "superconductors uh batteries these kind"
+    },
+    {
+      "start": 1072.96,
+      "duration": 3.36,
+      "text": "of things is going to be a huge part of"
+    },
+    {
+      "start": 1074.4,
+      "duration": 4.24,
+      "text": "what AI the benefits AI will bring to"
+    },
+    {
+      "start": 1076.32,
+      "duration": 5.599,
+      "text": "the world. And I think we're at uh maybe"
+    },
+    {
+      "start": 1078.64,
+      "duration": 5.279,
+      "text": "like an alpha fold one level kind of an"
+    },
+    {
+      "start": 1081.919,
+      "duration": 3.921,
+      "text": "some promising research prototypes, but"
+    },
+    {
+      "start": 1083.919,
+      "duration": 3.601,
+      "text": "we need to go further. And for part of"
+    },
+    {
+      "start": 1085.84,
+      "duration": 3.76,
+      "text": "that is we need to be able to test our"
+    },
+    {
+      "start": 1087.52,
+      "duration": 4.159,
+      "text": "materials that our AIS are designing"
+    },
+    {
+      "start": 1089.6,
+      "duration": 5.12,
+      "text": "quickly. And so we're we're thinking"
+    },
+    {
+      "start": 1091.679,
+      "duration": 5.681,
+      "text": "about creating kind of automated lab um"
+    },
+    {
+      "start": 1094.72,
+      "duration": 5.28,
+      "text": "uh in in the UK to basically test these"
+    },
+    {
+      "start": 1097.36,
+      "duration": 4.8,
+      "text": "uh theoretical compounds that um the AI"
+    },
+    {
+      "start": 1100.0,
+      "duration": 3.52,
+      "text": "systems are coming up with. Every time I"
+    },
+    {
+      "start": 1102.16,
+      "duration": 3.759,
+      "text": "see you, I ask you what is your"
+    },
+    {
+      "start": 1103.52,
+      "duration": 5.36,
+      "text": "expectation of the what's the timeline"
+    },
+    {
+      "start": 1105.919,
+      "duration": 6.161,
+      "text": "for AGI? And I've noticed that lately"
+    },
+    {
+      "start": 1108.88,
+      "duration": 5.76,
+      "text": "all of you are not talking so much about"
+    },
+    {
+      "start": 1112.08,
+      "duration": 6.4,
+      "text": "timelines. In fact, Sam Sam Oldman even"
+    },
+    {
+      "start": 1114.64,
+      "duration": 7.039,
+      "text": "says there is no we are in almost in uh"
+    },
+    {
+      "start": 1118.48,
+      "duration": 5.04,
+      "text": "at that at that stage. So I am going to"
+    },
+    {
+      "start": 1121.679,
+      "duration": 3.36,
+      "text": "ask you what is what is your timeline?"
+    },
+    {
+      "start": 1123.52,
+      "duration": 3.279,
+      "text": ">> Well, mine's been very consistent. I"
+    },
+    {
+      "start": 1125.039,
+      "duration": 4.321,
+      "text": "think we're about you know 5 to 10 years"
+    },
+    {
+      "start": 1126.799,
+      "duration": 4.24,
+      "text": "away. Um so maybe it's now like 4 to 9"
+    },
+    {
+      "start": 1129.36,
+      "duration": 3.679,
+      "text": "years."
+    },
+    {
+      "start": 1131.039,
+      "duration": 4.801,
+      "text": "So now it's like 4 to 8 years. So you"
+    },
+    {
+      "start": 1133.039,
+      "duration": 5.201,
+      "text": "know I think 2030 uh is probably the"
+    },
+    {
+      "start": 1135.84,
+      "duration": 4.719,
+      "text": "earliest you know it could be u maybe"
+    },
+    {
+      "start": 1138.24,
+      "duration": 5.2,
+      "text": "50% chance over that that kind of time"
+    },
+    {
+      "start": 1140.559,
+      "duration": 4.48,
+      "text": "zone. So um I I'm still sticking with my"
+    },
+    {
+      "start": 1143.44,
+      "duration": 4.479,
+      "text": "timeline. I think others who've had more"
+    },
+    {
+      "start": 1145.039,
+      "duration": 4.64,
+      "text": "aggressive timelines maybe are updating"
+    },
+    {
+      "start": 1147.919,
+      "duration": 3.361,
+      "text": "to you know to be a little bit longer"
+    },
+    {
+      "start": 1149.679,
+      "duration": 2.88,
+      "text": "and a little bit more realistic. But for"
+    },
+    {
+      "start": 1151.28,
+      "duration": 3.6,
+      "text": "me things always take a little bit"
+    },
+    {
+      "start": 1152.559,
+      "duration": 4.321,
+      "text": "longer than than ones assumes even at"
+    },
+    {
+      "start": 1154.88,
+      "duration": 3.44,
+      "text": "the pace that we're all going at. I mean"
+    },
+    {
+      "start": 1156.88,
+      "duration": 3.919,
+      "text": "that's still phenomenally that's still"
+    },
+    {
+      "start": 1158.32,
+      "duration": 4.0,
+      "text": "extremely soon. Um, I just think it's"
+    },
+    {
+      "start": 1160.799,
+      "duration": 3.841,
+      "text": "not going to be sort of like next year."
+    },
+    {
+      "start": 1162.32,
+      "duration": 5.359,
+      "text": ">> And your job has evolved a lot from deep"
+    },
+    {
+      "start": 1164.64,
+      "duration": 6.72,
+      "text": "mind to actually handling all of uh"
+    },
+    {
+      "start": 1167.679,
+      "duration": 6.561,
+      "text": "Google's uh AI. I'm just wondering where"
+    },
+    {
+      "start": 1171.36,
+      "duration": 4.24,
+      "text": "you see your future is uh do you want to"
+    },
+    {
+      "start": 1174.24,
+      "duration": 3.439,
+      "text": "be CEO?"
+    },
+    {
+      "start": 1175.6,
+      "duration": 5.12,
+      "text": ">> No, look, I love the I'm very happy what"
+    },
+    {
+      "start": 1177.679,
+      "duration": 5.201,
+      "text": "I'm doing. I I I love being close to the"
+    },
+    {
+      "start": 1180.72,
+      "duration": 3.92,
+      "text": "science and the research. So, I still"
+    },
+    {
+      "start": 1182.88,
+      "duration": 3.2,
+      "text": "try and carve out time to do that even"
+    },
+    {
+      "start": 1184.64,
+      "duration": 3.6,
+      "text": "though I'm running, you know, a lot of"
+    },
+    {
+      "start": 1186.08,
+      "duration": 4.24,
+      "text": "things, including some products now. Um,"
+    },
+    {
+      "start": 1188.24,
+      "duration": 4.4,
+      "text": "but look, I can get pretty excited about"
+    },
+    {
+      "start": 1190.32,
+      "duration": 3.68,
+      "text": "I'm very general in my interests and I"
+    },
+    {
+      "start": 1192.64,
+      "duration": 3.36,
+      "text": "can get very excited about anything"
+    },
+    {
+      "start": 1194.0,
+      "duration": 3.44,
+      "text": "that's cutting edge. Um, especially if"
+    },
+    {
+      "start": 1196.0,
+      "duration": 3.36,
+      "text": "it has a especially if it has a"
+    },
+    {
+      "start": 1197.44,
+      "duration": 3.44,
+      "text": "leaderboard attached to it. Yeah, I"
+    },
+    {
+      "start": 1199.36,
+      "duration": 3.04,
+      "text": "think you know there's only so much one"
+    },
+    {
+      "start": 1200.88,
+      "duration": 4.72,
+      "text": "can do in the day and still leave enough"
+    },
+    {
+      "start": 1202.4,
+      "duration": 5.2,
+      "text": "time for uh serious thinking uh which I"
+    },
+    {
+      "start": 1205.6,
+      "duration": 3.92,
+      "text": "do at nighttime and I quite like that"
+    },
+    {
+      "start": 1207.6,
+      "duration": 2.8,
+      "text": "routine. So I hope to be able to stick"
+    },
+    {
+      "start": 1209.52,
+      "duration": 3.6,
+      "text": "with that."
+    },
+    {
+      "start": 1210.4,
+      "duration": 5.84,
+      "text": ">> You didn't say no."
+    },
+    {
+      "start": 1213.12,
+      "duration": 4.24,
+      "text": ">> No. Okay, so there we go. [laughter]"
+    },
+    {
+      "start": 1216.24,
+      "duration": 2.0,
+      "text": ">> Uh, thank you. Yeah."
+    },
+    {
+      "start": 1217.36,
+      "duration": 4.12,
+      "text": ">> Thank you, Dennis."
+    },
+    {
+      "start": 1218.24,
+      "duration": 3.24,
+      "text": ">> Thank you."
+    }
+  ]
+}
