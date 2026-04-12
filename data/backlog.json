@@ -1,358 +1,6 @@
 {
   "queue": [
     {
-      "video_id": "h8nOOKsQ2LA",
-      "title": "【外国人問題】客引きに後ろから殴られる？",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-25T10:01:04+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256758"
-    },
-    {
-      "video_id": "S_KFfAuLVhc",
-      "title": "【ゴールドで見る日経平均】「日本円の価値」が減価？",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-25T03:00:26+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256764"
-    },
-    {
-      "video_id": "_5wca9hsges",
-      "title": "【株高不況】2026年は景気が良くない⁉︎",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-24T10:01:00+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256767"
-    },
-    {
-      "video_id": "Xhuv6OG15gY",
-      "title": "【上げ相場の参入術】初心者は\"段階買い\"でリスク回避せよ",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-24T03:00:40+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256772"
-    },
-    {
-      "video_id": "JGA4D-_V5TE",
-      "title": "【戦後初】高市首相が述べた「選挙公約」とは",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-23T12:00:37+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256777"
-    },
-    {
-      "video_id": "RltVQe4yuKo",
-      "title": "【佐田志歩】株に向いていない人代表として伝えたいこと",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-23T10:00:41+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256781"
-    },
-    {
-      "video_id": "jpqJ8vaoDak",
-      "title": "【大家力向上】現場で差がつく！キャッシュフローを上げる実践テク3選",
-      "channel": "楽待 RAKUMACHI",
-      "published_at": "2026-01-22T21:00:55+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256784"
-    },
-    {
-      "video_id": "cRVezdUhrEY",
-      "title": "【坂上忍が呑む！】日本酒は二級が旨い！立川談志、大滝秀治、児玉清…著名人が愛した江戸前天丼",
-      "channel": "NewsPicks /ニューズピックス",
-      "published_at": "2026-01-25T09:00:48+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256788"
-    },
-    {
-      "video_id": "qiqTXHIcWf0",
-      "title": "「天才投資家」井村さんとfundnoteがケンカ別れしそうな件を解説します。関連銘柄は解約売りに注意！井村ファンドの投資家はどうなる？ぜひ、両者は「大人の対応」を！",
-      "channel": "田端大学　投資学部",
-      "published_at": "2026-01-25T00:58:06+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256795"
-    },
-    {
-      "video_id": "3fPTHOjD4bY",
-      "title": "Serial Entrepreneur Red Flags! 🚩 Stock Plummets 83% 📉",
-      "channel": "Nanalyze",
-      "published_at": "2026-01-24T15:00:09+00:00",
-      "lang": "en",
-      "added_at": "2026-01-25T20:44:20.256800"
-    },
-    {
-      "video_id": "Xadncu0HlCY",
-      "title": "AI Drug Discovery 🔬: Recursion's Future Path  🚀",
-      "channel": "Nanalyze",
-      "published_at": "2026-01-23T15:01:05+00:00",
-      "lang": "en",
-      "added_at": "2026-01-25T20:44:20.256805"
-    },
-    {
-      "video_id": "IV5cYIU3tHo",
-      "title": "AI Drug Discovery 🚩Red Flags & Better Bets  🔍",
-      "channel": "Nanalyze",
-      "published_at": "2026-01-22T15:00:29+00:00",
-      "lang": "en",
-      "added_at": "2026-01-25T20:44:20.256809"
-    },
-    {
-      "video_id": "NqHTI8XEB2g",
-      "title": "Is this how the Western alliance dies?",
-      "channel": "The Economist",
-      "published_at": "2026-01-23T17:25:56+00:00",
-      "lang": "en",
-      "added_at": "2026-01-25T20:44:20.256813"
-    },
-    {
-      "video_id": "TyfyTr0M4YA",
-      "title": "Could this be the end of the West as we know it?",
-      "channel": "The Economist",
-      "published_at": "2026-01-23T15:53:38+00:00",
-      "lang": "en",
-      "added_at": "2026-01-25T20:44:20.256817"
-    },
-    {
-      "video_id": "0kpEz8H2Bok",
-      "title": "Jamie Dimon calls Trump credit-card cap a “disaster”",
-      "channel": "The Economist",
-      "published_at": "2026-01-23T11:00:00+00:00",
-      "lang": "en",
-      "added_at": "2026-01-25T20:44:20.256821"
-    },
-    {
-      "video_id": "6jDE63IX2dI",
-      "title": "Islamic State prisoners have escaped in Syria",
-      "channel": "The Economist",
-      "published_at": "2026-01-22T22:00:52+00:00",
-      "lang": "en",
-      "added_at": "2026-01-25T20:44:20.256825"
-    },
-    {
-      "video_id": "1GnpJ4MT22I",
-      "title": "Jamie Dimon on whether CEOs are afraid of Trump",
-      "channel": "The Economist",
-      "published_at": "2026-01-22T19:38:44+00:00",
-      "lang": "en",
-      "added_at": "2026-01-25T20:44:20.256829"
-    },
-    {
-      "video_id": "2pj24ArDDfM",
-      "title": "Ken Griffin on Trump’s economic policy",
-      "channel": "The Economist",
-      "published_at": "2026-01-22T17:23:58+00:00",
-      "lang": "en",
-      "added_at": "2026-01-25T20:44:20.256833"
-    },
-    {
-      "video_id": "EklHIBHlmRU",
-      "title": "Goldman Sachs CEO on AI bubble worries",
-      "channel": "The Prof G Pod – Scott Galloway",
-      "published_at": "2026-01-23T22:00:27+00:00",
-      "lang": "en",
-      "added_at": "2026-01-25T20:44:20.256836"
-    },
-    {
-      "video_id": "o48ECjhWg50",
-      "title": "Major U.S debt concerns from Goldman Sachs CEO",
-      "channel": "The Prof G Pod – Scott Galloway",
-      "published_at": "2026-01-23T14:30:46+00:00",
-      "lang": "en",
-      "added_at": "2026-01-25T20:44:20.256842"
-    },
-    {
-      "video_id": "sr2Z85n4klM",
-      "title": "China's birth rate hits new record low",
-      "channel": "The Prof G Pod – Scott Galloway",
-      "published_at": "2026-01-22T21:01:04+00:00",
-      "lang": "en",
-      "added_at": "2026-01-25T20:44:20.256847"
-    },
-    {
-      "video_id": "Jv8zJtn9UGQ",
-      "title": "The framework deal that stopped Trump's tariffs",
-      "channel": "The Prof G Pod – Scott Galloway",
-      "published_at": "2026-01-22T17:30:13+00:00",
-      "lang": "en",
-      "added_at": "2026-01-25T20:44:20.256853"
-    },
-    {
-      "video_id": "5uCZV8gmyE0",
-      "title": "【参政党・神谷宗幣が「保守ともリベラルとも組める」理由】参政党の躍進が高市政権発足に繋がった｜アメリカとも中露とも対話すべき｜靖国参拝と夫婦別姓の“矛盾”｜「参政党に票が流れる」説への苦言【與那覇潤】",
-      "channel": "文藝春秋PLUS 公式チャンネル",
-      "published_at": "2026-01-25T11:00:09+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256858"
-    },
-    {
-      "video_id": "6MGUOWAPIbo",
-      "title": "段ボール製ドローンで挑む防衛産業の「壁」【ブレイクスルー未公開版】",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-01-25T11:00:20+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256871"
-    },
-    {
-      "video_id": "Onq_d9j56g4",
-      "title": "1機30万円の段ボール製ドローンで防衛産業を変革!?【ブレイクスルー】",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-01-25T10:00:29+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256875"
-    },
-    {
-      "video_id": "pHkwhK6MIUk",
-      "title": "大阪市長選挙きょう告示 「大阪都構想」への3度目の挑戦の是非が争点か",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-01-25T09:12:32+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256881"
-    },
-    {
-      "video_id": "kXDRRA4TgTA",
-      "title": "トランプ大統領、中国との貿易協定締結でカナダに100％の関税警告",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-01-25T09:12:31+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256886"
-    },
-    {
-      "video_id": "eJMNXwdye8o",
-      "title": "米露ウクライナ、侵攻後初の協議　領土問題で進展なし",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-01-25T09:12:30+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256891"
-    },
-    {
-      "video_id": "PAuEeo5jjiY",
-      "title": "米・ミネアポリスで連邦職員が男性を発砲し死亡",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-01-25T09:12:29+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256897"
-    },
-    {
-      "video_id": "ZKfFe2rPLXE",
-      "title": "上野動物園の双子パンダ　最終観覧日迎え多くのファンが別れ惜しむ",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-01-25T09:12:27+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256902"
-    },
-    {
-      "video_id": "YEeLn0eh3v8",
-      "title": "黒星スタートの藤井六冠巻き返しなるか 王将戦第2局開始",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-01-24T09:15:45+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256911"
-    },
-    {
-      "video_id": "ZZXXz8F1llk",
-      "title": "米国防戦略公表 同盟国に防衛支出などGDP比5％提唱 対中国は対話拡充の方針",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-01-24T09:14:30+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256916"
-    },
-    {
-      "video_id": "Ah1TaDXKooM",
-      "title": "衆院選向け「ローン・オフェンダー」対策含む警戒警備を徹底へ 選挙違反取り締まりも強化",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-01-24T09:13:27+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256935"
-    },
-    {
-      "video_id": "iLDidWIBros",
-      "title": "トランプ氏のNATO部隊巡る発言に英首相反発「私だったら謝罪する」",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-01-24T09:12:26+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256940"
-    },
-    {
-      "video_id": "7DmI7JIWn3c",
-      "title": "【要約】幸福について―人生論【ショーペンハウアー】",
-      "channel": "フェルミ漫画大学",
-      "published_at": "2026-01-25T11:00:00+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256946"
-    },
-    {
-      "video_id": "lgxwD2C_Zkc",
-      "title": "【99%が知らない】『サイコロジー・オブ・マネー』×続編『アート・オブ・スペンディングマネー』──2冊統合して見えた「増やすだけでは破滅する理由」",
-      "channel": "AIでゆっくり本要約チャンネル",
-      "published_at": "2026-01-25T10:01:07+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256950"
-    },
-    {
-      "video_id": "D9QePRx1U3E",
-      "title": "【トップの極意】「待ち受け画面」にヒントがある／人生も営業成績も「習慣」がすべて／トップセールスは「クロージング」前に●●をする／営業の肝は「タライの法則」／忘れられない人になる秘訣",
-      "channel": "flier 公式チャンネル",
-      "published_at": "2026-01-25T11:00:31+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-25T20:44:20.256955"
-    },
-    {
-      "video_id": "C6ktyM1Gl60",
-      "title": "Good Luck, Texas (Prepare for the Cold Front) || Peter Zeihan",
-      "channel": "Zeihan on Geopolitics",
-      "published_at": "2026-01-24T11:15:03+00:00",
-      "lang": "en",
-      "added_at": "2026-01-25T20:44:20.256961"
-    },
-    {
-      "video_id": "Cy_E2Uv1crM",
-      "title": "Lessons From Japan's Demographic Collapse || Peter Zeihan",
-      "channel": "Zeihan on Geopolitics",
-      "published_at": "2026-01-23T10:45:01+00:00",
-      "lang": "en",
-      "added_at": "2026-01-25T20:44:20.256965"
-    },
-    {
-      "video_id": "PSRP_Ui1ZbY",
-      "title": "耳掃除・ヘアカラーはしてはいけない／テレビじゃ言えない／毛染めの神経毒が耳と目の機能に悪影響／耳掃除でカビ／米国では綿棒で耳掃除は厳禁／音は聞こえるのに理解できない「聞き取り困難症」【健康新常識】",
-      "channel": "PIVOT 公式チャンネル",
-      "published_at": "2026-01-28T11:00:42+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-28T23:08:39.622230"
-    },
-    {
-      "video_id": "JwTplsaprvE",
-      "title": "【2026年 AIエージェントの勝ち筋】AIとSaaSで変わるバックオフィス業務／社内の暗黙知を導入支援／SaaS is Deadから見えてきた市場の可能性",
-      "channel": "PIVOT 公式チャンネル",
-      "published_at": "2026-01-28T07:00:27+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-28T23:08:39.622242"
-    },
-    {
-      "video_id": "OaQk7ECWklc",
-      "title": "【弁護士直伝 法務のためのAI活用術】そのAI 法律を間違えていませんか？ /  企業成長に伴う法的リスクとどう向き合うか  /世界水準の法務AI /  ハルシネーションリスク /法務AIエージェント",
-      "channel": "PIVOT 公式チャンネル",
-      "published_at": "2026-01-28T05:00:34+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-28T23:08:39.622248"
-    },
-    {
-      "video_id": "89jh5rf_xnY",
-      "title": "【注目技術10選】2030年のテクノロジー展望／空飛ぶクルマは実現するか／ナトリウムイオン電池が資源問題を解決／AIがシステム開発／日経BPクロスメディア・尾崎憲和氏【PIVOT TALK TECH】",
-      "channel": "PIVOT 公式チャンネル",
-      "published_at": "2026-01-28T03:00:14+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-28T23:08:39.622253"
-    },
-    {
-      "video_id": "RGergl-0l2s",
-      "title": "【日立社長 vs. 忖度ナシ社員】「大企業病は治っていない」／NVIDIA・OpenAIが日立を選んだ理由／ジョブ型人事は成功か？／株価は10年で5倍／GAFAMはライバルではない【CEO Chat】",
-      "channel": "PIVOT 公式チャンネル",
-      "published_at": "2026-01-27T22:00:34+00:00",
-      "lang": "ja",
-      "added_at": "2026-01-28T23:08:39.622258"
-    },
-    {
       "video_id": "qT_IodMBwFw",
       "title": "【DIGEST】元ゴールドマン・サックス河村真木子が語る会社員時代の投資術／行動習慣と朝ルーティン／富裕層になるための秘訣",
       "channel": "PIVOT 公式チャンネル",
@@ -1703,6 +1351,566 @@
       "published_at": "2026-01-30T12:00:20+00:00",
       "lang": "ja",
       "added_at": "2026-01-31T07:10:18.098945"
+    },
+    {
+      "video_id": "ICALxG-erG4",
+      "title": "【DIGEST】超エリートAI起業家が断言：2026年中に言語の壁崩壊／言語の壁が消える時代／音声AI／AIで生産性10倍",
+      "channel": "PIVOT 公式チャンネル",
+      "published_at": "2026-04-11T14:00:33+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.925637"
+    },
+    {
+      "video_id": "bC58iuVf5xw",
+      "title": "【好きを仕事にする人は要注意】年商40億ブランド『Ameri』黒石奈央子の仕事の流儀／ダサいことも時には必要／利益か？こだわりか？竹内由恵も悩む事業バランス／稼げなければ趣味と同じ【ビジネス虎の巻】",
+      "channel": "PIVOT 公式チャンネル",
+      "published_at": "2026-04-11T11:00:55+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.925721"
+    },
+    {
+      "video_id": "N2an9WwkJT0",
+      "title": "【 30代から襲いかかるお金のリアル】世代別ライフプランニング術 / 10ヶ月以内の遺産相続タスク /親の介護誰がやる問題/ 人生100年時代はお金が足りなくなる/ 教育費と老後資金のバランスの取り方",
+      "channel": "PIVOT 公式チャンネル",
+      "published_at": "2026-04-11T07:00:30+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.925761"
+    },
+    {
+      "video_id": "7H_7y_GkowQ",
+      "title": "【タワマン購入の残酷な現実】パワーカップルに警鐘！実需限界は1億3000万円／金利上昇で潮目が変わる？マーケットを読む3つの視点／牧野知弘が薦めるハウスリセットとは？【PIVOT MONEY】",
+      "channel": "PIVOT 公式チャンネル",
+      "published_at": "2026-04-11T03:00:08+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.925801"
+    },
+    {
+      "video_id": "GgWKjnaMsS8",
+      "title": "【イラン戦争は長期化する。膨らむ戦争コスト】停戦交渉の成功が難しい理由／ホルムズ海峡の行方／国防予算は１.5兆ドルへ／もし中間選挙に負けたら／トランプはイランにこだわる／バンスか、ルビオか",
+      "channel": "PIVOT 公式チャンネル",
+      "published_at": "2026-04-11T00:00:16+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.925840"
+    },
+    {
+      "video_id": "zo9EdCy7_08",
+      "title": "【斎藤隆×杉谷拳士】大谷翔平の打撃に異変？／ドジャース戦力を徹底分析／３連覇の確率24%／捕手との心理戦／新加入のカイル・タッカー／若手有望株のアンディ・パヘス／【PIVOT BASEBALL】",
+      "channel": "PIVOT 公式チャンネル",
+      "published_at": "2026-04-10T11:01:53+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.925880"
+    },
+    {
+      "video_id": "dmKuhnXnie8",
+      "title": "【石油のウソ・ホント】米国産シェールオイルは日本で活用できる？／「石油備蓄250日」数字のマジック／「ホルムズはコントロールできる」知ってしまったイラン／エネルギー安保で今こそ必要な国民的議論",
+      "channel": "PIVOT 公式チャンネル",
+      "published_at": "2026-04-10T09:01:03+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.925973"
+    },
+    {
+      "video_id": "Px5WpfXveMg",
+      "title": "【金融×AI 業界を救う「共創」】証券業界をアップデート、その裏側／投資ブームの裏で金融インフラのDX化が急務／コールセンターのオペレーター教育にAIを活用／10年後の金融現場、人間の仕事はどうなる？",
+      "channel": "PIVOT 公式チャンネル",
+      "published_at": "2026-04-10T07:00:21+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926022"
+    },
+    {
+      "video_id": "hk60K8PS7k8",
+      "title": "【デンソーのローム買収提案】自動車業界はどう見るか／ロームの価値と中立性リスク／トヨタグループにとって必要な一手か？／完全取得以外の選択肢は？／自動車産業アナリスト 中西孝樹氏【PIVOT NEWS】",
+      "channel": "PIVOT 公式チャンネル",
+      "published_at": "2026-04-10T03:00:45+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926061"
+    },
+    {
+      "video_id": "P_07g8JEgVQ",
+      "title": "【速報分析：中東オイル危機で、EVシフトは進むのか？】中東は日本メーカーのドル箱／中東、ロシアで中国勢が急成長／サプライチェーンの危機／ガソリン車とEVのどちらが得なのか？／日本メーカーの二極化が進む",
+      "channel": "PIVOT 公式チャンネル",
+      "published_at": "2026-04-09T22:00:36+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926096"
+    },
+    {
+      "video_id": "jzAe0rTJS7w",
+      "title": "【ストレスフリーの仕事術】樺沢紫苑×益田裕介／仕事でつらい時のメンタル回復法／脳疲労を癒やす／正しい睡眠と休息／言語化で脳を刺激せよ／思考のループを断ち切る／人前で緊張しない方法【ビジネス虎の巻】",
+      "channel": "PIVOT 公式チャンネル",
+      "published_at": "2026-04-09T11:01:17+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926136"
+    },
+    {
+      "video_id": "NlpZT7a9TQo",
+      "title": "【アナフィラキシーが増えている】酒と疲労と薬が合わさるとアレルギーが重症化／最新治療、患者参画とAI活用が導く解決策／慶應義塾大学病院アレルギーセンター・足立剛也副センター長【1on1Health】",
+      "channel": "TBS CROSS DIG with Bloomberg",
+      "published_at": "2026-04-12T10:00:22+00:00",
+      "lang": "en",
+      "added_at": "2026-04-12T19:32:01.926176"
+    },
+    {
+      "video_id": "GRCA4nICtkw",
+      "title": "【Netflix「九条の大罪」から見る令和のヒーロー像】単純な善悪を超えた主人公が好まれる／ドラマは“社会の解像度”を上げる／毎日ドラマ漬け・明日菜子のドラマ鑑賞のコツ【DRAMA WATCHERS】",
+      "channel": "TBS CROSS DIG with Bloomberg",
+      "published_at": "2026-04-10T22:00:27+00:00",
+      "lang": "en",
+      "added_at": "2026-04-12T19:32:01.926217"
+    },
+    {
+      "video_id": "J7x-FJMB2kM",
+      "title": "【「AIが賢くなることをAI自身が加速させる」ループに入ったか】知性の物理学を研究する田中秀宣／「お辞儀」から考えるAIの文化形成／シンギュラリティ時代の世界をどう生きるか【1on1】",
+      "channel": "TBS CROSS DIG with Bloomberg",
+      "published_at": "2026-04-10T12:27:52+00:00",
+      "lang": "en",
+      "added_at": "2026-04-12T19:32:01.926257"
+    },
+    {
+      "video_id": "wmfG18Q6smE",
+      "title": "【中国の軍事技術】全く機能していない",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-12T10:01:22+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926296"
+    },
+    {
+      "video_id": "b8zsj2Z9j0E",
+      "title": "【中国共産党の正体】現政権は毛沢東時代より独裁的!? 中国で進む「北朝鮮化」／「中国批判」が右翼扱いされる理由／国民をマインドコントロール／中国はソ連によって作られた《興梠一郎×柯隆×峯村健司》",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-12T09:37:10+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926336"
+    },
+    {
+      "video_id": "ckY0fRlaj-g",
+      "title": "【レアアース泥】日本経済の救世主になるか",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-12T03:00:46+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926377"
+    },
+    {
+      "video_id": "1D7PFHZmt_Y",
+      "title": "【中国の軍事力】実戦経験が足りない？",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-11T21:00:04+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926412"
+    },
+    {
+      "video_id": "iHVrm24nRW8",
+      "title": "【電気代高騰】全部電気代に上乗せ⁉︎",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-11T10:01:11+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926459"
+    },
+    {
+      "video_id": "42vgHBpRJX8",
+      "title": "【胸が痛む】680万円の戸建てで1年間の家賃滞納、強制執行に立ち会った大家が見たもの",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-11T10:00:06+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926505"
+    },
+    {
+      "video_id": "tZR0jj8S9aM",
+      "title": "【ホルムズ海峡に通行料】日本も余計なお金を払う⁉︎",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-11T08:00:55+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926547"
+    },
+    {
+      "video_id": "5Aw48ijunAA",
+      "title": "【30年前から準備】中国「レアアース戦略」の全貌",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-11T03:00:05+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926624"
+    },
+    {
+      "video_id": "uANsodetg-c",
+      "title": "【年収500万円から挑戦】「80点でも買う」と決め、地元の信金・信組を開拓した投資戦略",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-10T21:00:59+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926671"
+    },
+    {
+      "video_id": "L3Z-jjU_cA4",
+      "title": "【ホルムズ海峡封鎖】オイルショックとは比較にならない⁉︎コロナショックに近い",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-10T21:00:31+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926774"
+    },
+    {
+      "video_id": "Rn8pwQ5XO68",
+      "title": "【オイルショック超え】止まった石油量は5倍⁉︎",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-10T12:00:59+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926858"
+    },
+    {
+      "video_id": "WkYN1C_WVP4",
+      "title": "【中国大使館侵入】報道内容が中国と日本で違う⁉︎",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-10T10:00:55+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926900"
+    },
+    {
+      "video_id": "usLTYB8trrU",
+      "title": "【停戦は崩壊寸前】どうなる米イラン協議…米中首脳会談・中間選挙まで見据えた“計算された戦争”の全貌とは《須田慎一郎×山田敏弘》",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-10T09:18:47+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926940"
+    },
+    {
+      "video_id": "QiMimRs1hgM",
+      "title": "【カニカマの赤色】天然色素だと3カ月しか持たない",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-09T21:00:26+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.926982"
+    },
+    {
+      "video_id": "bA8ad2w7ghQ",
+      "title": "【停戦合意は無理!?】イラン停戦交渉中”攻撃泥沼化”、オイルショック超える世界経済危機へ?／ホルムズ海峡航行、制約「夏まで」!?／核戦争突入の危険性／イランが引き下がれない理由《田中浩一郎の速報解説》",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-09T12:12:44+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.927023"
+    },
+    {
+      "video_id": "ZgHdEDL1Eyk",
+      "title": "「なめんなよって気持ち」頂上決戦へ。怪物・井上尚弥の独占インタビュー（後編）",
+      "channel": "NewsPicks /ニューズピックス",
+      "published_at": "2026-04-12T10:00:57+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.927067"
+    },
+    {
+      "video_id": "5uZdB08rFeI",
+      "title": "年間2兆円でも足りない…ごみ問題の“詰みかけた”構造",
+      "channel": "NewsPicks /ニューズピックス",
+      "published_at": "2026-04-10T13:00:12+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.927109"
+    },
+    {
+      "video_id": "sPaRkfcQz94",
+      "title": "NEXTインドの現場に迫る、いま若者に人気のブランド 安さも品質もこだわりたい",
+      "channel": "NewsPicks /ニューズピックス",
+      "published_at": "2026-04-10T12:01:44+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.927246"
+    },
+    {
+      "video_id": "A3Tw6pnChC4",
+      "title": "【保存版】あなたの1日が倍になる／10年続く習慣「たった1つのコツ」（井上新八）NewSchool Movie",
+      "channel": "NewsPicks /ニューズピックス",
+      "published_at": "2026-04-10T12:00:18+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.927296"
+    },
+    {
+      "video_id": "-EMRe_TeP4s",
+      "title": "「仕事一筋のリーダー」は組織のためにならない/人が辞める組織に共通する３つの兆し【坂井風太×高橋弘樹】",
+      "channel": "NewsPicks /ニューズピックス",
+      "published_at": "2026-04-10T10:00:01+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.927339"
+    },
+    {
+      "video_id": "VFvwJtQ_n6k",
+      "title": "米とイランの交渉不調で日本株どうなる！？〜日曜夜も株ライブwithちょる子",
+      "channel": "田端大学　投資学部",
+      "published_at": "2026-04-12T09:45:12+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.927383"
+    },
+    {
+      "video_id": "SVxfrtlnTUI",
+      "title": "moomoo証券でバフェット投資を完コピできる機能がある!?",
+      "channel": "田端大学　投資学部",
+      "published_at": "2026-04-12T01:00:00+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.927426"
+    },
+    {
+      "video_id": "f0A2Dld2fco",
+      "title": "moomooアプリで、有望株が見つかる!?",
+      "channel": "田端大学　投資学部",
+      "published_at": "2026-04-11T11:00:00+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.927468"
+    },
+    {
+      "video_id": "C2bf59YlwFA",
+      "title": "株もアイドルの推し活も同じ「旬を買う」か「信じて待つ」か",
+      "channel": "田端大学　投資学部",
+      "published_at": "2026-04-11T10:00:00+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.927514"
+    },
+    {
+      "video_id": "uokb60HYnbE",
+      "title": "イランが一時停戦後、日銀利上げは「かなりの確率」どうなる日経？",
+      "channel": "田端大学　投資学部",
+      "published_at": "2026-04-11T07:00:00+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.927557"
+    },
+    {
+      "video_id": "w8ON8vkM8KM",
+      "title": "moomoo証券は中国資本で大丈夫?その安全性について徹底議論",
+      "channel": "田端大学　投資学部",
+      "published_at": "2026-04-11T03:00:00+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.927599"
+    },
+    {
+      "video_id": "ARsBY2fac8I",
+      "title": "moomooアプリで、機関投資家の売買動向が分かる!?",
+      "channel": "田端大学　投資学部",
+      "published_at": "2026-04-10T10:00:00+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.927643"
+    },
+    {
+      "video_id": "rFPk2T6MZXc",
+      "title": "リアルゲイト株がライブ中に最高値更新！？〜ホルムズ「再封鎖」と報道も米株の反発続く。、原油100ドルで反落。",
+      "channel": "田端大学　投資学部",
+      "published_at": "2026-04-10T01:12:04+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.927687"
+    },
+    {
+      "video_id": "fgJZ-EIN1K4",
+      "title": "業績が良い会社に美人が多い理由とは??",
+      "channel": "田端大学　投資学部",
+      "published_at": "2026-04-09T23:00:00+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.927731"
+    },
+    {
+      "video_id": "iPnVJ8yyl8E",
+      "title": "イラン、ホルムズ海峡を再び封鎖と宣言 日本経済への影響は？",
+      "channel": "田端大学　投資学部",
+      "published_at": "2026-04-09T22:00:00+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.927775"
+    },
+    {
+      "video_id": "wja4dTU_1L8",
+      "title": "Could AI chatbots undo the harms of social media? | FT",
+      "channel": "Financial Times",
+      "published_at": "2026-04-10T07:13:30+00:00",
+      "lang": "en",
+      "added_at": "2026-04-12T19:32:01.927819"
+    },
+    {
+      "video_id": "E49a6h0p05k",
+      "title": "How to future-proof your career",
+      "channel": "Lenny's Podcast",
+      "published_at": "2026-04-11T11:00:21+00:00",
+      "lang": "en",
+      "added_at": "2026-04-12T19:32:01.927864"
+    },
+    {
+      "video_id": "7pI0pHq5P0Y",
+      "title": "Anthropic's exponential mindset",
+      "channel": "Lenny's Podcast",
+      "published_at": "2026-04-10T11:00:17+00:00",
+      "lang": "en",
+      "added_at": "2026-04-12T19:32:01.927907"
+    },
+    {
+      "video_id": "Vr5DvEp8sDI",
+      "title": "Do we still need PMs?",
+      "channel": "Lenny's Podcast",
+      "published_at": "2026-04-09T11:00:48+00:00",
+      "lang": "en",
+      "added_at": "2026-04-12T19:32:01.927952"
+    },
+    {
+      "video_id": "ovS2hYnIgZI",
+      "title": "Demis Hassabis on how to stop AI destroying everything",
+      "channel": "The Economist",
+      "published_at": "2026-04-12T10:00:00+00:00",
+      "lang": "en",
+      "added_at": "2026-04-12T19:32:01.927996"
+    },
+    {
+      "video_id": "afT4iYFPB78",
+      "title": "Could Viktor Orban be defeated? | The Economist",
+      "channel": "The Economist",
+      "published_at": "2026-04-11T10:00:00+00:00",
+      "lang": "en",
+      "added_at": "2026-04-12T19:32:01.928042"
+    },
+    {
+      "video_id": "JBFLW1UgTYg",
+      "title": "Has America frozen Israel out of ceasefire talks with Iran? | The Economist",
+      "channel": "The Economist",
+      "published_at": "2026-04-10T16:55:30+00:00",
+      "lang": "en",
+      "added_at": "2026-04-12T19:32:01.928103"
+    },
+    {
+      "video_id": "nqhurWYS1FY",
+      "title": "What America and Iran want from negotiations | The Economist",
+      "channel": "The Economist",
+      "published_at": "2026-04-10T14:00:00+00:00",
+      "lang": "en",
+      "added_at": "2026-04-12T19:32:01.928152"
+    },
+    {
+      "video_id": "FX63RXECXiU",
+      "title": "Are Trump supporters waking up the risks?",
+      "channel": "The Economist",
+      "published_at": "2026-04-10T10:00:00+00:00",
+      "lang": "en",
+      "added_at": "2026-04-12T19:32:01.928200"
+    },
+    {
+      "video_id": "wBLrlc8W9zY",
+      "title": "Why is Israel jeopardising the ceasefire? | The Economist",
+      "channel": "The Economist",
+      "published_at": "2026-04-09T22:00:00+00:00",
+      "lang": "en",
+      "added_at": "2026-04-12T19:32:01.928248"
+    },
+    {
+      "video_id": "D1f3ndw9ST0",
+      "title": "【シオニズムとは何か】発祥地・ロシア帝国で起きた迫害｜対象は“全ユダヤ人”｜なぜシオニズムは肥大化した？｜シオニズムは“イスラエル化”した｜米国が支援する理由｜ナショナリズムとの違いは…【鶴見太郎】",
+      "channel": "文藝春秋PLUS 公式チャンネル",
+      "published_at": "2026-04-10T11:00:32+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.928294"
+    },
+    {
+      "video_id": "UpnUtEFtqQ0",
+      "title": "【元総理通訳の英語学習法は「スピーキングファースト」】世界最難関言語＆英語を習得できた理由｜スピフルの瞬間英作文＆独り言英会話が最適なワケ｜1日5分でもOK｜なぜ英会話より伸びるのか？【中川浩一】",
+      "channel": "文藝春秋PLUS 公式チャンネル",
+      "published_at": "2026-04-10T02:00:32+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.928342"
+    },
+    {
+      "video_id": "d8ZFBfwBD5g",
+      "title": "【元総理通訳の英語学習法は「スピーキングファースト」】世界最難関言語＆英語を習得できた理由｜スピフルの瞬間英作文＆独り言英会話が最適なワケ｜1日5分でもOK｜なぜ英会話より伸びるのか？【中川浩一】",
+      "channel": "文藝春秋PLUS 公式チャンネル",
+      "published_at": "2026-04-10T02:00:26+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.928398"
+    },
+    {
+      "video_id": "d3u6KUiHzE4",
+      "title": "【米中首脳会談「高市外交の正念場」は】米国は中国の抑止を｜外交の基軸は日米同盟｜外交は「拝米ではなく利米」｜トランプは言葉より行動を見よ｜長期政権こそ強み｜中韓との付き合い方【山上信吾】",
+      "channel": "文藝春秋PLUS 公式チャンネル",
+      "published_at": "2026-04-09T11:00:58+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.928450"
+    },
+    {
+      "video_id": "vKlJneZqpi0",
+      "title": "飲食業界の課題解決に挑む！“調理ロボット”が厨房を変える【ブレイクスルー】",
+      "channel": "テレ東BIZ ダイジェスト",
+      "published_at": "2026-04-12T10:01:19+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.928499"
+    },
+    {
+      "video_id": "Z4yK4oeK_PA",
+      "title": "国産AI開発めざしソフトバンクなど4社中心に新会社設立",
+      "channel": "テレ東BIZ ダイジェスト",
+      "published_at": "2026-04-12T09:03:28+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.928548"
+    },
+    {
+      "video_id": "tQkSwDFau6E",
+      "title": "「選挙に勝ち続ける自民党つくる」総理 公約実現を訴え",
+      "channel": "テレ東BIZ ダイジェスト",
+      "published_at": "2026-04-12T09:03:27+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.928652"
+    },
+    {
+      "video_id": "BCMOqIibfrk",
+      "title": "アメリカとイランの戦闘終結に向けた協議、合意に至らず",
+      "channel": "テレ東BIZ ダイジェスト",
+      "published_at": "2026-04-12T09:03:26+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.928713"
+    },
+    {
+      "video_id": "VnNC9XXq4Us",
+      "title": "「青切符制度」スタートでスマホなど自転車の「ながら運転」を疑似体験！危険性を呼びかけ",
+      "channel": "テレ東BIZ ダイジェスト",
+      "published_at": "2026-04-11T09:57:25+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.928765"
+    },
+    {
+      "video_id": "moC6Q7kpJ1A",
+      "title": "米有人宇宙船「オリオン」が地球に無事帰還",
+      "channel": "テレ東BIZ ダイジェスト",
+      "published_at": "2026-04-11T09:57:01+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.928814"
+    },
+    {
+      "video_id": "KNEXTkyiJVk",
+      "title": "赤沢経済産業大臣「強い経済を作り上げる」ラピダスに2026年度6315億円の追加支援",
+      "channel": "テレ東BIZ ダイジェスト",
+      "published_at": "2026-04-11T09:56:32+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.928864"
+    },
+    {
+      "video_id": "4HXQ3IT1d5g",
+      "title": "戦闘終結へ 米イラン両代表団がパキスタンに到着　間もなく協議開始　交渉難航も",
+      "channel": "テレ東BIZ ダイジェスト",
+      "published_at": "2026-04-11T09:56:07+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.928918"
+    },
+    {
+      "video_id": "XqR2pFf5MJk",
+      "title": "【モーサテサタデー】米・イラン和平協議の行方",
+      "channel": "テレ東BIZ ダイジェスト",
+      "published_at": "2026-04-11T05:07:29+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.928974"
+    },
+    {
+      "video_id": "ZpYoLXQPb3A",
+      "title": "【夏休み～入試直前】中学受験“合格ロードマップ”/１点でも多くの部分点を取るには【放送版/円卓コンフィデンシャル】",
+      "channel": "テレ東BIZ ダイジェスト",
+      "published_at": "2026-04-11T02:30:23+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.929028"
+    },
+    {
+      "video_id": "_qSTDObNBWU",
+      "title": "米欧「代理戦争」ハンガリー議会選 トランプ氏が異例の“選挙介入”【NIKKEI NEWS NEXT】",
+      "channel": "テレ東BIZ ダイジェスト",
+      "published_at": "2026-04-11T02:00:27+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.929078"
+    },
+    {
+      "video_id": "cBgD5ICgbH4",
+      "title": "アメリカのイラン攻撃『あの時』との共通点は？【モーサテわからん】",
+      "channel": "テレ東BIZ ダイジェスト",
+      "published_at": "2026-04-11T01:00:41+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-12T19:32:01.929128"
     }
   ],
   "failed": [
@@ -1863,5 +2071,5 @@
       "description": "▼不動産投資なら、収益物件数NO.1「楽待アプリ」▼\nhttps://www.rakumachi.jp/r/yhttr4ve?uiaid=youtube\n\n▼後編はこちら▼\nhttps://youtu.be/5LnsHWPC_oE\n\n▼おすすめの関連動画▼\nhttps://youtu.be/wMhIK64EWes\nhttps://youtu.be/7PW5_Nmfp_0\n\n▼さらに実践的で役立つ動画を配信中！▼\n「楽待プレミアム」の詳細はこちら\nhttps://www.rakumachi.jp/lp/premium_service?uiaid=youtube\n月額プラン3300円\n年額プラン29800円（一括年払い）\n\n▼楽待チャンネルで広告・PRをお考えの方はこちら▼\nhttps://www.rakumachi.jp/r/mxkhgeq2\n\nーー[チャプター]ーー\n00:00 歴史の転換点となる選挙\n05:43 高市総理「圧勝」3つの理由\n14:15 高市政権3カ月の評価\n19:25 野党連合失速の理由\n27:30 日本復活のカギは「ナショナリズム」\n40:09 リベラル勢力の退潮が始まる\nーーーーーーーーー\n\n【切り抜き・転載禁止】\n楽待チャンネルの動画は、切り抜き・再編集・転載を一切禁止しております。\n\n【楽待】\n公式サイト：https://www.rakumachi.jp/?uiaid=youtube\n\n【公式SNS】\nX（旧Twitter）：https://twitter.com/RakumachiNews\nLINE＠：https://page.line.me/nyb2478b\nTikTok：https://www.tiktok.com/@rakumachi.jp\nFacebook：https://www.facebook.com/rakumachi/\nInstagram：https://www.instagram.com/rakumachi/\n\n【運営】\n楽待株式会社\n公式HP：https://rakumachi.co.jp/?uiaid=youtube\n\n#武者陵司 #衆院選 #高市政権 #高市早苗 #楽待 #不動産投資\n\n※『物件数No.1』：日本マーケティングリサーチ機構調べ（2025年8月）"
     }
   ],
-  "last_processed_at": "2026-01-30T20:54:13.010541"
+  "last_processed_at": "2026-04-12T19:50:50.130304"
 }
