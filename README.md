@@ -156,11 +156,18 @@ bash scripts/kilocode_summarize.sh --limit 5
 
 # 特定のファイルのみ処理
 bash scripts/kilocode_summarize.sh --file data/transcripts/VIDEO_ID_cleaned.txt
+
+# GLM-5 を明示して処理
+bash scripts/kilocode_summarize.sh --model openrouter/z-ai/glm-5 --limit 5
 ```
+
+> [!NOTE]
+> `kilocode_summarize.sh` は、モデル指定がない場合でもデフォルトで `openrouter/z-ai/glm-5` を使用します。
 
 **このスクリプトがやっていること:**
 - `blog_article_system.txt` をシステムプロンプトとして読み込みます。
 - `data/transcripts/` 内の `_cleaned.txt`（文字起こし）と `_description.txt`（概要欄）を Kilo Code に渡します。
+- デフォルトモデルは `openrouter/z-ai/glm-5` です。
 - 更新日時が新しい順に処理し、デフォルトでは最大3件まで処理を継続します。
 - 生成された要約を `data/summaries/VIDEO_ID.md` として書き出し、JSONから取得した適切な**YAMLフロントマター**を自動的に付与します。
 

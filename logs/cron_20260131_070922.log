@@ -1,0 +1,343 @@
+=== Cron Update Started: Sat Jan 31 07:09:22 JST 2026 ===
+--- .envファイルを読み込み中 ---
+Using provider: kilocode
+プロバイダー: kilocode
+モード: 文字起こし・概要欄保存のみ（LLM要約はKilo Code CLIで別途処理）
+
+=== RSS経由 バックログ処理 ===
+チャンネル数: 14
+モデル: gemini-2.5-flash
+テンプレート: blog_article
+
+📡 RSSフィードから新着動画を取得中...
+チャンネルをチェック中 (RSS): PIVOT 公式チャンネル (言語: ja)
+  ✓ 新着: 【竹内由恵×丸山珈琲】スペシャルティコーヒーのパイオニアに学ぶ／世界最高品質の豆を勝ち取った“ドブ板営業術”／農園主の名前で売る商品戦略／丸山健太郎が語る美味しいコーヒーの意外な条件【ビジネス虎の巻】
+  ✓ 新着: 【現地ルポ／私が福島に移住した理由】東日本大震災／避難指示解除で新たな移住者が／この地だけの魅力／全員が移住経験者／福島の現在地とこれから／大熊町／浪江町／川内村
+  ✓ 新着: 【DNP流 経営進化論】株価躍進の理由／非連続な挑戦とは／成長を支える6つの注力事業領域／150年企業の独自経営戦略に迫る
+  ✓ 新着: 【擁壁崩壊の予兆】2m以下ほど危険な3つの条件／1981年以前の建物は要注意／世田谷・杉並が危険／注意すべきは「ヘドロの臭い」／1分セルフチェック／自治体別の支援策【PIVOT BUSINESS】
+  ✓ 新着: 【ソニー×TCLは世界一になれるか？中国家電の実力】ソニーの選択は賢い／プレミアムTVで急成長／中韓の頂上決戦／中国の強みは垂直分裂／家電以外でも中国が席巻／アフリカの王トランシオン／AIoTの最前線
+  ✓ 新着: 【DIGEST】落合陽一の健康哲学／多種多様なAIを沢山使う重要性／Vision Proで究極の仕事効率化／デジタルとアナログの融合／食べない時間こそ価値
+  ✓ 新着: 【衆院選の争点を検証】「責任ある積極財政」の是非を、高市政権ブレーン・会田卓司に問う／利上げに頼らない物価高対策／人口減少時代に経済成長は可能か／成長を阻害するのはプライマリーバランス？【政策超分析】
+  ✓ 新着: 【二日酔い】飲み方とお酒の種類で変わる対策法
+  ✓ 新着: 【成長を加速する企業不動産戦略】プロが教える「外部委託」成功の秘訣／ワンフロア集約で意思決定を高速化／コスト削減と社員満足を両立させるには
+  ✓ 新着: 【成長を加速する企業不動産戦略】プロが教える「外部委託」成功の秘訣／ワンフロア集約で意思決定を高速化／コスト削減と社員満足を両立させるには
+  ✓ 新着: 【移民取り締まり激化に批判】ミネアポリス市民射殺事件の衝撃／トランプ大統領の姿勢に変化／政権vs「聖域都市」／ICEの実態軍隊並みの予算と大幅人員拡大
+  ✓ 新着: 【徹底予測：為替介入と選挙でドル円はどう動くか？】レートチェックの影響／米国当局が協力した３つの理由／今後、協調介入はあるか？／全てはドル次第／自民勝利ならさらに円安／年末165円へ向かう
+  ✓ 新着: 耳掃除・ヘアカラーはしてはいけない／テレビじゃ言えない／毛染めの神経毒が耳と目の機能に悪影響／耳掃除でカビ／米国では綿棒で耳掃除は厳禁／音は聞こえるのに理解できない「聞き取り困難症」【健康新常識】
+  ✓ 新着: 【2026年 AIエージェントの勝ち筋】AIとSaaSで変わるバックオフィス業務／社内の暗黙知を導入支援／SaaS is Deadから見えてきた市場の可能性
+  ✓ 新着: 【弁護士直伝 法務のためのAI活用術】そのAI 法律を間違えていませんか？ /  企業成長に伴う法的リスクとどう向き合うか  /世界水準の法務AI /  ハルシネーションリスク /法務AIエージェント
+  ⏳ 次のチャンネルまで待機中... (3.2s)
+チャンネルをチェック中 (RSS): TBS CROSS DIG with Bloomberg (言語: en)
+  ✓ 新着: 【中田敦彦】AI進化が突きつける「自身の古さ」／自分が老害にならないために「感覚のズレを観察」／”引き際”の見極め方／「仕事だけが人生じゃない」人生の後半戦を生きる技術【FUTURECARD】
+  ✓ 新着: 【“AIドクター”の本命はGoogle】近大医学部教授・大塚篤司「新型ChatGPTで3分の診察が激変」／Googleは医学論文を量産→医師は「脅威だ」／AIは診察前の予習に使え【1on1 Tech】
+  ✓ 新着: 【Google株は4兆ドル突破でも「まだ安い」】8兆円ファンド日本代表・時国司／Geminiは“ChatGPT超え”も無料扱い／AI革命でも検索回帰でも“負け”はない【Investor's Mind】
+  ⏳ 次のチャンネルまで待機中... (4.6s)
+チャンネルをチェック中 (RSS): 楽待 RAKUMACHI (言語: ja)
+  ✓ 新着: 【買わせとけ！】不動産バブルは崩壊する？
+  ✓ 新着: 【衆院選】予測困難!?山本期日前の最新「議席予想」に須田慎一郎が斬り込む！自民は単独過半数を取れるのか／注目の野党とは《楽待公式切り抜き》
+  ✓ 新着: 【訪日中国人】「ガチ中華料理」が安心材料？
+  ✓ 新着: 【衆院選】オールドメディアより"草の根"が主役？
+  ✓ 新着: 【給料上げろ！】ボビー・オロゴンが「円安✕物価高」の日本に物申す
+  ✓ 新着: 【住宅価格なぜ高騰？】衆院選の争点に「マイホーム問題」浮上！家が高すぎる真因は／不動産投機は抑制すべき？／空室税・家賃補助の現実【野澤千絵×長嶋修×ボビー・オロゴン】
+  ✓ 新着: 【わずか2カ月で5億物件成約】「楽待タイアップ動画」の効果とは？／最初は懐疑的だったが…／メルマガ会員222人増加／新富裕層43人／認知→信頼まで一気に
+  ✓ 新着: 【大注目の選挙区】政権構図が変わりかねない？
+  ✓ 新着: 【選挙演説】音に被せるのだけはやめて！
+  ✓ 新着: 【AI投資の犠牲】PC値上げ・メモリ高騰はいつまで続く？企業と株価の影響は／パワー半導体は「中国独占」の危機？日本企業は生き残れるか《藤代宏一×大山聡》
+  ✓ 新着: 【選挙あるある】絶対にいる「色深めのベレー帽を被っている人」
+  ✓ 新着: 【衆議院選挙】自民勝利で半年間は株高継続？
+  ✓ 新着: 【新NISA】3年目に訪れる「罠」
+  ✓ 新着: 【高市首相も財界もスルー】中国のレアアース規制、なぜ焦らない？
+  ✓ 新着: 【衆議院議員選挙】中道改革連合の出陣式に違和感？？？
+  ⏳ 次のチャンネルまで待機中... (3.9s)
+チャンネルをチェック中 (RSS): NewsPicks /ニューズピックス (言語: ja)
+  ✓ 新着: 【必見】二地域居住がもう「富裕層だけ」ではない理由。選択から見える新しい人生設計の形【NewsPicks／全宅連／中野美奈子／山崎亮／谷口守／井上恵美香／地方創生／人口減少／ウェルビーイング】
+  ✓ 新着: 膨大な顧客の中から解約予備軍を探し出す「ヘルススコア」設計法／セールスとカスタマーサクセスをどう棲み分けるか？（山田ひさのり）NewSchool Movie
+  ✓ 新着: 不祥事続きのSOMPO、奥村CEOは今何を思う？
+  ✓ 新着: 「高市政権を認めるか、認めないか」だけではない。衆院選は「推し活のゲーム」今後"保守"の定義は変わる？声なき声が顕在化する社会の分断構造とは【先崎彰容、落合陽一】
+  ✓ 新着: 【売れないSaaS】原因は「体験なき購買」。 成約率を劇的に変える「デモプラットフォーム」 の可能性に迫る【松永エリック・匡史／SaaS／ソフトウェア／デモ／営業／1on1 DEEP】
+  ✓ 新着: α世代に圧倒的支持を持つあぃりDXがプロデュースする共通の戦略を紐解いていく。【あぃりDX/岸谷蘭丸/MON7A】
+  ⏳ 次のチャンネルまで待機中... (3.9s)
+チャンネルをチェック中 (RSS): 田端大学　投資学部 (言語: ja)
+  ✓ 新着: 【緊急】金と銀の大暴落を解説します。FRB議長にウォーシュ氏をトランプが指名。日本株への影響は？
+  ✓ 新着: 金価格が急落から急反発。通貨への不信は収まったのか？
+  ✓ 新着: 狂乱のアドバン祭りを田端がナマ実況！！！高市自民が大勝利へ！で日経平均はさらに上を目指すか
+  ✓ 新着: 増資は？配当は？決算直後のリアルゲイトに突撃！株主として根掘り葉掘り聞いてきました。
+  ✓ 新着: なぜトランプはドル安を歓迎するのか？「ドル安・円高」で日経先物 急落。
+  ⏳ 次のチャンネルまで待機中... (4.8s)
+チャンネルをチェック中 (RSS): Bloomberg Originals (言語: en)
+  ✓ 新着: Why the World Is Awash With Cheap Oil
+  ⏳ 次のチャンネルまで待機中... (4.8s)
+チャンネルをチェック中 (RSS): Financial Times (言語: en)
+  ✓ 新着: India and the true cost of coal | FT Film
+  ⏳ 次のチャンネルまで待機中... (4.0s)
+チャンネルをチェック中 (RSS): Lenny's Podcast (言語: en)
+  ✓ 新着: Why the AI job loss panic is wrong
+  ✓ 新着: Marc Andreessen: The real AI boom hasn’t even started yet
+  ✓ 新着: Why churn is the worst growth problem
+  ⏳ 次のチャンネルまで待機中... (4.9s)
+チャンネルをチェック中 (RSS): The Economist (言語: en)
+  ✓ 新着: Is ICE a threat to American democracy?
+  ✓ 新着: Is ICE a threat to American democracy?
+  ✓ 新着: Where is the loneliest place in the world?
+  ✓ 新着: Why civil war is brewing in Iran
+  ✓ 新着: How OSINT has given Ukraine a strategic advantage
+  ✓ 新着: ICE is testing American democracy
+  ✓ 新着: Can Japan stop the yen falling?
+  ✓ 新着: How OSINT has given Ukraine a strategic advantage
+  ⏳ 次のチャンネルまで待機中... (4.8s)
+チャンネルをチェック中 (RSS): 文藝春秋PLUS 公式チャンネル (言語: ja)
+  ✓ 新着: 【「チームみらい」が消費減税を訴えない理由】安野貴博党首と高山さとし幹事長を石戸諭が直撃｜社会保険の引き下げ、どうやるの？｜「パソコンも持ち込めない」国会を変える｜他党との連携は？
+  ✓ 新着: 【不動産の新常識「底地」徹底ガイド】底地とは何か｜底地“放置”がまねくトラブル｜相続、空き家、高齢化…社会課題がリスクに｜適切な解決アプローチ｜地主・借地権者が大切にすべきこと【サンセイランディック】
+  ✓ 新着: 【不動産の新常識「底地」徹底ガイド】底地とは何か｜底地“放置”がまねくトラブル｜相続、空き家、高齢化…社会課題がリスクに｜適切な解決アプローチ｜地主・借地権者が大切にすべきこと【サンセイランディック】
+  ✓ 新着: 【トランプに接近するベネズエラ2人の女性】マチャドの“ノーベル平和賞譲渡”は必然｜マチャドが大統領になれない理由｜暫定大統領が持つ“2つの顔”｜マドゥロ政権の要注意人物｜ベネズエラの未来は【坂口安紀】
+  ✓ 新着: 【志位和夫vs辻田真佐憲】中道改革連合は「自民の軍門に下った」｜安保法制・原発・格差問題はどうする｜若年層のイメージをどう変えるか｜左派の弱体化はどうみてる？｜志位和夫が考える「左翼」とは
+  ✓ 新着: 【「中道」Wトップに宮崎哲弥が直撃】中道改革連合は“最強の野党”なのか｜参議院も地方も一体化へ｜ジャパンファンドで消費減税を実現｜後援会名簿の共有はせず｜新党は未来永劫つづく？【野田佳彦＆斉藤鉄夫】
+  ⏳ 次のチャンネルまで待機中... (2.3s)
+チャンネルをチェック中 (RSS): ダイヤモンド社 THE BOOKS (言語: ja)
+  ✓ 新着: 【しごでき対談】仕事ができる人は「当たり前」の基準が違う／戦略はリーダーが考え、戦術はメンバーに任せる／言葉遣いと品を大切に【usutaku×西原亮】
+  ⏳ 次のチャンネルまで待機中... (4.1s)
+チャンネルをチェック中 (RSS): テレ東BIZ ダイジェスト (言語: ja)
+  ✓ 新着: フジテレビ CM9割ほど回復 旧村上Fと「対話続けている」【WBS】
+  ✓ 新着: ANAHD 国際線運航3割増へ　成田便は2029年以降 7割増【WBS】
+  ✓ 新着: 外国人労働者 過去最多257万人 13年連続で最多更新【WBS】
+  ✓ 新着: 財務省 12月末～1月に「為替介入実施せず」 円急騰で円買いドル売り観測も【WBS】
+  ✓ 新着: 米アップル 最高益6.4兆円 新型iPhone好調 中国で販売回復【WBS】
+  ✓ 新着: ガイアの夜明け【“外国人労働者”と向き合う】予告
+  ✓ 新着: 日本に追い風？ヨーロッパの小型EV【立花剛の欧州リポート】
+  ✓ 新着: 魚群探知機やレーダーで“見えないものを見る”！世界の船を支える「古野電気」【カンブリア宮殿】
+  ✓ 新着: 勝敗だけでなく“勝ち方”でも日本経済の風向きが変わる？株・為替・金利の行方をシナリオ別に予測！【テレ東 毎日選挙サテライト】
+  ✓ 新着: 投票に役立つ！政党トップ取材「減税日本・ゆうこく連合」の目玉政策は？
+  ✓ 新着: 【セカイ経済】ユニコーンが次々に生まれる未来は来る！？世界に羽ばたくスタートアップの条件【Sponsored】
+  ✓ 新着: 投票に役立つ！政党トップ取材「中道改革連合」の目玉政策は？
+  ✓ 新着: アメリカがキューバへ石油供給する国に関税
+  ✓ 新着: ホストクラブの売掛金抱えた女性に違法な高金利で貸し付け疑い　暴力団関係者を逮捕
+  ⏳ 次のチャンネルまで待機中... (3.8s)
+チャンネルをチェック中 (RSS): フェルミ漫画大学 (言語: ja)
+  ✓ 新着: 【要約】人間関係に「線を引く」レッスン 人生がラクになる「バウンダリー」の考え方【藤野智哉】
+  ⏳ 次のチャンネルまで待機中... (3.0s)
+チャンネルをチェック中 (RSS): AIでゆっくり本要約チャンネル (言語: ja)
+  未処理の動画: 79件
+  ✓ バックログに追加: 16件
+
+📋 現在のバックログ: 221件
+  目標処理数: 10件
+
+
+============================================================
+[1/10] 【資本主義の限界】なぜ資本主義は成長を止められないのか／増税・インフレ激化・不動産高騰の未来／「脱成長」は現実的に可能なのか？／脱成長社会での企業とマネーの価値【PIVOT ECONOMY】
+============================================================
+⏳ IPバン対策のため 30秒待機してから開始します...
+  字幕優先言語: ja
+処理開始: yPkSeSvNtVE
+  動画情報を取得中...
+  タイトル: 【資本主義の限界】なぜ資本主義は成長を止められないのか／増税・インフレ激化・不動産高騰の未来／「脱成長」は現実的に可能なのか？／脱成長社会での企業とマネーの価値【PIVOT ECONOMY】
+  チャンネル: PIVOT 公式チャンネル
+  文字起こしを取得中...
+字幕を取得中 (ID: yPkSeSvNtVE)...
+  自動字幕が見つかりました: Japanese (auto-generated)
+文字起こしの取得に失敗しました: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=yPkSeSvNtVE! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+❌ 処理失敗: 文字起こしが取得できませんでした
+
+============================================================
+[1/10] 【朝倉慶×佐田志歩】インフレ×円安で「日経平均7万円台」へ／株しか資産を守れない時代へ突入!?／日銀利上げの限界とは《楽待公式切り抜き》
+============================================================
+⏳ IPバン対策のため 16秒待機してから開始します...
+  字幕優先言語: ja
+処理開始: tFekX67ITxo
+  動画情報を取得中...
+  タイトル: 【朝倉慶×佐田志歩】インフレ×円安で「日経平均7万円台」へ／株しか資産を守れない時代へ突入!?／日銀利上げの限界とは《楽待公式切り抜き》
+  チャンネル: 楽待 RAKUMACHI
+  文字起こしを取得中...
+字幕を取得中 (ID: tFekX67ITxo)...
+  自動字幕が見つかりました: Japanese (auto-generated)
+文字起こしの取得に失敗しました: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=tFekX67ITxo! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+❌ 処理失敗: 文字起こしが取得できませんでした
+
+============================================================
+[1/10] 【独占取材】日本の新幹線をインドへ！運転士訓練に密着　新幹線輸出を解説【小川知美の経済掘りおこし】
+============================================================
+⏳ IPバン対策のため 14秒待機してから開始します...
+  字幕優先言語: ja
+処理開始: v3aUiT3ap-k
+  動画情報を取得中...
+  タイトル: 【独占取材】日本の新幹線をインドへ！運転士訓練に密着　新幹線輸出を解説【小川知美の経済掘りおこし】
+  チャンネル: テレ東BIZ ダイジェスト
+  文字起こしを取得中...
+字幕を取得中 (ID: v3aUiT3ap-k)...
+  自動字幕が見つかりました: Japanese (auto-generated)
+文字起こしの取得に失敗しました: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=v3aUiT3ap-k! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+❌ 処理失敗: 文字起こしが取得できませんでした
+
+============================================================
+[1/10] 【減税では経済成長しない】政策研究大学院大学 教授　竹中 治堅【日曜サロン】
+============================================================
+⏳ IPバン対策のため 34秒待機してから開始します...
+  字幕優先言語: ja
+処理開始: _yf6j4xjyI4
+  動画情報を取得中...
+  タイトル: 【減税では経済成長しない】政策研究大学院大学 教授　竹中 治堅【日曜サロン】
+  チャンネル: テレ東BIZ ダイジェスト
+  文字起こしを取得中...
+字幕を取得中 (ID: _yf6j4xjyI4)...
+  自動字幕が見つかりました: Japanese (auto-generated)
+文字起こしの取得に失敗しました: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=_yf6j4xjyI4! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+❌ 処理失敗: 文字起こしが取得できませんでした
+
+============================================================
+[1/10] 【メンタルは鍛えられる技術】ホークスの影の立役者／野村勇を覚醒させた手法／管理者モード思考は悪／日本人の真面目さの罠／ビジネス・教育でも応用／視覚系・リズム系・体感覚系／【BASEBALL】
+============================================================
+⏳ IPバン対策のため 27秒待機してから開始します...
+  字幕優先言語: ja
+処理開始: H3Jqpa7Ipy0
+  動画情報を取得中...
+  タイトル: 【メンタルは鍛えられる技術】ホークスの影の立役者／野村勇を覚醒させた手法／管理者モード思考は悪／日本人の真面目さの罠／ビジネス・教育でも応用／視覚系・リズム系・体感覚系／【BASEBALL】
+  チャンネル: PIVOT 公式チャンネル
+  文字起こしを取得中...
+字幕を取得中 (ID: H3Jqpa7Ipy0)...
+  自動字幕が見つかりました: Japanese (auto-generated)
+文字起こしの取得に失敗しました: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=H3Jqpa7Ipy0! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+❌ 処理失敗: 文字起こしが取得できませんでした
+
+============================================================
+[1/10] 【美容師経験ゼロで50店舗以上経営】1号店を海外からスタート/「逆算経営」とは？/オンデーズ田中会長と語る超レッドオーシャンの戦い方/狙うは美容の「インバウンドコンテンツ化」
+============================================================
+⏳ IPバン対策のため 25秒待機してから開始します...
+  字幕優先言語: ja
+処理開始: A37fCisyw60
+  動画情報を取得中...
+  タイトル: 【美容師経験ゼロで50店舗以上経営】1号店を海外からスタート/「逆算経営」とは？/オンデーズ田中会長と語る超レッドオーシャンの戦い方/狙うは美容の「インバウンドコンテンツ化」
+  チャンネル: PIVOT 公式チャンネル
+  文字起こしを取得中...
+字幕を取得中 (ID: A37fCisyw60)...
+  自動字幕が見つかりました: Japanese (auto-generated)
+文字起こしの取得に失敗しました: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=A37fCisyw60! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+❌ 処理失敗: 文字起こしが取得できませんでした
+
+============================================================
+[1/10] 【必見】科学的に見たサウナの正しい入り方
+============================================================
+⏳ IPバン対策のため 18秒待機してから開始します...
+  ✗ スキップ (短い動画) → 次の動画を探します
+
+============================================================
+[1/10] 【衆院選2026】与党大勝なら日経平均7万円へ／日本に「保守ナショナリズム革命」が必要な理由／日中関係悪化は高市政権に追い風《武者陵司／前編》
+============================================================
+⏳ IPバン対策のため 39秒待機してから開始します...
+  字幕優先言語: ja
+処理開始: zFDvRFz8-Bs
+  動画情報を取得中...
+  タイトル: 【衆院選2026】与党大勝なら日経平均7万円へ／日本に「保守ナショナリズム革命」が必要な理由／日中関係悪化は高市政権に追い風《武者陵司／前編》
+  チャンネル: 楽待 RAKUMACHI
+  文字起こしを取得中...
+字幕を取得中 (ID: zFDvRFz8-Bs)...
+  自動字幕が見つかりました: Japanese (auto-generated)
+文字起こしの取得に失敗しました: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=zFDvRFz8-Bs! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+❌ 処理失敗: 文字起こしが取得できませんでした
+
+============================================================
+[1/10] 【外国人問題】客引きに後ろから殴られる？
+============================================================
+⏳ IPバン対策のため 37秒待機してから開始します...
+  ✗ スキップ (短い動画) → 次の動画を探します
+
+============================================================
+[1/10] 【ゴールドで見る日経平均】「日本円の価値」が減価？
+============================================================
+⏳ IPバン対策のため 39秒待機してから開始します...
+  ✗ スキップ (短い動画) → 次の動画を探します
+
+============================================================
+[1/10] 【株高不況】2026年は景気が良くない⁉︎
+============================================================
+⏳ IPバン対策のため 18秒待機してから開始します...
+  ✗ スキップ (短い動画) → 次の動画を探します
+
+============================================================
+[1/10] 【上げ相場の参入術】初心者は"段階買い"でリスク回避せよ
+============================================================
+⏳ IPバン対策のため 31秒待機してから開始します...
+  ✗ スキップ (短い動画) → 次の動画を探します
+
+============================================================
+[1/10] 【戦後初】高市首相が述べた「選挙公約」とは
+============================================================
+⏳ IPバン対策のため 27秒待機してから開始します...
+  ✗ スキップ (短い動画) → 次の動画を探します
+
+============================================================
+[1/10] 【佐田志歩】株に向いていない人代表として伝えたいこと
+============================================================
+⏳ IPバン対策のため 37秒待機してから開始します...
+  ✗ スキップ (短い動画) → 次の動画を探します
+
+============================================================

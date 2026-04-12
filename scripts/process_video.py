@@ -9,6 +9,7 @@
 
 import os
 import sys
+import re
 import json
 import argparse
 from datetime import datetime
@@ -30,6 +31,7 @@ except ImportError:
     HAS_OPENROUTER = False
     OpenRouterSummarizer = None
 from scripts.text_cleanup import clean_transcript_text, get_cleaned_path, get_description_path, save_text_to_file
+from scripts.defuddle_utils import fetch_defuddle_markdown, get_defuddle_path
 
 
 def load_api_keys():
@@ -72,6 +74,19 @@ def get_video_info(youtube, video_id: str) -> Dict:
         }
     except HttpError as e:
         raise Exception(f"YouTube APIエラー: {e}")
+
+
+def parse_duration(duration: str) -> int:
+    """ISO 8601 duration を秒数に変換 (例: PT15M30S -> 930)"""
+    match = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', duration)
+    if not match:
+        return 0
+    
+    hours = int(match.group(1) or 0)
+    minutes = int(match.group(2) or 0)
+    seconds = int(match.group(3) or 0)
+    
+    return hours * 3600 + minutes * 60 + seconds
 
 
 def get_transcript(video_id: str) -> list:
@@ -211,6 +226,20 @@ def process_video(
     print(f"  タイトル: {video_info['title']}")
     print(f"  チャンネル: {video_info['channel']}")
     
+    # 1.5 動画の長さチェック
+    duration_str = video_info.get('duration', '')
+    duration_seconds = parse_duration(duration_str)
+    print(f"  動画時間: {duration_str} ({duration_seconds}秒)")
+    
+    if duration_seconds < 600:
+        print(f"  ⏭️ スキップ: 動画が10分未満です ({duration_seconds}秒)")
+        return {
+            'video_id': video_id,
+            'title': video_info['title'],
+            'summary_path': None,
+            'skipped': True
+        }
+    
     # 2. 文字起こしを取得
     print("  文字起こしを取得中...")
     transcript = get_transcript(video_id)
@@ -239,17 +268,26 @@ def process_video(
     # 5. クリーンアップ済みテキストを保存
     summary_path = None
     if not dry_run and transcript_path:
+        defuddle_path = get_defuddle_path(str(transcript_path))
+        defuddle_saved = fetch_defuddle_markdown(video_id, defuddle_path)
+
         raw_transcript_text = "\n".join([f"[{item['start']:.1f}] {item['text']}" for item in transcript])
         cleaned_transcript_text = clean_transcript_text(raw_transcript_text, keep_timestamps=False)
         
         cleaned_path = get_cleaned_path(str(transcript_path))
         save_text_to_file(cleaned_transcript_text, cleaned_path)
         print(f"  ✓ クリーンアップ済みテキスト保存: {cleaned_path}")
+
+        summary_input_text = cleaned_transcript_text
+        if defuddle_saved:
+            print(f"  ✓ defuddle Markdown 保存: {defuddle_saved}")
+            with open(defuddle_saved, 'r', encoding='utf-8') as f:
+                summary_input_text = f.read()
         
         # 6. 要約を生成 (kilocode モードではスキップ)
         if not skip_summarization and summarizer:
             print(f"  要約を生成中 ({summarizer.model_name})...")
-            summary, metadata = summarizer.generate_summary(cleaned_transcript_text, description)
+            summary, metadata = summarizer.generate_summary(summary_input_text, description)
             print(f"  要約完了: {len(summary)}文字")
             
             # 7. Markdownに保存

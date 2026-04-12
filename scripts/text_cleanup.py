@@ -74,6 +74,13 @@ def get_cleaned_path(original_path: str) -> str:
     base, _ = os.path.splitext(original_path)
     return f"{base}_cleaned.txt"
 
+def get_defuddle_path(original_path: str) -> str:
+    """
+    元のパスから defuddle Markdown のパスを生成 (video_id.json -> video_id_defuddle.md)
+    """
+    base, _ = os.path.splitext(original_path)
+    return f"{base}_defuddle.md"
+
 def get_description_path(original_path: str) -> str:
     """
     元のパスから概要欄テキストのパスを生成 (video_id.json -> video_id_description.txt)

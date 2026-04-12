@@ -146,6 +146,18 @@ class YouTubeTranscriptToolOpenRouter:
 
         return None
 
+    def parse_duration(self, duration: str) -> int:
+        """ISO 8601 duration を秒数に変換 (例: PT15M30S -> 930)"""
+        match = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', duration)
+        if not match:
+            return 0
+        
+        hours = int(match.group(1) or 0)
+        minutes = int(match.group(2) or 0)
+        seconds = int(match.group(3) or 0)
+        
+        return hours * 3600 + minutes * 60 + seconds
+
     def get_video_info(self, video_id: str) -> Dict:
         """
         YouTube動画の基本情報を取得
@@ -705,6 +717,15 @@ class YouTubeTranscriptToolOpenRouter:
         print("動画情報を取得中...")
         video_info = self.get_video_info(video_id)
         print(f"タイトル: {video_info['title']}")
+
+        # 動画の長さチェック
+        duration_str = video_info.get('duration', '')
+        duration_seconds = self.parse_duration(duration_str)
+        print(f"動画時間: {duration_str} ({duration_seconds}秒)")
+
+        if duration_seconds < 600:
+            print(f"⏭️ スキップ: 動画が10分未満です ({duration_seconds}秒)")
+            raise ValueError(f"動画が10分未満（{duration_seconds}秒）のため、処理をスキップします。")
 
         # 文字起こしを取得
         print("文字起こしを取得中...")

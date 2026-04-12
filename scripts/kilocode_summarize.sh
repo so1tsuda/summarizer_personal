@@ -5,14 +5,15 @@
 #   ./scripts/kilocode_summarize.sh [オプション]
 #
 # オプション:
-#   --all           すべての_cleaned.txtファイルを処理
+#   --all           すべての_defuddle.md / _cleaned.txt ファイルを処理
 #   --file FILE     特定のファイルのみ処理
+#   --model MODEL   Kilo Code で使用するモデル (デフォルト: openrouter/z-ai/glm-5)
 #   --dry-run       実際の実行をスキップ（コマンドの確認のみ）
 #
 # 前提条件:
 #   - Kilo Code CLIがインストール済みであること
 #   - jqがインストール済みであること (backlog処理用)
-#   - data/transcripts/ に _cleaned.txt と _description.txt が存在すること (backlog以外の場合)
+#   - data/transcripts/ に _defuddle.md または _cleaned.txt と _description.txt が存在すること (backlog以外の場合)
 
 set -e
 
@@ -46,6 +47,7 @@ SINGLE_FILE=""
 SLEEP_SECONDS=5
 LIMIT_VAL=""
 BACKLOG_FILE="data/backlog.json"
+MODEL_NAME="${KILOCODE_MODEL:-openrouter/z-ai/glm-5}"
 
 # 引数解析
 while [[ $# -gt 0 ]]; do
@@ -60,6 +62,10 @@ while [[ $# -gt 0 ]]; do
             ;;
         --file)
             SINGLE_FILE="$2"
+            shift 2
+            ;;
+        --model)
+            MODEL_NAME="$2"
             shift 2
             ;;
         --dry-run)
@@ -94,7 +100,9 @@ fi
 process_file() {
     local transcript_file="$1"
     local video_id
-    video_id=$(basename "$transcript_file" | sed 's/_cleaned.txt//')
+    video_id=$(basename "$transcript_file")
+    video_id=${video_id%_defuddle.md}
+    video_id=${video_id%_cleaned.txt}
     
     local desc_file="${TRANSCRIPT_DIR}/${video_id}_description.txt"
     local output_file="${SUMMARY_DIR}/${video_id}.md"
@@ -179,7 +187,13 @@ process_file() {
         fi
     else
         # Kilo Code CLI コマンドを構築（パスは相対パスで指定）
-        local cmd="kilocode --auto \"システムプロンプト@${SYSTEM_PROMPT} に従い、動画概要欄 @${desc_file} と 文字起こし @${transcript_file} を日本語で要約し、@${output_file} として書き出してください。\""
+        local prompt="システムプロンプト@${SYSTEM_PROMPT} に従い、動画概要欄 @${desc_file} と 文字起こし @${transcript_file} を日本語で要約し、@${output_file} として書き出してください。"
+        local cmd
+        if [[ -n "$MODEL_NAME" ]]; then
+            cmd="kilocode -m ${MODEL_NAME} --auto \"${prompt}\""
+        else
+            cmd="kilocode --auto \"${prompt}\""
+        fi
         
         if $DRY_RUN; then
             echo "  [dry-run] 実行予定コマンド:"
@@ -217,7 +231,11 @@ process_file() {
                         echo "youtube_url: \"https://www.youtube.com/watch?v=$video_id\""
                         echo "thumbnail: \"https://i.ytimg.com/vi/$video_id/hqdefault.jpg\""
                         echo "summarized_at: \"$(date -Iseconds)\""
-                        echo "model: \"kilocode\""
+                        if [[ -n "$MODEL_NAME" ]]; then
+                            echo "model: \"$MODEL_NAME\""
+                        else
+                            echo "model: \"kilocode\""
+                        fi
                         echo "---"
                         echo ""
                         cat "$output_file"
@@ -264,7 +282,10 @@ elif $PROCESS_BACKLOG; then
 
     processed_count=0
     for video_id in "${video_ids[@]}"; do
-        transcript_file="${TRANSCRIPT_DIR}/${video_id}_cleaned.txt"
+        transcript_file="${TRANSCRIPT_DIR}/${video_id}_defuddle.md"
+        if [[ ! -f "$transcript_file" ]]; then
+            transcript_file="${TRANSCRIPT_DIR}/${video_id}_cleaned.txt"
+        fi
         if process_file "$transcript_file"; then
             processed_count=$((processed_count + 1))
             # バックログから削除
@@ -288,12 +309,21 @@ else
     # ファイルを処理（デフォルトは3つまで、--allなら無制限）
     count=0
     processed_count=0
+    typeset -A seen_video_ids
     
-    # ls -t で更新日時が新しい順に処理
-    for transcript_file in $(ls -t "$TRANSCRIPT_DIR"/*_cleaned.txt 2>/dev/null); do
+    # defuddle Markdown を優先しつつ、更新日時が新しい順に処理
+    for transcript_file in $(ls -t "$TRANSCRIPT_DIR"/*_defuddle.md "$TRANSCRIPT_DIR"/*_cleaned.txt 2>/dev/null); do
         if [[ -f "$transcript_file" ]]; then
+            video_id=$(basename "$transcript_file")
+            video_id=${video_id%_defuddle.md}
+            video_id=${video_id%_cleaned.txt}
+
+            if [[ -n "${seen_video_ids[$video_id]}" ]]; then
+                continue
+            fi
+            seen_video_ids[$video_id]=1
+
             # すでに要約があるかチェック（カウント対象外にするため）
-            video_id=$(basename "$transcript_file" | sed 's/_cleaned.txt//')
             output_file="${SUMMARY_DIR}/${video_id}.md"
             
             if [[ ! -f "$output_file" ]]; then

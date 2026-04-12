@@ -24,6 +24,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from gemini_summarizer import GeminiSummarizer, load_api_key as load_gemini_key
 from scripts.text_cleanup import clean_transcript_text, get_cleaned_path, save_text_to_file
+from scripts.defuddle_utils import fetch_defuddle_markdown, get_defuddle_path
 
 
 def load_api_keys():
@@ -243,6 +244,9 @@ def process_video(
     print(f"  要約を生成中 (Gemini {summarizer.model_name})...")
     
     if not dry_run:
+        defuddle_path = get_defuddle_path(str(transcript_path))
+        defuddle_saved = fetch_defuddle_markdown(video_id, defuddle_path)
+
         # トークン節約のためにクリーンアップ
         raw_transcript_text = "\n".join([f"[{item['start']:.1f}] {item['text']}" for item in transcript])
         cleaned_transcript_text = clean_transcript_text(raw_transcript_text, keep_timestamps=False)
@@ -251,6 +255,12 @@ def process_video(
         cleaned_path = get_cleaned_path(str(transcript_path))
         save_text_to_file(cleaned_transcript_text, cleaned_path)
         print(f"  ✓ クリーンアップ済みテキスト保存: {cleaned_path}")
+
+        summary_input_text = cleaned_transcript_text
+        if defuddle_saved:
+            print(f"  ✓ defuddle Markdown 保存: {defuddle_saved}")
+            with open(defuddle_saved, 'r', encoding='utf-8') as f:
+                summary_input_text = f.read()
         
         # 概要欄を保存
         description = video_info.get('description', '')
@@ -259,7 +269,7 @@ def process_video(
             print(f"  ✓ 概要欄保存: {desc_path}")
         
         # クリーンアップ済みテキストをLLMに送る
-        summary, metadata = summarizer.generate_summary(cleaned_transcript_text, video_info.get('description', ''))
+        summary, metadata = summarizer.generate_summary(summary_input_text, video_info.get('description', ''))
         print(f"  要約完了: {len(summary)}文字")
     else:
         summary = "[dry-run] 要約はスキップされました"
