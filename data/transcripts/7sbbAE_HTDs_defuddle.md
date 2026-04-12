@@ -1,0 +1,159 @@
+![](https://www.youtube.com/watch?v=7sbbAE_HTDs)
+
+Ed Elson speaks with Robert Armstrong, author of the Unhedged Newsletter, about how the markets reacted to Trump’s Greenland TACO, why gold hit a new milesto...
+
+## Transcript
+
+### Today's Number
+
+**0:00** · Today's number, 500,000.
+
+**0:04** · That is roughly how many dollars Alex Honold was reportedly paid to free climb a 1,600 ft tower in Taiwan last week. On a riskadjusted basis, that makes it the lowest ROI decision in history.
+
+### Market Vitals
+
+**0:22** · Welcome to Profy Markets. I'm Edson. It is January 27th. Let's check in on yesterday's market vitals.
+
+**0:29** · Major indices rose heading into a key earnings week. Treasury yields declined, the dollar tumbled, and finally, silver gained the most since the financial crisis, and gold breached a new milestone. More on that in a minute.
+
+**0:44** · Okay, what's happening?
+
+### TACO 2.0 (ft. Robert Armstrong)
+
+**0:47** · \[music\] Stocks carried their rally into the new week following President Trump's Greenland taco, but global tensions are still gripping markets. President Trump threatened Canada with a 100% tariff over a potential trade deal with China on Saturday. Meanwhile, the dollar sank to its lowest level since 2022. That slide came amid fears of a government shutdown and talk of US intervention to stabilize the Japanese yen. And of course, the metals rally rages on. The price of gold just hit $5,000 per ounce for the first time ever. Joining us to break down what is moving markets right now. A lot in there. We're speaking with Robert Armstrong. Rob is the author of the Unhedged newsletter and co-host of the Unhedged podcast. \[music\] You all know him. He's a regular at this point.
+
+**1:35** · Rob, thanks for joining us.
+
+**1:37** · Nice to be back.
+
+**1:38** · A lot we want to get into here. I think I would love to start with your reactions to last week's taco. It feels like years ago because so much has happened in the past several \[clears throat\] days. Not really markets news, but we can just set that aside for now. Let's just focus on the taco. We want to get your reaction because as I remind everyone, you invented the term taco. We're now seeing another taco uh this time with Greenland. Uh he decided to pull those Europe tariffs after I don't know if nuclear is the right word, but people were pretty riled up about what was happening with Greenland. What do you make of last week's taco? What does it tell us going forward? Well, the first thing I would note is that the markets didn't move very much on this crazy plan of Trump's this crazy saber rattling on Greenland. So, you know, the S&P was down a couple of percent, the dollar was a percent weaker or maybe a little more. So, he didn't seem like he was scared off by markets. Exactly. So in and that's kind of a theme that the market's uh reaction function to crazy Trump stuff does seem to be getting blunted over time. But maybe, you know, it's the politics. He just realized at some point that he was holding a losing hand against Europe and he folded. I mean, I think, you know, and maybe we ought to be glad this is a guy who cuts his losses when he realizes the other team isn't gonna just shrivel. He also threatened these tariffs on Canada if they go ahead with this China deal. My instinct here is we'll probably see a taco again. I mean, I'm just trying to figure out if there's any rubric or formula that you can follow as an investor or even as just an a market observer when Trump comes out and makes these statements about tariffs, like do you just not believe them or are there certain situations where you do believe them? I think in this case with the Canada tariffs, you can be pretty confident not believing them that they're going to end up anywhere near 100%.
+
+**3:56** · Trump has shown no a appetite for outright trade embargos, which is what a 100% tariff amounts to. If we cut off all trade with Canada, there would be howls of pain in the US economy as well as the Canadian economy and it would just be more than the president could take. So I I would 100% bet on a taco in this case. There's just no way. It's not predictable. It it was just an expression of rage, I think, not a policy proposal. I've had a thought recently after this after last week's taco.
+
+**4:37** · I wonder if investors would be better off never ever listening to anything that he says. I I would love to put that question forward to you. Like there's an argument to be made that if you just turn it off, you just press the mute button, you might perhaps make better investment decisions or at the very least just don't really take anything that he says that seriously. I mean, this is a delicate game to play because he's the president and, you know, he does have a lot of power. But I do wonder if if that would be the case. I guess I wonder what you make of it. I think you'd have to be careful to distinguish the cases where it's straight out of the truth social account and the cases where there's more voices echoing the policy, right? So, because of course there have been highly market relevant Trump policies, you know, the tax cuts, you know, \[laughter\] whatever.
+
+**5:38** · But uh I you know I wonder if just pretending he didn't have a truth social account, limiting your your intake that way. I think that might work pretty well. But again, there's another question which is how much does this guy change over time?
+
+**5:57** · \[snorts\] I think I I wonder if as his term wears on, second term, lame duck president, 79 going on 80, whatever, uh you have to take seriously the possibility that his risk appetite, his just sheer bloody mindedness is becoming more extreme over time, you know, and we saw that in the case of Venezuela, you know, I mean, so I don't know, turn it off but clearly a more cautious attitude is warranted. Yeah. I mean a more I should say uh not the opposite of cautious a more skeptical attitude is uh is warranted here.
+
+**6:40** · Yes.
+
+**6:40** · There should be some filter between what is a truth social post and what is a policy proposal. The line is very it's very blurry. It's not totally clear. But I think you're right. I think there probably is a line. And if someone could figure out exactly what that line is, maybe it's when Scott Besson said says something. I doubt it. Maybe when a plurality of officials get together and agree that this, yes, this is the plan.
+
+**7:05** · Again, I'm not sure about that either, but it does seem very relevant if we're trying to pass out what is taco and what isn't. I guess taco versus fo as you've pointed out before. I do want to get your reactions to what's happening with the price of gold right now. Gold has now surpassed $5,000. It's up more than 50% over the past 6 months. It is coinciding with murmurss of a sell America trade coming back. Perhaps those are related, perhaps they aren't. But yeah, I'd like to get your views. I mean, gold has had this unbelievable year. They keep on setting these price targets, or at least I keep on seeing these price targets that seem absurd, and then it just keeps on hitting them. What do you make of what's happened with gold over the past few weeks and the past few months?
+
+**7:51** · First of all, I should note for the benefit of your listeners that the uh association of financial pundits and forecasters ought to erect a monument to how wrong I have been about gold for the last couple of years. I mean, I was a skeptic at $2500, right, 100% ago. So, uh, I I don't like it as an asset class. I don't think it's been great over time. I've articulated again and again my skepticism and I \[snorts\] have been wrong as it is literally possible to be.
+
+**8:26** · So, with that said, that's your health warning to everyone listening to me. I think that there are two theories here. One is that, and they can both be true.
+
+**8:37** · One, well, actually three theories. one this what this shows you is about the debasement trade right that the dollar and is going to weaken over time and there's going to be inflation etc etc US assets in particular and paper assets in general that's bad for them there's another theory that gold always goes up on political instability it's not so much the inflation stuff it's the politics third theory is that it's a meme stock now and people are just piling in uh all three of these can be true to different degrees. I \[snorts\] don't like the debasement theory because we just don't see it in the bond market.
+
+**9:20** · People love to huff and puff about how the dollar is so weak now, but if you look at a 10-year chart, sort of average \[snorts\] uh inflation expectations, however you measure them, any market-based measure of inflation expectations, 100% fine. So, how could you have massive debasement that gold is picking up on and the bond market just doesn't see it at all? That strikes me as crazy. That leaves us with uh then we go to the politics.
+
+**9:52** · Yeah, the world does seem a bit insecure right now, but again, how would why would that why wouldn't that express itself in sovereign bond yields somewhere?
+
+**10:05** · same argument. That leaves us with meme stock, which has been my favored theory. You know, it's like people are chasing the momentum. But the the longer you're wrong, the more you start to doubt yourself. So, you've you've caught me at a moment of self-doubt. And I'm I'm actually writing today trying to look again at the politics theory, the debasement theory, and see what can be salvaged there.
+
+**10:29** · Yes, it is very interesting. It's like gold has turned out to be everything that Bitcoin wanted to be. And it's remarkable how Bitcoin has not performed. I It's just while they have the Bitcoin president in office, while the world appears to be going politically to in various ways. This is Bitcoin's year, but it isn't.
+
+**10:50** · It's gold's year instead. There is a theory, by the way. I mean, I think there there there are people out there saying that crypto people are realizing that crypto is actually correlated to the stock market. So, it's not a hedge against your other assets. And so, they're switching to gold, right?
+
+**11:08** · They're like, "Oh, oh, you know, there's there's no diversification benefit to crypto. It's just an amplifier of the returns on the rest of my portfolio."
+
+**11:16** · But I can't find anyone who says they see that happening that they see out of crypto and into gold trades. So yes, I would love to see I would love for someone to come forward if that is really happening. You will lose all of your pride and reputation having loudly talked about why crypto is exactly the investment for this situation, but still it would be very it would be very good for us or at least for me as a crypto skeptic. Final final uh thing I'd like to get your reaction to. We are the the contenders for the Fed chair has been an ongoing race. Last week we learn I learned on Cali actually on one of these prediction markets that there is a new contender. This guy Rick Reer his chances have soared to nearly 50% after Trump had a call with him. He called him very impressive. They had a meeting at the Oval Office. He is very much in favor of cutting rates. He is a former Black Rockck executive. He's expressed concerns about the labor market, etc. I haven't looked into him very much yet, but any reactions or thoughts on the possibility? I've not Kevin Hasset, not Kevin Walsh, but Rick Reer as Fed check.
+
+**12:29** · Uh, I've spoken him to a lot. I've interviewed him for the newsletter. He's an extremely clever man with a very deep knowledge of markets. I mean, he's arguably the most important bond trader in the world given the sheer amount of assets he manages at BlackRock. So, he knows the market as well as anyone you can possibly imagine. Uh, and I think he's a very smart guy.
+
+**12:53** · Does that mean he has the temperament to be the chair of the Fed? Uh, or that Trump will pick him? I have no idea. It is important to note however that on several occasions quite consistently reader has said he doesn't think rates at you know call them 5% now or whatever they are or win rates were at 5% now the base rate is a little lower that you know whatever he's consistently said actually I don't think these highish rates are doing very much to control inflation and in that context he's used the example example in the past of the housing market, right? Where if you brought the cost of mortgages down, houses would get cheaper. So that would actually be anti-inflationary.
+
+**13:40** · So he says these kinds of things, you can understand why the president would be interested interested in at least talking to him. He has also said on at least one occasion that maybe the Fed should or at suggest I emphasize the word suggest here. He suggested that maybe the Fed should help the Treasury control interest costs costs. Maybe he was misconstrued. That is a left fieldy idea. I'm not sure if he really meant that or whatever, but it's out there.
+
+**14:12** · So, I think he is a guy who might naturally appeal to the president.
+
+**14:20** · I mean, it's clear what the president is afraid of, right? which is that he'll appoint somebody who will give him a lot of sweet talk in the appointment process and then turn out to be his own person or her own person which is of course the whole point of the structure of the Fed chair's job and my sense of Rick Reer is that he's he's a market vet who's going to have his own views and I wonder if Trump might not get that sense from him too and back off. He's a really serious person. Rick Reer is not a toad.
+
+**14:57** · Yeah.
+
+**14:58** · Which is it's very interesting because it's hard to see the the right fit for the job as anyone but a toad and a sick fan. I mean, it appears that the best person would not be uh a seasoned Wall Street executive. It seems like the best person would just be a guy who doesn't have many thoughts and just is willing to say yes and bring things down.
+
+**15:22** · With a small number of exceptions, Trump has appointed for loyalty rather than competence.
+
+**15:28** · Yes, you could argue with in the case of Rubio or possibly Bent that's not true. But as a general rule, the main thing about getting appointed to something important in the Trump administration is saying yes, you know, as loud as you can.
+
+**15:46** · So, I guess I'm hopeful for Rick Rita based on your explanation, but I have to say the fact that he's taking the meeting, the fact that Trump really likes him for the job, it just naturally makes me skeptical. I think that would be reasonable to most people. Rob, uh, we'll we'll have to have you back very soon. Thank you very much. Rob is the author of the Unhedged newsletter and co-host of the Unhedged podcast. Thanks for joining us as always.
+
+**16:10** · Thanks, guys. We'll be right back. And if you're enjoying the show so far, be sure to like and subscribe to the Prof Pod YouTube channel at the link below.
+
+### Ad Break
+
+**16:23** · Support for the show comes from LinkedIn. It's a shame when the \[music\] best B2B marketing gets wasted on the wrong audience. Like imagine running an ad for cataract surgery on Saturday morning \[music\] cartoons or running a promo for this show on a video about Roblox or something. No offense to our Gen Alpha \[music\] listeners, but that would be a waste of anyone's ad budget.
+
+**16:42** · So when you want to reach the right professionals, you can use LinkedIn ads.
+
+**16:46** · LinkedIn has grown to a network of \[music\] over 1 billion professionals and 130 million decision makers according to their data. That's where \[music\] it stands apart from other ad buys. You can target your buyers by job title, industry, \[music\] company role, seniority, skills, company revenue. All so you can stop wasting budget on the wrong audience. \[music\] That's why LinkedIn ads boasts one of the highest B2B return on ad spend of all online ad networks. Seriously, \[music\] all of them. Spend $250 on your first campaign on LinkedIn ads and get a free $250 credit for the next one. Just go to linkedin.com/scott. \[music\] That's linkedin.com/scott.
+
+**17:20** · Terms and conditions apply. We're back with Propy Markets. Tik Tok's fate in America is finally settled. After years of legal battles, the US and China have approved a deal that sells Tik Tok's US business to a group of non-Chinese investors. Under the agreement by Danc's ownership will fall to 20% of the US business with the remaining ownership spread across primarily American investors. Oracle, Silverlake, and Abu Dhabi based MGX will each take 15% stakes in the company.
+
+### TikTok Sale (ft. Reed Albergotti)
+
+**17:57** · Okay, here to help us unpack the terms of this Tik Tok deal, we are joined by one of the reporters who actually broke the news, Reed Albagotti, technology editor at Semaphore. Reed, thank you for joining us on Profy Markets.
+
+**18:11** · Absolutely. Good to be here.
+
+**18:12** · So, Tik Tok has closed the deal. It's official. You actually reported that this was going to close before it actually closed. I'd be interested to know how you got that uh that scoop. But before we get there, what do we know about the deal? What are the terms?
+
+**18:28** · Where are we on TikTok?
+
+**18:30** · Yeah, I mean, you know, well, it's basically a joint venture, you know, with with Oracle and Silverlake in the US. they're going to basically take over the US version of Tik Tok. Um I think the really interesting part honestly less than the the business deal itself is is like what's going to happen with the algorithm in the US and from what I understand I mean this is and this is something I you know reported on back in December is that you know there's they're going to retrain the algorithm on US customers and this way they'll be able the Oracle will sort of administer this they'll actually be able to tell you know if if there's any manip ulation from the Chinese government essentially uh on the algorithms. I I thought that was sort of fascinating.
+
+**19:15** · Yeah.
+
+**19:15** · I mean the the reason this is happening is there was a national security concern that dates back many many years. Uh the idea was to not have China influencing the algorithm, the Tik Tok algorithm that millions of Americans use.
+
+**19:34** · Have they solved that actually? like do we know that this new Tik Tok is free of Chinese influence?
+
+**19:43** · Well, I think this is actually the big question, right? I mean, we've gone through all this, you know, Congress and now this this huge complicated deal which, you know, the US and China had to sign off on all for, you know, event essentially for China to still kind of have a a a hand on this right now. If you talk to people at Oracle, they say no. I mean, they're they literally are going to be able to oversee this and make sure that there's, you know, that there there's no manipulation. But I've seen, you know, there's been chatter since December when this deal, you know, was originally sort of came out and in most of the terms came out like a month ago. Um, from critics who think that no, actually, you know, unless there's a complete break between China and the US version of Tik Tok, there's always some danger that there's going to be manipulation. Now like the technical feasibility of that or you know whether whether that's actually the case I don't know but I mean to some extent perception is reality right if if people are worried about it then I think it may it may continue to be a big question mark just looking at the the new uh owners so we've got Oracle it sounds like Oracle is really the one who's dealing with the technological side of the whole thing to hear more about that also Silverlake American uh investment firm MGX X based out of Abu Dhabi. So that's not an American owner. I think some people would maybe say, "Well, why are we having non-Americans come in, these Middle Easterns come in and control the algorithm?" What do you make of the owner the ownership? Uh who's really in control here?
+
+**21:19** · Yeah, I mean that's that's another interest. I think that's going to definitely raise some questions. Now, if you've been following the Gulf region, which you know, 74 has, there have been a bunch of deals between US tech companies and, you know, MGX and and G42 and other Abu Dhabi entities um UAE entities really. So, this is and this has been what the the Chinese relationship with the UAE has been this big sort of question mark around there.
+
+**21:48** · Should we even allow for instance Nvidia chips to be shipped there? the US government now, you know, has it's been it's it's sort of under Trump has been a bit more open to dealing with with those entities. But I think the question is like, well, you know, how much how much are they, like you said, Oracle is actually going to be administering this on the technical side. So, how much is is this just a a monetary investment? Do they actually have any influence? I think if you talk to Oracle, they'd say no. if if someone from MGX calls us up and says, "Can you make a little tweak to the algorithm here?" um it's not like they have the power to do that. But again, you know, these are just even just, you know, the original ownership, right, of of Bite Dance owning Tik Tok was enough. I mean, Bite Dance always claimed that they were not manipulating the algorithm as well. So, I think there's just always going to be some suspicion around uh Tik Tok and and you know, the algorithm, so to speak.
+
+**22:46** · Yeah.
+
+**22:46** · I mean, this is an algorithm that has been wildly successful. I mean, just thinking back to when Tik Tok first came on the scene, and it seemed as though there are all these potential social media companies that came and went, but no algorithm really cracked it. It was always basically Facebook that was the winner or Instagram, whichever algorithm you were on, and then Tik Tok wins. It's it's been so successful for so long. It seems as though now it's about to change in a big way for the first time ever, which I think begs the question like how will it change? What will it do to the social media market? And one thing that we found kind of interesting is that on news of the deal closing, Meta Stock jumped 1%. Now maybe that's not large enough to attribute that this is because of the Tik Tok deal, but I'm certain that there's definitely a question that investors are asking like what does this actually mean for Tik Tok the product and perhaps could it be you know worsening something that's already already working very well? What do you think?
+
+**23:53** · No, I you know I don't think the algorithm itself is um is something that's a secret anymore. In other words, like the technical aspect of it is not I mean everybody kind of I think knows how this works. There's not you know there there isn't at this point I mean look look at just you know frontier AI companies right? I mean it's hard to keep even that stuff secret. So I think everybody generally knows how this works. The thing is what what's valuable now in this in this you know US Tik Tok entity is the fact that they have all this data on the users. They know what people like already. So that's why Oracle can't just come in and say we'll just like wipe this thing clean and we'll just we'll completely start over um develop you know our cuz they because they'd basically be starting from scratch. So you'd log on to Tik Tok and it wouldn't know anything about what you want to watch and they'd have to start that process over again. So I think it's, you know, it's not the algorithm now. It's just that it's the there's all this, you know, institutional knowledge, I guess, and they need to find a way to retain that while also, you know, making sure that there's no kind of like undue influence, you know, behind the scenes.
+
+**25:04** · All right, Reed Alagotti, technology editor at Samore. Reed, appreciate your time. Thank you.
+
+**25:09** · Thanks for having me. We'll be right back. And if you're enjoying the show so far, be sure to like and subscribe to the ProfG GP Pod YouTube channel at the link below. Support for this show comes from Delete Me. Now more than ever, it is essential to protect your data from data brokers.
+
+### Ad Break
+
+**25:28** · \[music\] Delete Me makes it easy, quick, and safe to remove your personal data online at a time when surveillance and data breaches are common enough to make everyone vulnerable. And it's not a oneanddone service. Delete Me keeps working quietly in the background, continually monitoring and deleting the personal data that you don't want online. One of our producers uses Delete Me. She says that it was extremely easy and efficient to use. You don't have to keep updating and checking yourself.
+
+**25:55** · Sounds pretty great. You can take control of your data and keep your private life private by signing up for Delete Me now. at a special discount for our listeners. \[music\] Get 20% off your deleteme plan when you go to joindeme.com/profg and use promo code profg at checkout. The only way to get 20% off is to go to jointdeme.com/profg and enter code profg at \[music\] checkout. That's jointdeiteme.com/profg code profg. We're back with profs.
+
+### Gold
+
+**26:28** · Well, it's quite telling that gold, the asset that is known across the world as the safe haven asset, the thing you buy when things are looking really bad. It's quite telling that that \[music\] asset hit another record high this week.
+
+**26:44** · $5,000 per troy ounce up more than 50% in the past 6 months, up more than 80% in the past 12 months. What that tells you is that investors are looking around. They're seeing what is happening, especially in America, and they're getting quite frightened.
+
+**27:01** · Whether that is our unsustainable fiscal deficit, which is set to explode again under Trump, or our escalating geopolitical tensions from Greenland to Venezuela to Iran, or even what is happening domestically, most recently, armed federal agents raiding cities and shooting people in the middle of the street. All of this is working in tandem to make investors feel anxious, very anxious. And let's be real, they probably should be. You know, we could talk about earnings and we could talk about profits, but when Masked agents are on the ground shooting people in the head, suddenly the story changes a little bit. It's not about headwinds and tailwinds anymore. It becomes bigger than that. It becomes about violence. It becomes about democracy. It potentially becomes about war. And what do you do when you're worried about all of these things? What do you do when you're worried about the future of America?
+
+**27:58** · What do you do when you're worried about America's place in the world? Perhaps a new global order. What do you do? You buy gold. Now, again, I'm not questioning the anxieties. Again, I think these anxieties are reasonable.
+
+**28:12** · However, I would question investors conclusions. And in this case, the conclusion is that if America falls apart for whatever reason, if that happens, the answer to your problems is gold. And to that, I would ask the question, why? Why specifically?
+
+**28:33** · Because gold is a hard asset. Okay.
+
+**28:36** · Well, there are lots of hard assets because gold is uncorrelated from the dollar. Okay. Well, there are plenty of non-doll denominated assets, too. or maybe because it is universally recognized as valuable, a store of value. Again, I could present to you a laundry list of other assets that fit the description. We could talk about many of the other metals, metals that are more useful than gold, metals like copper and lithium and aluminum. We could talk about other commodities as well. We could talk about food, oil. We could talk about maybe even Bitcoin. We could even talk about international stocks. If you think the US is going to for whatever reason, well, there are 194 other nations that you could invest in, many of which have far lower debt loads than the US, countries like Norway or Denmark or Switzerland. And if you're a real doomer, you could just invest in weapons manufacturers and defense contractors. I'm not endorsing any of these, but my point is when times get bad, there are plenty of things you could invest in besides gold, but the market doesn't seem to be fully recognizing that. It seems that gold is rallying not because of its intrinsic value, but because of a story that investors are instinctively telling themselves. When things look bad, this is what you do. You buy gold. Everyone knows that. That is not an investment thesis. That is a story. In fact, it is often the story of a bubble. A bubble is when the price of an asset becomes so untethered from its fundamentals that it no longer reflects its actual intrinsic value in the real world. Gold is supposedly almost twice as valuable today as it was 12 months ago. But again, why? And be specific. What can it do for you that it didn't do last year?
+
+**30:29** · How can it improve your life relative to anything else? What makes it such a safe haven? These are the questions that investors need to ask themselves very honestly. And saying it's worth it because everyone else says it's worth it isn't an answer. You have to have your own answer. It has to be a real genuine answer. This is what investing is about.
+
+**30:48** · Now, to be clear, I think gold could rally tomorrow. I think it could rally the next day. I think it could keep rallying for the rest of the year. But at a certain point, you do have to start asking questions. And in every rally like this and in every bubble potentially \[music\] like this, the most important question is also the simplest one. And that question is why.
+
+### Credits
+
+**31:13** · Thanks for listening to Profy Markets from Profy Media. If you liked \[music\] what you heard, subscribe to our YouTube channel and tune in tomorrow for more. \[music\]
