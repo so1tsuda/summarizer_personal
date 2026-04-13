@@ -1,0 +1,57 @@
+https://youtube.com/@tbs_bloomberg
+👆チャンネル登録・高評価をよろしくお願いします
+
+AI研究者の今井翔太さんと知能の未来について探求する「AI QUEST」
+テーマは【一般公開できない最強AI「Claude Mythos」の威力】です。
+
+ダリオ・アモデイ率いるAnthropicが新型AIモデル「Claude Mythos」を発表しました。
+ですが、なんと高性能すぎてOSやブラウザのセキュリティ上の欠陥を数千件発見してしまいました。中には数十年に渡って開発者すら気づいていなかったものも含まれます。
+
+サイバー攻撃に悪用される危険性からAnthropicは一般公開を見送りました。代わりにApple、Google、Microsoft、NVIDIAといった大手テック企業に限定公開し、サイバーセキュリティの強化を促す「Project Glasswing」が発足しました。
+
+今井さんが“エイプリルフール”を疑うレベルの性能とは？
+AI競争はAnthropicの勝利で終わるのか？
+「Mythos」は文字通りAI開発の“神話”となるのか？
+Metaの新型AIモデル「Muse Spark」の実力は？
+
+今回は「Claude Mythos」を探求していきます。
+
+◆チャプター◆
+00:00 新型Claude「エイプリルフールかと思った」
+04:29 「Claude Mythos」の威力
+23:25 Anthropicの無双が始まった
+38:18 NEWS. Metaが「Muse Spark」で逆襲
+
+◆出演◆
+▼今井 翔太
+1994年生まれ。2024年、東京大学大学院松尾研究室におけるAIの研究で博士（工学）を取得。人工知能分野における強化学習の研究、特にマルチエージェント強化学習の研究に従事。現在は大規模言語モデル等の生成AIにおける強化学習の活用の研究を行う。2024年7月に株式会社GenesisAIを創業し、同社代表取締役社長/CEO。2025年より北陸先端科学技術大学院大学（JAIST）客員教授。
+X:https://x.com/ImAI_Eruel
+
+▼中川 雅博
+TBS CROSS DIG with Bloomberg ビジネスエディター
+東洋経済新報社で『週刊東洋経済』『会社四季報』の記者・編集者として、自動車、航空、IT業界などを担当。その後NewsPicks編集部に移り、テクノロジー業界を取材。副編集長としてチームを統括。2025年1月にTBSテレビ入社、TBS CROSS DIGで企業・産業コンテンツを担当
+X: https://x.com/mshrnakagawa
+Mail: nakagawa.masahiro@tbs.co.jp
+
+◆スタッフ◆
+ディレクター：井部直樹 佐藤朱里 青木菫 杉本葵 小栗幸来
+番組デザイン／映像編集：白井陵
+サムネイルデザイン：石橋哲郎
+
+◆収録日◆
+2026年4月9日
+
+◆各種Podcastでも配信中！！◆
+▼Spotify: https://open.spotify.com/show/3AwDscjHsfXNkI1kuby9vs?si=9757d87212e14178 
+▼amazon music: https://music.amazon.co.jp/podcasts/04eb2b72-e901-4ab7-8c08-c8e1b5774d91/tbs-cross-dig-with-bloomberg 
+▼Apple Podcasts: https://podcasts.apple.com/jp/podcast/tbs-cross-dig-with-bloomberg/id1867723314 
+▼radiko: https://radiko.jp/podcast/channels/ebd0ad93-9d8b-4586-94ab-8b77f8cc45b6?share=1 
+▼voicy: https://voicy.jp/channel/969815
+
+▼TBS CROSS DIG with Bloomberg
+https://newsdig.tbs.co.jp/list/withbloomberg
+
+▼公式Xアカウント
+https://x.com/tbs_bloomberg 
+
+#tbs #crossdig #tcdb
