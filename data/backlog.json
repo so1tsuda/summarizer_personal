@@ -1,334 +1,6 @@
 {
   "queue": [
     {
-      "video_id": "3RgwbbBcpZo",
-      "title": "NEXTインドの現場に迫る、静かでゆとりのある環境 あえて都会より郊外を選ぶ？",
-      "channel": "NewsPicks /ニューズピックス",
-      "published_at": "2026-04-13T03:00:03+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501527"
-    },
-    {
-      "video_id": "rpMLTMIGOLI",
-      "title": "とうとうナフサ・ショックの影響が！？「日経は大丈夫」と思ってる人は全員見てください。",
-      "channel": "田端大学　投資学部",
-      "published_at": "2026-04-13T10:19:10+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501532"
-    },
-    {
-      "video_id": "HoMUv0ka9EU",
-      "title": "イラン停戦交渉にトランプ氏の娘婿 クシュナー氏が行く理由とは？",
-      "channel": "田端大学　投資学部",
-      "published_at": "2026-04-13T10:00:00+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501537"
-    },
-    {
-      "video_id": "MOQSef8huk0",
-      "title": "イラン交渉不調で米軍がホルムズ「封鎖」〜田端が大株主のリアルゲイトは今日も爆上げ！",
-      "channel": "田端大学　投資学部",
-      "published_at": "2026-04-13T01:06:50+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501541"
-    },
-    {
-      "video_id": "yWL8gEl30IY",
-      "title": "今後、株価が上昇しそうな\"注目のセクター\"は？？",
-      "channel": "田端大学　投資学部",
-      "published_at": "2026-04-12T22:00:00+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501546"
-    },
-    {
-      "video_id": "SVxfrtlnTUI",
-      "title": "moomoo証券でバフェット投資を完コピできる機能がある!?",
-      "channel": "田端大学　投資学部",
-      "published_at": "2026-04-12T01:00:00+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501551"
-    },
-    {
-      "video_id": "f0A2Dld2fco",
-      "title": "moomooアプリで、有望株が見つかる!?",
-      "channel": "田端大学　投資学部",
-      "published_at": "2026-04-11T11:00:00+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501556"
-    },
-    {
-      "video_id": "C2bf59YlwFA",
-      "title": "株もアイドルの推し活も同じ「旬を買う」か「信じて待つ」か",
-      "channel": "田端大学　投資学部",
-      "published_at": "2026-04-11T10:00:00+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501561"
-    },
-    {
-      "video_id": "uokb60HYnbE",
-      "title": "イランが一時停戦後、日銀利上げは「かなりの確率」どうなる日経？",
-      "channel": "田端大学　投資学部",
-      "published_at": "2026-04-11T07:00:00+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501566"
-    },
-    {
-      "video_id": "w8ON8vkM8KM",
-      "title": "moomoo証券は中国資本で大丈夫?その安全性について徹底議論",
-      "channel": "田端大学　投資学部",
-      "published_at": "2026-04-11T03:00:00+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501572"
-    },
-    {
-      "video_id": "yyDJkbRCKbc",
-      "title": "India's transmission transformation | FT Energy Source",
-      "channel": "Financial Times",
-      "published_at": "2026-04-13T09:08:19+00:00",
-      "lang": "en",
-      "added_at": "2026-04-13T22:13:22.501577"
-    },
-    {
-      "video_id": "Da-SKX73MzA",
-      "title": "Why ‘pump anxiety’ as petrol prices soar promped surge in EV sales | FT Tech",
-      "channel": "Financial Times",
-      "published_at": "2026-04-13T04:12:21+00:00",
-      "lang": "en",
-      "added_at": "2026-04-13T22:13:22.501584"
-    },
-    {
-      "video_id": "0r_oVtEPLSY",
-      "title": "Rapid growth causes success disasters",
-      "channel": "Lenny's Podcast",
-      "published_at": "2026-04-12T11:00:05+00:00",
-      "lang": "en",
-      "added_at": "2026-04-13T22:13:22.501589"
-    },
-    {
-      "video_id": "E49a6h0p05k",
-      "title": "How to future-proof your career",
-      "channel": "Lenny's Podcast",
-      "published_at": "2026-04-11T11:00:21+00:00",
-      "lang": "en",
-      "added_at": "2026-04-13T22:13:22.501595"
-    },
-    {
-      "video_id": "aYjXt6iVt70",
-      "title": "Google DeepMind’s boss on AI, power, God and what’s next | The Economist",
-      "channel": "The Economist",
-      "published_at": "2026-04-12T14:00:00+00:00",
-      "lang": "en",
-      "added_at": "2026-04-13T22:13:22.501602"
-    },
-    {
-      "video_id": "ovS2hYnIgZI",
-      "title": "Demis Hassabis on how to stop AI destroying everything",
-      "channel": "The Economist",
-      "published_at": "2026-04-12T10:00:00+00:00",
-      "lang": "en",
-      "added_at": "2026-04-13T22:13:22.501606"
-    },
-    {
-      "video_id": "afT4iYFPB78",
-      "title": "Could Viktor Orban be defeated? | The Economist",
-      "channel": "The Economist",
-      "published_at": "2026-04-11T10:00:00+00:00",
-      "lang": "en",
-      "added_at": "2026-04-13T22:13:22.501613"
-    },
-    {
-      "video_id": "JBFLW1UgTYg",
-      "title": "Has America frozen Israel out of ceasefire talks with Iran? | The Economist",
-      "channel": "The Economist",
-      "published_at": "2026-04-10T16:55:30+00:00",
-      "lang": "en",
-      "added_at": "2026-04-13T22:13:22.501640"
-    },
-    {
-      "video_id": "nqhurWYS1FY",
-      "title": "What America and Iran want from negotiations | The Economist",
-      "channel": "The Economist",
-      "published_at": "2026-04-10T14:00:00+00:00",
-      "lang": "en",
-      "added_at": "2026-04-13T22:13:22.501647"
-    },
-    {
-      "video_id": "Hd7-xjh26To",
-      "title": "【習近平は「文化大革命の完成」を目指している】父は逮捕、習本人も下放…なぜ毛沢東を模倣？｜文革研究が困難になりつつある｜フーコー、サルトルに影響を与えた文革｜文革60年…与えた影響とは？【楊海英】",
-      "channel": "文藝春秋PLUS 公式チャンネル",
-      "published_at": "2026-04-12T22:00:26+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501653"
-    },
-    {
-      "video_id": "WurCIGzusSY",
-      "title": "ヘルスサイエンスで東南アジア・オセアニアのNo.1企業を目指す／キリンHD南方健志社長【トップを直撃（WBS）】",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-04-13T12:00:52+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501659"
-    },
-    {
-      "video_id": "OpFpttvSwoM",
-      "title": "“元三洋電機”のアイデア製品を万博へ　高卒4年目に社運を託す「幸せな働き方」【ガイアの夜明け】",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-04-13T11:00:42+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501664"
-    },
-    {
-      "video_id": "DHeszxsysm8",
-      "title": "今夜１１時に米軍がイラン港湾を封鎖か・・・原油・ドル円はどう動く？尾河眞樹氏が緊急解説【月曜マネーLIVE 4/13】",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-04-13T10:07:06+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501671"
-    },
-    {
-      "video_id": "6RKqLYubvV8",
-      "title": "南鳥島の核ごみ調査事実上容認 小笠原村長「国の責任で決めるべき」",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-04-13T09:38:39+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501677"
-    },
-    {
-      "video_id": "j8Hwse0GzNI",
-      "title": "歌舞伎町  深夜徘徊や飲酒・喫煙で13～19歳の21人を一斉補導　薬局には「偽造処方箋」に注意喚起",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-04-13T09:38:13+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501683"
-    },
-    {
-      "video_id": "c1w0_yV5Tf8",
-      "title": "アメリカトランプ大統領、ローマ教皇レオ14世を異例の非難",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-04-13T09:37:33+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501690"
-    },
-    {
-      "video_id": "lUc2mGeGwFg",
-      "title": "木原官房長官「外交を通じて最終的な合意に早期に至ることを期待をしている」と強調",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-04-13T09:37:07+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501696"
-    },
-    {
-      "video_id": "S7zW38siyn8",
-      "title": "防衛省 無人機に関する予算 約2800億円　去年から倍増　新組織を設置",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-04-13T09:36:40+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501702"
-    },
-    {
-      "video_id": "gFCXbxzGELw",
-      "title": "経済財政諮問会議 複数年度での予算編成など新たな財政運営を議論へ",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-04-13T09:36:12+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501708"
-    },
-    {
-      "video_id": "8LOgRJ7Nk5k",
-      "title": "イラン外相「敵意には敵意」アメリカの対応を非難",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-04-13T09:35:50+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501715"
-    },
-    {
-      "video_id": "kLbLaRkOxNU",
-      "title": "木原官房長官 定例会見【2026年4月13日午後】",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-04-13T07:19:47+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501721"
-    },
-    {
-      "video_id": "4HxKayDRyVw",
-      "title": "4月13日の天気",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-04-13T03:31:50+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501727"
-    },
-    {
-      "video_id": "mOgC-ExAl54",
-      "title": "障がい者施設に通う女の子にわいせつ目的誘拐か　元施設職員の男性を逮捕",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-04-13T03:31:48+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501734"
-    },
-    {
-      "video_id": "ib8-cFIq3rA",
-      "title": "復活祭停戦成立せず 露・ウクライナ双方が違反主張",
-      "channel": "テレ東BIZ ダイジェスト",
-      "published_at": "2026-04-13T03:31:46+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501741"
-    },
-    {
-      "video_id": "-acUKR8XqXw",
-      "title": "Winners and Losers of the Iran War: Ukraine and Russia || Peter Zeihan",
-      "channel": "Zeihan on Geopolitics",
-      "published_at": "2026-04-13T09:45:01+00:00",
-      "lang": "en",
-      "added_at": "2026-04-13T22:13:22.501749"
-    },
-    {
-      "video_id": "O1D6CHIa1vM",
-      "title": "【27年ぶり高水準 長期金利の行方】よくない金利上昇が“上乗せ”／この先注目の経済指標は？／日銀の「4月利上げ」はあるのか／2026年末の金利見通し／長期金利3％超えはあるのか",
-      "channel": "東洋経済オンライン",
-      "published_at": "2026-04-13T11:15:06+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501757"
-    },
-    {
-      "video_id": "HcRhvyIlKqw",
-      "title": "【4月13日(月)東京株式市場】日経平均株価は反落／長期金利が2.490%に上昇し29年ぶり高水準／金融庁と東証はコーポレートガバナンスの改定案を公表／SOX指数の連日上昇率は3年5か月ぶりの大きさに",
-      "channel": "日経CNBC",
-      "published_at": "2026-04-13T07:38:57+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501764"
-    },
-    {
-      "video_id": "leTUor5-R60",
-      "title": "【為替介入 警戒なのか？期待なのか？｜小林芳彦】ドルの買い回転をイメージ／ドル円相場 1週間の振り返り、投資戦略／為替｜FX経済研究所（4月13日放送）",
-      "channel": "日経CNBC",
-      "published_at": "2026-04-13T05:12:20+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501771"
-    },
-    {
-      "video_id": "q9onFyGMLwA",
-      "title": "【河合達憲の当面のストラテジー：2026/4/14】株、日経平均、株価",
-      "channel": "三菱UFJ eスマート証券　投資情報専門チャンネル",
-      "published_at": "2026-04-12T23:13:35+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501779"
-    },
-    {
-      "video_id": "7rAbbjtZG20",
-      "title": "2026年4月13日【会談物別れで原油急騰も下げ渋る展開】（市況放送【毎日配信】）",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-04-13T09:24:14+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501786"
-    },
-    {
-      "video_id": "ssT5Ydw5qKw",
-      "title": "2026年1-3月期決算の注目ポイント（生成AI向け設備投資と株主還元のバランスをどう考えるか）【セクターレポート】（今中 能夫）【楽天証券 トウシル】",
-      "channel": "トウシル [楽天証券]",
-      "published_at": "2026-04-13T08:28:19+00:00",
-      "lang": "ja",
-      "added_at": "2026-04-13T22:13:22.501793"
-    },
-    {
       "video_id": "-YGGQJILdeI",
       "title": "【テクニカル分析】今週の株式市場　モメンタム相場と業績相場のはざま。株価は上昇しても、相場が強いとは限らない？＜チャートで振り返る先週の株式市場と今週の見通し＞（土信田 雅之）【楽天証券 トウシル】",
       "channel": "トウシル [楽天証券]",
@@ -383,8 +55,80 @@
       "published_at": "2026-04-13T10:00:03+00:00",
       "lang": "ja",
       "added_at": "2026-04-13T22:13:22.501844"
+    },
+    {
+      "video_id": "hD6-ivbQjq0",
+      "title": "【GWで差をつけろ】AIエージェントを自分で創る活用術／Claude Code・OpenClawで仕事効率化",
+      "channel": "PIVOT 公式チャンネル",
+      "published_at": "2026-04-12T23:14:49+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-13T22:42:34.274150"
+    },
+    {
+      "video_id": "Mt0cM805AL4",
+      "title": "【発がん性】\"天然色素\"でも安全とは限らない",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-13T03:00:21+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-13T22:42:34.274163"
+    },
+    {
+      "video_id": "MOfSTQqBCus",
+      "title": "【日本が一番安全】他国はデータが自由に盗める⁉︎",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-12T21:00:16+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-13T22:42:34.274169"
+    },
+    {
+      "video_id": "wmfG18Q6smE",
+      "title": "【中国の軍事技術】全く機能していない",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-12T10:01:22+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-13T22:42:34.274173"
+    },
+    {
+      "video_id": "ckY0fRlaj-g",
+      "title": "【レアアース泥】日本経済の救世主になるか",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-12T03:00:46+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-13T22:42:34.274178"
+    },
+    {
+      "video_id": "1D7PFHZmt_Y",
+      "title": "【中国の軍事力】実戦経験が足りない？",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-11T21:00:04+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-13T22:42:34.274183"
+    },
+    {
+      "video_id": "iHVrm24nRW8",
+      "title": "【電気代高騰】全部電気代に上乗せ⁉︎",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-11T10:01:11+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-13T22:42:34.274188"
+    },
+    {
+      "video_id": "tZR0jj8S9aM",
+      "title": "【ホルムズ海峡に通行料】日本も余計なお金を払う⁉︎",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-11T08:00:55+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-13T22:42:34.274196"
+    },
+    {
+      "video_id": "5Aw48ijunAA",
+      "title": "【30年前から準備】中国「レアアース戦略」の全貌",
+      "channel": "楽待 RAKUMACHI",
+      "published_at": "2026-04-11T03:00:05+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-13T22:42:34.274202"
     }
   ],
   "failed": [],
-  "last_processed_at": "2026-04-13T22:15:46.508750"
+  "last_processed_at": "2026-04-13T22:47:06.585245"
 }
