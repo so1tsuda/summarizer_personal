@@ -1,5 +1,94 @@
 {
-  "queue": [],
+  "queue": [
+    {
+      "video_id": "Nszu01VGvMU",
+      "title": "【4月14日(火)東京株式市場】日経平均株価は大幅反発！一時1400円高／サンディスク「ナスダック100」採用を背景にキオクシア上場来高値／原油価格は100ドル近辺と高止まり／JX金属上場来高値更新",
+      "channel": "日経CNBC",
+      "published_at": "2026-04-14T07:04:27+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-14T22:08:25.726947"
+    },
+    {
+      "video_id": "is8rvnI1giY",
+      "title": "【高い位置にあるというだけで売るのは危険？｜だいまん】ユーロ円が歴史的な高値、ポンド円も今年の高値を更新／クロス円の見通しについて／安易に売るのは危険?｜FX経済研究所（4月14日放送）",
+      "channel": "日経CNBC",
+      "published_at": "2026-04-14T05:11:14+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-14T22:08:25.726951"
+    },
+    {
+      "video_id": "q9onFyGMLwA",
+      "title": "米イラン協議で地政学リスク後退｜決算シーズン再加速で日米株はどう動く？【河合達憲の当面のストラテジー：2026/4/14】株、日経平均、株価",
+      "channel": "三菱UFJ eスマート証券　投資情報専門チャンネル",
+      "published_at": "2026-04-14T12:48:15+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-14T22:08:25.726956"
+    },
+    {
+      "video_id": "JHGmeziw6cE",
+      "title": "2026年4月14日【日経平均1374円高　米株リスクオンの動きが日本市場に波及】（市況放送【毎日配信】）",
+      "channel": "朝倉慶のASK1",
+      "published_at": "2026-04-14T09:18:48+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-14T22:08:25.726960"
+    },
+    {
+      "video_id": "cLjVmU01NMA",
+      "title": "エビデンスとナラティブ「金（ゴールド）」の本当の買い方【長期投資編】（吉田 哲）【楽天証券 トウシル】",
+      "channel": "トウシル [楽天証券]",
+      "published_at": "2026-04-14T07:29:40+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-14T22:08:25.726965"
+    },
+    {
+      "video_id": "UNNxD0jDNaA",
+      "title": "日本製鉄の投資判断「HOLD」継続​。USスチール買収で成長期待高い​、避けられない投資リスクも​（窪田 真之）：4月14日【楽天証券 トウシル】",
+      "channel": "トウシル [楽天証券]",
+      "published_at": "2026-04-14T03:42:43+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-14T22:08:25.726969"
+    },
+    {
+      "video_id": "kfWyza47pp4",
+      "title": "NISAとiDeCo​ | 節税メリット徹底比較、​どっちがよりお得？​【クイズでわかる！資産形成】（窪田 真之）：4月12日【楽天証券 トウシル】",
+      "channel": "トウシル [楽天証券]",
+      "published_at": "2026-04-11T23:01:05+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-14T22:08:25.726973"
+    },
+    {
+      "video_id": "ccvAnsp8_VU",
+      "title": "予算倍増で恩恵を受ける「隠れ防衛銘柄」3選【高配当・割安株】",
+      "channel": "つばめ投資顧問の長期投資研究所",
+      "published_at": "2026-04-14T09:15:10+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-14T22:08:25.726977"
+    },
+    {
+      "video_id": "fxT7qXaP_hs",
+      "title": "株式売買の秘訣とは？",
+      "channel": "つばめ投資顧問の長期投資研究所",
+      "published_at": "2026-04-13T09:15:06+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-14T22:08:25.726981"
+    },
+    {
+      "video_id": "imkES1wK3D0",
+      "title": "下落時に全力で買うのは間違い？",
+      "channel": "つばめ投資顧問の長期投資研究所",
+      "published_at": "2026-04-12T09:15:04+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-14T22:08:25.726986"
+    },
+    {
+      "video_id": "9_rDgaIth9A",
+      "title": "【好需給で株価は戻りを試す】AIデータセンター関連銘柄が再び活況！上昇はまだ止まらない!?隠れた関連銘柄も!?│店内信用残ランキング│松井証券・窪田朋一郎が解説",
+      "channel": "松井証券マーケットナビ",
+      "published_at": "2026-04-14T10:00:11+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-14T22:08:25.726993"
+    }
+  ],
   "failed": [
     {
       "video_id": "9py8zqimZ3E",
@@ -12,7 +101,43 @@
       "duration": "PT1H4M56S",
       "thumbnail": "https://i.ytimg.com/vi/9py8zqimZ3E/hqdefault_live.jpg",
       "description": "米軍による「ホルムズ封鎖」は本当に始まったみたいですね・・・\n\n=======株ライブはmoomoo証券・ FOREX.com 提供でお届けします=======\n提供：moomoo証券　〜相場の急変時も、PUSH通知と使いやすいUIで臨機応変に対応しやすいmoomoo証券アプリ！田端信太郎が、毎週更新する特別レポート「やっぱり米国株」が、moomoo証券の口座開設と入金1万円で読める！＝＞　https://tr.cre-am.net/c/468/Y0000000087632/zhXxe6XM?skip_cmwaf=true\n\n提供：米国No.1 FXブローカー FOREX.com\nタコスとお酒を楽しみながら、 田端信太郎とリアルで語り合える特別な交流会！\n※ このページ経由で口座開設し、10万円以上ご入金いただいた方の中から抽選でご招待。抽選※で50名様限定。 https://www.forex.com/jp/tradercenter/lp/tabata/?cid=0010204258\n\n========\n【田端大学 投資学部のクレド】 ：「国を憂うな、己を救え。」\n政治に文句を言っても、あなたの手取りは1円も増えません。 日本経済の心配は他人に任せて、まずは「自分の資産」を死守し、増やすこと。 「綺麗事抜きの資本主義」を学ぶためのチャンネルです。\n\n▼ 田端信太郎 (Shintaro Tabata) NTTデータ、リクルート、ライブドア、LINE、ZOZOと渡り歩いた「ブランド人」。 現在は投資家として、自身の財布を痛めながら（Skin In The Game）、個人の生存戦略を発信中。 https://x.com/tabbata/\n\n📩 上場企業社長からの「挑戦状」求む（IR・企業案件） 「うちの株価、低すぎるだろ！」と憤る経営者の方へ。 田端信太郎が御社のポテンシャルを「ガチンコ」で批評します。 お問い合わせはこちら：https://t.co/R6403eAXfv\n\n⚠️ 免責事項 当チャンネルの情報は、投資判断の参考としての情報提供を目的としており、特定の銘柄や金融商品の売買を推奨するものではありません。投資は自己責任でお願いします。エンターテイメントとしてお楽しみください。\n\n#田端信太郎 #投資 #株 #新NISA #米国株 #日本株 #FIRE\n\n▼取材のご依頼や案件依頼、問合せはコチラ！＝＞　https://t.co/R6403eAXfv\n\n田端推奨の投資本5冊。\nウォール街のランダム・ウォーカー　https://amzn.to/2GF1zNW\nジムクレイマーの株式投資大作戦　https://amzn.to/2ApyEcR\nオリバー ベレス デイトレード  https://amzn.to/2GGXIQD\nマーケットの魔術師　https://amzn.to/2Jo09cA\n是川銀蔵　相場師一代　https://amzn.to/2He0sGb"
+    },
+    {
+      "video_id": "dTbprANCRU4",
+      "title": "【お金の不安は無くせる】億り人でも幸せになれない理由／お金の不安への４つの反応／「金融資本」だけに依存するな／不確実な未来に弱い日本人／最適な資本のバランスとは？【PIVOT TALK MONEY】",
+      "channel": "PIVOT 公式チャンネル",
+      "published_at": "2026-04-14T03:00:40+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-14T12:45:29.901421",
+      "duration_seconds": 2115,
+      "duration": "PT35M15S",
+      "thumbnail": "https://i.ytimg.com/vi/dTbprANCRU4/hqdefault.jpg",
+      "description": "▼続きはこちら（4/27 12時 公開）：https://youtu.be/2F_cqhy_rBU\n\n▼動画の概要が3分で分かる「要点まとめ記事」はこちら\nhttps://pivotmedia.co.jp/launch_app?path=movie/14212&display_type=article&override=true\n\n＜PIVOT新メンバー募集＞\n新しいメンバーを積極的に募集しています。\n応募の詳細は以下の採用特設サイトをご確認ください。\n▼採用特設サイトhttps://pivot.inc/recruit/\n▼以下の職種は積極採用中です\n- 広告営業：https://hrmos.co/pages/pivot/jobs/0000026\n- タイアップ番組制作：https://hrmos.co/pages/pivot/jobs/0000066\n- オリジナル番組制作：https://hrmos.co/pages/pivot/jobs/0000063\n\n▼PIVOTアプリなら「バックグラウンド再生」「ダウンロード機能」「音声モード再生」が無料。\nアプリダウンロードはこちら↓（無料）\nhttps://pivot.go.link/?adj_t=1yynymux&redirect=https://pivotmedia.co.jp/movie/14212\n視聴ごとにマイルが貯まり、イベントや懸賞など様々な特典と交換できます。\n\n＜ゲスト＞\n佐藤舞（サトマイ）｜データアナリスト\nデータ分析、活用コンサルタント。登録者44万超『謎解き統計学 サトマイ」YouTubeチャンネル運営。桜花学園大学客員教授。「確率・統計を使い、知的かつ面白く、世の中の謎を解く」をコンセプトに情報発。企業のマーケティングリサーチや需要予測調査を手掛けるビジネス統計学の専門家として活躍中。\n\n＜参考書籍＞\n『あっという間にお金はなくなるから　「足りない病」の原因と治し方』\n佐藤舞（著）KADOKAWA（刊）\nhttps://amzn.to/4taLfLQ\n※上記リンクURLはAmazonアソシエイトのリンクを使用しています。\n\n＜目次＞\n00:00　ダイジェスト\n01:05　お金持ちでも不安な理由\n05:05　不安に強い人・弱い人の違い\n11:47　人生を安定させる「8つの資本」\n19:04　日本人のためのお金の不安対策\n26:36　市場価値を高めるキャリア戦略\n33:43　次回予告\n\nサムネイル\n写真：iStock\n\n#お金 #金 #不安 #健康 #投資 #分散 #nisa  #未来 #日本 #日本人 #億り人 #サトマイ #キャリア #キャリアチェンジ #会社 #オルカン #ピボット #pivot"
+    },
+    {
+      "video_id": "zhSALy_MNjY",
+      "title": "木原官房長官 定例会見【2026年4月14日午前】",
+      "channel": "テレ東BIZ ダイジェスト",
+      "published_at": "2026-04-14T01:06:14+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-14T12:45:29.901556",
+      "duration_seconds": 736,
+      "duration": "PT12M16S",
+      "thumbnail": "https://i.ytimg.com/vi/zhSALy_MNjY/hqdefault.jpg",
+      "description": "木原官房長官の定例記者会見をライブで配信します。＃木原官房長官"
+    },
+    {
+      "video_id": "h-YAlb2IxIc",
+      "title": "交渉決裂なのに、株価急騰。なぜ？",
+      "channel": "ガーコちゃんねる",
+      "published_at": "2026-04-14T01:14:41+00:00",
+      "lang": "ja",
+      "added_at": "2026-04-14T12:45:29.901597",
+      "duration_seconds": 834,
+      "duration": "PT13M54S",
+      "thumbnail": "https://i.ytimg.com/vi/h-YAlb2IxIc/hqdefault.jpg",
+      "description": "速報！アメリカとイラン、交渉決裂後の米国市場。急落したかと思ったら急騰！何が起きたのか？さらにS&P500の年初来リターンがプラスに！新NISAで長期投資する方に向けて解説します。\n\nガーコちゃんねる、Youtubeでは語れない、動画の裏側や、本音の部分を緩く話すnoteメンバーシップを開始しました！メンバーシップ登録はこちら👇\nhttps://note.com/garko_okane/membership/join\n\nガーコちゃんねる、2冊目の商業出版が決定です！KADOKAWAより2026年4月に発売決定！ぜひご予約ください。\n\n📘✨ Amazonでのご予約はこちらから！ ✨📘\nhttps://amzn.asia/d/0dJLkjfz\n\n■お知らせ①\nガーコとメールでお友達になりませんか？日々の難しい経済ニュースをわかりやすく解説中！公式メルマガ登録はこちらから→\nhttps://garko.jp/p/r/c2wdZUQV\n\n■お知らせ②\nガーコとLINEでお友達になりませんか？資産形成にお役立ちする無料のプレゼント豪華【6大特典】をプレゼント✨🎁公式LINE登録はこちらから↓\nhttps://lin.ee/LwYirw4\n\n■お知らせ③\n遅ればせながら「X（旧Twitter）」、「インスタグラム」始めました。フォローをお願いします🙇　→　\nX：https://x.com/garko_otoku\nインスタグラム：https://www.instagram.com/garkookane/\n\n■目次\n00:00 | オープニング\n01:16 | 1.歴史的な直接交渉は決裂。さらに逆封鎖まで・・\n05:29 | 2.なぜ「決裂・逆封鎖・原油高」でも株価上昇？\n08:51| 3.今後の米国株の注目ポイントは？\n09:56 | 4.S&P500ついに年初来プラス！ジェットコースターを乗りこなす長期投資家へのメッセージ\n\n■参照した記事\nCNBC「トランプのホルムズ封鎖発表でダウ先物-400ポイント」: https://www.cnbc.com/amp/2026/04/12/stock-market-today-live-updates.html\n\nCNBC「米国、ホルムズ海峡で封鎖を開始」: https://www.cnbc.com/2026/04/13/trump-iran-war-strait-of-hormuz-blockade.html\n\nCNBC「トランプ、ホルムズ海峡の開放から封鎖へ方針転換」: https://www.cnbc.com/2026/04/13/cnbc-daily-open-iran-war-trump-navy-blockade-strait-of-hormuz-.html\n\nBloomberg「S&P500、イラン戦争による下落分を全回復。決算シーズン開始」: https://www.bloomberg.com/news/articles/2026-04-13/s-p-500-erases-iran-war-driven-losses-as-earnings-season-begins\n\nBloomberg「S&P500、イラン合意期待で年初来損失を解消」: https://www.bloomberg.com/news/articles/2026-04-12/oil-surges-us-futures-drop-on-hormuz-blockade-markets-wrap\n\nBloomberg「トランプのホルムズ封鎖期限到来、イラン戦争の緊張高まる」: https://www.bloomberg.com/news/articles/2026-04-13/trump-s-hormuz-blockade-deadline-hits-raising-iran-war-stakes\n\nYahoo Finance「ダウ・S&P500・ナスダック上昇、トランプ『イランは交渉したがっている』」: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-after-trump-orders-hormuz-blockade-against-iran-145712025.html\n\n24/7 Wall St「トランプのホルムズ『逆転戦略』でS&P下落、原油100ドル超え」: https://247wallst.com/investing/2026/04/13/the-sp-sells-off-on-trumps-uno-reverse-strategy-with-hormuz-and-oil-soars-over-100/\n\nSWI swissinfo.ch「S&P500、イラン合意期待で年初来損失を解消」: https://www.swissinfo.ch/eng/s&p-500-wipes-out-2026-loss-on-iran-deal-hopes:-markets-wrap/91245485\n\nCarson Investment Research「S&P500、7日連続上昇かつ+7%超のリターン（1950年〜現在）」: @ryandetrick 4/9/2026\n\nThe Hormuz Letter「トランプ、イランに4月27日までの新期限を設定」: @HormuzLetter（Xポスト）\n\n🐟ガーコちゃんねるチャンネルについて\nガーコちゃんねるは、みなさんの資産形成やお金に関する判断に少しでも役立つ情報をお届けすることを目的としています。\n投資初心者の方にもわかりやすく、安心して学べる場所を目指して、日々発信しています。\n「何から始めればいいの？」「この制度って結局どうなの？」\nそんな疑問を一つずつ解きほぐしながら、みなさんの人生にとってプラスになる“お金の知識”を届けていきたいと思っています。\n\n⚠️免責事項\n•本チャンネルで発信している内容は、すべて個人の見解に基づいたものです。\n•特定の銘柄・金融商品・投資手法を推奨・勧誘するものではありません。\n•投資判断はご自身の責任にてお願いいたします。\n•可能な限り正確な情報をお届けするよう努めていますが、その正確性・完全性を保証するものではありません。\n•市場環境や制度は常に変化するため、情報が古くなる場合があります。必ず最新情報をご確認ください。\n•過去の実績は将来の成果を保証するものではありません。\n•ご不安な点や個別のご事情がある場合は、必ず公的機関や専門家へご相談ください。\n•一部の動画・リンクにはアフィリエイトが含まれることがありますが、透明性を大切にし、アフィリエイトリンクにはPR表記をしています。"
     }
   ],
-  "last_processed_at": "2026-04-14T09:56:45.550232"
+  "last_processed_at": "2026-04-14T22:17:55.606188"
 }
