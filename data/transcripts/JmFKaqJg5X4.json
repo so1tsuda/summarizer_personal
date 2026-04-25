@@ -1,0 +1,1306 @@
+{
+  "video_id": "JmFKaqJg5X4",
+  "title": "Why Anthropic’s Mythos Is Sparking Alarm",
+  "channel": "Bloomberg Originals",
+  "published_at": "2026-04-24T08:00:31Z",
+  "duration": "PT10M18S",
+  "thumbnail": "https://i.ytimg.com/vi/JmFKaqJg5X4/hqdefault.jpg",
+  "fetched_at": "2026-04-25T15:14:06.311375",
+  "transcript": [
+    {
+      "start": 0.4,
+      "duration": 2.96,
+      "text": "If you look at the AI sector landscape"
+    },
+    {
+      "start": 2.08,
+      "duration": 3.199,
+      "text": "more broadly, what you've seen is"
+    },
+    {
+      "start": 3.36,
+      "duration": 3.84,
+      "text": "OpenAI's early dominance being"
+    },
+    {
+      "start": 5.279,
+      "duration": 4.32,
+      "text": "challenged increasingly by Anthropic."
+    },
+    {
+      "start": 7.2,
+      "duration": 6.08,
+      "text": ">> Anthropic is drawing investor interests"
+    },
+    {
+      "start": 9.599,
+      "duration": 6.641,
+      "text": "at a valuation of $800 billion or"
+    },
+    {
+      "start": 13.28,
+      "duration": 6.8,
+      "text": "higher, making it close to, if not the"
+    },
+    {
+      "start": 16.24,
+      "duration": 6.24,
+      "text": "most valuable startup in the world."
+    },
+    {
+      "start": 20.08,
+      "duration": 5.84,
+      "text": ">> Turbocharging the hype is Anthropic's"
+    },
+    {
+      "start": 22.48,
+      "duration": 5.68,
+      "text": "latest model called Mythos. Only a small"
+    },
+    {
+      "start": 25.92,
+      "duration": 4.16,
+      "text": "number of companies outside of Anthropic"
+    },
+    {
+      "start": 28.16,
+      "duration": 2.959,
+      "text": "have access to it and on a limited"
+    },
+    {
+      "start": 30.08,
+      "duration": 3.12,
+      "text": "basis."
+    },
+    {
+      "start": 31.119,
+      "duration": 4.241,
+      "text": ">> This limited release has been dubbed"
+    },
+    {
+      "start": 33.2,
+      "duration": 4.4,
+      "text": "Project Glass Wing and all the"
+    },
+    {
+      "start": 35.36,
+      "duration": 3.44,
+      "text": "participants include a who's who of"
+    },
+    {
+      "start": 37.6,
+      "duration": 4.56,
+      "text": "Silicon Valley."
+    },
+    {
+      "start": 38.8,
+      "duration": 6.0,
+      "text": ">> We know that Apple, Google, Polo Alto"
+    },
+    {
+      "start": 42.16,
+      "duration": 5.76,
+      "text": "Networks, Crowdstrike, the Linux"
+    },
+    {
+      "start": 44.8,
+      "duration": 5.759,
+      "text": "Foundation, Amazon that are part of this"
+    },
+    {
+      "start": 47.92,
+      "duration": 5.36,
+      "text": "glass wing project. It's a highly"
+    },
+    {
+      "start": 50.559,
+      "duration": 6.16,
+      "text": "unusual arrangement. These are fierce"
+    },
+    {
+      "start": 53.28,
+      "duration": 6.72,
+      "text": "competitors who are trying to get the"
+    },
+    {
+      "start": 56.719,
+      "duration": 5.761,
+      "text": "best model out there and Anthropic is"
+    },
+    {
+      "start": 60.0,
+      "duration": 4.559,
+      "text": "not only showing them sort of some IP"
+    },
+    {
+      "start": 62.48,
+      "duration": 3.679,
+      "text": "that hasn't been released yet, they're"
+    },
+    {
+      "start": 64.559,
+      "duration": 3.361,
+      "text": "allowing their competitors to"
+    },
+    {
+      "start": 66.159,
+      "duration": 2.801,
+      "text": "potentially criticize some of the work"
+    },
+    {
+      "start": 67.92,
+      "duration": 3.519,
+      "text": "that they did."
+    },
+    {
+      "start": 68.96,
+      "duration": 4.4,
+      "text": ">> The unorthodox rollout has generated a"
+    },
+    {
+      "start": 71.439,
+      "duration": 4.161,
+      "text": "lot of publicity and already there are"
+    },
+    {
+      "start": 73.36,
+      "duration": 3.119,
+      "text": "reports of unauthorized users accessing"
+    },
+    {
+      "start": 75.6,
+      "duration": 3.28,
+      "text": "the model."
+    },
+    {
+      "start": 76.479,
+      "duration": 5.68,
+      "text": ">> This is terribly basic cyber security"
+    },
+    {
+      "start": 78.88,
+      "duration": 5.44,
+      "text": "practice 101 that was missed here."
+    },
+    {
+      "start": 82.159,
+      "duration": 5.201,
+      "text": "We have been hearing about this"
+    },
+    {
+      "start": 84.32,
+      "duration": 5.839,
+      "text": "theoretical threat that AI poses to"
+    },
+    {
+      "start": 87.36,
+      "duration": 6.0,
+      "text": "cyber security and what Methos has"
+    },
+    {
+      "start": 90.159,
+      "duration": 5.521,
+      "text": "proven is that that threat is a reality."
+    },
+    {
+      "start": 93.36,
+      "duration": 4.16,
+      "text": ">> There are big worries that this if it"
+    },
+    {
+      "start": 95.68,
+      "duration": 4.0,
+      "text": "falls into the wrong hands, it could"
+    },
+    {
+      "start": 97.52,
+      "duration": 5.279,
+      "text": "essentially lead to some of the greatest"
+    },
+    {
+      "start": 99.68,
+      "duration": 5.36,
+      "text": "cyber risks that humanity's ever faced."
+    },
+    {
+      "start": 102.799,
+      "duration": 5.441,
+      "text": ">> With massive potential for havoc and the"
+    },
+    {
+      "start": 105.04,
+      "duration": 7.52,
+      "text": "stakes so high, is tech era of move fast"
+    },
+    {
+      "start": 108.24,
+      "duration": 4.32,
+      "text": "and break things finally over?"
+    },
+    {
+      "start": 115.2,
+      "duration": 3.519,
+      "text": "Well, Bloomberg has learned that the"
+    },
+    {
+      "start": 116.399,
+      "duration": 4.801,
+      "text": "Treasury Secretary Scott Bessent and Fed"
+    },
+    {
+      "start": 118.719,
+      "duration": 4.801,
+      "text": "Chair Jerome Pal summoned Wall Street"
+    },
+    {
+      "start": 121.2,
+      "duration": 5.04,
+      "text": "leaders to an urgent meeting on concerns"
+    },
+    {
+      "start": 123.52,
+      "duration": 5.28,
+      "text": "that the latest AI model from Anthropic"
+    },
+    {
+      "start": 126.24,
+      "duration": 3.519,
+      "text": "will usher in an era of greater cyber"
+    },
+    {
+      "start": 128.8,
+      "duration": 2.64,
+      "text": "risk."
+    },
+    {
+      "start": 129.759,
+      "duration": 4.081,
+      "text": ">> Although the discussions were of course"
+    },
+    {
+      "start": 131.44,
+      "duration": 4.56,
+      "text": "private, the gist of the meeting was,"
+    },
+    {
+      "start": 133.84,
+      "duration": 6.16,
+      "text": "\"Hey banks, better start testing this"
+    },
+    {
+      "start": 136.0,
+      "duration": 5.92,
+      "text": "thing now before it's too late.\""
+    },
+    {
+      "start": 140.0,
+      "duration": 4.16,
+      "text": "The US banking sector is obviously"
+    },
+    {
+      "start": 141.92,
+      "duration": 3.84,
+      "text": "systemically super important to the US"
+    },
+    {
+      "start": 144.16,
+      "duration": 3.04,
+      "text": "economy and the global economy."
+    },
+    {
+      "start": 145.76,
+      "duration": 3.44,
+      "text": "Trillions of dollars go through these"
+    },
+    {
+      "start": 147.2,
+      "duration": 5.119,
+      "text": "banks pipes every single day."
+    },
+    {
+      "start": 149.2,
+      "duration": 4.88,
+      "text": ">> The threat Mythos poses is twofold."
+    },
+    {
+      "start": 152.319,
+      "duration": 4.481,
+      "text": ">> It has the ability to detect"
+    },
+    {
+      "start": 154.08,
+      "duration": 4.96,
+      "text": "vulnerabilities in basically every web"
+    },
+    {
+      "start": 156.8,
+      "duration": 5.28,
+      "text": "browser, every computer system that it's"
+    },
+    {
+      "start": 159.04,
+      "duration": 5.6,
+      "text": "so far been tested on. That could be"
+    },
+    {
+      "start": 162.08,
+      "duration": 5.36,
+      "text": "finding issues in a lot of the web"
+    },
+    {
+      "start": 164.64,
+      "duration": 6.16,
+      "text": "services we use, financial payment"
+    },
+    {
+      "start": 167.44,
+      "duration": 4.96,
+      "text": "services, operating systems like on"
+    },
+    {
+      "start": 170.8,
+      "duration": 3.2,
+      "text": "iPhones and Android."
+    },
+    {
+      "start": 172.4,
+      "duration": 3.28,
+      "text": ">> So, you're talking bugs, potential holes"
+    },
+    {
+      "start": 174.0,
+      "duration": 3.04,
+      "text": "in infrastructure that these banks might"
+    },
+    {
+      "start": 175.68,
+      "duration": 3.199,
+      "text": "have been sitting on for years or"
+    },
+    {
+      "start": 177.04,
+      "duration": 3.44,
+      "text": "decades and maybe haven't patched up"
+    },
+    {
+      "start": 178.879,
+      "duration": 3.201,
+      "text": "that might be vulnerable to outside"
+    },
+    {
+      "start": 180.48,
+      "duration": 4.24,
+      "text": "hackers."
+    },
+    {
+      "start": 182.08,
+      "duration": 4.879,
+      "text": ">> But Mythos doesn't just find bugs. It"
+    },
+    {
+      "start": 184.72,
+      "duration": 3.92,
+      "text": "knows how to take advantage of them. You"
+    },
+    {
+      "start": 186.959,
+      "duration": 4.401,
+      "text": "would have to kind of be able to direct"
+    },
+    {
+      "start": 188.64,
+      "duration": 5.519,
+      "text": "it in some way, but largely it was"
+    },
+    {
+      "start": 191.36,
+      "duration": 5.519,
+      "text": "autonomously able to go and find bugs"
+    },
+    {
+      "start": 194.159,
+      "duration": 5.601,
+      "text": "and exploits and come up with a plan on"
+    },
+    {
+      "start": 196.879,
+      "duration": 5.28,
+      "text": "how to actually take action on them and"
+    },
+    {
+      "start": 199.76,
+      "duration": 4.64,
+      "text": "potentially do some harm to to the"
+    },
+    {
+      "start": 202.159,
+      "duration": 4.401,
+      "text": "product that it found the floor in. It"
+    },
+    {
+      "start": 204.4,
+      "duration": 4.4,
+      "text": "lowers the playing field in terms of the"
+    },
+    {
+      "start": 206.56,
+      "duration": 5.12,
+      "text": "skill set that you need, the time it"
+    },
+    {
+      "start": 208.8,
+      "duration": 5.68,
+      "text": "takes. You could do this on mass and"
+    },
+    {
+      "start": 211.68,
+      "duration": 6.88,
+      "text": "also the cost. We've seen historically"
+    },
+    {
+      "start": 214.48,
+      "duration": 6.72,
+      "text": "that nation states might spend years and"
+    },
+    {
+      "start": 218.56,
+      "duration": 5.759,
+      "text": "huge amount in financial investment in"
+    },
+    {
+      "start": 221.2,
+      "duration": 6.72,
+      "text": "creating a army of military hackers who"
+    },
+    {
+      "start": 224.319,
+      "duration": 5.361,
+      "text": "are extremely experienced great coders."
+    },
+    {
+      "start": 227.92,
+      "duration": 4.319,
+      "text": "Having access to something like this"
+    },
+    {
+      "start": 229.68,
+      "duration": 4.88,
+      "text": "reduces the need for that at all. And"
+    },
+    {
+      "start": 232.239,
+      "duration": 4.56,
+      "text": "it's not just nation state hackers too."
+    },
+    {
+      "start": 234.56,
+      "duration": 4.0,
+      "text": "It's financial career criminals. These"
+    },
+    {
+      "start": 236.799,
+      "duration": 2.64,
+      "text": "criminal gangs that operate all around"
+    },
+    {
+      "start": 238.56,
+      "duration": 2.72,
+      "text": "the world."
+    },
+    {
+      "start": 239.439,
+      "duration": 4.561,
+      "text": ">> The risks don't stop in the US. We've"
+    },
+    {
+      "start": 241.28,
+      "duration": 5.679,
+      "text": "also had the central banks of Canada,"
+    },
+    {
+      "start": 244.0,
+      "duration": 5.12,
+      "text": "now also the UK as well, calling"
+    },
+    {
+      "start": 246.959,
+      "duration": 4.161,
+      "text": "companies together to talk about mythos"
+    },
+    {
+      "start": 249.12,
+      "duration": 4.319,
+      "text": "and the risks that are posed by it."
+    },
+    {
+      "start": 251.12,
+      "duration": 5.2,
+      "text": ">> The engagement that I've had from CEOs"
+    },
+    {
+      "start": 253.439,
+      "duration": 4.8,
+      "text": "in the last week uh in the UK has been"
+    },
+    {
+      "start": 256.32,
+      "duration": 3.759,
+      "text": "significant."
+    },
+    {
+      "start": 258.239,
+      "duration": 3.68,
+      "text": ">> Fear of dangerous AI and its"
+    },
+    {
+      "start": 260.079,
+      "duration": 3.921,
+      "text": "consequences have been with us for"
+    },
+    {
+      "start": 261.919,
+      "duration": 2.801,
+      "text": "decades and is ubiquitous in popular"
+    },
+    {
+      "start": 264.0,
+      "duration": 3.84,
+      "text": "culture."
+    },
+    {
+      "start": 264.72,
+      "duration": 5.52,
+      "text": ">> I'll be back. But science fiction aside,"
+    },
+    {
+      "start": 267.84,
+      "duration": 4.48,
+      "text": "the ethics of how to deploy AI is"
+    },
+    {
+      "start": 270.24,
+      "duration": 3.679,
+      "text": "rapidly becoming the loudest debate in"
+    },
+    {
+      "start": 272.32,
+      "duration": 3.439,
+      "text": "the industry, and it's central to"
+    },
+    {
+      "start": 273.919,
+      "duration": 4.961,
+      "text": "Anthropic's founding."
+    },
+    {
+      "start": 275.759,
+      "duration": 5.921,
+      "text": ">> A group of early OpenAI employees left"
+    },
+    {
+      "start": 278.88,
+      "duration": 5.12,
+      "text": "to start Anthropic with the goal of"
+    },
+    {
+      "start": 281.68,
+      "duration": 4.72,
+      "text": "building more advanced AI systems, but"
+    },
+    {
+      "start": 284.0,
+      "duration": 5.12,
+      "text": "in a safer and more responsible way. And"
+    },
+    {
+      "start": 286.4,
+      "duration": 5.12,
+      "text": "that has really been their brand"
+    },
+    {
+      "start": 289.12,
+      "duration": 4.32,
+      "text": "throughout their history. The company's"
+    },
+    {
+      "start": 291.52,
+      "duration": 3.6,
+      "text": "MO has led to a showdown with the"
+    },
+    {
+      "start": 293.44,
+      "duration": 4.479,
+      "text": "Pentagon, which contracted with"
+    },
+    {
+      "start": 295.12,
+      "duration": 4.799,
+      "text": "Anthropic in July of 2025."
+    },
+    {
+      "start": 297.919,
+      "duration": 4.72,
+      "text": ">> Anthropic is really pushing back at two"
+    },
+    {
+      "start": 299.919,
+      "duration": 5.361,
+      "text": "key points. One to have more clear"
+    },
+    {
+      "start": 302.639,
+      "duration": 4.801,
+      "text": "guards preventing AI from being used to"
+    },
+    {
+      "start": 305.28,
+      "duration": 4.639,
+      "text": "aid in mass surveillance and then the"
+    },
+    {
+      "start": 307.44,
+      "duration": 6.039,
+      "text": "other being AI used to basically use"
+    },
+    {
+      "start": 309.919,
+      "duration": 3.56,
+      "text": "autonomous weapons."
+    },
+    {
+      "start": 314.24,
+      "duration": 6.799,
+      "text": "For the Pentagon, the argument is that"
+    },
+    {
+      "start": 317.68,
+      "duration": 5.519,
+      "text": "no private company should basically be"
+    },
+    {
+      "start": 321.039,
+      "duration": 4.241,
+      "text": "meddling in the defense department's"
+    },
+    {
+      "start": 323.199,
+      "duration": 3.601,
+      "text": "affairs. No private company should be"
+    },
+    {
+      "start": 325.28,
+      "duration": 4.0,
+      "text": "telling the defense department and the"
+    },
+    {
+      "start": 326.8,
+      "duration": 5.119,
+      "text": "armed forces how to use technology on"
+    },
+    {
+      "start": 329.28,
+      "duration": 4.72,
+      "text": "the battlefield. Anthropic is now in"
+    },
+    {
+      "start": 331.919,
+      "duration": 3.921,
+      "text": "court suing the Pentagon over the"
+    },
+    {
+      "start": 334.0,
+      "duration": 4.4,
+      "text": "Pentagon's decision to declare a supply"
+    },
+    {
+      "start": 335.84,
+      "duration": 3.919,
+      "text": "chain risk. A very rare designation"
+    },
+    {
+      "start": 338.4,
+      "duration": 3.44,
+      "text": "usually reserved for foreign"
+    },
+    {
+      "start": 339.759,
+      "duration": 4.401,
+      "text": "adversaries. So, while the Department of"
+    },
+    {
+      "start": 341.84,
+      "duration": 4.4,
+      "text": "Defense seeks to blacklist Anthropic,"
+    },
+    {
+      "start": 344.16,
+      "duration": 4.0,
+      "text": "the Treasury and White House are pushing"
+    },
+    {
+      "start": 346.24,
+      "duration": 3.44,
+      "text": "to expand access."
+    },
+    {
+      "start": 348.16,
+      "duration": 2.8,
+      "text": ">> Suddenly, it feels like parts of the"
+    },
+    {
+      "start": 349.68,
+      "duration": 2.72,
+      "text": "Trump administration are waking up to"
+    },
+    {
+      "start": 350.96,
+      "duration": 4.079,
+      "text": "the reality that they probably need to"
+    },
+    {
+      "start": 352.4,
+      "duration": 5.44,
+      "text": "work with Anthropic. There's really no"
+    },
+    {
+      "start": 355.039,
+      "duration": 5.44,
+      "text": "regulatory framework around AI. At the"
+    },
+    {
+      "start": 357.84,
+      "duration": 5.68,
+      "text": "end of the day, a private company made a"
+    },
+    {
+      "start": 360.479,
+      "duration": 6.241,
+      "text": "choice seemingly on its own to withhold"
+    },
+    {
+      "start": 363.52,
+      "duration": 5.28,
+      "text": "its model from wider release. But nobody"
+    },
+    {
+      "start": 366.72,
+      "duration": 4.0,
+      "text": "told it to do that. That is probably the"
+    },
+    {
+      "start": 368.8,
+      "duration": 3.519,
+      "text": "ultimate indictment on the current state"
+    },
+    {
+      "start": 370.72,
+      "duration": 3.52,
+      "text": "of the regulatory framework, at least in"
+    },
+    {
+      "start": 372.319,
+      "duration": 4.481,
+      "text": "the US."
+    },
+    {
+      "start": 374.24,
+      "duration": 5.28,
+      "text": "But longer term, if you're trying to"
+    },
+    {
+      "start": 376.8,
+      "duration": 5.36,
+      "text": "establish AI supremacy in the world, it"
+    },
+    {
+      "start": 379.52,
+      "duration": 4.239,
+      "text": "may not be the best idea to cut off the"
+    },
+    {
+      "start": 382.16,
+      "duration": 3.599,
+      "text": "company that now increasingly seems like"
+    },
+    {
+      "start": 383.759,
+      "duration": 3.761,
+      "text": "it's at the vanguard of US AI"
+    },
+    {
+      "start": 385.759,
+      "duration": 3.841,
+      "text": "development."
+    },
+    {
+      "start": 387.52,
+      "duration": 4.56,
+      "text": ">> A flip side to all the caution around"
+    },
+    {
+      "start": 389.6,
+      "duration": 4.879,
+      "text": "Mythos is the idea that hamstringing its"
+    },
+    {
+      "start": 392.08,
+      "duration": 4.72,
+      "text": "rollout actually amounts to a brilliant"
+    },
+    {
+      "start": 394.479,
+      "duration": 4.401,
+      "text": "marketing campaign. There's no way they"
+    },
+    {
+      "start": 396.8,
+      "duration": 3.679,
+      "text": "made an AI too powerful to release."
+    },
+    {
+      "start": 398.88,
+      "duration": 2.159,
+      "text": ">> We're about to be victims of doom"
+    },
+    {
+      "start": 400.479,
+      "duration": 3.121,
+      "text": "marketing"
+    },
+    {
+      "start": 401.039,
+      "duration": 5.121,
+      "text": ">> that helps them raise capital and it"
+    },
+    {
+      "start": 403.6,
+      "duration": 4.64,
+      "text": "gets people pretty hyped up."
+    },
+    {
+      "start": 406.16,
+      "duration": 3.84,
+      "text": ">> With Methos, I think you're seeing a"
+    },
+    {
+      "start": 408.24,
+      "duration": 4.64,
+      "text": "company that genuinely is concerned"
+    },
+    {
+      "start": 410.0,
+      "duration": 5.12,
+      "text": "about the capabilities of its models. At"
+    },
+    {
+      "start": 412.88,
+      "duration": 4.72,
+      "text": "the same time, is it in some way self-"
+    },
+    {
+      "start": 415.12,
+      "duration": 4.799,
+      "text": "serving to show the world, we've built"
+    },
+    {
+      "start": 417.6,
+      "duration": 5.599,
+      "text": "something incredibly powerful, but we"
+    },
+    {
+      "start": 419.919,
+      "duration": 5.601,
+      "text": "just don't want you to have it."
+    },
+    {
+      "start": 423.199,
+      "duration": 4.641,
+      "text": "If it's bait, then from a Wall Street"
+    },
+    {
+      "start": 425.52,
+      "duration": 5.2,
+      "text": "perspective, it's been taken. Take a"
+    },
+    {
+      "start": 427.84,
+      "duration": 5.04,
+      "text": "look at the S&P 500 and NASDAQ. A"
+    },
+    {
+      "start": 430.72,
+      "duration": 4.96,
+      "text": "Bloomberg index tracking AI related"
+    },
+    {
+      "start": 432.88,
+      "duration": 4.719,
+      "text": "companies continues to outperform both."
+    },
+    {
+      "start": 435.68,
+      "duration": 4.16,
+      "text": "And that's before AI darlings like"
+    },
+    {
+      "start": 437.599,
+      "duration": 3.121,
+      "text": "Anthropic and OpenAI have even gone"
+    },
+    {
+      "start": 439.84,
+      "duration": 3.12,
+      "text": "public."
+    },
+    {
+      "start": 440.72,
+      "duration": 4.96,
+      "text": ">> There does appear to be a race to go"
+    },
+    {
+      "start": 442.96,
+      "duration": 4.239,
+      "text": "public right now in the AI sector. The"
+    },
+    {
+      "start": 445.68,
+      "duration": 4.079,
+      "text": "most recent reporting that we have says"
+    },
+    {
+      "start": 447.199,
+      "duration": 5.28,
+      "text": "that Anthropic could go public as soon"
+    },
+    {
+      "start": 449.759,
+      "duration": 5.041,
+      "text": "as October. Open AAI is also widely"
+    },
+    {
+      "start": 452.479,
+      "duration": 4.881,
+      "text": "expected to be vying for public offering"
+    },
+    {
+      "start": 454.8,
+      "duration": 5.119,
+      "text": "as soon as this year, and Elon Musk's"
+    },
+    {
+      "start": 457.36,
+      "duration": 4.48,
+      "text": "XAI might beat them both to the punch"
+    },
+    {
+      "start": 459.919,
+      "duration": 3.921,
+      "text": "after merging with SpaceX, which is set"
+    },
+    {
+      "start": 461.84,
+      "duration": 4.079,
+      "text": "to go public as soon as June."
+    },
+    {
+      "start": 463.84,
+      "duration": 4.32,
+      "text": ">> But the uproar on Wall Street adds"
+    },
+    {
+      "start": 465.919,
+      "duration": 5.12,
+      "text": "pressure to prove profitability."
+    },
+    {
+      "start": 468.16,
+      "duration": 6.4,
+      "text": ">> OpenAI initially went after consumers."
+    },
+    {
+      "start": 471.039,
+      "duration": 6.0,
+      "text": "OpenAI's Chatbt now has more than 900"
+    },
+    {
+      "start": 474.56,
+      "duration": 4.8,
+      "text": "million weekly users. That rivals the"
+    },
+    {
+      "start": 477.039,
+      "duration": 3.921,
+      "text": "reach of a lot of large social networks."
+    },
+    {
+      "start": 479.36,
+      "duration": 4.559,
+      "text": "Anthropic took a different route. Their"
+    },
+    {
+      "start": 480.96,
+      "duration": 4.799,
+      "text": "core business was enterprise customers."
+    },
+    {
+      "start": 483.919,
+      "duration": 2.641,
+      "text": ">> This brings us back to that meeting with"
+    },
+    {
+      "start": 485.759,
+      "duration": 3.041,
+      "text": "the banks."
+    },
+    {
+      "start": 486.56,
+      "duration": 3.6,
+      "text": ">> Banks already spend vast amounts on"
+    },
+    {
+      "start": 488.8,
+      "duration": 3.36,
+      "text": "their technology and that's one of the"
+    },
+    {
+      "start": 490.16,
+      "duration": 3.68,
+      "text": "reasons that companies like Anthropic"
+    },
+    {
+      "start": 492.16,
+      "duration": 3.12,
+      "text": "and OpenAI want to partner with them"
+    },
+    {
+      "start": 493.84,
+      "duration": 3.12,
+      "text": "already, right? These companies are"
+    },
+    {
+      "start": 495.28,
+      "duration": 4.319,
+      "text": "already investing really heavily both in"
+    },
+    {
+      "start": 496.96,
+      "duration": 4.639,
+      "text": "their own internal AI tech, but also in"
+    },
+    {
+      "start": 499.599,
+      "duration": 4.16,
+      "text": "the contracts that they're signing with"
+    },
+    {
+      "start": 501.599,
+      "duration": 4.241,
+      "text": "outside vendors like Anthropic."
+    },
+    {
+      "start": 503.759,
+      "duration": 4.401,
+      "text": ">> Spending on cyber security just keeps"
+    },
+    {
+      "start": 505.84,
+      "duration": 5.919,
+      "text": "growing. Expenditures are expected to"
+    },
+    {
+      "start": 508.16,
+      "duration": 5.92,
+      "text": "reach $300 billion by 2030. Where"
+    },
+    {
+      "start": 511.759,
+      "duration": 4.4,
+      "text": "Anthropic and OpenAI have really"
+    },
+    {
+      "start": 514.08,
+      "duration": 4.319,
+      "text": "excelled in recent months is building"
+    },
+    {
+      "start": 516.159,
+      "duration": 5.12,
+      "text": "tools that automate the process of"
+    },
+    {
+      "start": 518.399,
+      "duration": 5.76,
+      "text": "writing and debugging code. Now,"
+    },
+    {
+      "start": 521.279,
+      "duration": 6.081,
+      "text": "Anthropic, OpenAI, and other privately"
+    },
+    {
+      "start": 524.159,
+      "duration": 5.68,
+      "text": "held firms are trying to sort of prove"
+    },
+    {
+      "start": 527.36,
+      "duration": 4.4,
+      "text": "that their technology is not just useful"
+    },
+    {
+      "start": 529.839,
+      "duration": 4.881,
+      "text": "for software developers, but that it's"
+    },
+    {
+      "start": 531.76,
+      "duration": 5.92,
+      "text": "broadly useful for scientists, for"
+    },
+    {
+      "start": 534.72,
+      "duration": 4.88,
+      "text": "financial firms, for creatives."
+    },
+    {
+      "start": 537.68,
+      "duration": 3.76,
+      "text": "That's still a work in progress. The"
+    },
+    {
+      "start": 539.6,
+      "duration": 3.76,
+      "text": "same technology that might one day lead"
+    },
+    {
+      "start": 541.44,
+      "duration": 3.76,
+      "text": "to a scientific breakthrough will"
+    },
+    {
+      "start": 543.36,
+      "duration": 4.08,
+      "text": "sometimes struggle with basic math."
+    },
+    {
+      "start": 545.2,
+      "duration": 4.639,
+      "text": "Cyber security has emerged as another"
+    },
+    {
+      "start": 547.44,
+      "duration": 4.48,
+      "text": "interesting and key use case here, but"
+    },
+    {
+      "start": 549.839,
+      "duration": 4.56,
+      "text": "it's kind of an offshoot of coding. So"
+    },
+    {
+      "start": 551.92,
+      "duration": 5.12,
+      "text": "with methos, they're tapping into that"
+    },
+    {
+      "start": 554.399,
+      "duration": 4.56,
+      "text": "hype. In their own words, the same"
+    },
+    {
+      "start": 557.04,
+      "duration": 4.239,
+      "text": "capabilities that made AI models"
+    },
+    {
+      "start": 558.959,
+      "duration": 4.641,
+      "text": "dangerous in the wrong hands make them"
+    },
+    {
+      "start": 561.279,
+      "duration": 5.521,
+      "text": "invaluable for finding and fixing flaws"
+    },
+    {
+      "start": 563.6,
+      "duration": 5.04,
+      "text": "in important software."
+    },
+    {
+      "start": 566.8,
+      "duration": 4.8,
+      "text": "The mythos story is about trying to"
+    },
+    {
+      "start": 568.64,
+      "duration": 5.12,
+      "text": "fight fire with fire. While it creates"
+    },
+    {
+      "start": 571.6,
+      "duration": 4.88,
+      "text": "opportunities for havoc, it also"
+    },
+    {
+      "start": 573.76,
+      "duration": 4.88,
+      "text": "promises a stronger rebuild, all while"
+    },
+    {
+      "start": 576.48,
+      "duration": 4.799,
+      "text": "opening up a lucrative revenue stream in"
+    },
+    {
+      "start": 578.64,
+      "duration": 4.72,
+      "text": "the meantime. Up until now, the main"
+    },
+    {
+      "start": 581.279,
+      "duration": 3.68,
+      "text": "conversation about AI has been what's"
+    },
+    {
+      "start": 583.36,
+      "duration": 4.159,
+      "text": "going to happen to our jobs. Because so"
+    },
+    {
+      "start": 584.959,
+      "duration": 4.801,
+      "text": "much of this technology has been to"
+    },
+    {
+      "start": 587.519,
+      "duration": 5.041,
+      "text": "streamline back office processes, find"
+    },
+    {
+      "start": 589.76,
+      "duration": 4.56,
+      "text": "efficiencies. But now the worries are"
+    },
+    {
+      "start": 592.56,
+      "duration": 3.36,
+      "text": "not just about job safety, they're"
+    },
+    {
+      "start": 594.32,
+      "duration": 4.88,
+      "text": "actually about system safety and"
+    },
+    {
+      "start": 595.92,
+      "duration": 6.08,
+      "text": "security safety. And that takes this to"
+    },
+    {
+      "start": 599.2,
+      "duration": 2.8,
+      "text": "another level."
+    }
+  ]
+}
