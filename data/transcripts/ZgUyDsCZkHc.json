@@ -1,0 +1,2996 @@
+{
+  "video_id": "ZgUyDsCZkHc",
+  "title": "【Microsoftの秘密ラボが生んだAIチップ】今井翔太「NVIDIAだけじゃ足りない」／ChatGPTの頭脳は轟音で発熱→業界初の“冷却革命”／世界最小？量子コンピューター登場【AI QUEST】",
+  "channel": "TBS CROSS DIG with Bloomberg",
+  "published_at": "2026-04-22T10:00:58Z",
+  "duration": "PT34M59S",
+  "thumbnail": "https://i.ytimg.com/vi/ZgUyDsCZkHc/hqdefault.jpg",
+  "fetched_at": "2026-04-25T12:18:32.867529",
+  "transcript": [
+    {
+      "start": 25.92,
+      "duration": 4.16,
+      "text": "AI"
+    },
+    {
+      "start": 28.72,
+      "duration": 4.36,
+      "text": "AI."
+    },
+    {
+      "start": 30.08,
+      "duration": 3.0,
+      "text": "Microsoft"
+    },
+    {
+      "start": 33.84,
+      "duration": 3.8,
+      "text": "AI data center"
+    },
+    {
+      "start": 55.12,
+      "duration": 5.24,
+      "text": "Microsoft"
+    },
+    {
+      "start": 56.879,
+      "duration": 3.481,
+      "text": "data though"
+    },
+    {
+      "start": 62.879,
+      "duration": 4.961,
+      "text": "AI data center easily get really hot"
+    },
+    {
+      "start": 65.92,
+      "duration": 3.84,
+      "text": "because of GPUs and all the chips."
+    },
+    {
+      "start": 67.84,
+      "duration": 4.4,
+      "text": ">> So you're absolutely right. It's hotter"
+    },
+    {
+      "start": 69.76,
+      "duration": 4.48,
+      "text": "than it had been historically over 400"
+    },
+    {
+      "start": 72.24,
+      "duration": 3.68,
+      "text": "data centers. I think we're 140"
+    },
+    {
+      "start": 74.24,
+      "duration": 2.96,
+      "text": "countries now. So there's what we do at"
+    },
+    {
+      "start": 75.92,
+      "duration": 3.28,
+      "text": "Microsoft and then there's what we do"
+    },
+    {
+      "start": 77.2,
+      "duration": 4.4,
+      "text": "with some of our partners like OpenAI."
+    },
+    {
+      "start": 79.2,
+      "duration": 4.08,
+      "text": "But we also have chip diversity and so"
+    },
+    {
+      "start": 81.6,
+      "duration": 3.76,
+      "text": "we of course have an amazing partnership"
+    },
+    {
+      "start": 83.28,
+      "duration": 4.159,
+      "text": "with Nvidia but we also recently"
+    },
+    {
+      "start": 85.36,
+      "duration": 2.56,
+      "text": "announced Maya 200 which is our own"
+    },
+    {
+      "start": 87.439,
+      "duration": 4.081,
+      "text": "chip."
+    },
+    {
+      "start": 87.92,
+      "duration": 6.8,
+      "text": ">> It outperforms tranium v3 as well as our"
+    },
+    {
+      "start": 91.52,
+      "duration": 5.279,
+      "text": "TPU V7 from a performance standpoint. We"
+    },
+    {
+      "start": 94.72,
+      "duration": 4.399,
+      "text": "are first in the industry to build that"
+    },
+    {
+      "start": 96.799,
+      "duration": 6.441,
+      "text": "liquid cooling solution that can provide"
+    },
+    {
+      "start": 99.119,
+      "duration": 4.121,
+      "text": "that cooling directly to the chip."
+    },
+    {
+      "start": 112.88,
+      "duration": 4.64,
+      "text": "And ultimately it gets you to what we"
+    },
+    {
+      "start": 114.96,
+      "duration": 4.24,
+      "text": "call my one. Right now it's only got 8"
+    },
+    {
+      "start": 117.52,
+      "duration": 3.44,
+      "text": "cubits and I'll show you more of this."
+    },
+    {
+      "start": 119.2,
+      "duration": 3.919,
+      "text": "You will have more computational power"
+    },
+    {
+      "start": 120.96,
+      "duration": 4.799,
+      "text": "for a certain set of problems in the"
+    },
+    {
+      "start": 123.119,
+      "duration": 5.881,
+      "text": "palm of your hands than the entire world"
+    },
+    {
+      "start": 125.759,
+      "duration": 3.241,
+      "text": "put together."
+    },
+    {
+      "start": 145.84,
+      "duration": 3.0,
+      "text": "Microsoft"
+    },
+    {
+      "start": 159.36,
+      "duration": 3.239,
+      "text": "Microsoft Listen,"
+    },
+    {
+      "start": 188.8,
+      "duration": 3.4,
+      "text": "Microsoft He's"
+    },
+    {
+      "start": 201.04,
+      "duration": 3.16,
+      "text": "in there."
+    },
+    {
+      "start": 222.08,
+      "duration": 3.0,
+      "text": "scale."
+    },
+    {
+      "start": 251.599,
+      "duration": 3.241,
+      "text": "This is God."
+    },
+    {
+      "start": 276.639,
+      "duration": 3.0,
+      "text": "graphics."
+    },
+    {
+      "start": 308.08,
+      "duration": 3.0,
+      "text": "Microsoft"
+    },
+    {
+      "start": 315.919,
+      "duration": 3.801,
+      "text": "AWS, Amazon"
+    },
+    {
+      "start": 349.44,
+      "duration": 3.0,
+      "text": "AI"
+    },
+    {
+      "start": 385.759,
+      "duration": 3.841,
+      "text": "You all know that AI is fundamentally"
+    },
+    {
+      "start": 387.759,
+      "duration": 4.0,
+      "text": "changing how we work and what we work"
+    },
+    {
+      "start": 389.6,
+      "duration": 4.4,
+      "text": "and how we solve the solutions and for"
+    },
+    {
+      "start": 391.759,
+      "duration": 3.761,
+      "text": "that we really need to reimagine every"
+    },
+    {
+      "start": 394.0,
+      "duration": 4.88,
+      "text": "layer of the stack right from the"
+    },
+    {
+      "start": 395.52,
+      "duration": 5.84,
+      "text": "silicon to the system to the solution"
+    },
+    {
+      "start": 398.88,
+      "duration": 4.879,
+      "text": "the rack the infrastructure in the data"
+    },
+    {
+      "start": 401.36,
+      "duration": 5.119,
+      "text": "center as well so that we are able to"
+    },
+    {
+      "start": 403.759,
+      "duration": 4.481,
+      "text": "provide that uh optimized solutions for"
+    },
+    {
+      "start": 406.479,
+      "duration": 4.801,
+      "text": "our customers"
+    },
+    {
+      "start": 408.24,
+      "duration": 5.76,
+      "text": "this is the my 200 system which u we"
+    },
+    {
+      "start": 411.28,
+      "duration": 8.319,
+      "text": "recently announced in January time frame"
+    },
+    {
+      "start": 414.0,
+      "duration": 7.759,
+      "text": "um this is 30% more better in terms of"
+    },
+    {
+      "start": 419.599,
+      "duration": 4.241,
+      "text": "um Compared to our previous generation,"
+    },
+    {
+      "start": 421.759,
+      "duration": 6.481,
+      "text": "it outperforms"
+    },
+    {
+      "start": 423.84,
+      "duration": 7.6,
+      "text": "um Trianium V3 as well as our uh TPU V7"
+    },
+    {
+      "start": 428.24,
+      "duration": 5.44,
+      "text": "from a performance standpoint. Um it is"
+    },
+    {
+      "start": 431.44,
+      "duration": 4.319,
+      "text": "built based on the 3 nanometer TSMC"
+    },
+    {
+      "start": 433.68,
+      "duration": 3.68,
+      "text": "processes as well. These are all the"
+    },
+    {
+      "start": 435.759,
+      "duration": 4.081,
+      "text": "coal plates that we have on top of it"
+    },
+    {
+      "start": 437.36,
+      "duration": 6.0,
+      "text": "where we are providing cooling directly"
+    },
+    {
+      "start": 439.84,
+      "duration": 4.96,
+      "text": "to the chip and these are designed um"
+    },
+    {
+      "start": 443.36,
+      "duration": 3.279,
+      "text": "there's a lot of innovation that went"
+    },
+    {
+      "start": 444.8,
+      "duration": 3.92,
+      "text": "into it where we are first in the"
+    },
+    {
+      "start": 446.639,
+      "duration": 4.161,
+      "text": "industry to build that liquid cooling"
+    },
+    {
+      "start": 448.72,
+      "duration": 4.8,
+      "text": "solution that can provides that cooling"
+    },
+    {
+      "start": 450.8,
+      "duration": 4.239,
+      "text": "directly to the chip and um drive that"
+    },
+    {
+      "start": 453.52,
+      "duration": 4.959,
+      "text": "efficiencies both from a power"
+    },
+    {
+      "start": 455.039,
+      "duration": 5.121,
+      "text": "standpoint and from a cost standpoint."
+    },
+    {
+      "start": 458.479,
+      "duration": 4.961,
+      "text": "All this innovation is driving"
+    },
+    {
+      "start": 460.16,
+      "duration": 6.08,
+      "text": "efficiency at an entire stack level. So"
+    },
+    {
+      "start": 463.44,
+      "duration": 6.4,
+      "text": "you can you know basically provide"
+    },
+    {
+      "start": 466.24,
+      "duration": 7.04,
+      "text": "entrance into large language models to"
+    },
+    {
+      "start": 469.84,
+      "duration": 5.44,
+      "text": "agentic workloads copilot um and it also"
+    },
+    {
+      "start": 473.28,
+      "duration": 6.96,
+      "text": "runs across various models as well with"
+    },
+    {
+      "start": 475.28,
+      "duration": 8.599,
+      "text": "GPD 5.2 um copilot and yeah different"
+    },
+    {
+      "start": 480.24,
+      "duration": 3.639,
+      "text": "large language models."
+    },
+    {
+      "start": 499.12,
+      "duration": 7.639,
+      "text": "So you said GBT 5.2 runs on Maya 200."
+    },
+    {
+      "start": 503.599,
+      "duration": 3.16,
+      "text": ">> That's right."
+    },
+    {
+      "start": 509.039,
+      "duration": 5.041,
+      "text": ">> So it provides direct cooling to our um"
+    },
+    {
+      "start": 511.919,
+      "duration": 4.24,
+      "text": "chips to drive those efficiencies from"
+    },
+    {
+      "start": 514.08,
+      "duration": 3.28,
+      "text": "an end to end standpoint. We think of"
+    },
+    {
+      "start": 516.159,
+      "duration": 2.721,
+      "text": "when we talk about cooling, we talk"
+    },
+    {
+      "start": 517.36,
+      "duration": 3.2,
+      "text": "about cooling at every layer in the"
+    },
+    {
+      "start": 518.88,
+      "duration": 4.0,
+      "text": "stack right from the silicon to the"
+    },
+    {
+      "start": 520.56,
+      "duration": 4.8,
+      "text": "servers and to the entire rack level,"
+    },
+    {
+      "start": 522.88,
+      "duration": 4.16,
+      "text": "the existing data center. And when we"
+    },
+    {
+      "start": 525.36,
+      "duration": 3.68,
+      "text": "design cooling solutions, we also think"
+    },
+    {
+      "start": 527.04,
+      "duration": 4.0,
+      "text": "about how sustainable they are so that"
+    },
+    {
+      "start": 529.04,
+      "duration": 4.16,
+      "text": "we are designing that to our existing"
+    },
+    {
+      "start": 531.04,
+      "duration": 3.919,
+      "text": "data centers. It can deploy into any"
+    },
+    {
+      "start": 533.2,
+      "duration": 3.92,
+      "text": "aircooled data centers and the future"
+    },
+    {
+      "start": 534.959,
+      "duration": 3.921,
+      "text": "data centers. So the next generation"
+    },
+    {
+      "start": 537.12,
+      "duration": 4.159,
+      "text": "that you would not have ever seen before"
+    },
+    {
+      "start": 538.88,
+      "duration": 4.8,
+      "text": "is the investments the team is already"
+    },
+    {
+      "start": 541.279,
+      "duration": 4.081,
+      "text": "doing in the micrfluidics that is"
+    },
+    {
+      "start": 543.68,
+      "duration": 4.24,
+      "text": "basically taking it to the next level"
+    },
+    {
+      "start": 545.36,
+      "duration": 4.8,
+      "text": "from a cooling standpoint where we are"
+    },
+    {
+      "start": 547.92,
+      "duration": 4.64,
+      "text": "going down and you know basically"
+    },
+    {
+      "start": 550.16,
+      "duration": 4.64,
+      "text": "etching on the chip itself so that"
+    },
+    {
+      "start": 552.56,
+      "duration": 4.56,
+      "text": "you're providing the cooling directly to"
+    },
+    {
+      "start": 554.8,
+      "duration": 3.92,
+      "text": "the chip there and this is going to be"
+    },
+    {
+      "start": 557.12,
+      "duration": 3.839,
+      "text": "the next generation where you'll be"
+    },
+    {
+      "start": 558.72,
+      "duration": 5.92,
+      "text": "looking at how we are cooling higher TDP"
+    },
+    {
+      "start": 560.959,
+      "duration": 6.161,
+      "text": "parts right and very high heat uh"
+    },
+    {
+      "start": 564.64,
+      "duration": 5.6,
+      "text": "resistant parts"
+    },
+    {
+      "start": 567.12,
+      "duration": 7.12,
+      "text": "So that's from a micrfluid standpoint."
+    },
+    {
+      "start": 570.24,
+      "duration": 5.2,
+      "text": ">> So why why do we need micrfluidics? Why"
+    },
+    {
+      "start": 574.24,
+      "duration": 2.96,
+      "text": "why do we need it?"
+    },
+    {
+      "start": 575.44,
+      "duration": 3.12,
+      "text": ">> It's basically going to drive as you as"
+    },
+    {
+      "start": 577.2,
+      "duration": 4.639,
+      "text": "you see the workloads are going to get"
+    },
+    {
+      "start": 578.56,
+      "duration": 4.64,
+      "text": "even more intense and more denser. So"
+    },
+    {
+      "start": 581.839,
+      "duration": 3.12,
+      "text": "this is the next level of innovation"
+    },
+    {
+      "start": 583.2,
+      "duration": 4.48,
+      "text": "that the team is already doing where we"
+    },
+    {
+      "start": 584.959,
+      "duration": 5.521,
+      "text": "are going to provide that uh cooling to"
+    },
+    {
+      "start": 587.68,
+      "duration": 6.08,
+      "text": "the chip so that you can basically take"
+    },
+    {
+      "start": 590.48,
+      "duration": 5.28,
+      "text": "more higher TDP parts higher you can"
+    },
+    {
+      "start": 593.76,
+      "duration": 3.199,
+      "text": "support higher temperatures as well and"
+    },
+    {
+      "start": 595.76,
+      "duration": 2.639,
+      "text": "provide the cooling to drive"
+    },
+    {
+      "start": 596.959,
+      "duration": 4.0,
+      "text": "efficiencies and lower the power"
+    },
+    {
+      "start": 598.399,
+      "duration": 4.88,
+      "text": "consumption lower the energy and make it"
+    },
+    {
+      "start": 600.959,
+      "duration": 4.161,
+      "text": "that you know from a sustainability"
+    },
+    {
+      "start": 603.279,
+      "duration": 4.081,
+      "text": "standpoint as well."
+    },
+    {
+      "start": 605.12,
+      "duration": 6.08,
+      "text": ">> So does it"
+    },
+    {
+      "start": 607.36,
+      "duration": 6.24,
+      "text": ">> uh contribute to the more efficiency ing"
+    },
+    {
+      "start": 611.2,
+      "duration": 3.84,
+      "text": "the power right yes the power"
+    },
+    {
+      "start": 613.6,
+      "duration": 2.799,
+      "text": "consumption is the biggest thing that"
+    },
+    {
+      "start": 615.04,
+      "duration": 2.0,
+      "text": "can help address it from a cooling"
+    },
+    {
+      "start": 616.399,
+      "duration": 2.56,
+      "text": "standpoint it provides"
+    },
+    {
+      "start": 617.04,
+      "duration": 4.16,
+      "text": ">> is it deploying the myio 200 or"
+    },
+    {
+      "start": 618.959,
+      "duration": 4.0,
+      "text": ">> no it is the future that we have seen"
+    },
+    {
+      "start": 621.2,
+      "duration": 2.879,
+      "text": "before so this is where we are trying to"
+    },
+    {
+      "start": 622.959,
+      "duration": 2.961,
+      "text": "show you guys to see what we are"
+    },
+    {
+      "start": 624.079,
+      "duration": 3.921,
+      "text": "investing in from a technology"
+    },
+    {
+      "start": 625.92,
+      "duration": 4.72,
+      "text": "advancements"
+    },
+    {
+      "start": 628.0,
+      "duration": 5.64,
+      "text": ">> worldwide but this is one of our biggest"
+    },
+    {
+      "start": 630.64,
+      "duration": 3.0,
+      "text": "labs"
+    },
+    {
+      "start": 662.64,
+      "duration": 5.12,
+      "text": "So this is a lab that has the scale"
+    },
+    {
+      "start": 665.44,
+      "duration": 5.76,
+      "text": "testing lab that I talked about. It has"
+    },
+    {
+      "start": 667.76,
+      "duration": 4.88,
+      "text": "multiple different racks. So, before we"
+    },
+    {
+      "start": 671.2,
+      "duration": 2.639,
+      "text": "get into the lab, as I said, it's going"
+    },
+    {
+      "start": 672.64,
+      "duration": 3.759,
+      "text": "to be noisy because there are multiple"
+    },
+    {
+      "start": 673.839,
+      "duration": 3.68,
+      "text": "racks running and lot of servers. So,"
+    },
+    {
+      "start": 676.399,
+      "duration": 2.401,
+      "text": "it's going to be nice because it"
+    },
+    {
+      "start": 677.519,
+      "duration": 3.44,
+      "text": "simulates a real data center"
+    },
+    {
+      "start": 678.8,
+      "duration": 6.36,
+      "text": "environment. So, if you guys can each of"
+    },
+    {
+      "start": 680.959,
+      "duration": 4.201,
+      "text": "you help yourselves with the ear plugs,"
+    },
+    {
+      "start": 688.959,
+      "duration": 4.841,
+      "text": "what is it? Oh,"
+    },
+    {
+      "start": 690.32,
+      "duration": 3.48,
+      "text": ">> ear plug. Earplug."
+    },
+    {
+      "start": 694.72,
+      "duration": 3.799,
+      "text": "Yeah, I thought it was candy."
+    },
+    {
+      "start": 724.0,
+      "duration": 4.72,
+      "text": "But you guys can walk through it to see"
+    },
+    {
+      "start": 725.92,
+      "duration": 6.28,
+      "text": "that this is like a real data center"
+    },
+    {
+      "start": 728.72,
+      "duration": 3.48,
+      "text": "kind of an environment."
+    },
+    {
+      "start": 737.04,
+      "duration": 3.64,
+      "text": "Foreign speech. Foreign speech. Foreign"
+    },
+    {
+      "start": 737.68,
+      "duration": 3.0,
+      "text": "speech."
+    },
+    {
+      "start": 758.56,
+      "duration": 3.719,
+      "text": "What is going on?"
+    },
+    {
+      "start": 795.519,
+      "duration": 2.241,
+      "text": "This is my 200."
+    },
+    {
+      "start": 796.88,
+      "duration": 4.56,
+      "text": ">> Oh, my 200."
+    },
+    {
+      "start": 797.76,
+      "duration": 6.68,
+      "text": ">> My 200. This is my 200. That is right"
+    },
+    {
+      "start": 801.44,
+      "duration": 3.0,
+      "text": "now."
+    },
+    {
+      "start": 814.079,
+      "duration": 2.721,
+      "text": "Where does this sound come from? The"
+    },
+    {
+      "start": 816.16,
+      "duration": 1.359,
+      "text": "fan."
+    },
+    {
+      "start": 816.8,
+      "duration": 2.88,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 817.519,
+      "duration": 4.32,
+      "text": ">> Oh,"
+    },
+    {
+      "start": 819.68,
+      "duration": 2.48,
+      "text": "and power supplies and everything inside"
+    },
+    {
+      "start": 821.839,
+      "duration": 3.321,
+      "text": "it."
+    },
+    {
+      "start": 822.16,
+      "duration": 3.0,
+      "text": ">> Uhhuh."
+    },
+    {
+      "start": 829.68,
+      "duration": 5.52,
+      "text": "So is it is this like a inside the fair"
+    },
+    {
+      "start": 833.2,
+      "duration": 4.16,
+      "text": "water data center?"
+    },
+    {
+      "start": 835.2,
+      "duration": 4.16,
+      "text": ">> Is it"
+    },
+    {
+      "start": 837.36,
+      "duration": 2.88,
+      "text": "that noisy? Yes. Inside"
+    },
+    {
+      "start": 839.36,
+      "duration": 2.0,
+      "text": ">> even more."
+    },
+    {
+      "start": 840.24,
+      "duration": 3.52,
+      "text": ">> Even more. Okay."
+    },
+    {
+      "start": 841.36,
+      "duration": 3.919,
+      "text": ">> You have family and rats coming. Right."
+    },
+    {
+      "start": 843.76,
+      "duration": 4.519,
+      "text": "Right."
+    },
+    {
+      "start": 845.279,
+      "duration": 3.0,
+      "text": ">> Okay."
+    },
+    {
+      "start": 857.44,
+      "duration": 4.16,
+      "text": "Yeah, that's the end of the tour with"
+    },
+    {
+      "start": 859.6,
+      "duration": 3.84,
+      "text": "respect to the labs that we wanted to"
+    },
+    {
+      "start": 861.6,
+      "duration": 5.16,
+      "text": "walk you guys through today."
+    },
+    {
+      "start": 863.44,
+      "duration": 3.32,
+      "text": ">> Thank you."
+    },
+    {
+      "start": 886.0,
+      "duration": 3.24,
+      "text": "two different"
+    },
+    {
+      "start": 891.68,
+      "duration": 4.2,
+      "text": "gaming PC."
+    },
+    {
+      "start": 908.8,
+      "duration": 5.599,
+      "text": "We hope"
+    },
+    {
+      "start": 911.839,
+      "duration": 4.401,
+      "text": "you"
+    },
+    {
+      "start": 914.399,
+      "duration": 4.921,
+      "text": "all the world,"
+    },
+    {
+      "start": 916.24,
+      "duration": 3.08,
+      "text": "you know."
+    },
+    {
+      "start": 952.639,
+      "duration": 3.241,
+      "text": "Okay. Okay."
+    },
+    {
+      "start": 958.8,
+      "duration": 3.159,
+      "text": "Oh, sorry."
+    },
+    {
+      "start": 962.16,
+      "duration": 3.32,
+      "text": "Sorry. Sorry."
+    },
+    {
+      "start": 975.04,
+      "duration": 3.159,
+      "text": "You all"
+    },
+    {
+      "start": 1001.279,
+      "duration": 3.0,
+      "text": "right?"
+    },
+    {
+      "start": 1030.88,
+      "duration": 4.319,
+      "text": "Quantum computers are not general"
+    },
+    {
+      "start": 1032.559,
+      "duration": 5.28,
+      "text": "purpose. they are not going to replace"
+    },
+    {
+      "start": 1035.199,
+      "duration": 3.84,
+      "text": "the you know in our in our phones or our"
+    },
+    {
+      "start": 1037.839,
+      "duration": 3.2,
+      "text": "mobile because well then how the heck"
+    },
+    {
+      "start": 1039.039,
+      "duration": 4.8,
+      "text": "does it solve these big problems number"
+    },
+    {
+      "start": 1041.039,
+      "duration": 4.321,
+      "text": "one is what we call superp position so"
+    },
+    {
+      "start": 1043.839,
+      "duration": 3.521,
+      "text": "everybody's familiar with classic"
+    },
+    {
+      "start": 1045.36,
+      "duration": 5.04,
+      "text": "computers if you took a compsside class"
+    },
+    {
+      "start": 1047.36,
+      "duration": 5.84,
+      "text": "a bit is a zero or a one that means that"
+    },
+    {
+      "start": 1050.4,
+      "duration": 4.96,
+      "text": "a cubit different than a regular bit the"
+    },
+    {
+      "start": 1053.2,
+      "duration": 4.479,
+      "text": "superposition notion means that I can"
+    },
+    {
+      "start": 1055.36,
+      "duration": 4.88,
+      "text": "capture all sorts of state at once that"
+    },
+    {
+      "start": 1057.679,
+      "duration": 4.961,
+      "text": "means it actually captures a lot of data"
+    },
+    {
+      "start": 1060.24,
+      "duration": 4.559,
+      "text": "in one spot so think of it as massively"
+    },
+    {
+      "start": 1062.64,
+      "duration": 3.68,
+      "text": "parallel being able to think through it."
+    },
+    {
+      "start": 1064.799,
+      "duration": 3.601,
+      "text": "So then thinking about where does"
+    },
+    {
+      "start": 1066.32,
+      "duration": 4.239,
+      "text": "quantum then fit in. Everybody's"
+    },
+    {
+      "start": 1068.4,
+      "duration": 4.08,
+      "text": "familiar with CPUs. We have those in the"
+    },
+    {
+      "start": 1070.559,
+      "duration": 3.761,
+      "text": "data centers today, right? They pretty"
+    },
+    {
+      "start": 1072.48,
+      "duration": 3.6,
+      "text": "much run the internet and back office"
+    },
+    {
+      "start": 1074.32,
+      "duration": 4.16,
+      "text": "applications and things like that."
+    },
+    {
+      "start": 1076.08,
+      "duration": 5.76,
+      "text": "Everyone's familiar with GPUs, you know,"
+    },
+    {
+      "start": 1078.48,
+      "duration": 5.199,
+      "text": "more more than often today that's about"
+    },
+    {
+      "start": 1081.84,
+      "duration": 4.24,
+      "text": "AI, right? It's about training and"
+    },
+    {
+      "start": 1083.679,
+      "duration": 5.201,
+      "text": "inference. Quantum is just another"
+    },
+    {
+      "start": 1086.08,
+      "duration": 5.2,
+      "text": "accelerator. Quantum processing unit is"
+    },
+    {
+      "start": 1088.88,
+      "duration": 5.36,
+      "text": "another type of compute. That means that"
+    },
+    {
+      "start": 1091.28,
+      "duration": 5.12,
+      "text": "in the future compute is hybrid. We're"
+    },
+    {
+      "start": 1094.24,
+      "duration": 2.48,
+      "text": "going to use a combination of all three."
+    },
+    {
+      "start": 1096.4,
+      "duration": 2.639,
+      "text": "Right?"
+    },
+    {
+      "start": 1096.72,
+      "duration": 5.839,
+      "text": ">> This is what we showcased showcased last"
+    },
+    {
+      "start": 1099.039,
+      "duration": 5.841,
+      "text": "year uh when we talked about my one and"
+    },
+    {
+      "start": 1102.559,
+      "duration": 4.881,
+      "text": "ultimately it gets you to what we call"
+    },
+    {
+      "start": 1104.88,
+      "duration": 4.4,
+      "text": "my one. Right? Now it's only got eight"
+    },
+    {
+      "start": 1107.44,
+      "duration": 4.72,
+      "text": "cubits. And the idea here is you can fit"
+    },
+    {
+      "start": 1109.28,
+      "duration": 4.56,
+      "text": "a million cubits in that form factor. So"
+    },
+    {
+      "start": 1112.16,
+      "duration": 3.759,
+      "text": "in summary, you will have more"
+    },
+    {
+      "start": 1113.84,
+      "duration": 4.959,
+      "text": "computational power for a certain set of"
+    },
+    {
+      "start": 1115.919,
+      "duration": 4.801,
+      "text": "problems in the palm of your hands than"
+    },
+    {
+      "start": 1118.799,
+      "duration": 4.401,
+      "text": "the entire world put together. I mean"
+    },
+    {
+      "start": 1120.72,
+      "duration": 6.16,
+      "text": "that is one hell of a statement to make."
+    },
+    {
+      "start": 1123.2,
+      "duration": 5.52,
+      "text": "And the size ah breaks my heart. This is"
+    },
+    {
+      "start": 1126.88,
+      "duration": 4.32,
+      "text": "our size. These are some of the"
+    },
+    {
+      "start": 1128.72,
+      "duration": 7.48,
+      "text": "competitive sizes."
+    },
+    {
+      "start": 1131.2,
+      "duration": 5.0,
+      "text": "Um orders of magnitude different."
+    },
+    {
+      "start": 1148.72,
+      "duration": 3.72,
+      "text": "Do you do you"
+    },
+    {
+      "start": 1162.16,
+      "duration": 3.0,
+      "text": "main"
+    },
+    {
+      "start": 1166.16,
+      "duration": 3.0,
+      "text": "GPU"
+    },
+    {
+      "start": 1170.0,
+      "duration": 2.96,
+      "text": "CPU GPU."
+    },
+    {
+      "start": 1199.919,
+      "duration": 2.64,
+      "text": "CP, GP"
+    },
+    {
+      "start": 1207.28,
+      "duration": 3.0,
+      "text": "computer."
+    },
+    {
+      "start": 1224.88,
+      "duration": 3.0,
+      "text": "Computer"
+    },
+    {
+      "start": 1230.88,
+      "duration": 4.84,
+      "text": "No. So what do I say?"
+    },
+    {
+      "start": 1257.919,
+      "duration": 3.801,
+      "text": "All right. Yeah."
+    },
+    {
+      "start": 1269.76,
+      "duration": 3.32,
+      "text": "Data center"
+    },
+    {
+      "start": 1313.6,
+      "duration": 3.36,
+      "text": "It's great to have all of you here."
+    },
+    {
+      "start": 1315.039,
+      "duration": 3.921,
+      "text": "Thank you for coming. I know many of you"
+    },
+    {
+      "start": 1316.96,
+      "duration": 4.719,
+      "text": "have come uh quite a long whether you're"
+    },
+    {
+      "start": 1318.96,
+      "duration": 5.44,
+      "text": "at Microsoft or say four or five other"
+    },
+    {
+      "start": 1321.679,
+      "duration": 6.48,
+      "text": "companies. You're seeing literally an"
+    },
+    {
+      "start": 1324.4,
+      "duration": 6.56,
+      "text": "unprecedented investment in the tech"
+    },
+    {
+      "start": 1328.159,
+      "duration": 5.121,
+      "text": "sector investing in infrastructure. The"
+    },
+    {
+      "start": 1330.96,
+      "duration": 5.04,
+      "text": "steam engine led to railroads that"
+    },
+    {
+      "start": 1333.28,
+      "duration": 4.639,
+      "text": "required railroad tracks. Electricity"
+    },
+    {
+      "start": 1336.0,
+      "duration": 4.64,
+      "text": "required power plants and electrical"
+    },
+    {
+      "start": 1337.919,
+      "duration": 5.281,
+      "text": "grid. The telephone in required"
+    },
+    {
+      "start": 1340.64,
+      "duration": 4.8,
+      "text": "telephone lines and systems. The"
+    },
+    {
+      "start": 1343.2,
+      "duration": 5.28,
+      "text": "automobile required roads and highways."
+    },
+    {
+      "start": 1345.44,
+      "duration": 5.92,
+      "text": "The airplane required airports. So in a"
+    },
+    {
+      "start": 1348.48,
+      "duration": 6.4,
+      "text": "sense, a very real sense, this is the"
+    },
+    {
+      "start": 1351.36,
+      "duration": 6.24,
+      "text": "sixth wave of technologydriven"
+    },
+    {
+      "start": 1354.88,
+      "duration": 5.279,
+      "text": "infrastructure expansion since the start"
+    },
+    {
+      "start": 1357.6,
+      "duration": 4.8,
+      "text": "of the industrial revolution. I think"
+    },
+    {
+      "start": 1360.159,
+      "duration": 4.561,
+      "text": "Microsoft is probably investing more"
+    },
+    {
+      "start": 1362.4,
+      "duration": 5.04,
+      "text": "broadly and more globally than any other"
+    },
+    {
+      "start": 1364.72,
+      "duration": 3.6,
+      "text": "company when it comes to AI and cloud"
+    },
+    {
+      "start": 1367.44,
+      "duration": 2.96,
+      "text": "infrastructure."
+    },
+    {
+      "start": 1368.32,
+      "duration": 4.88,
+      "text": ">> The Trump administration expects the big"
+    },
+    {
+      "start": 1370.4,
+      "duration": 4.88,
+      "text": "tech companies to uh ensure massive data"
+    },
+    {
+      "start": 1373.2,
+      "duration": 4.32,
+      "text": "center investments don't raise consumer"
+    },
+    {
+      "start": 1375.28,
+      "duration": 4.72,
+      "text": "electricity bills. So as Microsoft"
+    },
+    {
+      "start": 1377.52,
+      "duration": 5.36,
+      "text": "scales its AI products, how do you"
+    },
+    {
+      "start": 1380.0,
+      "duration": 5.039,
+      "text": "balance this tension between um"
+    },
+    {
+      "start": 1382.88,
+      "duration": 4.88,
+      "text": "protecting consumer energy cost driving"
+    },
+    {
+      "start": 1385.039,
+      "duration": 4.321,
+      "text": "commercial AI? So when it comes to say"
+    },
+    {
+      "start": 1387.76,
+      "duration": 5.12,
+      "text": "electricity"
+    },
+    {
+      "start": 1389.36,
+      "duration": 8.16,
+      "text": "you know what it does mean as we said is"
+    },
+    {
+      "start": 1392.88,
+      "duration": 6.4,
+      "text": "first we'll invest will pay for the"
+    },
+    {
+      "start": 1397.52,
+      "duration": 4.88,
+      "text": "types of additions that are needed"
+    },
+    {
+      "start": 1399.28,
+      "duration": 6.8,
+      "text": "electrically so that others consumers"
+    },
+    {
+      "start": 1402.4,
+      "duration": 6.399,
+      "text": "and the public don't see data centers"
+    },
+    {
+      "start": 1406.08,
+      "duration": 6.079,
+      "text": "increase the cost of electricity on the"
+    },
+    {
+      "start": 1408.799,
+      "duration": 5.521,
+      "text": "bills they pay. And that means in part"
+    },
+    {
+      "start": 1412.159,
+      "duration": 5.041,
+      "text": "closer partnerships with utilities to"
+    },
+    {
+      "start": 1414.32,
+      "duration": 4.56,
+      "text": "plan farther in advance. When we sign up"
+    },
+    {
+      "start": 1417.2,
+      "duration": 4.16,
+      "text": "for electricity, we're going to pay for"
+    },
+    {
+      "start": 1418.88,
+      "duration": 5.919,
+      "text": "all the electricity that we sign up for,"
+    },
+    {
+      "start": 1421.36,
+      "duration": 6.88,
+      "text": "even if we don't use all of it. It it"
+    },
+    {
+      "start": 1424.799,
+      "duration": 7.521,
+      "text": "really involves five sets of issues."
+    },
+    {
+      "start": 1428.24,
+      "duration": 8.08,
+      "text": "It's electricity, water, jobs, taxes,"
+    },
+    {
+      "start": 1432.32,
+      "duration": 6.4,
+      "text": "and skills. And I think communities have"
+    },
+    {
+      "start": 1436.32,
+      "duration": 4.719,
+      "text": "more than a reasonable right to ask hard"
+    },
+    {
+      "start": 1438.72,
+      "duration": 4.319,
+      "text": "questions of big companies. If we're"
+    },
+    {
+      "start": 1441.039,
+      "duration": 3.76,
+      "text": "going to come in and build these big"
+    },
+    {
+      "start": 1443.039,
+      "duration": 3.76,
+      "text": "buildings and add to all of this"
+    },
+    {
+      "start": 1444.799,
+      "duration": 3.441,
+      "text": "infrastructure, we need to be clear"
+    },
+    {
+      "start": 1446.799,
+      "duration": 3.76,
+      "text": "about how we're going to do right by"
+    },
+    {
+      "start": 1448.24,
+      "duration": 3.679,
+      "text": "them in all five of these areas."
+    },
+    {
+      "start": 1450.559,
+      "duration": 2.081,
+      "text": ">> Thanks for your time today."
+    },
+    {
+      "start": 1451.919,
+      "duration": 4.801,
+      "text": ">> You're very welcome."
+    },
+    {
+      "start": 1452.64,
+      "duration": 6.56,
+      "text": ">> Yeah. So um CEO Satin Nadella mentioned"
+    },
+    {
+      "start": 1456.72,
+      "duration": 5.199,
+      "text": "that the company added one gawatt of"
+    },
+    {
+      "start": 1459.2,
+      "duration": 6.079,
+      "text": "capacity just in the last three months"
+    },
+    {
+      "start": 1461.919,
+      "duration": 5.201,
+      "text": "of the uh 2025 and how are you"
+    },
+    {
+      "start": 1465.279,
+      "duration": 5.76,
+      "text": "estimating the increase in capacity for"
+    },
+    {
+      "start": 1467.12,
+      "duration": 6.24,
+      "text": "the next year or five or even 10 years?"
+    },
+    {
+      "start": 1471.039,
+      "duration": 3.52,
+      "text": ">> Yeah, it's so hard to to sort of plan"
+    },
+    {
+      "start": 1473.36,
+      "duration": 3.36,
+      "text": "exactly what the number looks like"
+    },
+    {
+      "start": 1474.559,
+      "duration": 3.921,
+      "text": "because I think it changes all the time."
+    },
+    {
+      "start": 1476.72,
+      "duration": 4.0,
+      "text": "So what what you heard from Satia is"
+    },
+    {
+      "start": 1478.48,
+      "duration": 4.72,
+      "text": "very it's a very good indicator for what"
+    },
+    {
+      "start": 1480.72,
+      "duration": 4.0,
+      "text": "we can definitely continuously expect"
+    },
+    {
+      "start": 1483.2,
+      "duration": 3.2,
+      "text": "and then it's looking at all the"
+    },
+    {
+      "start": 1484.72,
+      "duration": 3.52,
+      "text": "different elements whether it's servers"
+    },
+    {
+      "start": 1486.4,
+      "duration": 3.36,
+      "text": "or energy and everything coming together"
+    },
+    {
+      "start": 1488.24,
+      "duration": 3.84,
+      "text": "to figure out how we can actually meet"
+    },
+    {
+      "start": 1489.76,
+      "duration": 4.56,
+      "text": "the capacity demands as they grow even"
+    },
+    {
+      "start": 1492.08,
+      "duration": 4.079,
+      "text": "faster than that. So that number"
+    },
+    {
+      "start": 1494.32,
+      "duration": 3.04,
+      "text": "definitely looks very similar to the"
+    },
+    {
+      "start": 1496.159,
+      "duration": 3.041,
+      "text": "numbers that we would expect in this"
+    },
+    {
+      "start": 1497.36,
+      "duration": 3.84,
+      "text": "quarter and and in future quarters from"
+    },
+    {
+      "start": 1499.2,
+      "duration": 3.12,
+      "text": "the energy side and then it's an"
+    },
+    {
+      "start": 1501.2,
+      "duration": 2.64,
+      "text": "opportunity to figure out if there are"
+    },
+    {
+      "start": 1502.32,
+      "duration": 3.28,
+      "text": "other places where we could grow even"
+    },
+    {
+      "start": 1503.84,
+      "duration": 3.68,
+      "text": "faster based on the energy availability"
+    },
+    {
+      "start": 1505.6,
+      "duration": 4.0,
+      "text": "in those regions."
+    },
+    {
+      "start": 1507.52,
+      "duration": 5.2,
+      "text": ">> What about Japan? Japan is I think the"
+    },
+    {
+      "start": 1509.6,
+      "duration": 5.6,
+      "text": "big one of the biggest AR market for now"
+    },
+    {
+      "start": 1512.72,
+      "duration": 5.76,
+      "text": ">> and Japan has been one of our longest"
+    },
+    {
+      "start": 1515.2,
+      "duration": 5.92,
+      "text": "standing cloud regions. Japan is is for"
+    },
+    {
+      "start": 1518.48,
+      "duration": 3.92,
+      "text": "sure a tight market from both the energy"
+    },
+    {
+      "start": 1521.12,
+      "duration": 3.919,
+      "text": "perspective and from the land"
+    },
+    {
+      "start": 1522.4,
+      "duration": 4.24,
+      "text": "perspective. But we absolutely like many"
+    },
+    {
+      "start": 1525.039,
+      "duration": 3.841,
+      "text": "other locations would love to find"
+    },
+    {
+      "start": 1526.64,
+      "duration": 4.399,
+      "text": "opportunities to grow in in in Japan"
+    },
+    {
+      "start": 1528.88,
+      "duration": 4.799,
+      "text": "faster. I think what you see with AI"
+    },
+    {
+      "start": 1531.039,
+      "duration": 5.441,
+      "text": "specifically is really the need for"
+    },
+    {
+      "start": 1533.679,
+      "duration": 5.041,
+      "text": "speed is driving a lot of where we are"
+    },
+    {
+      "start": 1536.48,
+      "duration": 4.48,
+      "text": "going to in locations and so some of the"
+    },
+    {
+      "start": 1538.72,
+      "duration": 4.079,
+      "text": "locations end up being surprising but"
+    },
+    {
+      "start": 1540.96,
+      "duration": 3.28,
+      "text": "Japan is a great opportunity for us and"
+    },
+    {
+      "start": 1542.799,
+      "duration": 3.041,
+      "text": "we'd love to find those opportunities to"
+    },
+    {
+      "start": 1544.24,
+      "duration": 2.16,
+      "text": "to speed up our development in the"
+    },
+    {
+      "start": 1545.84,
+      "duration": 4.88,
+      "text": "country."
+    },
+    {
+      "start": 1546.4,
+      "duration": 6.72,
+      "text": ">> How would you do that to find land and"
+    },
+    {
+      "start": 1550.72,
+      "duration": 4.24,
+      "text": "the the energy sources in the tight"
+    },
+    {
+      "start": 1553.12,
+      "duration": 4.0,
+      "text": "market? Yeah, the the typical way is"
+    },
+    {
+      "start": 1554.96,
+      "duration": 4.88,
+      "text": "really to partner closely with the the"
+    },
+    {
+      "start": 1557.12,
+      "duration": 4.799,
+      "text": "utilities and to figure out where the"
+    },
+    {
+      "start": 1559.84,
+      "duration": 3.68,
+      "text": "places are on their grid that they say"
+    },
+    {
+      "start": 1561.919,
+      "duration": 3.921,
+      "text": "are the opportunities. And and going"
+    },
+    {
+      "start": 1563.52,
+      "duration": 4.159,
+      "text": "back to that initial point I made,"
+    },
+    {
+      "start": 1565.84,
+      "duration": 3.52,
+      "text": ">> you have opportunities to go to places"
+    },
+    {
+      "start": 1567.679,
+      "duration": 3.441,
+      "text": "that you maybe wouldn't have gone"
+    },
+    {
+      "start": 1569.36,
+      "duration": 3.439,
+      "text": "before. So, we can have a different"
+    },
+    {
+      "start": 1571.12,
+      "duration": 3.6,
+      "text": "conversation with even the utilities in"
+    },
+    {
+      "start": 1572.799,
+      "duration": 4.0,
+      "text": "Japan where it doesn't have to be as"
+    },
+    {
+      "start": 1574.72,
+      "duration": 4.8,
+      "text": "focused on just show me what's available"
+    },
+    {
+      "start": 1576.799,
+      "duration": 4.48,
+      "text": "near Tokyo. And often it coincides with"
+    },
+    {
+      "start": 1579.52,
+      "duration": 3.519,
+      "text": "with availability and energy in some of"
+    },
+    {
+      "start": 1581.279,
+      "duration": 4.961,
+      "text": "those markets because it tends to not be"
+    },
+    {
+      "start": 1583.039,
+      "duration": 5.201,
+      "text": "as um as densely populated and a little"
+    },
+    {
+      "start": 1586.24,
+      "duration": 2.559,
+      "text": "bit further away from some of those"
+    },
+    {
+      "start": 1588.24,
+      "duration": 4.799,
+      "text": "markets,"
+    },
+    {
+      "start": 1588.799,
+      "duration": 6.721,
+      "text": ">> right? So um AI data center easily get"
+    },
+    {
+      "start": 1593.039,
+      "duration": 5.201,
+      "text": "really hot because of GPUs and all the"
+    },
+    {
+      "start": 1595.52,
+      "duration": 6.0,
+      "text": "chips and so we need cooling and that's"
+    },
+    {
+      "start": 1598.24,
+      "duration": 6.4,
+      "text": "why we need electricity and water and"
+    },
+    {
+      "start": 1601.52,
+      "duration": 7.2,
+      "text": "how are you um estimating the amount of"
+    },
+    {
+      "start": 1604.64,
+      "duration": 6.399,
+      "text": "the electricity and water uh to make AI"
+    },
+    {
+      "start": 1608.72,
+      "duration": 4.4,
+      "text": "work for the next 5 to 10 years."
+    },
+    {
+      "start": 1611.039,
+      "duration": 4.0,
+      "text": ">> Right? And it's important to remember"
+    },
+    {
+      "start": 1613.12,
+      "duration": 4.32,
+      "text": "that a lot of what we're seeing is very"
+    },
+    {
+      "start": 1615.039,
+      "duration": 4.321,
+      "text": "much based on the initial GPU chip"
+    },
+    {
+      "start": 1617.44,
+      "duration": 3.68,
+      "text": "development and what that looks like. So"
+    },
+    {
+      "start": 1619.36,
+      "duration": 4.0,
+      "text": "you're absolutely right. It's hotter"
+    },
+    {
+      "start": 1621.12,
+      "duration": 4.0,
+      "text": "than it had been historically. It's also"
+    },
+    {
+      "start": 1623.36,
+      "duration": 4.24,
+      "text": "an opportunity for us, for instance, to"
+    },
+    {
+      "start": 1625.12,
+      "duration": 3.919,
+      "text": "revisit what that cooling uh sort of"
+    },
+    {
+      "start": 1627.6,
+      "duration": 4.4,
+      "text": "system would look like for these"
+    },
+    {
+      "start": 1629.039,
+      "duration": 5.601,
+      "text": "particular uh AI data centers, training"
+    },
+    {
+      "start": 1632.0,
+      "duration": 4.32,
+      "text": "loads, etc. So we can go into those and"
+    },
+    {
+      "start": 1634.64,
+      "duration": 3.76,
+      "text": "actually find opportunities to reduce"
+    },
+    {
+      "start": 1636.32,
+      "duration": 3.92,
+      "text": "our water consumption in very"
+    },
+    {
+      "start": 1638.4,
+      "duration": 4.159,
+      "text": "significant ways because we can do"
+    },
+    {
+      "start": 1640.24,
+      "duration": 5.12,
+      "text": "things like a closed loop. Um we can"
+    },
+    {
+      "start": 1642.559,
+      "duration": 5.201,
+      "text": "look at liquidto liquid ship cooling but"
+    },
+    {
+      "start": 1645.36,
+      "duration": 5.28,
+      "text": "it does increase slightly some of the"
+    },
+    {
+      "start": 1647.76,
+      "duration": 4.96,
+      "text": "energy utilization but it does reduce"
+    },
+    {
+      "start": 1650.64,
+      "duration": 3.279,
+      "text": "the water utilization. So that goes into"
+    },
+    {
+      "start": 1652.72,
+      "duration": 3.439,
+      "text": "a lot of the numbers that you're"
+    },
+    {
+      "start": 1653.919,
+      "duration": 3.841,
+      "text": "hearing. The numbers are larger because"
+    },
+    {
+      "start": 1656.159,
+      "duration": 4.321,
+      "text": "cooling is required of course during"
+    },
+    {
+      "start": 1657.76,
+      "duration": 4.72,
+      "text": "specific times of the year. Um, but it's"
+    },
+    {
+      "start": 1660.48,
+      "duration": 3.76,
+      "text": "not an expectation that you would always"
+    },
+    {
+      "start": 1662.48,
+      "duration": 3.439,
+      "text": "be consuming the maximum amount of"
+    },
+    {
+      "start": 1664.24,
+      "duration": 3.2,
+      "text": "power. It's just recognizing that in"
+    },
+    {
+      "start": 1665.919,
+      "duration": 3.441,
+      "text": "very specific times of the year, you"
+    },
+    {
+      "start": 1667.44,
+      "duration": 4.0,
+      "text": "will have to lean on more electricity"
+    },
+    {
+      "start": 1669.36,
+      "duration": 3.76,
+      "text": "for that cooling, but actually have the"
+    },
+    {
+      "start": 1671.44,
+      "duration": 2.32,
+      "text": "opportunity not to lean on as much"
+    },
+    {
+      "start": 1673.12,
+      "duration": 1.52,
+      "text": "water."
+    },
+    {
+      "start": 1673.76,
+      "duration": 3.12,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 1674.64,
+      "duration": 5.2,
+      "text": ">> I think the main options for current"
+    },
+    {
+      "start": 1676.88,
+      "duration": 5.919,
+      "text": "data centers are air cooling or water"
+    },
+    {
+      "start": 1679.84,
+      "duration": 6.64,
+      "text": "cooling. But in particular when it come"
+    },
+    {
+      "start": 1682.799,
+      "duration": 6.0,
+      "text": "to large scale training today I think"
+    },
+    {
+      "start": 1686.48,
+      "duration": 5.84,
+      "text": "large scale water facilities are"
+    },
+    {
+      "start": 1688.799,
+      "duration": 6.401,
+      "text": "required. So uh for example the corros"
+    },
+    {
+      "start": 1692.32,
+      "duration": 7.68,
+      "text": "by mask XAI"
+    },
+    {
+      "start": 1695.2,
+      "duration": 7.359,
+      "text": "uh is near the know Mississippi river."
+    },
+    {
+      "start": 1700.0,
+      "duration": 4.559,
+      "text": "So uh however this means that the"
+    },
+    {
+      "start": 1702.559,
+      "duration": 4.72,
+      "text": "location of data centers are quite"
+    },
+    {
+      "start": 1704.559,
+      "duration": 5.521,
+      "text": "limited. So do you have any idea for"
+    },
+    {
+      "start": 1707.279,
+      "duration": 5.52,
+      "text": "cooling facilities other than air or"
+    },
+    {
+      "start": 1710.08,
+      "duration": 4.719,
+      "text": "water that would allow data centers to"
+    },
+    {
+      "start": 1712.799,
+      "duration": 2.961,
+      "text": "be unconstrained by location"
+    },
+    {
+      "start": 1714.799,
+      "duration": 3.76,
+      "text": "requirements?"
+    },
+    {
+      "start": 1715.76,
+      "duration": 4.24,
+      "text": ">> Yeah. So so we will get the engineers to"
+    },
+    {
+      "start": 1718.559,
+      "duration": 3.12,
+      "text": "discuss with you because we actually"
+    },
+    {
+      "start": 1720.0,
+      "duration": 3.84,
+      "text": "don't have to consume significant"
+    },
+    {
+      "start": 1721.679,
+      "duration": 4.081,
+      "text": "amounts of water. So it does give us a"
+    },
+    {
+      "start": 1723.84,
+      "duration": 4.079,
+      "text": "lot more flexibility and opportunity. So"
+    },
+    {
+      "start": 1725.76,
+      "duration": 4.24,
+      "text": "the liquid to liquid cooling actually"
+    },
+    {
+      "start": 1727.919,
+      "duration": 3.76,
+      "text": "can use chemical cooling and a closed"
+    },
+    {
+      "start": 1730.0,
+      "duration": 3.36,
+      "text": "loop water system. So you don't have to"
+    },
+    {
+      "start": 1731.679,
+      "duration": 4.0,
+      "text": "use the volumes of water that that"
+    },
+    {
+      "start": 1733.36,
+      "duration": 4.24,
+      "text": "people typically think about. air"
+    },
+    {
+      "start": 1735.679,
+      "duration": 3.6,
+      "text": "cooling. Even in some of the hottest"
+    },
+    {
+      "start": 1737.6,
+      "duration": 3.679,
+      "text": "regions, you're able to use a lot more"
+    },
+    {
+      "start": 1739.279,
+      "duration": 4.081,
+      "text": "air cooling than people realize because,"
+    },
+    {
+      "start": 1741.279,
+      "duration": 4.081,
+      "text": "as we all know, uh environments cool"
+    },
+    {
+      "start": 1743.36,
+      "duration": 3.28,
+      "text": "down significantly at nighttime. So,"
+    },
+    {
+      "start": 1745.36,
+      "duration": 3.84,
+      "text": "you're not just talking about sort of"
+    },
+    {
+      "start": 1746.64,
+      "duration": 4.24,
+      "text": "that that peak moment of the day, you're"
+    },
+    {
+      "start": 1749.2,
+      "duration": 3.28,
+      "text": "talking about the entirety of the day"
+    },
+    {
+      "start": 1750.88,
+      "duration": 3.919,
+      "text": "and what that opportunity looks like."
+    },
+    {
+      "start": 1752.48,
+      "duration": 4.24,
+      "text": "So, even though we will use some"
+    },
+    {
+      "start": 1754.799,
+      "duration": 4.321,
+      "text": "electricity for the the mechanical"
+    },
+    {
+      "start": 1756.72,
+      "duration": 4.8,
+      "text": "cooling, for instance, you won't have to"
+    },
+    {
+      "start": 1759.12,
+      "duration": 4.48,
+      "text": "use it most of the year. You'll only use"
+    },
+    {
+      "start": 1761.52,
+      "duration": 4.48,
+      "text": "it in isolated circumstances. And then"
+    },
+    {
+      "start": 1763.6,
+      "duration": 4.48,
+      "text": "some of the other uh chip cooling, the"
+    },
+    {
+      "start": 1766.0,
+      "duration": 4.24,
+      "text": "the actual cooling of the chip itself"
+    },
+    {
+      "start": 1768.08,
+      "duration": 3.839,
+      "text": "allows you to really focus that cooling"
+    },
+    {
+      "start": 1770.24,
+      "duration": 2.64,
+      "text": "in a way where you can dissipate it"
+    },
+    {
+      "start": 1771.919,
+      "duration": 3.601,
+      "text": "differently."
+    },
+    {
+      "start": 1772.88,
+      "duration": 6.0,
+      "text": ">> And Microsoft made a 20-year agreement"
+    },
+    {
+      "start": 1775.52,
+      "duration": 7.44,
+      "text": "with Constellation uh Energy to reopen"
+    },
+    {
+      "start": 1778.88,
+      "duration": 8.159,
+      "text": "the 3M Isa nuclear power plant in 2028,"
+    },
+    {
+      "start": 1782.96,
+      "duration": 7.68,
+      "text": "I think, which actually closed in 2019."
+    },
+    {
+      "start": 1787.039,
+      "duration": 5.281,
+      "text": "Um why nuclear now and what was the"
+    },
+    {
+      "start": 1790.64,
+      "duration": 3.44,
+      "text": "thinking behind this decision? Yeah,"
+    },
+    {
+      "start": 1792.32,
+      "duration": 4.719,
+      "text": "that's a great question. So, I I really"
+    },
+    {
+      "start": 1794.08,
+      "duration": 4.56,
+      "text": "do think we led a completely different"
+    },
+    {
+      "start": 1797.039,
+      "duration": 3.281,
+      "text": "discussion around nuclear because a lot"
+    },
+    {
+      "start": 1798.64,
+      "duration": 3.6,
+      "text": "of the discussion around carbon-f free"
+    },
+    {
+      "start": 1800.32,
+      "duration": 4.479,
+      "text": "energy resources really focused on"
+    },
+    {
+      "start": 1802.24,
+      "duration": 4.64,
+      "text": "renewable energy for so long and we felt"
+    },
+    {
+      "start": 1804.799,
+      "duration": 3.841,
+      "text": "it was important that it really did take"
+    },
+    {
+      "start": 1806.88,
+      "duration": 3.6,
+      "text": "an all of the- above carbon-f free"
+    },
+    {
+      "start": 1808.64,
+      "duration": 4.399,
+      "text": "energy approach that looked at nuclear"
+    },
+    {
+      "start": 1810.48,
+      "duration": 4.48,
+      "text": "as well. Historically, one of the main"
+    },
+    {
+      "start": 1813.039,
+      "duration": 4.161,
+      "text": "reasons you didn't hear about nuclear is"
+    },
+    {
+      "start": 1814.96,
+      "duration": 4.959,
+      "text": "because it took so long for nuclear to"
+    },
+    {
+      "start": 1817.2,
+      "duration": 4.959,
+      "text": "get constructed or added to the grid."
+    },
+    {
+      "start": 1819.919,
+      "duration": 4.081,
+      "text": "But just because of market dynamics here"
+    },
+    {
+      "start": 1822.159,
+      "duration": 4.4,
+      "text": "in the US and some other locations, you"
+    },
+    {
+      "start": 1824.0,
+      "duration": 4.48,
+      "text": "actually saw nuclear being retired from"
+    },
+    {
+      "start": 1826.559,
+      "duration": 3.441,
+      "text": "from the generation fleet because of"
+    },
+    {
+      "start": 1828.48,
+      "duration": 4.24,
+      "text": "economic reasons."
+    },
+    {
+      "start": 1830.0,
+      "duration": 4.08,
+      "text": ">> So we we're always focused on making"
+    },
+    {
+      "start": 1832.72,
+      "duration": 3.439,
+      "text": "sure that all of the plants, whether"
+    },
+    {
+      "start": 1834.08,
+      "duration": 4.16,
+      "text": "they're nuclear or any other type, are"
+    },
+    {
+      "start": 1836.159,
+      "duration": 3.76,
+      "text": "always going to be safely operated and"
+    },
+    {
+      "start": 1838.24,
+      "duration": 3.2,
+      "text": "able to come back to the grid in a way"
+    },
+    {
+      "start": 1839.919,
+      "duration": 3.681,
+      "text": "that makes sense for the communities"
+    },
+    {
+      "start": 1841.44,
+      "duration": 4.32,
+      "text": "that they support. And when we looked at"
+    },
+    {
+      "start": 1843.6,
+      "duration": 4.079,
+      "text": "that particular plant in Pennsylvania,"
+    },
+    {
+      "start": 1845.76,
+      "duration": 4.159,
+      "text": "it was an opportunity where you still"
+    },
+    {
+      "start": 1847.679,
+      "duration": 3.841,
+      "text": "had the infrastructure in place and more"
+    },
+    {
+      "start": 1849.919,
+      "duration": 3.521,
+      "text": "importantly, you still had the community"
+    },
+    {
+      "start": 1851.52,
+      "duration": 3.2,
+      "text": "and the support of the people, including"
+    },
+    {
+      "start": 1853.44,
+      "duration": 3.52,
+      "text": "the people that used to work at the"
+    },
+    {
+      "start": 1854.72,
+      "duration": 4.16,
+      "text": "facility that are able to come back and"
+    },
+    {
+      "start": 1856.96,
+      "duration": 4.24,
+      "text": "bring that carbon-f free electricity to"
+    },
+    {
+      "start": 1858.88,
+      "duration": 4.24,
+      "text": "the back to the grid much faster than"
+    },
+    {
+      "start": 1861.2,
+      "duration": 3.599,
+      "text": "you would typically see with nuclear. So"
+    },
+    {
+      "start": 1863.12,
+      "duration": 3.76,
+      "text": "we actually have seen that happening now"
+    },
+    {
+      "start": 1864.799,
+      "duration": 4.88,
+      "text": "with other facilities around the world"
+    },
+    {
+      "start": 1866.88,
+      "duration": 4.72,
+      "text": "where not every single facility can come"
+    },
+    {
+      "start": 1869.679,
+      "duration": 4.081,
+      "text": "back necessarily to the grid if they've"
+    },
+    {
+      "start": 1871.6,
+      "duration": 3.679,
+      "text": "been retired. But to the extent that"
+    },
+    {
+      "start": 1873.76,
+      "duration": 2.799,
+      "text": "they are and they make sense and the"
+    },
+    {
+      "start": 1875.279,
+      "duration": 2.88,
+      "text": "community is supportive, it's an"
+    },
+    {
+      "start": 1876.559,
+      "duration": 4.081,
+      "text": "opportunity to get those carbon-f free"
+    },
+    {
+      "start": 1878.159,
+      "duration": 4.081,
+      "text": "electrons at scale which is a real need"
+    },
+    {
+      "start": 1880.64,
+      "duration": 3.36,
+      "text": "for us now."
+    },
+    {
+      "start": 1882.24,
+      "duration": 4.08,
+      "text": ">> I think there's been discussion around"
+    },
+    {
+      "start": 1884.0,
+      "duration": 4.399,
+      "text": "safety uh about the nuclear power plant"
+    },
+    {
+      "start": 1886.32,
+      "duration": 4.64,
+      "text": "and then how do you make sure it's"
+    },
+    {
+      "start": 1888.399,
+      "duration": 4.481,
+      "text": "safety? So we are working with"
+    },
+    {
+      "start": 1890.96,
+      "duration": 3.92,
+      "text": "constellation who we think is really a"
+    },
+    {
+      "start": 1892.88,
+      "duration": 4.48,
+      "text": "leader in the field of operating nuclear"
+    },
+    {
+      "start": 1894.88,
+      "duration": 4.56,
+      "text": "fleets and so they have they're"
+    },
+    {
+      "start": 1897.36,
+      "duration": 4.319,
+      "text": "responsible for the safety and and"
+    },
+    {
+      "start": 1899.44,
+      "duration": 4.56,
+      "text": "making sure that that comes back online."
+    },
+    {
+      "start": 1901.679,
+      "duration": 4.081,
+      "text": "We've actually worked with the broader"
+    },
+    {
+      "start": 1904.0,
+      "duration": 3.12,
+      "text": "nuclear regulatory commission in the US"
+    },
+    {
+      "start": 1905.76,
+      "duration": 3.44,
+      "text": "to figure out how we can actually"
+    },
+    {
+      "start": 1907.12,
+      "duration": 4.559,
+      "text": "accelerate but still maintain safety. So"
+    },
+    {
+      "start": 1909.2,
+      "duration": 4.56,
+      "text": "we've developed AI tools for instance to"
+    },
+    {
+      "start": 1911.679,
+      "duration": 4.161,
+      "text": "figure out how do you keep that priority"
+    },
+    {
+      "start": 1913.76,
+      "duration": 4.08,
+      "text": "on safety but still get to a place where"
+    },
+    {
+      "start": 1915.84,
+      "duration": 3.439,
+      "text": "you take advantage of current tools so"
+    },
+    {
+      "start": 1917.84,
+      "duration": 2.16,
+      "text": "that you can accelerate the entire"
+    },
+    {
+      "start": 1919.279,
+      "duration": 3.041,
+      "text": "process"
+    },
+    {
+      "start": 1920.0,
+      "duration": 5.679,
+      "text": ">> right and the companies like Amazon and"
+    },
+    {
+      "start": 1922.32,
+      "duration": 6.4,
+      "text": "Google are focusing on the small modular"
+    },
+    {
+      "start": 1925.679,
+      "duration": 5.041,
+      "text": "modular reactor smrs and how is"
+    },
+    {
+      "start": 1928.72,
+      "duration": 4.4,
+      "text": "Microsoft different from those companies"
+    },
+    {
+      "start": 1930.72,
+      "duration": 3.839,
+      "text": "in terms of energy procurement"
+    },
+    {
+      "start": 1933.12,
+      "duration": 4.88,
+      "text": ">> right we're definitely looking at them"
+    },
+    {
+      "start": 1934.559,
+      "duration": 5.281,
+      "text": "as well so we truly do have an all of"
+    },
+    {
+      "start": 1938.0,
+      "duration": 3.519,
+      "text": "the above decarb carbonization strategy"
+    },
+    {
+      "start": 1939.84,
+      "duration": 4.0,
+      "text": "that says how do we get to a"
+    },
+    {
+      "start": 1941.519,
+      "duration": 5.28,
+      "text": "decarbonized energy sector as fast as"
+    },
+    {
+      "start": 1943.84,
+      "duration": 5.92,
+      "text": "possible gets harder sometimes in some"
+    },
+    {
+      "start": 1946.799,
+      "duration": 5.281,
+      "text": "markets but at the same time what is the"
+    },
+    {
+      "start": 1949.76,
+      "duration": 5.12,
+      "text": "right resource that you can add so SMRs"
+    },
+    {
+      "start": 1952.08,
+      "duration": 4.719,
+      "text": "are a great tool and we really do hope"
+    },
+    {
+      "start": 1954.88,
+      "duration": 4.96,
+      "text": "to see those small modular reactors"
+    },
+    {
+      "start": 1956.799,
+      "duration": 5.441,
+      "text": "really scale up quickly but for us we"
+    },
+    {
+      "start": 1959.84,
+      "duration": 4.16,
+      "text": "did focus initially on that crane energy"
+    },
+    {
+      "start": 1962.24,
+      "duration": 3.12,
+      "text": "transaction in Pennsylvania because we"
+    },
+    {
+      "start": 1964.0,
+      "duration": 4.72,
+      "text": "could get line of sight to both"
+    },
+    {
+      "start": 1965.36,
+      "duration": 4.88,
+      "text": "certainty and to scale very asked. So,"
+    },
+    {
+      "start": 1968.72,
+      "duration": 3.839,
+      "text": "we thought that was extremely important,"
+    },
+    {
+      "start": 1970.24,
+      "duration": 4.72,
+      "text": "but it wasn't at sort of at the expense"
+    },
+    {
+      "start": 1972.559,
+      "duration": 4.161,
+      "text": "or to say that we wouldn't look at SMRs."
+    },
+    {
+      "start": 1974.96,
+      "duration": 3.28,
+      "text": "It's something we actively look at and"
+    },
+    {
+      "start": 1976.72,
+      "duration": 4.079,
+      "text": "figure out where it makes sense within"
+    },
+    {
+      "start": 1978.24,
+      "duration": 6.48,
+      "text": "our portfolio. M and Microsoft also"
+    },
+    {
+      "start": 1980.799,
+      "duration": 6.72,
+      "text": "invest in the nuclear fusion technology"
+    },
+    {
+      "start": 1984.72,
+      "duration": 6.0,
+      "text": "uh like the company uh called Helium"
+    },
+    {
+      "start": 1987.519,
+      "duration": 5.28,
+      "text": "Energy and what do you think about the"
+    },
+    {
+      "start": 1990.72,
+      "duration": 6.559,
+      "text": "potential of nuclear fusion technology"
+    },
+    {
+      "start": 1992.799,
+      "duration": 6.0,
+      "text": "and why is it important uh for the"
+    },
+    {
+      "start": 1997.279,
+      "duration": 3.52,
+      "text": "energy standpoint?"
+    },
+    {
+      "start": 1998.799,
+      "duration": 4.321,
+      "text": ">> Well, that really is where where you can"
+    },
+    {
+      "start": 2000.799,
+      "duration": 4.48,
+      "text": "kind of go and expand even the thinking"
+    },
+    {
+      "start": 2003.12,
+      "duration": 5.36,
+      "text": "about how energy grids can work. So"
+    },
+    {
+      "start": 2005.279,
+      "duration": 5.841,
+      "text": "fusion has been such a an aspirational"
+    },
+    {
+      "start": 2008.48,
+      "duration": 4.0,
+      "text": "technology for so so long, like my"
+    },
+    {
+      "start": 2011.12,
+      "duration": 3.6,
+      "text": "entire life and probably many people"
+    },
+    {
+      "start": 2012.48,
+      "duration": 4.079,
+      "text": "before me. And so it's a it's an"
+    },
+    {
+      "start": 2014.72,
+      "duration": 3.36,
+      "text": "opportunity to really take advantage of"
+    },
+    {
+      "start": 2016.559,
+      "duration": 3.84,
+      "text": "the moment that we're in now where"
+    },
+    {
+      "start": 2018.08,
+      "duration": 4.24,
+      "text": "energy needs are so much more dramatic"
+    },
+    {
+      "start": 2020.399,
+      "duration": 3.921,
+      "text": "than what we've seen historically and"
+    },
+    {
+      "start": 2022.32,
+      "duration": 4.079,
+      "text": "especially carbon-f free energy needs."
+    },
+    {
+      "start": 2024.32,
+      "duration": 3.76,
+      "text": "So partnering with Helion, we we've"
+    },
+    {
+      "start": 2026.399,
+      "duration": 3.921,
+      "text": "talked to many others within the fusion"
+    },
+    {
+      "start": 2028.08,
+      "duration": 4.0,
+      "text": "community and candidly we're rooting for"
+    },
+    {
+      "start": 2030.32,
+      "duration": 3.359,
+      "text": "all of them because I think to the"
+    },
+    {
+      "start": 2032.08,
+      "duration": 4.0,
+      "text": "extent that we can actually see those"
+    },
+    {
+      "start": 2033.679,
+      "duration": 5.12,
+      "text": "new technologies become part of that all"
+    },
+    {
+      "start": 2036.08,
+      "duration": 4.64,
+      "text": "of the above toolbox that we can deploy,"
+    },
+    {
+      "start": 2038.799,
+      "duration": 3.36,
+      "text": "it just scales from a much better"
+    },
+    {
+      "start": 2040.72,
+      "duration": 3.36,
+      "text": "standpoint and and gives you"
+    },
+    {
+      "start": 2042.159,
+      "duration": 3.76,
+      "text": "opportunities to go to markets where"
+    },
+    {
+      "start": 2044.08,
+      "duration": 3.52,
+      "text": "maybe renewables don't work as well for"
+    },
+    {
+      "start": 2045.919,
+      "duration": 3.2,
+      "text": "them either because of economics or"
+    },
+    {
+      "start": 2047.6,
+      "duration": 3.999,
+      "text": "because the technology is just not"
+    },
+    {
+      "start": 2049.119,
+      "duration": 4.96,
+      "text": "suited or maybe even it's because they"
+    },
+    {
+      "start": 2051.599,
+      "duration": 4.721,
+      "text": "just have a very small footprint. Mhm."
+    },
+    {
+      "start": 2054.079,
+      "duration": 3.76,
+      "text": ">> And so when you look at those kinds of"
+    },
+    {
+      "start": 2056.32,
+      "duration": 3.92,
+      "text": "opportunities, that's where fusion"
+    },
+    {
+      "start": 2057.839,
+      "duration": 4.961,
+      "text": "really does present a lot of future"
+    },
+    {
+      "start": 2060.24,
+      "duration": 3.2,
+      "text": "potential for many markets, not just the"
+    },
+    {
+      "start": 2062.8,
+      "duration": 2.64,
+      "text": "US."
+    },
+    {
+      "start": 2063.44,
+      "duration": 3.679,
+      "text": ">> Mhm. Do you talk to Satia Navilla"
+    },
+    {
+      "start": 2065.44,
+      "duration": 3.76,
+      "text": "regularly about energy?"
+    },
+    {
+      "start": 2067.119,
+      "duration": 4.48,
+      "text": ">> In the meetings, we we have occasional"
+    },
+    {
+      "start": 2069.2,
+      "duration": 3.919,
+      "text": "syncs with the leadership team across"
+    },
+    {
+      "start": 2071.599,
+      "duration": 3.361,
+      "text": "multiple fronts and of course there's"
+    },
+    {
+      "start": 2073.119,
+      "duration": 4.641,
+      "text": "lots of interactions taking place."
+    },
+    {
+      "start": 2074.96,
+      "duration": 5.119,
+      "text": "Energy is a hot topic. So we very often"
+    },
+    {
+      "start": 2077.76,
+      "duration": 4.159,
+      "text": "do get to update on what the policy"
+    },
+    {
+      "start": 2080.079,
+      "duration": 3.361,
+      "text": "profile looks like, what the strategy"
+    },
+    {
+      "start": 2081.919,
+      "duration": 2.561,
+      "text": "looks like with all of the members of"
+    },
+    {
+      "start": 2083.44,
+      "duration": 3.52,
+      "text": "the leadership team."
+    },
+    {
+      "start": 2084.48,
+      "duration": 4.08,
+      "text": ">> Mhm. Okay. Great."
+    },
+    {
+      "start": 2086.96,
+      "duration": 5.24,
+      "text": ">> Thank you very much for your time. Thank"
+    },
+    {
+      "start": 2088.56,
+      "duration": 3.64,
+      "text": "you. That was great."
+    }
+  ]
+}
